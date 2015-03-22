@@ -1,0 +1,352 @@
+---
+layout: post
+status: publish
+published: true
+title: Limites
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 993
+wordpress_url: http://blog.luispedro.org/posts/limites
+date: '2007-05-28 09:03:47 -0700'
+date_gmt: '2007-05-28 09:03:47 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 72025
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-05-28 12:04:46 -0700'
+  date_gmt: '2007-05-28 12:04:46 -0700'
+  content: "S&Atilde;&pound;o quest&Atilde;&micro;es dif&Atilde;&shy;ceis, mas tenho
+    tend&Atilde;&ordf;ncia a responder \"sim\".\r\n\r\nOs empregadores devem ser livres
+    de despedir sem justa causa, isto &Atilde;&copy;, sem terem que justificar em
+    tribunal a sua decis&Atilde;&pound;o. Uma vez que n&Atilde;&pound;o s&Atilde;&pound;o
+    obrigados a justificar a sua decis&Atilde;&pound;o, essa decis&Atilde;&pound;o
+    pode ser uma das indicadas no post.\r\n\r\nPara aliviar a consci&Atilde;&ordf;ncia,
+    entetanto, eu diria que em geral ser&Atilde;&pound;o casos raros. Dificilmente
+    um empregador ir&Atilde;&iexcl; despedir uma pessoa a n&Atilde;&pound;o ser que
+    ela, s&Atilde;&sup3; por si, lhe cause um preju&Atilde;&shy;zo objetivo e claro.
+    Um empregador n&Atilde;&pound;o despedir&Atilde;&iexcl; um bom empregado por ele
+    ser comunista ou homossexual. S&Atilde;&sup3; o despedir&Atilde;&iexcl; se esse
+    empregado, pelo facto de ser comunista ou homossexual, causar um preju&Atilde;&shy;zo
+    claramente observ&Atilde;&iexcl;vel &Atilde;&nbsp; empresa."
+- id: 72071
+  author: lobotomias
+  author_email: ''
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-05-28 14:35:54 -0700'
+  date_gmt: '2007-05-28 14:35:54 -0700'
+  content: "Parece-me claro que a resposta &Atilde;&copy; negativa em todos os exemplos.
+    Em que delirio neo capitalista anda o Luis pedro para achar que os patr&Atilde;&micro;es
+    se devem meter no que os empregados fazem na cama ou no boletim de voto. Em que
+    delirio anda para sequer fazer estas perguntas? &Atilde;&copy; que nem percebo
+    o objectivo delas. Assustadoramente fazem tangente ao apelo &Atilde;&nbsp; liberdade-
+    &Atilde;&nbsp; liberdade de discrimina&Atilde;&sect;&Atilde;&pound;o.\r\nMas o
+    que me deixa verdadeiramente perplexo &Atilde;&copy;:\r\n&Acirc;&laquo; Repita-se
+    o exerc&Atilde;&shy;cio acima com Partido Comunista Portugu&Atilde;&ordf;s. Qual
+    &Atilde;&copy; a diferen&Atilde;&sect;a, excepto o caso de um partido conseguir
+    eleger mais do que o outro?&Acirc;&raquo;\r\nEu sou insuspeito de defender o PC
+    mas porra:\r\nO partido comunista apela ao &Atilde;&sup3;dio a cidad&Atilde;&pound;os
+    nacionais e estrangeiros a viver e trabalhar no pais?\r\nO partido comunista instiga
+    &Atilde;&nbsp; agress&Atilde;&pound;o fisica e discrimina&Atilde;&sect;&Atilde;&pound;o?\r\nProp&Atilde;&micro;e
+    a expuls&Atilde;&pound;o de cidad&Atilde;&pound;os que vivem e trabalham no nossso
+    pais &Atilde;&nbsp; decadas, e que para todos os efeitos s&Atilde;&pound;o portugueses,
+    apenas pela ra&Atilde;&sect;a (ou mais bonito &Acirc;&laquo; a cultura&Acirc;&raquo;-qual
+    cultura? a dos pretos claro)\r\nO partido comunista  (o Portugues e de hoje) est&Atilde;&iexcl;
+    ligado a casos de violencia ou homicios pela cor da pele?\r\nE finalmente o partido
+    comunista portugues defende o regime estalinista?-donde &Atilde;&copy; que o Luis
+    Pedro tirou essa ideia. O PCP foi dos primeiros PC da europa a distanciar-se do
+    regime estalinista.\r\nEsta limpeza do PNR e tentativa de o comparar aos partidos
+    de &Acirc;&laquo;extrema&Acirc;&raquo; esquerda &Atilde;&copy; profundamente assustadora,
+    e mostra que escondidas por detr&Atilde;&iexcl;s das &Acirc;&laquo;novas&Acirc;&raquo;
+    ideias do liberalismo germina o mesmo conservadorismo bafiento de sempre xenofobo,
+    homofobo, e anti-diferen&Atilde;&sect;a a la Jo&Atilde;&pound;o Miranda."
+- id: 72078
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-05-28 15:27:07 -0700'
+  date_gmt: '2007-05-28 15:27:07 -0700'
+  content: "Eu deixei as perguntas, mas ainda hei de responder (a minha resposta ser&Atilde;&iexcl;
+    de inspira&Atilde;&sect;&Atilde;&pound;o em Marx, mas n&Atilde;&pound;o marxista).\r\n\r\nO
+    PCP a defender Milosevic (certo matan&Atilde;&sect;a por causa da religi&Atilde;&pound;o
+    e n&Atilde;&pound;o cor da pele, muito mais nobre):\r\nhttp:&#47;&#47;blog.luispedro.org&#47;posts&#47;isto-e-a-gozar-infelizmente-nao\r\n\r\nO
+    PCP a reabilitar Estaline no ano da Gra&Atilde;&sect;a de 2003, por escrito:\r\nhttp:&#47;&#47;www.avante.pt&#47;noticia.asp?id=1764&area=19\r\nN&Atilde;&pound;o
+    faltam os ataques ao Solzhenitsyn.\r\n\r\nS&Atilde;&pound;o conhecidas as afirma&Atilde;&sect;&Atilde;&micro;es
+    de que \"a Coreia do Norte pode ser uma democracia.\""
+- id: 72079
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-05-28 15:29:15 -0700'
+  date_gmt: '2007-05-28 15:29:15 -0700'
+  content: Portanto, caro lobotomias, pensa que um membro do PNR n&Atilde;&pound;o
+    deve sequer poder ser despedido por um patr&Atilde;&pound;o negro?
+- id: 72101
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-05-28 16:52:43 -0700'
+  date_gmt: '2007-05-28 16:52:43 -0700'
+  content: "Acho bem que o Rabbit d&Atilde;&ordf; rapidamente a sua opini&Atilde;&pound;o
+    sobre estes casos, pois para mim &Atilde;&copy; evidente que eles constituem a
+    principal obje&Atilde;&sect;&Atilde;&pound;o que as for&Atilde;&sect;as de esquerda
+    podem, legitimamente, levantar contra a liberaliza&Atilde;&sect;&Atilde;&pound;o
+    dos despedimentos individuais.\r\n\r\nCom efeito, a partir do momento em que os
+    despedimentos sejam libealizados, isto &Atilde;&copy;, a partir do momento em
+    que deixe que se ter que alegar, em tribunal, \"justa causa\" (uma qualquer falta
+    gave do empregado) para o despedimento, os patr&Atilde;&micro;es ser&Atilde;&pound;o
+    livres de despedir um empregado porque, por exemplo, ele &Atilde;&copy; sindicalista."
+- id: 72110
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-05-28 17:21:24 -0700'
+  date_gmt: '2007-05-28 17:21:24 -0700'
+  content: Mas quem afirma que a resposta &Atilde;&copy; sempre negativa tamb&Atilde;&copy;m
+    tem de explicar o caso moral de obrigar pessoas a trabalhar juntas (um negro com
+    um membro do PNR, ou um crente com um ate&Atilde;&shy;sta).
+- id: 72138
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-05-28 18:30:54 -0700'
+  date_gmt: '2007-05-28 18:30:54 -0700'
+  content: "\"S&Atilde;&sup3; o despedir&Atilde;&iexcl; se esse empregado, pelo facto
+    de ser comunista ou homossexual, causar um preju&Atilde;&shy;zo claramente observ&Atilde;&iexcl;vel
+    &Atilde;&nbsp; empresa.\"\r\n\r\nO que se entende com \"preju&Atilde;&shy;zo &Atilde;&nbsp;
+    empresa\"? &Atilde;&permil; sinonimo de preju&Atilde;&shy;zo ao empregador? P.ex.,um
+    empregado pode escrever um memorando aos administradores dizendo que eles s&Atilde;&pound;o
+    ignorantes - tal pode n&Atilde;&pound;o prejudicar a empresa em si, mas o inc&Atilde;&sup3;modo
+    psicol&Atilde;&sup3;gico provocado nos empregadores (ou nos seus representantes)
+    pode ser suficiente para que o queiram despedir."
+- id: 72139
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-05-28 18:33:20 -0700'
+  date_gmt: '2007-05-28 18:33:20 -0700'
+  content: "\"Mas quem afirma que a resposta &Atilde;&copy; sempre negativa tamb&Atilde;&copy;m
+    tem de explicar o caso moral de obrigar pessoas a trabalhar juntas (um negro com
+    um membro do PNR, ou um crente com um ate&Atilde;&shy;sta).\"\r\n\r\nNum caso
+    extremo, um patr&Atilde;&pound;o que n&Atilde;&pound;o consiga suportar um dado
+    empregado, mas n&Atilde;&pound;o tenha justa causa para o despedir, pode sempre
+    vender a empresa para se livrar dele."
+- id: 72159
+  author: lobotomias
+  author_email: ''
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-05-28 19:19:18 -0700'
+  date_gmt: '2007-05-28 19:19:18 -0700'
+  content: "1- ainda em rela&Atilde;&sect;&Atilde;&pound;o ao PCP\r\nno link que me
+    mandas -um artigo no avante- vem &Acirc;&laquo;Abusando do poder, promoveu o culto
+    da sua pr&Atilde;&sup3;pria personalidade acabando por cometer graves erros&Acirc;&raquo;,
+    de resto &Atilde;&copy; um texto de um Manoel de Lencastre em que eu tenho a certeza
+    que a maior parte do comit&Atilde;&copy; central n&Atilde;&pound;o se reveria,
+    nem o Alvaro .\r\nEm rela&Atilde;&sect;&Atilde;&pound;o &Atilde;&nbsp; S&Atilde;&copy;rvia,
+    n&Atilde;&pound;o vejo ao que dizes um apoio claro a Milosevich, mas sim a n&Atilde;&pound;o
+    aceita&Atilde;&sect;&Atilde;&pound;o da autoridade do tribunal de Haia e em ultima
+    analise a n&Atilde;&pound;o compreens&Atilde;&pound;o de conceitos como crimes
+    de guerra- que digamos, caro Luis, s&Atilde;&pound;o bastante relativos consoante
+    os prevaricadores (ou n&Atilde;&pound;o?).\r\nN&Atilde;&cent;o me parece que o
+    PCP defende massacres de civis, nem me parece que alguma vez isso tenha passado
+    pela cabe&Atilde;&sect;a da maioria dos seus membros.\r\nH&Atilde;&nbsp; aqui
+    para al&Atilde;&copy;m de uma m&Atilde;&iexcl; vontade, uma incapacidade clara
+    de perceber os mecanismos cognitivos que est&Atilde;&pound;o por detras dos pareceres
+    do comit&Atilde;&copy; central.\r\nQue podem &Atilde;&copy; verdade parecer surrealistas,
+    mas que n&Atilde;&pound;o s&Atilde;&pound;o, e nunca foram apelo ao &Atilde;&sup3;dio
+    e &Atilde;&nbsp; violencia. (o que alias ficou bastante claro na nossa historia
+    recente, e na forma como escap&Atilde;&iexcl;mos &Atilde;&nbsp; guerra civil,
+    quando o PCP dominava grande parte das for&Atilde;&sect;as armadas). Mas deixemos
+    esta hist&Atilde;&sup3;ria para depois- que estou certo que &Atilde;&copy; toda
+    uma outra discuss&Atilde;&pound;o.\r\nDe qualquer maneira de defender Milosevic
+    a defender Bush ou Blair n&Atilde;&pound;o vai um passo assim t&Atilde;&pound;o
+    grande (vai algum) e n&Atilde;&pound;o o estou a ver a comparar o PNR ao PSD.\r\nTenha
+    mais aten&Atilde;&sect;&Atilde;&pound;o nos discursos que l&Atilde;&ordf; no avante-
+    por detr&Atilde;&iexcl;s deles h&Atilde;&iexcl; uma vis&Atilde;&pound;o marxista-
+    que por ser t&Atilde;&pound;o diferente do teu quadro de analise te faz imaginar
+    coisas que n&Atilde;&pound;o est&Atilde;&pound;o l&Atilde;&iexcl;.\r\nDe resto
+    no PCP tamb&Atilde;&copy;m n&Atilde;&pound;o cantam todos exacatamente a mesma
+    cantiga."
+- id: 72162
+  author: lobotomias
+  author_email: ''
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-05-28 19:25:52 -0700'
+  date_gmt: '2007-05-28 19:25:52 -0700'
+  content: "2-&Acirc;&laquo;Mas quem afirma que a resposta &Atilde;&copy; sempre negativa
+    tamb&Atilde;&copy;m tem de explicar o caso moral de obrigar pessoas a trabalhar
+    juntas (um negro com um membro do PNR, ou um crente com um ate&Atilde;&shy;sta).&Acirc;&raquo;\r\nSimples-
+    um grupo de trabalho n&Atilde;&pound;o &Atilde;&copy; um grupo de amigos, &Atilde;&copy;
+    um grupo de pessoas que est&Atilde;&pound;o l&Atilde;&iexcl; para trabalhar e
+    aturar-se (respeitar-se mutuamente durante as horas de expediente).\r\nIsto n&Atilde;&pound;o
+    &Atilde;&copy; nenhum caso moral!!\r\nN&Atilde;&pound;o percebo qual &Atilde;&copy;
+    o problema.\r\nOu o Luis Pedro agora advoga um Apartheid laboral?\r\n&Atilde;&permil;
+    que n&Atilde;&pound;o percebo mesmo esta discuss&Atilde;&pound;o!!!"
+- id: 72164
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-05-28 19:38:50 -0700'
+  date_gmt: '2007-05-28 19:38:50 -0700'
+  content: O apartheid foi uma pol&Atilde;&shy;tica de estado que proibia contratar
+    negros <b>contra o desejo<&#47;b> dos empregadores.
+- id: 72216
+  author: CMF
+  author_email: cfernandes81@hotmail.com
+  author_url: http://no-mundo.weblog.com.pt
+  date: '2007-05-28 22:12:19 -0700'
+  date_gmt: '2007-05-28 22:12:19 -0700'
+  content: "\"O partido comunista instiga &Atilde;&nbsp; agress&Atilde;&pound;o fisica
+    e discrimina&Atilde;&sect;&Atilde;&pound;o?\"\r\nJ&Atilde;&iexcl; tive que ouvir
+    dois comunistas a defender a elimina&Atilde;&sect;&Atilde;&pound;o f&Atilde;&shy;sica
+    daqueles que n&Atilde;&pound;o partilham os ideais revolucion&Atilde;&iexcl;rios."
+- id: 72245
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-05-28 23:42:26 -0700'
+  date_gmt: '2007-05-28 23:42:26 -0700'
+  content: "N&Atilde;&pound;o me parece totalmente relevante para esta discuss&Atilde;&pound;o
+    o facto do PCP ser t&Atilde;&pound;o mau como o PNR (que tamb&Atilde;&copy;m n&Atilde;&pound;o
+    se diz \"racista\" na sua webpage). \r\n\r\nO facto &Atilde;&copy; que h&Atilde;&iexcl;
+    pessoas que podem preferir n&Atilde;&pound;o trabalhar com membros do PCP."
+- id: 72762
+  author: Ricardo O.
+  author_email: you@bloody.idiot
+  author_url: ''
+  date: '2007-05-29 22:29:24 -0700'
+  date_gmt: '2007-05-29 22:29:24 -0700'
+  content: "&acirc;&euro;&oelig;O apartheid foi uma pol&Atilde;&shy;tica de estado
+    que proibia contratar negros contra o desejo dos empregadores.&acirc;&euro;\x9D\r\n\r\nUi,
+    que bela e precisa defini&Atilde;&sect;&Atilde;&pound;o de <i>apartheid<&#47;i>.
+    Lamento que baixes t&Atilde;&pound;o baixo para contrapor infantilmente a analogia
+    do <i>lobotomias<&#47;i>. Se queres ser pedante, s&Atilde;&ordf;-lo plenamente.
+    E vai aprender o que foi o apartheid. [Esta &Atilde;&copy; uma mera provoca&Atilde;&sect;&Atilde;&pound;o
+    da minha parte.]\r\n\r\n&Atilde;&euro; revelia dalguns artigos de bastante interesse
+    que encontro no teu blog, Lu&Atilde;&shy;s, este consegue colocar-me s&Atilde;&copy;rias
+    d&Atilde;&ordm;vidas em c&Atilde;&iexcl; voltar. Embora a sua formula&Atilde;&sect;&Atilde;&pound;o
+    inicial suscitasse grande curiosidade em conhecer as tuas ila&Atilde;&sect;&Atilde;&micro;es
+    ou o teu ponto de vista &acirc;&euro;&rdquo; ou a mera observa&Atilde;&sect;&Atilde;&pound;o
+    ret&Atilde;&sup3;rica &acirc;&euro;&rdquo; sobre a cultura do trabalho e do emprego,
+    a lista de quest&Atilde;&micro;es descambou de forma tendenciosa. Eu, enquanto
+    comunista assumido como marxista-leninista e defensor do centralismo democr&Atilde;&iexcl;tico,
+    tenho particular sensibilidade &Atilde;&nbsp;s insinua&Atilde;&sect;&Atilde;&micro;es
+    do teu artigo.\r\n\r\nRepara que a ignor&Atilde;&cent;ncia, caro blogger, n&Atilde;&pound;o
+    justifica tomadas de posi&Atilde;&sect;&Atilde;&pound;o cegas e obtusas. Antes
+    de opinares sobre o PCP ou o PNR &acirc;&euro;&rdquo; e mesmo antes de tentares
+    estabelecer uma base de compara&Atilde;&sect;&Atilde;&pound;o &acirc;&euro;&rdquo;
+    conv&Atilde;&copy;m considerares a hist&Atilde;&sup3;ria, os estatutos, os estudos
+    e as perspectivas de futuro que ambos abarcam. S&Atilde;&sup3; ent&Atilde;&pound;o
+    saber&Atilde;&iexcl;s distingu&Atilde;&shy;-los.\r\n\r\nQuanto ao artigo, pelo
+    qual sinto algum pesar, limito-me a responder, inequivocamente, que o empregador
+    n&Atilde;&pound;o tem o direito nem o poder, do ponto de vista constitucional,
+    de despedir com base nessas suposi&Atilde;&sect;&Atilde;&micro;es. Contudo, &Atilde;&copy;
+    uma necessidade liberal e de mercado capitalista extinguir o direito ao trabalho
+    e &Atilde;&nbsp; seguran&Atilde;&sect;a no emprego. Pensa nisso sem preconceitos
+    consumistas e neo-liberais e perceber&Atilde;&iexcl;s que o sistema econ&Atilde;&sup3;mico
+    n&Atilde;&pound;o vive de iPods e trocos nos bolsos &acirc;&euro;&rdquo; vive
+    de gera&Atilde;&sect;&Atilde;&pound;o de riqueza, fluxo de mercadorias e de circula&Atilde;&sect;&Atilde;&pound;o
+    de dinheiro. N&Atilde;&pound;o julgues que a liberdade existe no cat&Atilde;&iexcl;logo
+    de cosm&Atilde;&copy;ticos.\r\n\r\nO local de trabalho &Atilde;&copy; para isso
+    mesmo: trabalhar. Eu trabalho num hipermercado e estudo numa escola e sou politicamente
+    isento em ambos os locais de trabalho. E, em ambos, dedico o meu esfor&Atilde;&sect;o
+    a demonstrar compet&Atilde;&ordf;ncia profissional. Se tu, pelo contr&Atilde;&iexcl;rio,
+    n&Atilde;&pound;o tens a mesma atitude, ent&Atilde;&pound;o o teor tendencioso
+    e mercantilista sobre o trabalho deste artigo ficam plenamente justificados.\r\n\r\nV&Atilde;&ordf;
+    l&Atilde;&iexcl; se escreves mais sobre o que realmente sabes e deixas de te armar
+    em opinador de meia-tijela. Quando tiveres traquejo, ent&Atilde;&pound;o ler-te-emos
+    com considera&Atilde;&sect;&Atilde;&pound;o."
+- id: 72773
+  author: Bruno Gon&Atilde;&sect;alves
+  author_email: ''
+  author_url: http://bloginominavel.blogspot.com/
+  date: '2007-05-29 23:10:17 -0700'
+  date_gmt: '2007-05-29 23:10:17 -0700'
+  content: "\"tal pode n&Atilde;&pound;o prejudicar a empresa em si, mas o inc&Atilde;&sup3;modo
+    psicol&Atilde;&sup3;gico provocado nos empregadores (ou nos seus representantes)
+    pode ser suficiente para que o queiram despedir.\"\r\n\r\nO inc&Atilde;&sup3;modo
+    psicol&Atilde;&sup3;gico poder&Atilde;&iexcl; minar a rela&Atilde;&sect;&Atilde;&pound;o
+    de trabalho, e consequentemente, o sucesso da empresa."
+- id: 73742
+  author: lobotomias
+  author_email: ''
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-06-01 00:48:33 -0700'
+  date_gmt: '2007-06-01 00:48:33 -0700'
+  content: "Do que se trata aqui &Atilde;&copy; o de tentar transformar o que &Atilde;&copy;
+    uma rela&Atilde;&sect;&Atilde;&pound;o econ&Atilde;&sup3;mica, uma troca (de bens
+    por servi&Atilde;&sect;os), num  outro tipo de rela&Atilde;&sect;&Atilde;&pound;o.
+    \r\nPretende-se transformar a rela&Atilde;&sect;&Atilde;&pound;o laboral numa
+    rela&Atilde;&sect;&Atilde;&pound;o \"cultural\" com a expres&Atilde;&pound;o dos
+    \"valores\" encaixada na l&Atilde;&sup3;gica de poder das trocas econ&Atilde;&sup3;micas.\r\n&Atilde;&permil;
+    por isso que se fala de espirito, ou familia ou cultura de determinada empresa.\r\nA
+    \"morte\" (s&Atilde;&sup3; para o que interessa) do estado na l&Atilde;&sup3;gica
+    \"neoliberal\" (mais aspas porque nenhum destes conceitos &Atilde;&copy; verdadeiramente
+    descritivo) serve exactamente ao pensamento ultra-conservador (que nela se esconde
+    &Atilde;&nbsp; espreita).\r\nCom a imposi&Atilde;&sect;&Atilde;&pound;o cultural
+    pelos que detem o poder monet&Atilde;&iexcl;rio n&Atilde;&pound;o h&Atilde;&iexcl;
+    risco dos processos hibridos e fracturantes que t&Atilde;&ordf;m caracterizado
+    a dita modernidade que tanto os assustam (conservador aqui apr&Atilde;&sup3;xima-se
+    muito das necessidades de controlo das personalidades ananc&Atilde;&iexcl;sticas).\r\nQuem
+    det&Atilde;&copy;m o poder de pagar t&Atilde;&ordf;m o poder de criar&#47;construir
+    os seus trabalhadores, e em ultima analise o poder de imp&Atilde;&acute;r os seus
+    desejos normativos do ponto de vista social sobre todos.\r\nIsto n&Atilde;&pound;o
+    &Atilde;&copy; totalmente novo, e Foucault j&Atilde;&iexcl; nos falava de como
+    o poder dos discursos cria os sujeitos. A logica liberal&#47;conservadora pretende
+    levar isto ao extremo insustentavel de impedir a cria&Atilde;&sect;&Atilde;&pound;o
+    de discursos que n&Atilde;&pound;o interessem directamente &Atilde;&nbsp; reprodu&Atilde;&sect;&Atilde;&pound;o
+    da mais valia- e por isso n&Atilde;&pound;o percebem que l&Atilde;&sup3;gica &Atilde;&copy;
+    que pode ter uma coisa chamada estado (que n&Atilde;&pound;o teria apenas esse
+    objectivo).\r\nhaver&Atilde;&iexcl; mais a dizer sobre este desejo que se expressa
+    em perguntas, mas anda tudo muito &Atilde;&nbsp; volta da palavra poder e de quem
+    deve det&Atilde;&ordf;-lo verdadeiramente (bom claro que ninguem o detem porque
+    ele anda por todo o lado, mas -mais poder) - essa abstra&Atilde;&sect;&Atilde;&pound;o
+    que &Atilde;&copy; a moeda, ou as pessoas atrav&Atilde;&copy;s de mecanismos de
+    representatividade. A discuss&Atilde;&pound;o &Atilde;&copy; apenas essa, e a&Atilde;&shy;
+    acho que temos pontos de vista irreconciliaveis- pena que n&Atilde;&pound;o assumas
+    claramente os teus."
+- id: 73744
+  author: lobotomias
+  author_email: ''
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-06-01 01:01:53 -0700'
+  date_gmt: '2007-06-01 01:01:53 -0700'
+  content: Isto porque se tu escolheres a primeira hipotese n&Atilde;&pound;o est&Atilde;&iexcl;s
+    a escolher nenhum estado "liberal", est&Atilde;&iexcl;s a escolher um estado sem
+    mecanismos de representatividade suportado pelos detentores da maioria do capital,
+    o que me faz lembrar alguns exemplos hist&Atilde;&sup3;ricos. Se assim &Atilde;&copy;
+    porque n&Atilde;&pound;o assumi-lo caro amigo?
+- id: 82451
+  author: Lu&Atilde;&shy;s Eg&Atilde;&shy;dio
+  author_email: luis.egidio@gmail.com
+  author_url: ''
+  date: '2007-06-14 12:13:06 -0700'
+  date_gmt: '2007-06-14 12:13:06 -0700'
+  content: "a prop&Atilde;&sup3;sito...\r\n\r\nhttp:&#47;&#47;diariodigital.sapo.pt&#47;super_elite&#47;news.asp?section_id=21&amp;id_news=4655"
+---
+<p>1. Pode um empregador despedir um empregado por ser homossexual?
+<p>1.1 Digamos que &Atilde;&copy; uma padaria e se trata de vender p&Atilde;&pound;o. O empregado nunca causou problemas com ningu&Atilde;&copy;m, mas que, um dia, &Atilde;&copy; encontrado pelo patr&Atilde;&pound;o na rua de m&Atilde;&pound;o dada ao namorado. Pode ser despedido?
+<p>1.2 Digamos que o patr&Atilde;&pound;o at&Atilde;&copy; nem o quer despedir, mas os outros empregados dizem que se sentem mal a trabalhar com um "paneleiro."
+<p>1.3 Digamos que o empregado n&Atilde;&pound;o foi descoberto, mas que, pelo contr&Atilde;&iexcl;rio, veste-se de uma forma que ao indiciar que &Atilde;&copy; homossexual, incomoda os outros trabalhadores.
+<p>1.4 Digamos que incomoda tamb&Atilde;&copy;m certos clientes e que as vendas at&Atilde;&copy; desceram desde que este rapaz come&Atilde;&sect;ou a trabalhar.
+<p>1.5 Digamos que, ao inv&Atilde;&copy;s duma padaria, se trata dum trabalho de secretariado, mas numa institui&Atilde;&sect;&Atilde;&pound;o religiosa.
+<p>2. Pode um empregador despedir um empregado por ser membro do PNR?
+<p>2.1 Novamente, digamos que nunca deu problemas, mas que aparece numa fotografia numa manifesta&Atilde;&sect;&Atilde;&pound;o. Pode ser despedido?
+<p>2.2 At&Atilde;&copy; a&Atilde;&shy; nunca nenhum cliente negro tinha sido mal-tratado, nem o colega negro alguma vez sentira que o indiv&Atilde;&shy;duo em causa era um mau colega, mas a partir daqui sente incomodado com as escolhas pol&Atilde;&shy;ticas e queixa-se ao patr&Atilde;&pound;o.
+<p>2.3 O empregado veste-se de forma que parece que &Atilde;&copy; de extrema-direita (cabe&Atilde;&sect;a rapada, roupa militar). Pode o empregador sequer perguntar <cite>O senhor faz ou fez parte do Partido Nacional-Renovador?<&#47;cite>
+<p>2.4 Qual &Atilde;&copy; a moralidade de recusar comprar nessa loja, enquanto cliente?</p>
+<p>3. Repita-se o exerc&Atilde;&shy;cio acima com Partido Comunista Portugu&Atilde;&ordf;s. Qual &Atilde;&copy; a diferen&Atilde;&sect;a, excepto o caso de um partido conseguir eleger mais do que o outro? Se o PNR conseguisse um lugar na Assembleia, mudava as respostas acima?
+<p>3.1 Digamos que um colega &Atilde;&copy; imigrante russo e se sente profundamente incomodado por trabalhar com algu&Atilde;&copy;m dum partido que continua a defender o Estaline quando o av&Atilde;&acute; morreu e o pai passou 12 anos no Gulag.
+<p>3.2 Pode o empregador sequer perguntar <cite>voc&Atilde;&ordf; faz ou fez parte do Partido Comunista?<&#47;cite></p>
+<p>4. Pode um empregador despedir algu&Atilde;&copy;m por n&Atilde;&pound;o aceitar Jesus Cristo como salvador?
+<p>4.1 O empregador est&Atilde;&iexcl; t&Atilde;&pound;o crente que a moral deriva de uma aceita&Atilde;&sect;&Atilde;&pound;o de princ&Atilde;&shy;pios superiores e que o ate&Atilde;&shy;smo &Atilde;&copy; ego&Atilde;&shy;smo que n&Atilde;&pound;o se sente confort&Atilde;&iexcl;vel a deixar a loja ao empregado ateu.
+<p>4.2 Os outros colegas n&Atilde;&pound;o confiam no empregado e queixam-se.
+<p>5. Pode um empregador despedir um empregado por n&Atilde;&pound;o concordar o que este escreve no seu blogue? <cite>Eu n&Atilde;&pound;o quero c&Atilde;&iexcl; liberais-conservadores!<&#47;cite></p>

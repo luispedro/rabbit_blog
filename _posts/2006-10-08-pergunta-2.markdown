@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: Pergunta
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 659
+wordpress_url: http://blog.luispedro.org/?p=659
+date: '2006-10-08 17:53:33 -0700'
+date_gmt: '2006-10-08 17:53:33 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 9622
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2006-10-09 09:20:50 -0700'
+  date_gmt: '2006-10-09 09:20:50 -0700'
+  content: "Acho muito bem que chame \"fascista\" a Ch&Atilde;&iexcl;vez. Mas, acrescento,
+    h&Atilde;&iexcl; tamb&Atilde;&copy;m muita gente de direita que continua a insistir
+    que a China &Atilde;&copy; um pa&Atilde;&shy;s \"comunista\". Ora, a China &Atilde;&copy;
+    mais apropriadamente descrita, hoje, como um regime nacionalista-fascista, do
+    qual a analogia mais perfeita seria o regime franquista de Espanha.\r\n\r\nOu
+    seja, a auto-mistifica&Atilde;&sect;&Atilde;&pound;o sobre a cor pol&Atilde;&shy;tica
+    dos regimes n&Atilde;&pound;o &Atilde;&copy; s&Atilde;&sup3; coisa da esquerda.
+    Tamb&Atilde;&copy;m muita direita se equivoca."
+- id: 9623
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2006-10-09 11:25:49 -0700'
+  date_gmt: '2006-10-09 11:25:49 -0700'
+  content: Nao sei se concordo relativamente 'a China. O franquismo nunca teve a componente
+    de capitalismo desenfreado que tem a China. A China tambem nao tem o conservadorismo
+    franquista em aspectos como a monarquia, etc.
+---
+<p>Na s&Atilde;&copy;rie <em>meio no gozo, meio a s&Atilde;&copy;rio<&#47;em>:<br />
+Tendo em conta a adora&Atilde;&sect;&Atilde;&pound;o de uma certa esquerda radical pelo fascista Chavez (e fascista, aqui, &Atilde;&copy; usado como termo pol&Atilde;&shy;tico e n&Atilde;&pound;o insulto), o volkista Morales, o fasc&Atilde;&shy;nio de Negri e companhia pelo pan-europe&Atilde;&shy;smo, o eco-misticismo e outros anti-racionalismos, o artigo do Henrique Raposo na Atl&Atilde;&cent;ntico desta semana e todas estas coisas, levam-me a perguntar</p>
+<p><em>Hoje, para se ser de Esquerda &Atilde;&copy; preciso ser de direita<&#47;em>?</p>

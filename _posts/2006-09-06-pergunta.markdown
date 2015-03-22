@@ -1,0 +1,127 @@
+---
+layout: post
+status: publish
+published: true
+title: Pergunta
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 614
+wordpress_url: http://blog.luispedro.org/?p=614
+date: '2006-09-06 20:45:04 -0700'
+date_gmt: '2006-09-06 20:45:04 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 8514
+  author: JLP
+  author_email: joaoluispinto@gmail.com
+  author_url: http://small-brother.blogspot.com
+  date: '2006-09-08 05:28:30 -0700'
+  date_gmt: '2006-09-08 05:28:30 -0700'
+  content: "\"Qual a melhor forma de determinar o pre&Atilde;&sect;o certo para uma
+    viagem de taxi na cidade?\"\r\n\r\nBem, se calhar a melhor maneira &Atilde;&copy;
+    deixar quem oferece o servi&Atilde;&sect;o de taxi e quem o consome decidir, negociando
+    num mercado livre, sem que haja pessoas que de fora pensem que percebem mais do
+    que os interessados.\r\n\r\nAssim como h&Atilde;&iexcl; pessoas que eventualmente
+    possam preferir o ajuste caso a caso, podendo desse modo chegar a um pre&Atilde;&sect;o
+    mais reduzido, haver&Atilde;&iexcl; outros que pura e simplesmente n&Atilde;&pound;o
+    estar&Atilde;&pound;o para se chatear e n&Atilde;&pound;o se importam de pagar
+    algo mais. Assim como, de acordo com o padr&Atilde;&pound;o que se torne dominante,
+    surgiram empres&Atilde;&iexcl;rios que preferir&Atilde;&pound;o oferecer um servi&Atilde;&sect;o
+    em ajuste directo, e outros poder&Atilde;&pound;o fornecer um servi&Atilde;&sect;o
+    tabelado. A oferta e a procura encontram-se sempre.\r\n\r\nQualquer interven&Atilde;&sect;&Atilde;&pound;o
+    externa no mercado, o que vai fazer inevitavelmente &Atilde;&copy; distorcer a
+    curva da oferta e da procura, pela diminui&Atilde;&sect;&Atilde;&pound;o da diversidade
+    da oferta e da concorr&Atilde;&ordf;ncia, nem que seja de modelos de neg&Atilde;&sup3;cio."
+- id: 8526
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-09-08 13:27:38 -0700'
+  date_gmt: '2006-09-08 13:27:38 -0700'
+  content: "Mas o taxista poder&Atilde;&iexcl; regular o pr&Atilde;&sup3;prio tax&Atilde;&shy;metro?
+    Mantendo a honestidade (penso que concordamos que o tax&Atilde;&shy;metro ter&Atilde;&iexcl;
+    de ser honesto: o que indicar corresponder&Atilde;&iexcl; necessariamente &Atilde;&nbsp;
+    verdade), ser&Atilde;&iexcl; que pode dizer, \"agora isto est&Atilde;&iexcl; a
+    35 c&Atilde;&ordf;ntimos por kil&Atilde;&sup3;metro?\" a uma hora e, depois, em
+    hora de ponta, subir o pre&Atilde;&sect;o para 70 c&Atilde;&ordf;ntimos por kil&Atilde;&sup3;metro?
+    Os ganhos de efici&Atilde;&ordf;ncia s&Atilde;&pound;o claros e podemos at&Atilde;&copy;
+    considerar que a discrimina&Atilde;&sect;&Atilde;&pound;o (cobrar mais a pessoas
+    bem vestidas ou turistas) &Atilde;&copy; positiva. Deixariam de existir aquelas
+    situa&Atilde;&sect;&Atilde;&micro;es em que n&Atilde;&pound;o h&Atilde;&iexcl;
+    taxis e um gajo precisa mesmo de apanhar um. Os taxistas atreviam-se mais a ir
+    &Atilde;&nbsp;s zonas perigosas porque cobravam mais, &c\r\n\r\nNo entanto, os
+    custos de transac&Atilde;&sect;&Atilde;&pound;o podem ser demasiado grandes. Para
+    um custo normalmente abaixo dos cinco euros, n&Atilde;&pound;o me interessa muito
+    discutir para poupar trinta c&Atilde;&ordf;ntimos ou coisa que o valha. S&Atilde;&sup3;
+    imaginar as pessoas que perguntariam a v&Atilde;&iexcl;rios taxistas na pra&Atilde;&sect;a
+    o pre&Atilde;&sect;o antes de decidir, destru&Atilde;&shy;a a institui&Atilde;&sect;&Atilde;&pound;o
+    da bicha.\r\n\r\nFixar um pre&Atilde;&sect;o centralmente (ou quase) parece-me,
+    neste caso, trazer um ganho de efici&Atilde;&ordf;ncia. A pergunta &Atilde;&copy;
+    como determinar esse pre&Atilde;&sect;o."
+- id: 8528
+  author: JLP
+  author_email: joaoluispinto@gmail.com
+  author_url: http://small-brother.blogspot.com
+  date: '2006-09-08 14:54:09 -0700'
+  date_gmt: '2006-09-08 14:54:09 -0700'
+  content: "\"No entanto, os custos de transac&Atilde;&sect;&Atilde;&pound;o podem
+    ser demasiado grandes.\"\r\n\r\nSim, mas a constata&Atilde;&sect;&Atilde;&pound;o
+    desse facto e posteriores ajustamentos dever&Atilde;&pound;o ser feitos pelo pr&Atilde;&sup3;prio
+    mercado, e n&Atilde;&pound;o por via administrativa.\r\n\r\n\"S&Atilde;&sup3;
+    imaginar as pessoas que perguntariam a v&Atilde;&iexcl;rios taxistas na pra&Atilde;&sect;a
+    o pre&Atilde;&sect;o antes de decidir, destru&Atilde;&shy;a a institui&Atilde;&sect;&Atilde;&pound;o
+    da bicha.\"\r\n\r\nA quest&Atilde;&pound;o &Atilde;&copy; que se o mercado do
+    t&Atilde;&iexcl;xi fosse liberalizado, a bicha deixava de fazer sentido. A bicha
+    s&Atilde;&sup3; faz sentido em situa&Atilde;&sect;&Atilde;&micro;es em que todos
+    prestam o servi&Atilde;&sect;o nos mesmos termos, n&Atilde;&pound;o h&Atilde;&iexcl;
+    concorr&Atilde;&ordf;ncia e como tal t&Atilde;&ordf;m que se estabelecer mecanismos
+    para o ganho \"tocar a todos\".\r\n\r\nSe algu&Atilde;&copy;m se quer sujeitar
+    ao rateio da tarifa, vai ter que aceitar que estatisticamente vai ter o carro
+    parado mais tempo. Em contrapartida, quem tivesse tarifa tabelada teria de ajuizar
+    o valor da tarifa para se tornar atractiva e n&Atilde;&pound;o motivar as pessoas
+    a ir ver carro a carro \"quem d&Atilde;&iexcl; mais\"."
+- id: 8531
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-09-08 17:05:43 -0700'
+  date_gmt: '2006-09-08 17:05:43 -0700'
+  content: "H&Atilde;&iexcl; alguma cidade rica onde os taxis n&Atilde;&pound;o sejam
+    regulados centralmente? Eu sei que n&Atilde;&pound;o &Atilde;&copy;, per se, um
+    argumento, mas gostava de saber como &Atilde;&copy; que funcionaria nessa cidade.\r\n\r\nEm
+    v&Atilde;&iexcl;rias cidades pobres os taxis negoceiam o pre&Atilde;&sect;o. Isto
+    faz ainda sentido neste framework porque os mais pobres d&Atilde;&pound;o menos
+    valor aos custos de negocia&Atilde;&sect;&Atilde;&pound;o."
+- id: 8536
+  author: JLP
+  author_email: joaoluispinto@gmail.com
+  author_url: http://small-brother.blogspot.com
+  date: '2006-09-09 00:11:14 -0700'
+  date_gmt: '2006-09-09 00:11:14 -0700'
+  content: "\"H&Atilde;&iexcl; alguma cidade rica onde os taxis n&Atilde;&pound;o
+    sejam regulados centralmente?\"\r\n\r\nSinceramente n&Atilde;&pound;o sei. Mas
+    a quest&Atilde;&pound;o ser&Atilde;&iexcl; tamb&Atilde;&copy;m se existem assim
+    tantas sociedade qua sejam liberais e em que o estado n&Atilde;&pound;o meta o
+    bedelho em tudo... ;)"
+- id: 208873
+  author: Buy viagra online.
+  author_email: ''
+  author_url: http://www.xanga.com/BUY_VIAGRA_FREE_ONLINE_HERE
+  date: '2007-12-18 21:40:49 -0800'
+  date_gmt: '2007-12-18 21:40:49 -0800'
+  content: |-
+    <strong>Buy viagra online....<&#47;strong>
+
+    Buy viagra online. Viagra buy viagra online. Voyforums buy viagra online. Viagra buy online....
+---
+<p>Na s&Atilde;&copy;rie <em>se fosse economista gostava de fazer um artigo sobre isto<&#47;em>:</p>
+<p>Qual a melhor forma de determinar o pre&Atilde;&sect;o certo para uma viagem de taxi na cidade?</p>
+<p>A negocia&Atilde;&sect;&Atilde;&pound;o caso-a-caso (cada vez que algu&Atilde;&copy;m entra num taxi) provavelmente imp&Atilde;&micro;e demasiados custos de transac&Atilde;&sect;&Atilde;&pound;o. Por outro lado, como fixar os pre&Atilde;&sect;os centralmente de modo a que estes estejam t&Atilde;&pound;o pr&Atilde;&sup3;ximos quanto poss&Atilde;&shy;vel do pre&Atilde;&sect;o que seria fixado em mercado livre de modo a equilibrar a oferta e a procura? Considere tamb&Atilde;&copy;m a possibilidade de atribui&Atilde;&sect;&Atilde;&pound;o de novas licen&Atilde;&sect;as de taxista.<br />
+Esta pergunta faz sentido?</p>

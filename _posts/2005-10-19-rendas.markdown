@@ -1,0 +1,81 @@
+---
+layout: post
+status: publish
+published: true
+title: Rendas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 198
+wordpress_url: http://blog.luispedro.org/?p=198
+date: '2005-10-19 17:43:33 -0700'
+date_gmt: '2005-10-19 17:43:33 -0700'
+categories:
+- Portugal
+- Economia
+tags: []
+comments:
+- id: 1939
+  author: ana
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://www.ablogadela.blogspot.com
+  date: '2005-10-20 07:35:24 -0700'
+  date_gmt: '2005-10-20 07:35:24 -0700'
+  content: pq &Atilde;&copy; que n&Atilde;&pound;o se sentam &Atilde;&nbsp; mesa?
+    pq n&Atilde;&pound;o est&Atilde;&pound;o unidos? pq n&Atilde;&pound;o estamos
+    n&Atilde;&sup3;s unidos para tb negociarmos isso, sendo n&Atilde;&sup3;s a gera&Atilde;&sect;&Atilde;&pound;o
+    interessada?
+- id: 1941
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://naperon.blogspot.com
+  date: '2005-10-20 09:44:01 -0700'
+  date_gmt: '2005-10-20 09:44:01 -0700'
+  content: "Eu n&Atilde;&pound;o entendo esse racioc&Atilde;&shy;nio. \r\nDesde quando
+    &Atilde;&copy; que quem n&Atilde;&pound;o tem poder tem lugar &Atilde;&nbsp; mesa?
+    Isso parece-me uma coisa b&Atilde;&iexcl;sica do teu mercado.\r\nAgora &Atilde;&copy;
+    como diz a ana: se estiverem unidos, ter&Atilde;&pound;o poder obviamente. Criar&Atilde;&pound;o
+    condi&Atilde;&sect;&Atilde;&micro;es de press&Atilde;&pound;o e de lobbie vis&Atilde;&shy;vel
+    - a &Atilde;&ordm;nica forma de sobreviv&Atilde;&ordf;ncia hoje. \r\n\r\nOs principais
+    interessados em todas as reformas s&Atilde;&pound;o os jovens, as crian&Atilde;&sect;as,
+    os beb&Atilde;&copy;s. Isso &Atilde;&copy; &Atilde;&sup3;bvio!\r\n\r\nEu sou inquilina
+    e a mim ningu&Atilde;&copy;m me perguntou nada. Porqu&Atilde;&ordf;? porque n&Atilde;&pound;o
+    estou associada. \r\nSe queres ser ouvido, arranja uma voz (mix marxista c&#47;
+    woolf)"
+- id: 1942
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-10-20 10:14:08 -0700'
+  date_gmt: '2005-10-20 10:14:08 -0700'
+  content: "Quem n&Atilde;&pound;o tem poder pol&Atilde;&shy;tico n&Atilde;&pound;o
+    tem lugar &Atilde;&nbsp; mesa da negocia&Atilde;&sect;&Atilde;&pound;o pol&Atilde;&shy;tica,
+    claro. Isto n&Atilde;&pound;o &Atilde;&copy; o <i>mercado<&#47;i>, &Atilde;&copy;
+    o <i>planeamento<&#47;i>. N&Atilde;&pound;o me venham chamar mercado a uma negociata
+    de conselho de ministros com for&Atilde;&sect;a de lei que &Atilde;&copy; tudo
+    menos o mercado livre.\r\n\r\nSe o poder pol&Atilde;&shy;tico se afastasse, ent&Atilde;&pound;o
+    seria diferente.\r\n\r\nPrimeiro, n&Atilde;&pound;o haveria mesa &Atilde;&ordm;nica
+    com mandato sobre todos, existiriam mesas (no plural), nenhuma das quais com poder
+    para se impor a todas as outras. Cada contracto seria negociado entre os participantes
+    e com o contexto criado pela vontade de todas as outras pessoas (porque essas
+    criariam as condi&Atilde;&sect;&Atilde;&micro;es de mercado). At&Atilde;&copy;
+    aqueles que vir&Atilde;&pound;o (jovens menores, por exemplo) seriam tidos em
+    conta (atrav&Atilde;&copy;s da especula&Atilde;&sect;&Atilde;&pound;o).\r\n\r\nUm
+    segmento de mercado n&Atilde;&pound;o precisa de estar formalmente organizado
+    para ter poder de mercado, nem precisa de ter consci&Atilde;&ordf;ncia de que
+    existe (nem ningu&Atilde;&copy;m precisa de ter consci&Atilde;&ordf;ncia de que
+    ele existe, basta que ele exista).\r\n\r\nOrganiza&Atilde;&sect;&Atilde;&pound;o
+    formal &Atilde;&copy; coisa de luta pol&Atilde;&shy;tica. E, na luta pol&Atilde;&shy;tica,
+    os jovens n&Atilde;&pound;o t&Atilde;&ordf;m hip&Atilde;&sup3;teses nenhumas:
+    s&Atilde;&pound;o comidos ao pequeno-almo&Atilde;&sect;o pelos sindicatos e pelos
+    grupos de ind&Atilde;&ordm;stria que sabem a missa toda (vejam a inefic&Atilde;&iexcl;cia
+    total dos movimentos \"estudantis\", por exemplo)."
+---
+<p>Na s&Atilde;&copy;rie <i>o Bastiat &Atilde;&copy; um medicamento natural<&#47;i>:</p>
+<p>Discute-se a lei das rendas. As televis&Atilde;&micro;es (e suponho que os outros media tamb&Atilde;&copy;m) falam nos propriet&Atilde;&iexcl;rios e nos inquilinos com se eles fossem os &Atilde;&ordm;nicos interessados nas decis&Atilde;&micro;es que o governo tomar&Atilde;&iexcl;.</p>
+<p>Ent&Atilde;&pound;o e a nova gera&Atilde;&sect;&Atilde;&pound;o que n&Atilde;&pound;o tem nem pr&Atilde;&copy;dios para alugar nem contractos de aluguer antigos? Aquela a quem agora pedem pre&Atilde;&sect;os maiores que o mercado livre pediria, aquela que vai herdar um parque habitacional degradado por d&Atilde;&copy;cadas de neglig&Atilde;&ordf;ncia consequ&Atilde;&ordf;ncia do congelamento das rendas, essa n&Atilde;&pound;o conta?</p>
+<p>S&Atilde;&pound;o estes os principais interessados na reforma do mercado habitacional, mas n&Atilde;&pound;o se sentam &Atilde;&nbsp; mesa.</p>

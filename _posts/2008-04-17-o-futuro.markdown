@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: O Futuro
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1304
+wordpress_url: http://blog.luispedro.org/posts/o-futuro
+date: '2008-04-17 03:45:36 -0700'
+date_gmt: '2008-04-17 03:45:36 -0700'
+categories:
+- Economia
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; parece um blogue<&#47;i>:</p>
+<p><object width="425" height="355"><param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;SkS5PkHQphY&hl=en"><&#47;param><param name="wmode" value="transparent"><&#47;param><embed src="http:&#47;&#47;www.youtube.com&#47;v&#47;SkS5PkHQphY&hl=en" type="application&#47;x-shockwave-flash" wmode="transparent" width="425" height="355"><&#47;embed><&#47;object></p>
+<p>A ler tamb&Atilde;&copy;m: o <a href="http:&#47;&#47;www.nytimes.com&#47;2008&#47;04&#47;14&#47;business&#47;media&#47;14link.html?ex=1365825600&en=756bfea09ca0c62f&ei=5088&partner=rssnyt&emc=rss">artigo do NY Times<&#47;a> sobre este assunto.</p>
+<p>&Atilde;&euro;s vezes, apercebemo-nos um pouco do que ser&Atilde;&iexcl; o futuro.</p>
+<p>(Uma vez ultrapassado o nojo que esta ideia nos causa, h&Atilde;&iexcl; que reconhecer que &Atilde;&copy; um avan&Atilde;&sect;o.)</p>

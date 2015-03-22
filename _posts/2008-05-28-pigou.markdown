@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Pigou
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1336
+wordpress_url: http://blog.luispedro.org/posts/pigou
+date: '2008-05-28 13:35:06 -0700'
+date_gmt: '2008-05-28 13:35:06 -0700'
+categories:
+- EUA
+- Ambiente
+tags: []
+comments: []
+---
+<blockquote>The FHWA&acirc;&euro;&trade;s &acirc;&euro;&oelig;Traffic Volume Trends&acirc;&euro; report, produced monthly since 1942, shows that estimated vehicle miles traveled (VMT) on all U.S. public roads for March 2008 fell 4.3 percent as compared with March 2007 travel. This is the first time estimated March travel on public roads fell since 1979. At 11 billion miles less in March 2008 than in the previous March, this is the sharpest yearly drop for any month in FHWA history. </p>
+<p><a href="http:&#47;&#47;www.dot.gov&#47;affairs&#47;fhwa1108.htm">Departamento americano dos transportes<&#47;a><br />
+<&#47;blockquote></p>
+<p>Ainda h&Atilde;&iexcl; quem diga que os pre&Atilde;&sect;os do petr&Atilde;&sup3;leo n&Atilde;&pound;o t&Atilde;&ordf;m influ&Atilde;&ordf;ncia nenhuma no consumo.</p>
+<p>Isto mostra mais uma vez qu&Atilde;&pound;o f&Atilde;&iexcl;cil &Atilde;&copy; reduzir as emiss&Atilde;&micro;es de CO_2: aumentar o pre&Atilde;&sect;o da gasolina (com impostos ou cap&trade).</p>

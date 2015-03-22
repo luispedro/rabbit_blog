@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: Quarteto
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 810
+wordpress_url: http://blog.luispedro.org/posts/quarteto
+date: '2007-01-15 16:28:09 -0800'
+date_gmt: '2007-01-15 16:28:09 -0800'
+categories:
+- Cartaz
+tags: []
+comments:
+- id: 49125
+  author: Z&Atilde;&copy;
+  author_email: ''
+  author_url: ''
+  date: '2007-01-19 19:01:30 -0800'
+  date_gmt: '2007-01-19 19:01:30 -0800'
+  content: Obrigado pela visita, Lu&Atilde;&shy;s! E at&Atilde;&copy; breve :)
+- id: 448164
+  author: sewing
+  author_email: tamixk@hotmail.com
+  author_url: http://qazaq.freeweb7.com/sewing4884.html
+  date: '2008-11-05 15:38:34 -0800'
+  date_gmt: '2008-11-05 15:38:34 -0800'
+  content: yqxr
+- id: 448869
+  author: cap pattern sewing welding
+  author_email: dtwr@hotmail.com
+  author_url: http://cap-pattern.usanovember.com/index.html
+  date: '2008-11-06 14:15:58 -0800'
+  date_gmt: '2008-11-06 14:15:58 -0800'
+  content: eshnkmj uleyqcp kjingq djpm
+---
+<p>Uma curta passagem por lisboa ainda me deu tempo de ir ao teatro (infelizmente, a longa espera desencorajou-me e n&Atilde;&pound;o cheguei a ver Amadeo).
+<p>Quarteto, do <a href="http:&#47;&#47;www.teatropraga.com&#47;">teatro praga<&#47;a>.
+<p>Num pa&Atilde;&shy;s onde o teatro tende a levar-se demasiado a s&Atilde;&copy;rio, foi bom ver um espect&Atilde;&iexcl;culo que era descontra&Atilde;&shy;do sem nunca perder o sentido de cena.
+<p>Recomenda-se.<&#47;p></p>

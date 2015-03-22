@@ -1,0 +1,130 @@
+---
+layout: post
+status: publish
+published: true
+title: Amen
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 255
+wordpress_url: http://blog.luispedro.org/?p=255
+date: '2005-12-13 16:02:52 -0800'
+date_gmt: '2005-12-13 16:02:52 -0800'
+categories:
+- Portugal
+- Culturas
+tags: []
+comments:
+- id: 2419
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://bombazzine.blogspot.com
+  date: '2005-12-13 16:25:53 -0800'
+  date_gmt: '2005-12-13 16:25:53 -0800'
+  content: "Odeio a palavra toler&Atilde;&cent;ncia. Percebo o conceito, mas a palavra
+    &Atilde;&copy; muito m&Atilde;&iexcl;. Como se algum de n&Atilde;&sup3;s tivesse
+    a propriedade de tolerar. <em>Eu tolero isso<&#47;em> &Atilde;&copy; das piores
+    frases que se pode dizer.\r\nNingu&Atilde;&copy;m tem de tolerar nada de ningu&Atilde;&copy;m,
+    nem ningu&Atilde;&copy;m pode achar-se no direito de dizer que &Atilde;&copy;
+    tolerante. \r\nN&Atilde;&sup3;s existimos, somos e temos de reconhecer o outro,
+    na sua diferen&Atilde;&sect;a e na sua mesmidade. \r\n\r\nPor mim, podem ficar
+    com a posse da palavra toler&Atilde;&cent;ncia, que eu c&Atilde;&iexcl; n&Atilde;&pound;o
+    a quero nem tolero. "
+- id: 2421
+  author: ana
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://ablogadela.blogspot.com/
+  date: '2005-12-13 16:44:22 -0800'
+  date_gmt: '2005-12-13 16:44:22 -0800'
+  content: "eu gosto da palavra toler&Atilde;&cent;ncia (meu deus, &Atilde;&nbsp;
+    pala disto vou levar um carolo). \r\ngosto do conceito. mesmo que n&Atilde;&pound;o
+    gostes, mesmo que n&Atilde;&pound;o concordes, aprende a conviver com, tolera,
+    suporta, contem a furia, o desagrado. os respeito que qualquer outros merece,
+    merece isso. h&Atilde;&iexcl; coisas que se toleram, mm que n&Atilde;&pound;o
+    se goste ou concorde, e h&Atilde;&iexcl; outras coisas que n&Atilde;&pound;o se
+    toleram, como o des-respeito pelos direitos humanos.\r\n\r\nsim, a toler&Atilde;&cent;ncia
+    &Atilde;&copy; um sinal de desarmonia, interna, n&Atilde;&pound;o externa. um
+    sinal de que h&Atilde;&iexcl; qualquer coisa que mexe c&Atilde;&iexcl; dentro
+    que temos que aprender a conter, por respeito &Atilde;&nbsp; diferen&Atilde;&sect;a.\r\n\r\n"
+- id: 2422
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-12-13 17:02:52 -0800'
+  date_gmt: '2005-12-13 17:02:52 -0800'
+  content: "Temos de conter a vontade de utilizar viol&Atilde;&ordf;ncia f&Atilde;&shy;sica,
+    n&Atilde;&pound;o a vontade de criticar.\r\n\r\n&Atilde;&permil; a capacidade
+    de transformar uma vontade de aniquilar fisicamente o outro numa vontade de dizer
+    <i>&Atilde;&copy;s um atrasado mental<&#47;i> que &Atilde;&copy; preciso cultivar.\r\n\r\nN&Atilde;&pound;o
+    significa deixar de dizer <i>&Atilde;&copy;s um atrasado mental<&#47;i>.\r\n\r\nVou
+    mais longe: por uma quest&Atilde;&pound;o de respeito, h&Atilde;&iexcl; que dizer
+    <i>&Atilde;&copy;s um atrasado mental<&#47;i>."
+- id: 2423
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://bombazzine.blogspot.com
+  date: '2005-12-13 17:02:56 -0800'
+  date_gmt: '2005-12-13 17:02:56 -0800'
+  content: "Prefiro respeito e acho que &Atilde;&copy; o mesmo que dizes, ana. \r\nToler&Atilde;&cent;ncia
+    sugere superioridade de quem tolera e esse &Atilde;&copy; o primeiro passo para
+    o desrespeito. Era s&Atilde;&sup3; isso que queria dizer."
+- id: 2424
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://bombazzine.blogspot.com
+  date: '2005-12-13 17:04:35 -0800'
+  date_gmt: '2005-12-13 17:04:35 -0800'
+  content: "Mas dizemos atrasado mental com z porqu&Atilde;&ordf;? n&Atilde;&pound;o
+    percebi essa parte! \r\n\r\nL&Atilde;&iexcl; est&Atilde;&iexcl;: chamar a algu&Atilde;&copy;m
+    atrasado mental &Atilde;&copy; o oposto do respeito. O oposto! N&Atilde;&pound;o
+    digo que n&Atilde;&pound;o haja atrasados mentais, mas se n&Atilde;&pound;o os
+    respeito n&Atilde;&pound;o devo discutir com eles. "
+- id: 2425
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-12-13 17:15:55 -0800'
+  date_gmt: '2005-12-13 17:15:55 -0800'
+  content: "Exemplo:\r\n\r\n<i>Os senhores da Frente Nacional s&Atilde;&pound;o uns
+    atrasados mentais<&#47;i>. Mesmo assim, acho que devem poder dizer o que pensam
+    da mesma forma que eu acabei de escrever que s&Atilde;&pound;o uns atrasados mentais.\r\n\r\nAlgumas
+    pessoas at&Atilde;&copy; dentro do Parlamento (deputados &Atilde;&nbsp; esquerda,
+    muitas vezes atrasados mentais) acham que se estes devem ser proibidos de dizer
+    o que pensam (isto &Atilde;&copy;, mandar a pol&Atilde;&shy;cia bater-lhes se
+    eles insistirem em dizer o que pensam). Estes mesmos deputados, s&Atilde;&pound;o,
+    n&Atilde;&pound;o por acaso, o mesmo tipo de pessoas que mais apela &Atilde;&nbsp;
+    toler&Atilde;&cent;ncia e que mais rapidamente acha intolerante dizer que <i>fulano
+    Y &Atilde;&copy; um atrasado mental<&#47;i>. "
+- id: 2426
+  author: ana
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://ablogadela.blogspot.com/
+  date: '2005-12-13 17:20:52 -0800'
+  date_gmt: '2005-12-13 17:20:52 -0800'
+  content: "bom, eu c&Atilde;&iexcl; acho tolo dizer a algu&Atilde;&copy;m que esse
+    algu&Atilde;&copy;m &Atilde;&copy; atrasado mental. quando ou&Atilde;&sect;o algo
+    semelhante a \"&Atilde;&copy;s atrasada mental\" a cera invade os meus ouvidos
+    e n&Atilde;&pound;o ou&Atilde;&sect;o mais nada.\r\nacho que h&Atilde;&iexcl;
+    coisas que podemos dizer com muito mais efeito.\r\n\r\npor uma quest&Atilde;&pound;o
+    de respeito h&Atilde;&iexcl; que mostrar que n&Atilde;&pound;o se concorda e porque
+    da forma mais eficiente que conseguirmos e soubermos."
+- id: 2427
+  author: ana
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://ablogadela.blogspot.com/
+  date: '2005-12-13 17:21:59 -0800'
+  date_gmt: '2005-12-13 17:21:59 -0800'
+  content: 'vincente: concordo com a onda de superioridade que a palavra "toler&Atilde;&cent;ncia"
+    pode ter subjacente, de facto n&Atilde;&pound;o tinha pensado nisso. mas acho
+    que &Atilde;&copy; uma associa&Atilde;&sect;&Atilde;&pound;o n&Atilde;&pound;o
+    &Atilde;&copy; algo intrinseco.'
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; at&Atilde;&copy; parece um blogue<&#47;i>:</p>
+<p>Henrique Raposo, n'<a href="http:&#47;&#47;oacidental.blogspot.com&#47;2005&#47;12&#47;tolerncia-como-porreirismo.html">O Acidental<&#47;a>, comete excelentes actos blogu&Atilde;&shy;cos:</p>
+<blockquote><p>
+N&Atilde;&pound;o se confunda Toler&Atilde;&cent;ncia com Harmonia. [...] Toler&Atilde;&cent;ncia &Atilde;&copy; o oposto da Harmonia. Terra de toler&Atilde;&cent;ncia &Atilde;&copy; terra de conflito. Toler&Atilde;&cent;ncia n&Atilde;&pound;o est&Atilde;&iexcl; a jusante. N&Atilde;&pound;o &Atilde;&copy; um fim em si mesmo. Toler&Atilde;&cent;ncia &Atilde;&copy; um ponto de partida, um crit&Atilde;&copy;rio e n&Atilde;&pound;o um conceito substantivo. Ningu&Atilde;&copy;m &Atilde;&copy; tolerante. Faz-se toler&Atilde;&cent;ncia. Toler&Atilde;&cent;ncia n&Atilde;&pound;o &Atilde;&copy; uma ess&Atilde;&ordf;ncia imut&Atilde;&iexcl;vel que est&Atilde;&iexcl; na posse de uns quantos ou de umas quantas doutrinas.<br />
+<&#47;blockquote></p>

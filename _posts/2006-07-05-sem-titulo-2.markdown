@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: "(sem t&Atilde;&shy;tulo)"
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 543
+wordpress_url: http://blog.luispedro.org/?p=543
+date: '2006-07-05 21:43:55 -0700'
+date_gmt: '2006-07-05 21:43:55 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 6236
+  author: aLa&Atilde;&shy;de costa
+  author_email: dezanovemesesdepois@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2006-07-05 23:16:58 -0700'
+  date_gmt: '2006-07-05 23:16:58 -0700'
+  content: ah! 2046! um futuro cada vez mais pr&Atilde;&sup3;ximo...
+---
+<p><center><a id="p542" rel="attachment" class="imagelink" href="http:&#47;&#47;blog.luispedro.org&#47;?attachment_id=542" title="wong-kar-way.jpeg"><img id="image542" src="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;07&#47;wong-kar-way.jpeg" alt="wong-kar-way.jpeg"  style="width: 80%" &#47;><&#47;a><&#47;center></p>

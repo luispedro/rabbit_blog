@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Estado
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1383
+wordpress_url: http://blog.luispedro.org/posts/estado
+date: '2008-08-13 15:58:15 -0700'
+date_gmt: '2008-08-13 15:58:15 -0700'
+categories:
+- Portugal
+- Ota e TGV
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>o Estado no seu melhor<&#47;i>:</p>
+<p>A CP est&Atilde;&iexcl; <a href="http:&#47;&#47;economia.publico.clix.pt&#47;noticia.aspx?id=1338780&idCanal=57">h&Atilde;&iexcl; um ano<&#47;a> &Atilde;&nbsp; espera de autoriza&Atilde;&sect;&Atilde;&pound;o dos minist&Atilde;&copy;rios dos transportes e das finan&Atilde;&sect;as para poder comprar comboios porque a procura est&Atilde;&iexcl; no pico.</p>
+<p>As linhas est&Atilde;&pound;o no limite de capacidade, em parte porque <cite>pois o Governo mandou rever as obras de moderniza&Atilde;&sect;&Atilde;&pound;o da linha do Norte e estas tardam em rearrancar<&#47;cite>.</p>
+<p>A conclus&Atilde;&pound;o, &Atilde;&nbsp; Estado, &Atilde;&copy; que <cite>estas dificuldades da ferrovia portuguesa em responder &Atilde;&nbsp; procura crescente pelo comboio t&Atilde;&ordf;m sido utilizadas pelo Governo para justificar a urg&Atilde;&ordf;ncia da introdu&Atilde;&sect;&Atilde;&pound;o da alta velocidade<&#47;cite>.</p>
+<p>Brilhante. Dificulta-se o crescimento das alternativas ao nosso projecto preferido (o TGV) como forma de justificar o projecto preferido. Isto, meus senhores, &Atilde;&copy; o Estado no seu esplendor.</p>

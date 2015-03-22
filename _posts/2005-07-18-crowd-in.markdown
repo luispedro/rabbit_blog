@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Crowd in
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 110
+wordpress_url: http://blog.luispedro.org/?p=110
+date: '2005-07-18 19:36:43 -0700'
+date_gmt: '2005-07-18 19:36:43 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Muito aplaudido foi o Ministro Campos e Cunha por ter dito algumas verdades no P&Atilde;&ordm;blico de ontem, mas h&Atilde;&iexcl; uma frase que mostra qu&Atilde;&pound;o estatista &Atilde;&copy; ainda o ministro:</p>
+<blockquote><p>
+[Contrariamente a Portugal], a Su&Atilde;&copy;cia, [tem vindo a baixar] drasticamente (para menos de um ter&Atilde;&sect;o) o esfor&Atilde;&sect;o de investimento p&Atilde;&ordm;blico, tendo aumentado o seu crescimento [econ&Atilde;&sup3;mico] para valores acima de 2,5 por cento. Certamente que melhorou a qualidade do investimento.<br />
+<&#47;blockquote></p>
+<p>H&Atilde;&iexcl; outra explica&Atilde;&sect;&Atilde;&pound;o plaus&Atilde;&shy;vel para o aumento do crescimento sueco com a diminui&Atilde;&sect;&Atilde;&pound;o do investimento p&Atilde;&ordm;blico: o <i>crowd in<&#47;i> dos privados.</p>
+<p>O investimento p&Atilde;&ordm;blico diminui sempre o investimento privado. Se diminu&Atilde;&shy; de forma a aumentar o investimento total, a mant&Atilde;&ordf;-lo constante ou a diminu&Atilde;&shy;-lo, depende da sociedade em quest&Atilde;&pound;o, da situa&Atilde;&sect;&Atilde;&pound;o, etc. Mas investimento p&Atilde;&ordm;blico significa sempre diminui&Atilde;&sect;&Atilde;&pound;o do investimento privado. O investimento p&Atilde;&ordm;blico &Atilde;&copy; feito dirigindo para a&Atilde;&shy; recursos que seriam utilizados pelos privados. Alguns desses seriam utilizados para consumo imediato, outros investidos. A parte que seria investida, faz diminuir o investimento privado.</p>
+<p>Diz-se que o estado ao investir, empurra para fora investidores privados, estes v&Atilde;&ordf;em-se <i>crowed out<&#47;i>.</p>
+<p>Da mesma maneira, ao retrair-se, o estado deixa espa&Atilde;&sect;o para investimento privado, &Atilde;&copy; o <i>crowd in<&#47;i>.</p>
+<p>O ministro nem equacionou a hip&Atilde;&sup3;tese do investimento privado na Su&Atilde;&copy;cia ter vindo a aumentar &Atilde;&nbsp; medida que o Estado sueco tem vindo a retrair-se.</p>

@@ -1,0 +1,399 @@
+---
+layout: post
+status: publish
+published: true
+title: 25 Pontos
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 420
+wordpress_url: http://blog.luispedro.org/?p=420
+date: '2006-04-03 11:16:51 -0700'
+date_gmt: '2006-04-03 11:16:51 -0700'
+categories:
+- Pol&Atilde;&shy;tica Internacional
+tags: []
+comments:
+- id: 3288
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 12:54:08 -0700'
+  date_gmt: '2006-04-03 12:54:08 -0700'
+  content: "http:&#47;&#47;www.yale.edu&#47;lawweb&#47;avalon&#47;imt&#47;document&#47;nca_vol4&#47;1708-ps.htm\r\n\r\nAdolf
+    Hitler proclaimed the following explanation for this program on the 13 April 1928:\r\n\r\nExplanation\r\n\r\nRegarding
+    the false interpretations of Point 17 of the program of the NSDAP on the part
+    of our opponents, the following definition is necessary:\r\n\r\n\"Since the NSDAP
+    stands on the platform of private ownership it happens that the passage\" gratuitous
+    expropriation concerns only the creation of legal opportunities to expropriate
+    if necessary, land which has been illegally acquired or is not administered from
+    the view-point of the national welfare. This is directed primarily against the
+    Jewish land-speculation companies.\r\n\r\nOu seja, o nacional-socialismo s&Atilde;&sup3;
+    &Atilde;&copy; \"anti-capitalista\" na medida em que &Atilde;&copy; anti-semita.
+    Se os capitalistas forem arianos, n&Atilde;&pound;o t&Atilde;&ordf;m grande problema
+    com eles.\r\n\r\nQuanto ao anti-imperialismo, se os pontos 1 e 2 v&Atilde;&pound;o
+    nesse sentido, j&Atilde;&iexcl; o ponto 3 vai em sentido oposto."
+- id: 3289
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 13:09:01 -0700'
+  date_gmt: '2006-04-03 13:09:01 -0700'
+  content: "J&Atilde;&iexcl; agora, um artigo de uma revista de extrema-direita, sobre
+    o \"socialismo alem&Atilde;&pound;o\" de Sombart e Oswald Spengler: pelo artigo
+    parece-me claramente que o \"socialismo\" desses autores estava (ou est&Atilde;&iexcl;)
+    muito mais pr&Atilde;&sup3;ximo do conservadorismo tradicional do que do socialismo
+    tradicional (o socialismo tradicional, para eles, era o \"capitalismo da classe
+    oper&Atilde;&iexcl;ria\").\r\n\r\nClaro que Spengler n&Atilde;&pound;o era nazi,
+    mas creio que os nazis eram \"spenglerianos\".\r\n\r\nhttp:&#47;&#47;thescorp.multics.org&#47;21spengler.html"
+- id: 3290
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-04-03 13:10:28 -0700'
+  date_gmt: '2006-04-03 13:10:28 -0700'
+  content: "Que se diga que a expropria&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy;
+    apenas feita se a terra estiver a ser gerida de forma contr&Atilde;&iexcl;ria
+    ao interesse nacional e que &Atilde;&copy; sobretudo dirigida contra \"os especuladores
+    estrangeiros\" n&Atilde;&pound;o &Atilde;&copy; nada que Hugo Chavez, ou Morales,
+    n&Atilde;&pound;o dissessem ou n&Atilde;&pound;o fa&Atilde;&sect;am, por exemplo
+    (que, era o que eu queria falar desde que escrevi o outro post: da Am&Atilde;&copy;rica
+    Latina actual e das semelhan&Atilde;&sect;as dos actuais her&Atilde;&sup3;is da
+    esquerda com este outro her&Atilde;&sup3;i ca&Atilde;&shy;do).\r\n\r\nE mesmo
+    com a pequena correc&Atilde;&sect;&Atilde;&pound;o, o nacional-socialismo n&Atilde;&pound;o
+    defende, de modo nenhum, o sistema capitalista de concorr&Atilde;&ordf;ncia de
+    mercado. \r\n\r\n(ali&Atilde;&iexcl;s, s&Atilde;&pound;o muitos os \"capitalistas\"
+    que n&Atilde;&pound;o o fazem e que v&Atilde;&pound;o buscar elementos de nacionalismo
+    econ&Atilde;&sup3;mico para pedir favores ao estado)."
+- id: 3292
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 15:06:27 -0700'
+  date_gmt: '2006-04-03 15:06:27 -0700'
+  content: "Bem, no caso do Chav&Atilde;&copy;z, at&Atilde;&copy; eu acho que ele
+    tem algumas semelhan&Atilde;&sect;as com o fascismo (at&Atilde;&copy; suspeito
+    que ele s&Atilde;&sup3; se voltou contra a \"burguesia nacional\" porque esta
+    se voltou contra ele). Ali&Atilde;&iexcl;s, &Atilde;&nbsp;s vezes ele recebe uns
+    apoios que d&Atilde;&pound;o que pensar:\r\n\r\nhttp:&#47;&#47;ultimoreduto.weblog.com.pt&#47;arquivo&#47;143063.html\r\nhttp:&#47;&#47;ultimoreduto.weblog.com.pt&#47;arquivo&#47;143537.html\r\nhttp:&#47;&#47;www.geocities.com&#47;CapitolHill&#47;6890&#47;\r\n\r\n\r\n\"o
+    sistema capitalista de concorr&Atilde;&ordf;ncia de mercado\"\r\n\r\nIsso &Atilde;&copy;
+    um conjunto de palavras muito grande - ser&Atilde;&iexcl; que \"sistema capitalista\"
+    e \"concorrencia de mercado\" est&Atilde;&pound;o for&Atilde;&sect;osamente associados?"
+- id: 3293
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-04-03 15:26:22 -0700'
+  date_gmt: '2006-04-03 15:26:22 -0700'
+  content: "Bons linques, n&Atilde;&pound;o costumo ler o &Atilde;&ordm;ltimo reduto,
+    e portanto, estas coisas passam-me ao lado.\r\n\r\nQuanto ao sistema capitalista
+    e a concorr&Atilde;&ordf;ncia de mercado, estamos a entrar na zona minada das
+    palavras sem significado fixo. Se capitalismo quer dizer somente \"grande capital,\"
+    ent&Atilde;&pound;o n&Atilde;&pound;o vai significar mercado, mas ent&Atilde;&pound;o,
+    temos muito pouca gente, de facto, a defender o grande capital sem o mercado por
+    tr&Atilde;&iexcl;s. Ali&Atilde;&iexcl;s, a pr&Atilde;&sup3;pria no&Atilde;&sect;&Atilde;&pound;o
+    de grande capital, enquanto classe, &Atilde;&copy; uma no&Atilde;&sect;&Atilde;&pound;o
+    marxista (que n&Atilde;&pound;o penso que seja relevante, pelo menos nos dias
+    de hoje). Temos, sim, muita gente (&Atilde;&nbsp; esquerda ou, como se v&Atilde;&ordf;,
+    no &Atilde;&ordm;ltimo reduto), a atacar o \"capitalismo mundial\" e o \"liberalismo\"
+    que lhe est&Atilde;&iexcl; associado."
+- id: 3298
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-04-03 18:33:54 -0700'
+  date_gmt: '2006-04-03 18:33:54 -0700'
+  content: Discordo profundamente da ideia por detr&Atilde;&iexcl;s deste post. N&Atilde;&pound;o
+    &Atilde;&copy; por uma economia ser planificada que a ideologia que a sustenta
+    &Atilde;&copy; marxista ou de esquerda (o que quer que isso seja). Nem todas as
+    direitas s&Atilde;&pound;o parlamentaristas liberais, nem todas as esquerdas s&Atilde;&pound;o
+    marxistas. Existe hoje em dia uma ideia revisionista (ali&Atilde;&iexcl;s, j&Atilde;&iexcl;
+    &Atilde;&copy; antiga) de certos sectores da direita que se esfor&Atilde;&sect;am
+    por provar que o Nazismo e o Fascismo eram de extrema-esquerda ou marxistas, incomodados
+    com essa presen&Atilde;&sect;a fantasmag&Atilde;&sup3;rica &Atilde;&nbsp; sua
+    direita, e parece-me que tu, Lu&Atilde;&shy;s, &Atilde;&copy;s uma delas, aplicando
+    para isso os crit&Atilde;&copy;rios da tua ideologia pessoal de s&Atilde;&copy;culo
+    XXI, o que n&Atilde;&pound;o me parece honesto. Sorry.
+- id: 3299
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-04-03 20:21:44 -0700'
+  date_gmt: '2006-04-03 20:21:44 -0700'
+  content: "Bruno, atacas o mensageiro e n&Atilde;&pound;o a mensagem.\r\n\r\nOs movimentos
+    nazis e fascistas eram movimentos revolucion&Atilde;&iexcl;rios, anti-elitistas,
+    colectivistas.\r\n\r\nA ideia &Atilde;&copy; t&Atilde;&pound;o antiga quanto o
+    nazismo ou o fascismo. Ali&Atilde;&iexcl;s, a ideia de que estes se op&Atilde;&micro;em
+    &Atilde;&nbsp; esquerda &Atilde;&copy; que foi o resultado duma bem-conseguida
+    campanha da URSS para se assumir como \"a &Atilde;&ordm;nica esquerda.\" Apesar
+    disto, a URSS continuava a financiar partidos neo-nazis na Alemanha que via como
+    parceiros naturais.\r\n\r\nN&Atilde;&pound;o acho que o nazismo seja marxista.
+    Op&Atilde;&micro;e-se a este nalguns pontos. Mas isto n&Atilde;&pound;o chega
+    para o p&Atilde;&acute;r &Atilde;&nbsp; direita, at&Atilde;&copy; porque alguns
+    destes elementos foram mais tarde recuperados pela &Atilde;&iexcl;rea da esquerda
+    (o anti-materialismo, por exemplo), e voltando a onde isto come&Atilde;&sect;ou,
+    creio que os movimentos ind&Atilde;&shy;genas actuais da Am&Atilde;&copy;rica
+    Latina n&Atilde;&pound;o se sentiriam mal nos anos 20 ao lado do eixo."
+- id: 3300
+  author: Faustino Rodrigues
+  author_email: ''
+  author_url: ''
+  date: '2006-04-03 21:05:09 -0700'
+  date_gmt: '2006-04-03 21:05:09 -0700'
+  content: "O anti-materialismo do nazismo e do comunismo sovi&Atilde;&copy;tico n&Atilde;&pound;o
+    devem ser encarados como caracter&Atilde;&shy;sticas das ideologias pol&Atilde;&shy;ticas
+    que sustentaram estes movimentos. Pacheco Pereira explica isso bem no caso do
+    PCP na sua biografia de Cunhal (Volume primeiro) como sendo uma caracter&Atilde;&shy;stica
+    de uma juventude imatura ansiosa por alcan&Atilde;&sect;ar o purismo renegando
+    os bens mundanos e os prazeres da vida, normalmente destinados aos burgueses no
+    in&Atilde;&shy;cio do sec XX. Isso aconteceu no Nazismo, no Mauismo, no Titismo
+    e no Castrismo, mas tamb&Atilde;&copy;m no Islamismo, no Cristianismo e no Budismo.
+    Para mim, esses movimentos de priva&Atilde;&sect;&Atilde;&pound;o s&Atilde;&pound;o
+    mais propagandas psicologicas para atrair apoiantes para a causa do que componentes
+    da ideologia ou filosofia dos movimentos pol&Atilde;&shy;ticos.\r\nN&Atilde;&pound;o
+    concordo que o mesmo tenha existido no fascismo Italiano, Hitler dispensou os
+    soldados italinos porque estes gastavam numa semana o que os seus soldados gastavam
+    em quatro. E se esse ambiente de priva&Atilde;&sect;&Atilde;&pound;o existiu na
+    Alemanha Nazi foi para fazer um produtivo esfor&Atilde;&sect;o de guerra e n&Atilde;&pound;o
+    no mesmo sentido real que existiu nos movimentos comunistas e totalitarios de
+    esquerda.\r\nO totalitarismo e os interesses diplomaticos foi o que uniu ambos
+    os movimentos."
+- id: 3301
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 21:15:55 -0700'
+  date_gmt: '2006-04-03 21:15:55 -0700'
+  content: "\"Os movimentos nazis e fascistas eram movimentos revolucion&Atilde;&iexcl;rios,
+    anti-elitistas, colectivistas\"\r\n\r\nAcerca de serem revolucion&Atilde;&iexcl;rios,
+    &Atilde;&copy; verdade at&Atilde;&copy; certo ponto; o serem anti-elitistas, n&Atilde;&pound;o
+    vejo aonde - se dermos um vista de olhos por textos fascistas ou nazis, n&Atilde;&pound;o
+    faltam conversas de \"ra&Atilde;&sect;a superior\", \"povo de senhores\", \"super-homem\",
+    etc.; poderiam ser contra a elite concreta (ou parte dela), mas, em abstrato,
+    eram muito mais elitistas do qualquer outra ideologia da &Atilde;&copy;poca. Quanto
+    ao serem \"colectivistas\", isso &Atilde;&copy; irrelevante para os qualificar
+    como \"direita\" ou \"esquerda\", j&Atilde;&iexcl; que tanto a direita conservadora
+    como a esquerda socialista s&Atilde;&pound;o, tradicionalmente, \"colectivistas\",
+    o que muda &Atilde;&copy; o \"colectivo\" - para os socialistas, o \"colectivo\"
+    &Atilde;&copy; conjunto dos individuos, enquanto para os conservadores &Atilde;&copy;
+    uma entidade permanente, que se mant&Atilde;&copy;m de gera&Atilde;&sect;&Atilde;&pound;o
+    para gera&Atilde;&sect;&Atilde;&pound;o - nesse ponto, parece-me que o fascismo
+    at&Atilde;&copy; est&Atilde;&iexcl; mais perto do conservadorismo do que do socialismo.\r\n\r\n&Acirc;&laquo;Ali&Atilde;&iexcl;s,
+    a ideia de que estes se op&Atilde;&micro;em &Atilde;&nbsp; esquerda &Atilde;&copy;
+    que foi o resultado duma bem-conseguida campanha da URSS para se assumir como
+    &acirc;&euro;&oelig;a &Atilde;&ordm;nica esquerda.&acirc;&euro;\x9D&Acirc;&raquo;\r\n\r\nVamos
+    ver: ao longo de todos os anos 20&#47;30, os fascistas lutaram (fisica ou politicamente)
+    montes de vezes ao lado de conservadores contra anarquistas, comunistas e socialistas,
+    e, que eu saiba, nunca lutaram junto com anarquistas, comunistas ou socialistas
+    contra conservadores . Logo, n&Atilde;&pound;o vejo como os podemos p&Atilde;&acute;r
+    na \"esquerda\".\r\n\r\nAli&Atilde;&iexcl;s, se tivessemos que pegar no marxismo,
+    no liberalismo e no fascismo e juntar 2 contra 1, creio que o mais correcto ainda
+    seria p&Atilde;&acute;r, num lado, marxistas e liberais, e, no outro, fascistas."
+- id: 3302
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-04-03 22:00:48 -0700'
+  date_gmt: '2006-04-03 22:00:48 -0700'
+  content: "Falar de uma ra&Atilde;&sect;a superior n&Atilde;&pound;o &Atilde;&copy;
+    elitista, mas sim racista (que tanto a esquerda como a direita aprovavam na altura:
+    os sindicatos americanos at&Atilde;&copy; aos anos 50 eram um basti&Atilde;&pound;o
+    forte do poder branco, por exemplo). Onde &Atilde;&copy; que estava o respeito
+    &Atilde;&nbsp; aristocracia, por exemplo?\r\n\r\nN&Atilde;&pound;o falava do anti-materialismo
+    enquanto pr&Atilde;&iexcl;tica pessoal, mas enquanto vis&Atilde;&pound;o do mundo
+    e o marxismo tradicional era 100% materialista ao que o fascismo e o nazismo se
+    opuseram veementemente. Aqui, sim, representaram um corte com o que era a esquerda,
+    talvez o seu mais profundo.\r\n\r\nOutro corte, que os trouxe &Atilde;&nbsp; direita
+    foi a recupera&Atilde;&sect;&Atilde;&pound;o da Igreja, n&Atilde;&pound;o s&Atilde;&sup3;
+    enquanto aliado t&Atilde;&iexcl;ctico (que isso tamb&Atilde;&copy;m os comunistas
+    muitas vezes fizeram), como enquanto base moral.\r\n\r\nNo entanto, se o segundo
+    destes cortes os coloca &Atilde;&nbsp; direita, o primeiro antecipa at&Atilde;&copy;,
+    o que &Atilde;&copy; a esquerda de hoje (desde os anos 60).\r\n\r\nSe o Pacto
+    Hitler-Molotov n&Atilde;&pound;o &Atilde;&copy; um pacto entre comunistas e nazis,
+    n&Atilde;&pound;o sei o que &Atilde;&copy;. Puramente t&Atilde;&iexcl;ctico, dir-me-&Atilde;&pound;o.
+    Talvez, mas muito do apoio dos conservadores aos fascistas tamb&Atilde;&copy;m
+    era puramente t&Atilde;&iexcl;ctico (por exemplo, n&Atilde;&pound;o penso que
+    Salazar, esse, sim, conservador, fosse, de facto um fascista, mas nos anos 20-30,
+    aliou-se aos que pareciam vir a ser os poderes dominantes, como mais tarde seria
+    aliado dos americanos)."
+- id: 3303
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 23:22:19 -0700'
+  date_gmt: '2006-04-03 23:22:19 -0700'
+  content: "\"Falar de uma ra&Atilde;&sect;a superior n&Atilde;&pound;o &Atilde;&copy;
+    elitista, mas sim racista\"\r\n\r\nO racismo &Atilde;&copy; uma forma de elitismo.\r\n\r\n\"Onde
+    &Atilde;&copy; que estava o respeito &Atilde;&nbsp; aristocracia, por exemplo?\"\r\n\r\nOs
+    fascistas e nazis n&Atilde;&pound;o tinham grande respeito (nem desrespeito) pela
+    \"aristocracia realmente existente\", mas eram fortemente a favor de uma \"elite
+    dirigente\" - o fascismo italiano at&Atilde;&copy; foi bastante influencido pelos
+    \"te&Atilde;&sup3;ricos da oligarquia\", como Pareto, Mosca e Michels. Quanto
+    aos nazis, at&Atilde;&copy; haveria planos de transformar as SS numa \"nova aristocracia\"."
+- id: 3304
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 23:27:17 -0700'
+  date_gmt: '2006-04-03 23:27:17 -0700'
+  content: "\"N&Atilde;&pound;o falava do anti-materialismo enquanto pr&Atilde;&iexcl;tica
+    pessoal, mas enquanto vis&Atilde;&pound;o do mundo e o marxismo tradicional era
+    100% materialista ao que o fascismo e o nazismo se opuseram veementemente. Aqui,
+    sim, representaram um corte com o que era a esquerda, talvez o seu mais profundo.\"\r\n\r\neu
+    at&Atilde;&copy; nem acho que a quest&Atilde;&pound;o do materialismo vs. anti-materialismo
+    seja muito relevante para polos na esquerda ou na direita: afinal, os anarquistas
+    e \"socialistas ut&Atilde;&sup3;picos\" tamb&Atilde;&copy;m tinham muito de \"anti-materialismo\".\r\n\r\nAgora,
+    se formos falar de \"racionalismo\" vs. \"anti-racionalismo\", parece-me que os
+    fascistas est&Atilde;&pound;o claramente no lado \"anti-racionalista\", junto
+    com os conservadores."
+- id: 3305
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 23:32:45 -0700'
+  date_gmt: '2006-04-03 23:32:45 -0700'
+  content: "\"Se o Pacto Hitler-Molotov n&Atilde;&pound;o &Atilde;&copy; um pacto
+    entre comunistas e nazis, n&Atilde;&pound;o sei o que &Atilde;&copy;\"\r\n\r\nO
+    pacto Hitler-molotov n&Atilde;&pound;o chegou a ser uma alian&Atilde;&sect;a militar
+    - e, seja como f&Atilde;&acute;r, o facto de muitos comunistas e toda a esquerda
+    n&Atilde;&pound;o-estalinista ter ficado chocado com esse pacto desacredita-o
+    como prova de que o nazismo &Atilde;&copy; de esquerda (at&Atilde;&copy; servia
+    melhor se se tentasse provar que o comunismo sovi&Atilde;&copy;tico era de direita).
+    Mas eu estava-me refirindo a alian&Atilde;&sect;as em termos de politica interna
+    - mesmo durante o Pacto, penso que nunca se viu, num pais, comunistas e fascistas
+    aliados."
+- id: 3306
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-03 23:43:12 -0700'
+  date_gmt: '2006-04-03 23:43:12 -0700'
+  content: Mas, j&Atilde;&iexcl; que o Luis Pedro insiste que o fascismo &Atilde;&copy;
+    de esquerda, em que posi&Atilde;&sect;&Atilde;&pound;o relativa o punha num eixo,
+    junto com o anarquismo, o marxismo, o liberalismo e o conservadorismo? Entre o
+    marxismo e o liberalismo?
+- id: 3313
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2006-04-04 10:08:05 -0700'
+  date_gmt: '2006-04-04 10:08:05 -0700'
+  content: "e eu que queria falar da am&Atilde;&copy;rica latina...\r\n\r\nQuando
+    eu digo materialista queria dizer no sentido em que &Atilde;&copy; a economia
+    que &Atilde;&copy; a principal fonte de an&Atilde;&iexcl;lise da sociedade e aqui
+    at&Atilde;&copy; os anarquistas podiam ser materialistas, mas podemos usar tamb&Atilde;&copy;m
+    racionalistas num sentido parecido. Quem diz que o materialismo &Atilde;&copy;
+    a principal fonte de disc&Atilde;&sup3;rdia entre nacional-socialistas e socialistas
+    n&Atilde;&pound;o sou eu, s&Atilde;&pound;o eles: &Atilde;&copy; dif&Atilde;&shy;cil
+    encontrar uma cr&Atilde;&shy;tica nazi a marx que n&Atilde;&pound;o parta ou do
+    facto deste ser judeu ou do facto deste ser um materialista que s&Atilde;&sup3;
+    pensava em dinheiro e rela&Atilde;&sect;&Atilde;&micro;es econ&Atilde;&sup3;micas
+    (ou do facto destas duas coisas, judeu e materialista, serem vistas como sin&Atilde;&sup3;nimos).\r\n\r\nE
+    se &Atilde;&copy; verdade que o racionalismo era uma das marcas da esquerda e
+    que os nazis&#47;fascistas v&Atilde;&pound;o buscar o anti-racionalismo &Atilde;&nbsp;
+    direita, tamb&Atilde;&copy;m &Atilde;&copy; verdade que, mais tarde, muito desse
+    mesmo tipo de anti-racionalismo encontrar&Atilde;&iexcl; novamente um lugar &Atilde;&nbsp;
+    esquerda: volkismus ind&Atilde;&shy;gena na am&Atilde;&copy;rica do sul de hoje,
+    anti-cientifismos no cambodja (expurgando-se das influ&Atilde;&ordf;ncias ocidentais),
+    os misticismos hippies, os movimentos ambientalistas radicais (o ambientalismo
+    tamb&Atilde;&copy;m tinha sido trazido da direita para a esquerda, btw)...\r\n\r\nIsto
+    &Atilde;&copy; feito sempre dentro da linha do questionar do presente, do rejeitar
+    do mundo moderno (que passa do rejeitar o moderno por mais modernidade, para rejeitar
+    o moderno por menos modernidade), e do acreditar que &Atilde;&copy; poss&Atilde;&shy;vel
+    construir um mundo melhor se todos empurrarmos no mesmo sentido. Esta &Atilde;&copy;
+    a fantasia que identifica a esquerda (n&Atilde;&pound;o que a una de alguma forma)."
+- id: 3314
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-04 10:48:55 -0700'
+  date_gmt: '2006-04-04 10:48:55 -0700'
+  content: "\"e eu que queria falar da am&Atilde;&copy;rica latina&acirc;&euro;&brvbar;\"\r\n\r\nPois,
+    s&Atilde;&pound;o aqueles pequenos acasos que &Atilde;&nbsp;s vezes podem mudar
+    uma vida toda. Se, quase por acaso, eu n&Atilde;&pound;o tivesse lido o outro
+    post, ou se em vez de \"esquerda\" e \"direita\" falasse apenas de \"socialismo\"
+    e \"libaralismo\", esta pol&Atilde;&copy;mica nunca teria tido lugar (o que se
+    passa &Atilde;&copy; que h&Atilde;&iexcl; algum tempo que eu estava com vontade
+    de discutir a quest&Atilde;&pound;o do fascismo ser de \"esquerda\" ou \"direita\"
+    e aproveitei o pretexto)."
+- id: 3316
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-04-04 11:43:05 -0700'
+  date_gmt: '2006-04-04 11:43:05 -0700'
+  content: "&acirc;&euro;&oelig;Quando eu digo materialista queria dizer no sentido
+    em que &Atilde;&copy; a economia que &Atilde;&copy; a principal fonte de an&Atilde;&iexcl;lise
+    da sociedade&acirc;&euro;\x9D \r\n\r\nBem, assim mesmo a &acirc;&euro;&oelig;esquerda
+    anos 60&acirc;&euro;\x9D &Atilde;&copy; &acirc;&euro;&oelig;materialista&acirc;&euro;\x9D
+    &acirc;&euro;&ldquo; embora rejeitem a &acirc;&euro;&oelig;sociedade de consumo&acirc;&euro;\x9D,
+    o &acirc;&euro;&oelig;elemento de an&Atilde;&iexcl;lise&acirc;&euro;\x9D continua
+    a ser a economia: a fam&Atilde;&shy;lia &acirc;&euro;&oelig;tradicional&acirc;&euro;\x9D,
+    a moral convencional, a escola &acirc;&euro;&oelig;autorit&Atilde;&iexcl;ria&acirc;&euro;\x9D,
+    etc. s&Atilde;&pound;o apresentados como ligadas &Atilde;&nbsp;s &acirc;&euro;&oelig;necessidades
+    do modo de produ&Atilde;&sect;&Atilde;&pound;o capitalista&acirc;&euro;\x9D.\r\n\r\nAgora,
+    &acirc;&euro;&oelig;anti-materialismo&acirc;&euro;\x9D no sentido de privilegiar
+    a satisfa&Atilde;&sect;&Atilde;&pound;o &acirc;&euro;&oelig;espiritual&acirc;&euro;\x9D
+    face &Atilde;&nbsp; riqueza material, temos uma grande frente, desde mon&Atilde;&iexcl;rquicos
+    tradicionalistas a anarquistas, passando por fascistas, marxistas &acirc;&euro;&oelig;Maio
+    68&acirc;&euro;\x9D, etc.\r\n\r\n&acirc;&euro;&oelig;Esse tipo de anti-racionalismo
+    encontrar&Atilde;&iexcl; novamente um lugar &Atilde;&nbsp; esquerda: volkismus
+    ind&Atilde;&shy;gena na am&Atilde;&copy;rica do sul de hoje, anti-cientifismos
+    no cambodja (expurgando-se das influ&Atilde;&ordf;ncias ocidentais), os misticismos
+    hippies, os movimentos ambientalistas radicais&acirc;&euro;\x9D.\r\n\r\nClaro
+    que isso varia muito de movimento para movimento, mas creio que o que h&Atilde;&iexcl;
+    &Atilde;&nbsp; esquerda &Atilde;&copy;, sobretudo, uma atitude mais &acirc;&euro;&oelig;anti-tecnologia&acirc;&euro;\x9D
+    do que propriamente &acirc;&euro;&oelig;anti-racionalista&acirc;&euro;\x9D (um
+    pouco ao contr&Atilde;&iexcl;rio dos fascistas que eram anti-racionalistas mas
+    pr&Atilde;&sup3;-tecnologia): p.ex. &acirc;&euro;&oelig;hippies&acirc;&euro;\x9D
+    e &acirc;&euro;&oelig;ambientalistas&acirc;&euro;\x9D rejeitam a &acirc;&euro;&oelig;sociedade
+    industrial&acirc;&euro;\x9D mas penso que n&Atilde;&pound;o necessariamente as
+    ideias de &acirc;&euro;&oelig;reflex&Atilde;&pound;o&acirc;&euro;\x9D, &acirc;&euro;&oelig;an&Atilde;&iexcl;lise
+    cr&Atilde;&shy;tica&acirc;&euro;\x9D, etc. &acirc;&euro;&ldquo; ali&Atilde;&iexcl;s,
+    uma certa esquerda at&Atilde;&copy; ataca (ou atacava) a &acirc;&euro;&oelig;sociedade
+    industrial&acirc;&euro;\x9D, exactamente por esta p&Atilde;&acute;r a trabalhadores
+    a fazer tarefas em que n&Atilde;&pound;o &Atilde;&copy; preciso pensar (o que
+    essa esquerda considerava como degradar o trabalhador), ou seja, era uma esp&Atilde;&copy;cie
+    de anti-industrialismo pr&Atilde;&sup3;-racionalista."
+---
+<p>Aqui est&Atilde;&pound;o os 25-pontos do Programa do Partido Nacional-Socialista Alem&Atilde;&pound;o. Com a excep&Atilde;&sect;&Atilde;&pound;o dos pontos anti-semitas (que n&Atilde;&pound;o vou incluir como "de esquerda"), est&Atilde;&iexcl; l&Atilde;&iexcl; tudo: nacionaliza&Atilde;&sect;&Atilde;&micro;es, reforma agr&Atilde;&iexcl;ria, combate ao lucro especulativo, anti-imperialismo, anti-materialismo (que se op&Atilde;&micro;e ao marxismo, tradicional, mas que hoje &Atilde;&copy; marca da esquerda), e at&Atilde;&copy; um certo <i>volkismus<&#47;i> que encontra eco em Morales, Bingo!</p>
+<p>1. We demand the union of all Germans in a Great Germany on the basis of the principle of self-determination of all peoples.</p>
+<p>2. We demand that the German people have rights equal to those of other nations; and that the Peace Treaties of Versailles and St. Germain shall be abrogated.</p>
+<p>3. We demand land and territory (colonies) for the maintenance of our people and the settlement of our surplus population.</p>
+<p>4. Only those who are our fellow countrymen can become citizens. Only those who have German blood, regardless of creed, can be our countrymen Hence no Jew can be a countryman.</p>
+<p>5. Those who are not citizens must live in Germany as foreigners and must be subject to the law of aliens.</p>
+<p>6. The right to choose the government and determine the laws of the State shall belong only to citizens. We therefore demand that no public office, of whatever nature, whether in the central government, the province. or the municipality, shall be held by anyone who is not a citizen.</p>
+<p>We wage war against the corrupt parliamentary administration whereby men are appointed to posts by favor of the party without regard to character and fitness.</p>
+<p>7. We demand that the State shall above all undertake to ensure that every citizen shall have the possibility of living decently and earning a livelihood. If it should not be possible to feed the whole population, then aliens (non-citizens) must be expelled from the Reich.</p>
+<p>8. Any further immigration of non-Germans must be prevented. We demand that all non-Germans who have entered Germany since August 2, 1914, shall be compelled to leave the Reich immediately.</p>
+<p>9. All citizens must possess equal rights and duties.</p>
+<p>10. The first duty of every citizen must be to work mentally or physically. No individual shall do any work that offends against the interest of the community to the benefit of all.</p>
+<p>Therefore we demand:</p>
+<p>11. That all unearned income, and all income that does not arise from work, be abolished.</p>
+<p>Breaking the Bondage of Interest</p>
+<p>12. Since every war imposes on the people fearful sacrifices in blood and treasure, all personal profit arising from the war must be regarded as treason to the people We therefore demand the total confiscation of all war profits.</p>
+<p>13. We demand the nationalization of all trusts.</p>
+<p>14. We demand profit-sharing in large industries.</p>
+<p>15. We demand a generous increase in old-age pensions.</p>
+<p>16. We demand the creation and maintenance of a sound middle-class, the immediate communalization of large stores which will be rented cheaply to small tradespeople, and the strongest consideration must be given to ensure that small traders shall deliver the supplies needed by the State, the provinces and municipalities.</p>
+<p>17. We demand an agrarian reform in accordance with our national requirements, and the enactment of a law to expropriate the owners without compensation of any land needed for the common purpose. The abolition of ground rents, and the prohibition of all speculation in land.</p>
+<p>18. We demand that ruthless war be waged against those who work to the injury of the common welfare. Traitors, usurers, profiteers, etc., are to be punished with death, regardless of creed or race.</p>
+<p>19. We demand that Roman law, which serves a materialist ordering of the world, be replaced by German common law.</p>
+<p>20. In order to make it possible for every capable and industrious German to obtain higher education, and thus the opportunity to reach into positions of leadership, the State must assume the responsibility of organizing thoroughly the entire cultural system of the people The curricula of all educational establishments shall be adapted to practical life. The conception of the State Idea (science of citizenship) must be taught in the schools from the very beginning. We demand that specially talented children of poor parents, whatever their station or occupation, be educated at the expense of the State.</p>
+<p>21. The State has the duty to help raise the standard of national health by providing maternity welfare centers, by prohibiting juvenile labor, by increasing physical fitness through the introduction of compulsory games and gymnastics, and by the greatest possible encouragement of associations concerned with the physical education of the young.</p>
+<p>22. We demand the abolition of the regular army and the creation of a national (folk) army.</p>
+<p>23. We demand that there be a legal campaign against those who propagate deliberate political lies and disseminate them through the press. In order to make possible the creation of a German press, we demand:</p>
+<p>(a) All editors and their assistants on newspapers published in the German language shall be German citizens.</p>
+<p>(b) Non-German newspapers shall only be published with the express permission of the State. They must not be published in the German language.</p>
+<p>(c) All financial interests in or in any way affecting German newspapers shall be forbidden to non-Germans by law, and we demand that the punishment for transgressing this law be the immediate suppression of the newspaper and the expulsion of the nonGermans from the Reich.</p>
+<p>Newspapers transgressing against the common welfare shall be suppressed. We demand legal action against those tendencies in art and literature that have a disruptive influence upon the life of our folk, and that any organizations that offend against the foregoing demands shall be dissolved.</p>
+<p>24. We demand freedom for all religious faiths in the state, insofar as they do not endanger its existence or offend the moral and ethical sense of the Germanic race.</p>
+<p>The party as such represents the point of view of a positive Christianity without binding itself to any one particular confession. It fights against the Jewish materialist spirit within and without, and is convinced that a lasting recovery of our folk can only come about from within on the principle:</p>
+<p>COMMON GOOD BEFORE INDIVIDUAL GOOD</p>
+<p>25. In order to carry out this program we demand: the creation of a strong central authority in the State, the unconditional authority by the political central parliament of the whole State and all its organizations.</p>
+<p>The formation of professional committees and of committees representing the several estates of the realm, to ensure that the laws promulgated by the central authority shall be carried out by the federal states.</p>
+<p>The leaders of the party undertake to promote the execution of the foregoing points at all costs, if necessary at the sacrifice of their own lives.</p>

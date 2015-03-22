@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: Anedota
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 388
+wordpress_url: http://blog.luispedro.org/?p=388
+date: '2006-03-02 12:50:16 -0800'
+date_gmt: '2006-03-02 12:50:16 -0800'
+categories:
+- General
+tags: []
+comments:
+- id: 46182
+  author: PEDRO KANKALA
+  author_email: pedrokankla@yahoo.com.br
+  author_url: ''
+  date: '2007-01-10 13:57:48 -0800'
+  date_gmt: '2007-01-10 13:57:48 -0800'
+  content: "Diga-me os ossos do cr&Atilde;&cent;nio-pediu o examinador ao aluno.\r\nN&Atilde;&pound;o
+    me lembro agora,senhor professor,mas tenhos todos na cabe&Atilde;&sect;a.\r\n\r\nUm
+    gatuno frustra involuntariamente um atentado ao roubar uma mala que contendo uma
+    bomba num comboio.\r\nAo abrir a mala em casa de sua irm&Atilde;&pound;,o gatuno
+    constatou que a mesma continha  bateria  explosivos.Na sequ&Atilde;&ordf;ncia
+    disso,o gatuno  em estado de panico ,saiu a correr,gritando \"&Atilde;&copy;  bomba.\"\r\nNo
+    fim a irm&Atilde;&pound;  disse  deverias roubar tamb&Atilde;&copy;m as certid&Atilde;&micro;es
+    de &Atilde;&sup3;bito."
+- id: 383185
+  author: PEDRO KANKALA
+  author_email: pedrokankala@yahoo.com.br
+  author_url: http://Yahoo.com.br
+  date: '2008-08-14 15:38:26 -0700'
+  date_gmt: '2008-08-14 15:38:26 -0700'
+  content: "PROFESSORA AO ALUNO\r\nSabes dizer-me a diferen&Atilde;&sect;a que h&Atilde;&iexcl;
+    entre  a escola  e a hist&Atilde;&sup3;ria?\r\nN&Atilde;&pound;o.n&Atilde;&pound;osei.\r\nSei
+    eu:&Atilde;&copy; que a hist&Atilde;&sup3;ria &Atilde;&copy; a mestra da vida
+    ;e a escola &Atilde;&copy; a vida da mestra."
+---
+<p>Na s&Atilde;&copy;rie <i>isto n&Atilde;&pound;o tem nada a ver com <a href="http:&#47;&#47;aforismos-e-afins.blogspot.com&#47;2006&#47;03&#47;quiz-9.html">nada<&#47;a><&#47;i>:</p>
+<p>Deus e o Diabo decidem jogar um jogo de xadrez. Deus pensa durante mil anos e move um pe&Atilde;&pound;o branco duas casas para a frente. O Diabo demora mil anos a decidir a resposta e finalmente, sem tocar nas pe&Atilde;&sect;as, desiste.</p>

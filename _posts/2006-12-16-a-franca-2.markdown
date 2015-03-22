@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: A Fran&Atilde;&sect;a
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 779
+wordpress_url: http://blog.luispedro.org/posts/a-franca-2
+date: '2006-12-16 00:13:36 -0800'
+date_gmt: '2006-12-16 00:13:36 -0800'
+categories:
+- Pol&Atilde;&shy;tica Internacional
+tags: []
+comments: []
+---
+<p>Quando h&Atilde;&iexcl; uns tempos <a href="http:&#47;&#47;blog.luispedro.org&#47;posts&#47;franca-e-o-mundo">disse<&#47;a> que a Fran&Atilde;&sect;a deveria poder olhar de cabe&Atilde;&sect;a erguida para o mundo, mas que precisava de deixar de estar &Atilde;&nbsp; espera que o mundo baixasse os olhos, estava a falar <a href="http:&#47;&#47;www.lefigaro.fr&#47;international&#47;20061214.WWW000000402_ban_ki_moon_ne_parle_pas_francais.html">disto<&#47;a>:</p>
+<blockquote><p><strong>Ban Ki-Moon ne parle pas fran&Atilde;&sect;ais<&#47;strong></p>
+<p>Le futur secr&Atilde;&copy;taire g&Atilde;&copy;n&Atilde;&copy;ral de l'Onu n'est pas parvenu &Atilde;&nbsp; r&Atilde;&copy;pondre dans la langue de Moli&Atilde;&uml;re aux questions des journalistes, alors que les candidats &Atilde;&nbsp; ce poste sont cens&Atilde;&copy;s pouvoir travailler en fran&Atilde;&sect;ais, une des six langues des Nations Unies.<&#47;blockquote><br />
+Enquanto considerar escandaloso que um Secret&Atilde;&iexcl;rio Geral da ONU n&Atilde;&pound;o fale franc&Atilde;&ordf;s, a Fran&Atilde;&sect;a n&Atilde;&pound;o ir&Atilde;&iexcl; recuperar a sua auto-estima. N&Atilde;&pound;o s&Atilde;&sup3; isso, como continuar&Atilde;&iexcl; a ser vista como &Atilde;&copy; hoje, um fidalginho arrogante, num mundo que mudou. A Fran&Atilde;&sect;a espera que o mundo baixe os olhos, o mundo ri-se, a Fran&Atilde;&sect;a deprime.</p>
+<p>(<a href="http:&#47;&#47;31daarmada.blogs.sapo.pt&#47;112946.html">Via 31<&#47;a>)</p>

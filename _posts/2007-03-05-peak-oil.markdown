@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Peak Oil
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 894
+wordpress_url: http://blog.luispedro.org/posts/peak-oil
+date: '2007-03-05 16:38:39 -0800'
+date_gmt: '2007-03-05 16:38:39 -0800'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>a idade da pedra n&Atilde;&pound;o acabou por falta de pedras<&#47;i>:
+<p>No <a href="http:&#47;&#47;www.nytimes.com&#47;2007&#47;03&#47;05&#47;business&#47;05oil1.html">New York Times<&#47;a>:<br />
+<blockquote>BAKERSFIELD, Calif. - The Kern River oil field, discovered in 1899, was revived when Chevron engineers here started injecting high-pressured steam to pump out more oil. The field, whose <strong>production had slumped to 10,000 barrels a day in the 1960s, now has a daily output of 85,000 barrels<&#47;strong>.
+<p>In Indonesia, Chevron has applied the same technology to the giant Duri oil field, discovered in 1941, <strong>boosting production there to more than 200,000 barrels a day, up from 65,000 barrels in the mid-1980s<&#47;strong>.
+<p>[...]
+<p>In 1978, when he started his career here, operators believed the field would be abandoned within 15 years. "That's why peak oil is a moving target," Mr. Hatlen said. "Oil is always a function of price and technology."<&#47;blockquote></p>

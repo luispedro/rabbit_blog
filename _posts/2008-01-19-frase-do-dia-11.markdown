@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase do Dia
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 1243
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-11
+date: '2008-01-19 23:45:21 -0800'
+date_gmt: '2008-01-19 23:45:21 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 225242
+  author: kamal
+  author_email: kamalbaboo@gmail.com
+  author_url: ''
+  date: '2008-01-20 22:01:09 -0800'
+  date_gmt: '2008-01-20 22:01:09 -0800'
+  content: hoje um presidente preto...amanha quem sabe...james bond preto...lol...e
+    assim o mundo vai mudando...k
+---
+<blockquote>A man yelled out to Obama that he will be a better president than George Bush. Obama responded, &acirc;&euro;&oelig;So would you!&acirc;&euro;<&#47;blockquote></p>
+<p>H&Atilde;&iexcl; que adorar o homem!</p>
+<p>(via <a href="http:&#47;&#47;andrewsullivan.theatlantic.com&#47;the_daily_dish&#47;2008&#47;01&#47;point-taken.html">andrew sullivan<&#47;a>)</p>

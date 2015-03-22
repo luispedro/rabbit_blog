@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Sarkozy 30% -- Royal 26%
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 949
+wordpress_url: http://blog.luispedro.org/posts/sarkozy-30-royal-26
+date: '2007-04-22 18:12:29 -0700'
+date_gmt: '2007-04-22 18:12:29 -0700'
+categories:
+- Fran&Atilde;&sect;a
+tags: []
+comments: []
+---
+<p>A primeira volta j&Atilde;&iexcl; est&Atilde;&iexcl;!</p>
+<p>Vamos &Atilde;&nbsp; segunda...</p>

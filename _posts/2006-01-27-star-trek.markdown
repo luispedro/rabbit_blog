@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Star Trek
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 310
+wordpress_url: http://blog.luispedro.org/?p=310
+date: '2006-01-27 23:51:25 -0800'
+date_gmt: '2006-01-27 23:51:25 -0800'
+categories:
+- Photos
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>desculpem, deixei o liberalismo no autocarro<&#47;i>:</p>
+<p><center><br />
+<a id="p309" rel="attachment" class="imagelink" href="http:&#47;&#47;blog.luispedro.org&#47;?attachment_id=309" title="Star Trek I"><img id="image309" src="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;01&#47;star_treck.jpeg" alt="Star Trek I" height="300"  &#47;><&#47;a><br />
+<&#47;center></p>

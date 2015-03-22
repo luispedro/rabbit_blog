@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: Antenas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1099
+wordpress_url: http://blog.luispedro.org/posts/antenas
+date: '2007-08-13 21:54:54 -0700'
+date_gmt: '2007-08-13 21:54:54 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 116792
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-08-14 15:05:54 -0700'
+  date_gmt: '2007-08-14 15:05:54 -0700'
+  content: "Pois.\r\n\r\nEsse falhan&Atilde;&sect;o dos portugueses em apoiar a voxx
+    estander-se-ia e ampliar-se-ia, muito provavelmente, a outros falhan&Atilde;&sect;os
+    dos portugueses em apoiar outros projetos de interesse, se as doutrinas liberais
+    &Atilde;&nbsp; maneira anglo-sax&Atilde;&sup3;nica fossem aplicadas em Portugal.\r\n\r\n&Atilde;&permil;
+    que a mentalidade (cultura) dos portugueses n&Atilde;&pound;o &Atilde;&copy; id&Atilde;&ordf;ntica
+    &Atilde;&nbsp; mentalidade dos americanos. Os portugueses acham muito bem os projetos
+    muito bons. Mas dificilmente abrem a bolsa (de forma substantiva) para os apoiar.\r\n\r\nEu
+    pr&Atilde;&sup3;prio, quando vivi em Pittsburgh, ouvia sempre e apenas a NPR.
+    Mas nunca dei um tost&Atilde;&pound;o para ela. Apesar de saber que o deveria
+    ter feito."
+- id: 116840
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2007-08-14 20:14:11 -0700'
+  date_gmt: '2007-08-14 20:14:11 -0700'
+  content: "A doutrina liberal &Atilde;&nbsp; maneira anglo-sax&Atilde;&sup3;nica
+    depende de bases informais que moldam as institui&Atilde;&sect;&Atilde;&micro;es
+    formais (e informais).\r\n\r\nUma simples transplanta&Atilde;&sect;&Atilde;&pound;o
+    de regras formais levariam a diferentes institui&Atilde;&sect;&Atilde;&micro;es
+    e resultados.\r\n\r\n(Aten&Atilde;&sect;&Atilde;&pound;o que o que fic&Atilde;&iexcl;mos
+    foi sem voxx e n&Atilde;&pound;o com uma voxx financiada com dinheiro p&Atilde;&ordm;blico)."
+---
+<p>A prop&Atilde;&sup3;sito das <a href="http:&#47;&#47;www.atlantico-online.net&#47;blogue&#47;2007&#47;08&#47;12&#47;um-exemplo&#47;">discuss&Atilde;&micro;es<&#47;a> <a href="http:&#47;&#47;www.atlantico-online.net&#47;blogue&#47;2007&#47;08&#47;12&#47;um-exemplo&#47;">sobre<&#47;a> a Antena 2, lembro-me dum dos slogans da extinta Voxx:</p>
+<p><cite>Voxx. D&Atilde;&ordf;em-nos a Antena 3 e n&Atilde;&sup3;s fazemos uma r&Atilde;&iexcl;dio a s&Atilde;&copy;rio.<&#47;cite></p>
+<p>Provavelmente, era verdade.</p>
+<p>A Voxx, como antes disso a XFM, na mesma frequ&Atilde;&ordf;ncia, foram dois exemplos de falhan&Atilde;&sect;o da sociedade privada em Portugal de apoiar dois projectos culturais de interesse. Apesar de alguns movimentos de apoio &Atilde;&nbsp; esta&Atilde;&sect;&Atilde;&pound;o, com assinaturas e eventos, nunca existiu o movimento em direc&Atilde;&sect;&Atilde;&pound;o &Atilde;&nbsp; carteira que poderia ter feito a diferen&Atilde;&sect;a.</p>
+<p>(Nos EUA, a esta&Atilde;&sect;&Atilde;&pound;o que se diz R&Atilde;&iexcl;dio P&Atilde;&ordm;blica, a NPR, &Atilde;&copy; fundada quase a 100% de doa&Atilde;&sect;&Atilde;&micro;es privadas. Eu pessoalmente, oi&Atilde;&sect;o religiosamente o programa <a href="http:&#47;&#47;www.npr.org&#47;programs&#47;waitwait&#47;">Wait Wait... Don't Tell Me<&#47;a>, em vers&Atilde;&pound;o podcast.)</p>

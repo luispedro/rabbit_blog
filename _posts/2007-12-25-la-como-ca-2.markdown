@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: L&Atilde;&iexcl; Como C&Atilde;&iexcl;
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1226
+wordpress_url: http://blog.luispedro.org/posts/la-como-ca-2
+date: '2007-12-25 20:47:45 -0800'
+date_gmt: '2007-12-25 20:47:45 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 214346
+  author: O Raio
+  author_email: cabalas@gmail.com
+  author_url: http://cabalas.blogsot.com
+  date: '2007-12-27 01:16:35 -0800'
+  date_gmt: '2007-12-27 01:16:35 -0800'
+  content: "\"Os problemas de Portugal n&Atilde;&pound;o s&Atilde;&pound;o diferentes
+    dos problemas da Velha Europa. Uma estagna&Atilde;&sect;&Atilde;&pound;o econ&Atilde;&sup3;mica
+    que se vai tornando em crise s&Atilde;&copy;ria. Uma falta de alternativas. Somente,
+    torn&Atilde;&iexcl;mo-nos europeus quando ainda eramos mais pobres. Os outros
+    europeus fizeram-no com um pouco mais de dinheiro.\"\r\n\r\nDiscordo completamente.
+    Os problemas de Portugal resumem-se a duas letras, UE (Uni&Atilde;&pound;o Europeia)!\r\n\r\n&Atilde;&permil;
+    que Portugal que ao longo da sua Hist&Atilde;&sup3;ria sempre esteve no Centro
+    do Mundo, abandonou este e remeteu-se &Atilde;&nbsp; periferia da Europa.\r\n\r\nActualmente
+    Portugal &Atilde;&copy; governado a partir de Bruxelas e Frankfurt (mais de 60%
+    da legisla&Atilde;&sect;&Atilde;&pound;o que &Atilde;&copy; implementada em Portugal
+    j&Atilde;&iexcl; vem da UE) e o problema &Atilde;&copy; que muita desta legisla&Atilde;&sect;&Atilde;&pound;o
+    que at&Atilde;&copy; &Atilde;&copy; racional para a Europa tomada no seu todo,
+    para Portugal &Atilde;&copy; perniciosa.\r\n\r\nA este problema acresce outro,
+    o de que a UE &Atilde;&copy; intoc&Atilde;&iexcl;vel e, portanto, quando as coisas
+    correm mal em Portugal nenhum pol&Atilde;&shy;tico nem comentador, nem mesmo jornalista
+    tem a coragem de apontar o dedo aos verdadeiros culpados. Assim atiram-se as culpas
+    de tudo para cima de n&Atilde;&sup3;s o que nos deprime e um povo deprimido tem
+    uma economia estagnada. O optimismo &Atilde;&copy; fundamental para incentivar
+    a economia e o que est&Atilde;&iexcl; a acontecer &Atilde;&copy; exactamente o
+    contr&Atilde;&iexcl;rio."
+---
+<p>No NY Times, um <a href="http:&#47;&#47;www.nytimes.com&#47;2007&#47;12&#47;13&#47;world&#47;europe&#47;13italy.html?_r=2&hp&oref=slogin&oref=slogin">artigo<&#47;a> sobre a It&Atilde;&iexcl;lia que podia ser sobre Portugal:</p>
+<blockquote><p>&acirc;&euro;&oelig;The malaise is: &acirc;&euro;&tilde;I can see all that, but there is nothing I can do to change it,&acirc;&euro;&trade;&acirc;&euro; said Beppe Severnigni, a columnist for Corriere della Sera.</p>
+<p>But, he said, &acirc;&euro;&oelig;to change your ways means changing your individual ways: refusing certain compromises, to start paying your taxes, don&acirc;&euro;&trade;t ask for favors when you are looking for a job, not to cheat when your child is trying to reach admission to university.&acirc;&euro;</p>
+<p>&acirc;&euro;&oelig;That&acirc;&euro;&trade;s the tricky part,&acirc;&euro; he said. &acirc;&euro;&oelig;We have reached a point where hoping for some kind of white knight coming in saying, &acirc;&euro;&tilde;We&acirc;&euro;&trade;ll sort you out,&acirc;&euro;&trade; is over.&acirc;&euro;<&#47;blockquote></p>
+<p>Os problemas de Portugal n&Atilde;&pound;o s&Atilde;&pound;o diferentes dos problemas da Velha Europa. Uma estagna&Atilde;&sect;&Atilde;&pound;o econ&Atilde;&sup3;mica que se vai tornando em crise s&Atilde;&copy;ria. Uma falta de alternativas. Somente, torn&Atilde;&iexcl;mo-nos europeus quando ainda eramos mais pobres. Os outros europeus fizeram-no com um pouco mais de dinheiro.</p>
+<p>(via <a href="http:&#47;&#47;www.marginalrevolution.com&#47;marginalrevolution&#47;2007&#47;12&#47;prescription-fo.html">marginal revolution<&#47;a>)</p>

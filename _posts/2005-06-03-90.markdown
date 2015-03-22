@@ -1,0 +1,203 @@
+---
+layout: post
+status: publish
+published: true
+title: Escolha da Idade de Reforma
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 90
+wordpress_url: http://blog.luispedro.org/?p=90
+date: '2005-06-03 00:11:02 -0700'
+date_gmt: '2005-06-03 00:11:02 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 208
+  author: ana sim&Atilde;&micro;es
+  author_email: ''
+  author_url: ''
+  date: '2005-06-03 12:17:36 -0700'
+  date_gmt: '2005-06-03 12:17:36 -0700'
+  content: li e concordo.
+- id: 209
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://naperon.blogspot.com
+  date: '2005-06-03 14:13:41 -0700'
+  date_gmt: '2005-06-03 14:13:41 -0700'
+  content: "O teu ponto de vista acaba sempre por me surpreender. \r\nConcordo com
+    a quest&Atilde;&pound;o dos descontos, mas n&Atilde;&pound;o posso concordar com
+    a quest&Atilde;&pound;o do \"amealhar\" (muito american way ali&Atilde;&iexcl;s).
+    No ideal, as pessoas deveriam poder escolher o seu plano de reforma, mas a verdade
+    &Atilde;&copy; que as cl&Atilde;&iexcl;usulas das seguradoras e dos bancos seriam
+    tantas que ainda ficarias mais preso e at&Atilde;&copy; te reformarias mais tarde.
+    \r\nEu compreendo o teu ponto de vista e at&Atilde;&copy; vislumbro o teu sistema
+    como poss&Atilde;&shy;vel, mas (e esse &Atilde;&copy; o meu problema de esquerdista
+    de <em>merda<&#47;em>) n&Atilde;&pound;o confio nas grandes empresas: &Atilde;&copy;
+    a escola da luta de classes ainda. Nem &Atilde;&copy; racional, &Atilde;&copy;
+    mesmo obtuso.\r\nGrandes posts andas a escrever, I mean it! "
+- id: 215
+  author: Alexandre
+  author_email: alexandre46216@gmail.com
+  author_url: http://www.utc.fr
+  date: '2005-06-05 11:56:36 -0700'
+  date_gmt: '2005-06-05 11:56:36 -0700'
+  content: "Normalmente n&Atilde;&pound;o leio blogs e muito menos escrevo comentarios,
+    principalmente quando exprimem defendem ideologias politicas e sociais muito diferentes
+    daquelas em que acredito e defendo. Tenho lido mais para matar um pouco os momentos
+    de solid&Atilde;&pound;o. Uma raz&Atilde;&pound;o me leva a escrever: o comentario
+    da \"esquerdista de merda\".\r\nN&Atilde;&pound;o concordo com a liberaliza&Atilde;&sect;&Atilde;&pound;o
+    desregulada e a capitaliza&Atilde;&sect;&Atilde;&pound;o pura do sistema de seguran&Atilde;&sect;a
+    social pois acho que os cidad&Atilde;&pound;os das classes mais desfavorecidas
+    raramente conseguem \"amealhar\" ao longo de uma vida, isto porque todos os meses
+    t&Atilde;&ordf;m que esticar os seus baixos salarios para sobreviverem. Compreendo
+    que, dada a crescente estratifica&Atilde;&sect;&Atilde;&pound;o social no nosso
+    pais, haja quem n&Atilde;&pound;o conhe&Atilde;&sect;a pessoas nesta situ&Atilde;&sect;&Atilde;&pound;o,
+    eu nasci numa aldeia muito pobre e conhe&Atilde;&sect;o pessoas que vivem em condi&Atilde;&sect;&Atilde;&micro;es
+    constantes de crise or&Atilde;&sect;amental, acredito piamente que em Lisboa sera
+    pior em certas zonas, mas sao meios que nao frequento dado o meu estrato social
+    (tenho que ser honesto).\r\nAcho que o exemplo da Saude nos EUA vem destruir todo
+    o rigor retorico e ingenuidade inovadora do post do LP. De facto, este tipo de
+    ideologia &Atilde;&copy; quase t&Atilde;&pound;o velha como o velho comunismo,
+    nos anos 70 havia quem lhe chamasse nos EUA de anarco-capitalismo e n&Atilde;&pound;o
+    eram \"esquerdistas de merda\". Voltando ao exemplo da saude nos EUA, o facto
+    de se ter liberalizado a saude fez com que os Hospitais privados tivessem como
+    preocupa&Atilde;&sect;&Atilde;&pound;o primaria o lucro (como qualquer empresa
+    para sobreviver, n&Atilde;&pound;o sejamos ing&Atilde;&copy;nuos). A consequencia
+    logica disto foi simples, os Hospitais que investiam mais tinham que cobrar mais
+    e ent&Atilde;&pound;o estabeleceu-se a sectoriza&Atilde;&sect;&Atilde;&pound;o
+    social da saude americana. Quem tem dinheiro para os Hospitais de qualidade &Atilde;&copy;
+    atendido com rapidez e efici&Atilde;&ordf;ncia, quem n&Atilde;&pound;o tem v&Atilde;&ordf;-se
+    perante listas de espera, atendimento precario e uma menor qualidade de vida.
+    Isto &Atilde;&copy; tudo mediado por seguradoras, para todas as bolsas e para
+    todos os rendimentos, acontece que ha muita gente que n&Atilde;&pound;o tem acesso
+    a seguros de saude.\r\nO caso da seguran&Atilde;&sect;a social &Atilde;&copy;
+    diferente mas similar no que conta a presta&Atilde;&sect;&Atilde;&pound;o de servi&Atilde;&sect;os
+    e lucros empresariais. Quem desconta &Atilde;&copy; porque pode descontar, num
+    sistema como defende o LP desconta o que lhe apetece e reforma-se quando lhe apetece
+    de acordo com as regras defenidas em contrato com a empresa. E os pobres? Os que
+    n&Atilde;&pound;o podem descontar e merecem uma reforma? Ou alguem acha que n&Atilde;&pound;o
+    merecem?\r\nA obrigatoriedade de toda a gente trabalhar um numero de anos para
+    receber a reforma obriga as pessoas que podem descontar a descontar para uma maquina
+    do estado que ira consequentemente obter um capital para repartir, n&Atilde;&pound;o
+    repartir equitativamente, mas de um modo socialmente mais justo. \r\nPerante uma
+    situa&Atilde;&sect;&Atilde;&pound;o de liberaliza&Atilde;&sect;&Atilde;&pound;o
+    da seguran&Atilde;&sect;a social, a parte que cabe ao Estado, ou seja, aquela
+    que ira interessar somente aos que t&Atilde;&ordf;m rendimentos mais baixos dara
+    muito prejuizo e consequentemente tera menor capacidade de prestar um servio&Atilde;&sect;o
+    capaz.\r\nPara acabar digo a minha opini&Atilde;&pound;o: Sou a favor da exist&Atilde;&ordf;ncia
+    de planos de poupan&Atilde;&sect;a reforma geridos po empresas privadas e sem
+    o dedo do Estado. No entanto, acho que as pessoas devem ser obrigadas a descontar
+    para a seguran&Atilde;&sect;a social do estado, os planos de poupan&Atilde;&sect;a
+    reforma privados devem existir como mais um plano de reforma para aqueles que
+    querem ter uma reforma superior a que o Estado lhes vai fornecer.\r\nA seguran&Atilde;&sect;a
+    social n&Atilde;&pound;o &Atilde;&copy; uma empresa de avia&Atilde;&sect;&Atilde;&pound;o,
+    ou de telemoveis, ou de viti e vinicultura, ou de entretenimento, ou de publicidade,
+    ou automovel, ou de cosm&Atilde;&copy;tica, ou afins. Para esse tipo de empresas
+    considero que deve existir um mercado livre e liberal, agora para a seguran&Atilde;&sect;a
+    social que presta um servi&Atilde;&sect;o publico na ajuda aos mais desfavorecidos,
+    acho que as regras de livre mercado n&Atilde;&pound;o se devem aplicar.\r\nN&Atilde;&pound;o
+    concordo com o que diz a \"esquerdista de merda\" relativamente as grandes empresas,
+    as grandes empresas s&Atilde;&pound;o de confiar, no entanto elas so vivem com
+    lucro, assim como a qualidade do seu servi&Atilde;&sect;o prestado.\r\nVa, agora
+    atirem-me pedras, sinto-me como um Portista que foi gritar FCP ao Estadio da Luz
+    cheio de adeptos Benfiquistas. "
+- id: 217
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-06-05 13:41:19 -0700'
+  date_gmt: '2005-06-05 13:41:19 -0700'
+  content: "Ambos os coment&Atilde;&iexcl;rios referem os EUA de formas que n&Atilde;&pound;o
+    me parecem apropriadas.\r\n\r\nConcordo que o sistema de sa&Atilde;&ordm;de americano
+    &Atilde;&copy; moralmente errado, mas quando dizes, Alexandre, <i>quem tem dinheiro
+    para os Hospitais de qualidade &Atilde;&copy; atendido com rapidez e efici&Atilde;&ordf;ncia,
+    quem n&Atilde;&pound;o tem v&Atilde;&ordf;-se perante listas de espera, atendimento
+    prec&Atilde;&iexcl;rio e uma menor qualidade de vida<&#47;i> n&Atilde;&pound;o
+    est&Atilde;&iexcl;s a descrever o sistema portugu&Atilde;&ordf;s (at&Atilde;&copy;
+    mais que o americano: nos EUA, as urg&Atilde;&ordf;ncias de qualquer hospital
+    s&Atilde;&pound;o obrigadas a atender os casos que se passem na sua &Atilde;&iexcl;rea,
+    experimenta aparecer &Atilde;&nbsp; porta das urg&Atilde;&ordf;ncias da CUF sem
+    seguro de sa&Atilde;&ordm;de nem dinheiro)? Mas eu nunca defendi o sistema de
+    sa&Atilde;&ordm;de americano. <a href=\"http:&#47;&#47;blog.luispedro.org&#47;?p=54\"
+    rel=\"nofollow\">Defendo<&#47;a>, sim, sistemas de sa&Atilde;&ordm;de parecidos,
+    como o franc&Atilde;&ordf;s, que mantem o princ&Atilde;&shy;pio liberal, mas alarga
+    a cobertura a toda a popula&Atilde;&sect;&Atilde;&pound;o.\r\n\r\nQuanto ao sistema
+    de reformas, tamb&Atilde;&copy;m n&Atilde;&pound;o defendo o sistema americano.
+    O americano &Atilde;&copy; mais <i>pr&Atilde;&sup3; business<&#47;i> que liberal.
+    Prefiro o sistema sueco, onde podes desviar uma parte da seguran&Atilde;&sect;a
+    social para planos poupan&Atilde;&sect;a ou de investimento: a poupan&Atilde;&sect;a
+    &Atilde;&copy; obrigat&Atilde;&sup3;ria, mas o modo (e quantidade) de o fazer
+    pode ser decidido pelo indiv&Atilde;&shy;duo. Este era o modelo por detr&Atilde;&iexcl;s
+    das mudan&Atilde;&sect;as do Bag&Atilde;&pound;o F&Atilde;&copy;lix.\r\n\r\n(O
+    movimento <i>anarco-capitalista<&#47;i> chama-se agora <i>libert&Atilde;&iexcl;rio<&#47;i>
+    e continua influente nos EUA)."
+- id: 219
+  author: Alexandre
+  author_email: alexandre46216@hotmail.com
+  author_url: http://www.utc.fr
+  date: '2005-06-06 08:28:31 -0700'
+  date_gmt: '2005-06-06 08:28:31 -0700'
+  content: "N&Atilde;&pound;o concordo em rela&Atilde;&sect;&Atilde;&pound;o aos EUA,
+    &Atilde;&copy; verdade que &Atilde;&copy;s logo atendido numa urg&Atilde;&ordf;ncia
+    (a n&Atilde;&pound;o ser que seja um mal em estado estacionario) mas n&Atilde;&pound;o
+    &Atilde;&copy; verdade que esse atendimento seja satisfatorio &Atilde;&nbsp; primeira,
+    casos de doentes que sofrem de asma e v&Atilde;&pound;o 2 a 3 vezes ao Hospital
+    Publico no mesmo dia por insatisfa&Atilde;&sect;&Atilde;&pound;o do tratamento
+    &Atilde;&copy; um exemplo classico.\r\nSo para desmistificar o liberalismo do
+    sistema de saude Franc&Atilde;&ordf;s. A ultima vez que fui ao Hospital falei
+    com o m&Atilde;&copy;dico sobre isso, ao nivel dos hospitais o sistema &Atilde;&copy;
+    muito mais liberal ao nivel de quem gere do que em Portugal, mas existe um conjunto
+    de legisla&Atilde;&sect;&Atilde;&pound;o apertada relativa &Atilde;&nbsp; gestao
+    dos estabelecimentos de saude que limita o nivel de liberaliza&Atilde;&sect;&Atilde;&pound;o
+    que me parece que tu defendas.\r\nVou dar um exemplo, o facto de eu ser cidad&Atilde;&pound;o
+    europeu faz com que eu tenha 70% das minhas despesas em saude pagas pelo Estado
+    Franc&Atilde;&ordf;s (como qualquer cidad&Atilde;&pound;o franc&Atilde;&ordf;s,
+    viva a UE). Mas em qualquer estabelecimento de saude, para quamquer presta&Atilde;&sect;&Atilde;&pound;o
+    de servi&Atilde;&sect;o ao nivel da saude? A resposta &Atilde;&copy; \"mais ou
+    menos\". Existem pre&Atilde;&sect;os tabelados pelo estado para os diferentes
+    tipos de presta&Atilde;&sect;&Atilde;&pound;o de servi&Atilde;&sect;os de saude
+    (n&Atilde;&pound;o est&Atilde;&pound;o incluidos os servi&Atilde;&sect;os de materiais
+    como oculos ou aparelhos dentarios e afins) e o Estado paga 70% desse pre&Atilde;&sect;o.
+    Mas por exemplo, um m&Atilde;&copy;dico n&Atilde;&pound;o pode cobrar acima desse
+    pre&Atilde;&sect;o? A resposta &Atilde;&copy; \"pode\", principalmente se tiver
+    fama de ser muito bom profissional e as pessoas n&Atilde;&pound;o se importarem
+    de pagar, para al&Atilde;&copy;m dos 30% que faltam, mais ainda pelo servi&Atilde;&sect;o.\r\nAqui
+    mesmo entram as seguradoras para pagarem os valores acima dos 70 %, que por lei
+    n&Atilde;&pound;o podem intervir como empresa seguradora classica, mas t&Atilde;&ordf;m
+    de abrir uma empresa em separado (que ao fim e ao cabo pertence ao mesmo grupo
+    da original, tipo M&Atilde;&copy;dis em Portugal). Para os estudantes n&Atilde;&pound;o
+    podem existir por lei mais do que duas, eu estou inscrito na SMENO, pago 50 euros
+    por semestre e qualquer que seja a minha despesa de saude o estado paga 70 % e
+    a mutual dos estudantes SMENO paga o resto. Estas empresas s&Atilde;&pound;o completamentes
+    privadas e de gest&Atilde;&pound;o privada.\r\nMas agora vem o climax da legisla&Atilde;&sect;&Atilde;&pound;o
+    relativa a estas seguradoras, por lei uma seguradora de saude n&Atilde;&pound;o
+    pode fazer lucro, repito, a lei francesa proibe estas empresas de fazer lucro.
+    Na situa&Atilde;&sect;&Atilde;&pound;o de haver lucro, mesmo depois de todas as
+    tentativas de o eliminar atrav&Atilde;&copy;s de investimento por exemplo, a empresa
+    &Atilde;&copy; obrigada a devolver esse lucro aos \"clientes\", mesmo que seja
+    muito pouco.\r\nNisto concordo contigo meu caro, quem me dera que a saude em Portugal
+    fosse assim, em casos de sistemas de saude como o franc&Atilde;&ordf;s em que
+    a legisa&Atilde;&sect;&Atilde;&pound;o equilibra o caracter puramente economicista
+    que p&Atilde;&micro;e de lado o valor humano da presta&Atilde;&sect;&Atilde;&pound;o
+    do servi&Atilde;&sect;o, so ha para louvar.\r\nPosso estar enganado, mas acho
+    que n&Atilde;&pound;o gostas muito de tanta lei a limitar a ac&Atilde;&sect;&Atilde;&pound;o
+    das empresas.\r\nPara terminar, no sistema Sueco as pessoas pagam muitos impostos
+    e toda a gente paga impostos e t&Atilde;&ordf;m orgulho nisso, quem n&Atilde;&pound;o
+    paga vai para para a cadeia. Neste caso, a  maquina do estado depende mais dos
+    impostos do que da parte descontada pelos trabalhadores para a seguran&Atilde;&sect;a
+    social.\r\nTamb&Atilde;&copy;m posso estar enganado, mas n&Atilde;&pound;o costumas
+    apreciar muito os impostos  e a subida deles.\r\nDou muito o exemplo dos EUA porque
+    &Atilde;&copy; o unico pais democratico do mundo onde nao existe um partido de
+    esquerda influente, &Atilde;&copy; um optimo exemplo para ver o que &Atilde;&copy;
+    a pura direita democratica, gostava que houvesse um pais democratico onde nao
+    existissem partidos influentes de direita so para saber como era.\r\nEt voil&Atilde;&nbsp;! "
+---
+<p>Diz-se <cite>a altera&Atilde;&sect;&Atilde;&pound;o do regime de reforma antecipada p&Atilde;&micro;e sobretudo em causa a capacidade de escolha do funcion&Atilde;&iexcl;rio<&#47;cite>, mas a verdade &Atilde;&copy; que a seguran&Atilde;&sect;a social p&Atilde;&micro;e em causa a capacidade de escolha do indiv&Atilde;&shy;duo ao obrigar &Atilde;&nbsp; uma poupan&Atilde;&sect;a dentro de um esquema pr&Atilde;&copy;-definido e quase &Atilde;&ordm;nico. Se o sistema fosse mais livre e capitalizado n&Atilde;&pound;o existiria sequer a quest&Atilde;&pound;o da reforma antecipada. Uma pessoa poder-se-ia reformar quando quisesse, beneficiando do capital que acumulou.</p>
+<p>&Atilde;&permil; um sistema que desligou o esfor&Atilde;&sect;o da recompensa que obriga a esta perda de capacidade de escolha e a fixar uma idade &Atilde;&ordm;nica. Note-se que esta &Atilde;&copy; a principal raz&Atilde;&pound;o pela qual o sistema de reformas da seguran&Atilde;&sect;a social &Atilde;&copy; regressiva (transfere dinheiro das classes mais baixas para as mais ricas): as classes mais altas, estudando, come&Atilde;&sect;am a trabalhar anos mais tarde e se se reformam na mesma idade (sem que os anos de contribui&Atilde;&sect;&Atilde;&pound;o sejam contabilizados: s&Atilde;&sup3; contam os &Atilde;&ordm;ltimos anos para calcular o valor da pens&Atilde;&pound;o), quem come&Atilde;&sect;a a trabalhar mais cedo &Atilde;&copy; penalizado.</p>

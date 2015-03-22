@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Allgarve
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 918
+wordpress_url: http://blog.luispedro.org/posts/allgarve
+date: '2007-03-21 21:11:54 -0700'
+date_gmt: '2007-03-21 21:11:54 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 58226
+  author: theDutch
+  author_email: klaas@allgarve.biz
+  author_url: http://www.allgarve.biz
+  date: '2007-04-04 03:07:28 -0700'
+  date_gmt: '2007-04-04 03:07:28 -0700'
+  content: http:&#47;&#47;www.allgarve.biz&#47;allgarve-for-sale.html
+---
+<p>Na s&Atilde;&copy;rie <i>What the fuck?<&#47;i>:</p>
+<p><center><img id="image917" src="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2007&#47;03&#47;allgarve.jpg" alt="Allgarve" &#47;><&#47;center></p>
+<p>N&Atilde;&pound;o tem piada, n&Atilde;&pound;o funciona em ingl&Atilde;&ordf;s, &Atilde;&copy; esquisito em franc&Atilde;&ordf;s, e n&Atilde;&pound;o acrescenta nada em alem&Atilde;&pound;o, francamente, <a href="http:&#47;&#47;www.jornaldoalgarve.pt&#47;artigos.asp?varNumero=6205">&Atilde;&copy; uma ideia de mentecapto<&#47;a>:<br />
+<blockquote>Governo vai investir cerca de tr&Atilde;&ordf;s milh&Atilde;&micro;es de euros em promo&Atilde;&sect;&Atilde;&pound;o no Algarve, sob a marca "Allgarve" e outros tr&Atilde;&ordf;s milh&Atilde;&micro;es na realiza&Atilde;&sect;&Atilde;&pound;o de eventos na regi&Atilde;&pound;o.<&#47;blockquote></p>
+<p>Num <a href="http:&#47;&#47;www.portugalforum.de&#47;urlaub-portugal&#47;16861-algarve-allgarve.html">site em alem&Atilde;&pound;o<&#47;a> &Atilde;&copy; proposta a interpreta&Atilde;&sect;&Atilde;&pound;o <cite>All Garbage<&#47;cite>.
+<p>Quando &Atilde;&copy; que o Manuel Pinho se demite? De qualquer maneira, para &Atilde;&copy; que &Atilde;&copy; preciso um Ministro da Economia (al&Atilde;&copy;m do comic relief)?</p>

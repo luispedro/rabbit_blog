@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Emails
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1096
+wordpress_url: http://blog.luispedro.org/posts/emails
+date: '2007-08-12 11:53:30 -0700'
+date_gmt: '2007-08-12 11:53:30 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 116422
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-08-12 15:55:21 -0700'
+  date_gmt: '2007-08-12 15:55:21 -0700'
+  content: Eu &Atilde;&nbsp;s vezes recebo mails cujo attachment &Atilde;&copy; ele
+    mesmo um mail.
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; parece um blogue de escrit&Atilde;&sup3;rios<&#47;i>:
+<p>Irritam-me as pessoas que enviam um mail com um attachment que &Atilde;&copy; simplesmente o texto do mail repetido. Pior que isso, s&Atilde;&sup3; aqueles que enviam um mail cujo conte&Atilde;&ordm;do est&Atilde;&iexcl; todo no attachment, mas &Atilde;&copy; s&Atilde;&sup3; texto (que podia ter ido directamente no mail).
+<p>Felizmente, estas pessoas tendem a mandar coisas menos importantes e, portanto, podemos quase sempre apagar sem ler e n&Atilde;&pound;o perder grande coisa. Se for mesmo importante, as pessoas que voltem a contactar (ou tivessem mandassem um mail decentezinho).</p>

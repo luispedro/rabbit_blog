@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: A Fran&Atilde;&sect;a
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 286
+wordpress_url: http://blog.luispedro.org/?p=286
+date: '2006-01-13 10:01:53 -0800'
+date_gmt: '2006-01-13 10:01:53 -0800'
+categories:
+- Culturas
+- Europa
+tags: []
+comments: []
+---
+<p>A Fran&Atilde;&sect;a v&Atilde;&ordf;-se nas suas fnacs, andar dos livros:</p>
+<p>A sec&Atilde;&sect;&Atilde;&pound;o <cite>Pol&Atilde;&shy;tica Internacional &amp; Actualidade<&#47;cite> &Atilde;&copy; muito menor que a sec&Atilde;&sect;&Atilde;&pound;o <i>Hist&Atilde;&sup3;ria<&#47;i>, mas ambas s&Atilde;&pound;o muito menores que a sec&Atilde;&sect;&Atilde;&pound;o <cite>Culin&Atilde;&iexcl;ria<&#47;cite> que ocupa v&Atilde;&iexcl;rias prateleiras.</p>
+<p>O que comprova finalmente a muito maior import&Atilde;&cent;ncia da Culin&Atilde;&iexcl;ria <i>vis a vis<&#47;i> os Temas da Actualidade &Atilde;&copy; que enquanto nesta &Atilde;&ordm;ltima s&Atilde;&sup3; quase s&Atilde;&sup3; se encontram autores franceses, a escrever em franc&Atilde;&ordf;s, duma vis&Atilde;&pound;o francesa; na sec&Atilde;&sect;&Atilde;&pound;o de Culin&Atilde;&iexcl;ria cerca de metade dos livros s&Atilde;&pound;o tradu&Atilde;&sect;&Atilde;&micro;es de edi&Atilde;&sect;&Atilde;&micro;es estrangeiras. Eu, em particular, recomendo esta <a href="http:&#47;&#47;www.marabout.com&#47;index.html">colec&Atilde;&sect;&Atilde;&pound;o de origem autraliana<&#47;a>.</p>

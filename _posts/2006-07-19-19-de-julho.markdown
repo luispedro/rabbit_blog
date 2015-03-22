@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: 19 de Julho
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 562
+wordpress_url: http://blog.luispedro.org/?p=562
+date: '2006-07-19 15:48:38 -0700'
+date_gmt: '2006-07-19 15:48:38 -0700'
+categories:
+- Gay
+- Pol&Atilde;&shy;tica Internacional
+tags: []
+comments:
+- id: 7453
+  author: Rabbit&#8217;s blog &raquo; Blog Archive &raquo; Gays contra Israel?
+  author_email: ''
+  author_url: http://blog.luispedro.org/?p=568
+  date: '2006-07-25 14:00:38 -0700'
+  date_gmt: '2006-07-25 14:00:38 -0700'
+  content: "[...] N&atilde;o me lembro de os ver organizar nenhuma manifesta&ccedil;&atilde;o
+    contra a teocracia iraniana. [...]"
+- id: 7476
+  author: zzz
+  author_email: insectoinsulto@gmail.com
+  author_url: ''
+  date: '2006-07-26 17:41:29 -0700'
+  date_gmt: '2006-07-26 17:41:29 -0700'
+  content: "(e mais um, s&Atilde;&sup3; para confirmar os meus receios)\r\nQue triste
+    hist&Atilde;&sup3;ria. Algu&Atilde;&copy;m deu por ela?"
+---
+<p><center><a href="http:&#47;&#47;direland.typepad.com&#47;direland&#47;2006&#47;07&#47;come_out_tomorr.html"><img id="image561" src="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;07&#47;iran - we say no.1.jpg" alt="Iran" &#47;><&#47;a><&#47;center></p>

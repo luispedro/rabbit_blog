@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Al Gore
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1178
+wordpress_url: http://blog.luispedro.org/posts/al-gore-2
+date: '2007-10-12 13:47:26 -0700'
+date_gmt: '2007-10-12 13:47:26 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Ser&Atilde;&iexcl; que se vai candidatar a Presidente (agora que ganhou o N&Atilde;&sup3;bel)?</p>
+<p>Por aqui, anda muita gente em pulgas para que ele se candidate. Ningu&Atilde;&copy;m parece estar apaixonado pela Hillary. N&Atilde;&pound;o signifique que ela n&Atilde;&pound;o ganhe---votavam ne-la na mesma---mas n&Atilde;&pound;o apaixona.</p>

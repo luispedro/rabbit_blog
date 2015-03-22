@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: Canetas
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 980
+wordpress_url: http://blog.luispedro.org/posts/canetas
+date: '2007-05-21 13:16:44 -0700'
+date_gmt: '2007-05-21 13:16:44 -0700'
+categories:
+- Liberalismo
+tags: []
+comments:
+- id: 68625
+  author: Ant&Atilde;&sup3;nioCostaAmaral (
+  author_email: antoniocostaamaral@gmail.com
+  author_url: http://aartedafuga.blogpspot.com
+  date: '2007-05-21 15:08:59 -0700'
+  date_gmt: '2007-05-21 15:08:59 -0700'
+  content: ":)"
+- id: 507997
+  author: sandra
+  author_email: sandra.love@hotmail.com
+  author_url: ''
+  date: '2009-02-17 18:56:52 -0800'
+  date_gmt: '2009-02-17 18:56:52 -0800'
+  content: isto nao tem nada de expecial...
+- id: 604348
+  author: Mirella
+  author_email: mimillafernandes@hotmail.com
+  author_url: http://NÃ£oaparecenada
+  date: '2010-01-20 18:53:10 -0800'
+  date_gmt: '2010-01-20 18:53:10 -0800'
+  content: N&Atilde;&pound;o aparece nada o q eu quero &Atilde;&copy; er os pre&Atilde;&sect;os
+    e vcer como &Atilde;&copy; o q eu quero e canetas gel e canetas de pontas finas
+    o macimo de caneta gel tem que ser de 24 cores.Ah e um pre&Atilde;&sect;o bem
+    baratinho
+- id: 625284
+  author: '22555522338887845454'
+  author_email: ''
+  author_url: http://9889+98+5645645654
+  date: '2010-05-17 14:31:45 -0700'
+  date_gmt: '2010-05-17 14:31:45 -0700'
+  content: 564565465.5.564.84+7&#47;*---*&#47;-+*&#47;-+-+*&#47;-&#47;*-+&#47;--&#47;*-*-&#47;-&#47;--&#47;-*&#47;&#47;--&#47;&#47;*&#47;-&#47;&#47;*
+---
+<p>Na s&Atilde;&copy;rie <i>quando for grande quero ser como o Milton Friedman<&#47;i>:
+<p>1. Eu sou esquisito com as canetas que uso. S&Atilde;&pound;o canetas baratas, de dois euros, daquelas de usar e deitar fora. Mesmo assim, normalmente compro sempre o mesmo modelo (h&Atilde;&iexcl; v&Atilde;&iexcl;rios anos ali&Atilde;&iexcl;s).
+<p>Anteontem, na papelaria da faculdade, estava esgotado esse modelo. Experimentei todas as canetas na loja (a&Atilde;&shy; umas 30, s&Atilde;&sup3; contando as pretas). Encontrei apenas dois tipos de caneta que me agradavam. Comprei uma de cada pensando que, se depois mudasse de ideias sobre uma delas, podia sempre usar a outra.
+<p>A miser&Atilde;&iexcl;vel caneta descart&Atilde;&iexcl;vel tem de ser perfeita para mim. Leve, de tra&Atilde;&sect;o fino, sem precisar de muita press&Atilde;&pound;o, escreve um preto s&Atilde;&sup3;lido (sem aquele ar de esferogr&Atilde;&iexcl;fica ranhosa). Sei que n&Atilde;&pound;o sou o &Atilde;&ordm;nico que assim pensa e age. Sei tamb&Atilde;&copy;m que as canetas que eu prefiro n&Atilde;&pound;o s&Atilde;&pound;o exactamente as que outros preferem.
+<p>H&Atilde;&iexcl; quem goste duma caneta mais pesada, duma mais cheia, daquelas que fazem a forma da m&Atilde;&pound;o, h&Atilde;&iexcl; quem (imagine-se!) prefira a lapiseira (coisa que nunca percebi), h&Atilde;&iexcl; quem goste de escrever a azul (eu prefiro o preto), quem goste especificamente do azul-c&Atilde;&copy;u e quem use cores mais esquisitas...
+<p>2. O sistema capitalista &Atilde;&copy; muitas vezes acusado de criar escolhas artificiais, de criar variedade desnecess&Atilde;&iexcl;ria. Um &Atilde;&ordm;nico tipo de caneta n&Atilde;&pound;o podia ser bom para toda a gente?
+<p>N&Atilde;&pound;o.
+<p>3. Para outra vez, fica a import&Atilde;&cent;ncia extrema de um supermercado com 30 tipos de mostarda.</p>

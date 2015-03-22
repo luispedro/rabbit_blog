@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Obama
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1352
+wordpress_url: http://blog.luispedro.org/posts/obama-2
+date: '2008-06-28 16:06:08 -0700'
+date_gmt: '2008-06-28 16:06:08 -0700'
+categories:
+- EUA
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>este blogue vota Obama<&#47;i>:</p>
+<p>Esta foi a semana em que Obama tocou com os p&Atilde;&copy;s na terra. Parece que, apesar de ser o enviado de Deus &Atilde;&nbsp; terra, Obama tamb&Atilde;&copy;m se comporta como um pol&Atilde;&shy;tico.</p>
+<p>At&Atilde;&copy; h&Atilde;&iexcl; pouco tempo, isso via-se nos detalhes (como, por exemplo, mudou o discurso sobre o futuro do Iraque de "vou tirar de l&Atilde;&iexcl; o ex&Atilde;&copy;rcito imediatamente" para o "vou tirar de l&Atilde;&iexcl; o ex&Atilde;&copy;rcito eventualmente" quando passou da campanha das prim&Atilde;&iexcl;rias &Atilde;&nbsp; campanha para a Presid&Atilde;&ordf;ncia), esta semana viu-se em grande.</p>
+<p>Come&Atilde;&sect;ou na capa do NY Times (que apoiara H. Clinton) num artigo sobre como Obama &Atilde;&copy; um dos grandes apoiantes do etanol (causa que hoje &Atilde;&copy; vista como dinheiro para grandes lobies). Para um candidato "anti-lobies," esta liga&Atilde;&sect;&Atilde;&pound;o ca&Atilde;&shy;u mal.</p>
+<p>Depois, veio a decis&Atilde;&pound;o do Supremo Tribunal de considerar a pena de morte para viola&Atilde;&sect;&Atilde;&pound;o de menores como inconstitucional. Obama afirmou-se contra a decis&Atilde;&pound;o numa posi&Atilde;&sect;&Atilde;&pound;o federalista (mostrando um pouco do lado conservador, com c pequeno, que por vezes passa despercebido). Novamente, declara&Atilde;&sect;&Atilde;&micro;es que n&Atilde;&pound;o s&Atilde;&pound;o as esperadas do candidato dito "mais liberal do senado."</p>
+<p>Logo no dia seguinte, o supremo afirmou (pela primeira vez na hist&Atilde;&sup3;ria dos EUA!) que a segunda emenda define um direito ao porte de armas. Obama, que sempre foi um grande defensor do <cite>gun control<&#47;cite>, tomou uma posi&Atilde;&sect;&Atilde;&pound;o amb&Atilde;&shy;gua (que todos temos o direito ao porte de armas, mas as comunidades t&Atilde;&ordf;m o direito de assegurar que tal &Atilde;&copy; feito de forma respons&Atilde;&iexcl;vel).</p>
+<p>Na disto o danifica nas sondagens, mas esta corrida para o centro mostra que o homem, afinal, &Atilde;&copy; somente humano.</p>

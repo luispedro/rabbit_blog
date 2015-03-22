@@ -1,0 +1,153 @@
+---
+layout: post
+status: publish
+published: true
+title: Cr&Atilde;&copy;ditos
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1057
+wordpress_url: http://blog.luispedro.org/posts/creditos
+date: '2007-07-18 19:29:03 -0700'
+date_gmt: '2007-07-18 19:29:03 -0700'
+categories:
+- Portugal
+- EUA
+tags: []
+comments:
+- id: 104940
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-07-18 23:33:31 -0700'
+  date_gmt: '2007-07-18 23:33:31 -0700'
+  content: "Hip&Atilde;&sup3;tese alternativa (ou talvez seja uma vers&Atilde;&pound;o
+    da 4): se nos EUA os bancos se fossem recusar a emprestar dinheiro a quem n&Atilde;&pound;o
+    tenha emprego fixo (no sentido europeu de \"emprego fixo\") teriam muito menos
+    gente a quem emprestarem dinheiro que os bancos portugueses.\r\n\r\nOutra hip&Atilde;&sup3;tese
+    &Atilde;&copy; que n&Atilde;&pound;o seja uma diferen&Atilde;&sect;a de realidade
+    mas de percep&Atilde;&sect;&Atilde;&pound;o da realidade (mas o Lu&Atilde;&shy;s
+    Pedro saber&Atilde;&iexcl; melhor que eu das realidades comparadas de Portugal
+    e dos EUA) - afinal, penso que foi o americano Mark Twain que disse que \"para
+    um banco te dar um empr&Atilde;&copy;stimo, tens que provar que n&Atilde;&pound;o
+    precisas dele\", o que indicia que (pelo menos no final do s&Atilde;&copy;culo
+    XIX) os bancos norte-americanos tamb&Atilde;&copy;m n&Atilde;&pound;o s&Atilde;&pound;o
+    (ou eram) assim t&Atilde;&pound;o \"f&Atilde;&iexcl;ceis\" a dar cr&Atilde;&copy;dito."
+- id: 104964
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2007-07-19 01:00:59 -0700'
+  date_gmt: '2007-07-19 01:00:59 -0700'
+  content: "N&Atilde;&pound;o creio que seja s&Atilde;&sup3; uma diferen&Atilde;&sect;a
+    de precep&Atilde;&sect;&Atilde;&pound;o. Em portugal, ouvia mesmo muita gente
+    a queixar-se que era dif&Atilde;&shy;cil e quase todos conseguiam empr&Atilde;&copy;stimos
+    somente com apoio dos pais. Aqui &Atilde;&copy; fac&Atilde;&shy;limo, at&Atilde;&copy;
+    para os estrangeiros (h&Atilde;&iexcl; uns tempos, um mini-escandalo era como
+    os bancos davam cr&Atilde;&copy;dito at&Atilde;&copy; aos imigrantes ilegais!).\r\n\r\nOs
+    bancos do s&Atilde;&copy;c XIX j&Atilde;&iexcl; pouco t&Atilde;&ordf;m a ver com
+    os do s&Atilde;&copy;c XXI. Nomeadamente, n&Atilde;&pound;o existiam os sistemas
+    de historial de cr&Atilde;&copy;dito e era muito mais f&Atilde;&iexcl;cil fugir
+    para outra cidade&#47;estado com o dinheiro.\r\n\r\nEm Portugal, tamb&Atilde;&copy;m
+    h&Atilde;&iexcl; imensa gente em idade para comprar casa sem emprego fixo, porque
+    &Atilde;&copy; que os bancos ainda t&Atilde;&ordf;m clientes? Porque acabam por
+    dar empr&Atilde;&copy;stimos a quem tem fiador (pais ricos)."
+- id: 105057
+  author: Alexandra
+  author_email: ''
+  author_url: ''
+  date: '2007-07-19 08:55:25 -0700'
+  date_gmt: '2007-07-19 08:55:25 -0700'
+  content: Eu realmente nunca percebi qual &Atilde;&copy; o histerismo com os fiadores,
+    pelo menos no que toca ao credito habita&Atilde;&sect;&Atilde;&pound;o, os bancos
+    podem ficar com a casa! N&Atilde;&pound;o percebo porque &Atilde;&copy; que exigem
+    duas garantias, a casa e os fiadores! &Atilde;&permil; obvio que os bancos n&Atilde;&pound;o
+    est&Atilde;&pound;o interessados em ser agencias imobili&Atilde;&iexcl;rias, &Atilde;&copy;
+    compreens&Atilde;&shy;vel, mas mesmo assim parece-me excessivo
+- id: 105708
+  author: lobotomias
+  author_email: httppsiquiatrizaodavidaquotidiana.blogspot.com
+  author_url: ''
+  date: '2007-07-21 01:17:15 -0700'
+  date_gmt: '2007-07-21 01:17:15 -0700'
+  content: A casa, os fiadores (mesmo a quem tem emprego fixo- pseudofuncionario publico
+    que &Atilde;&copy; o meu caso) e ainda um seguro de vida dependente de exames
+    invasivos da privacidade e consulta m&Atilde;&copy;dica com o sigilo mandado &Atilde;&nbsp;s
+    urtigas.
+- id: 154779
+  author: Pedro Oliveira
+  author_email: ''
+  author_url: ''
+  date: '2007-10-14 17:25:29 -0700'
+  date_gmt: '2007-10-14 17:25:29 -0700'
+  content: "Eu nem vos conto a minha experien&Atilde;&sect;ia em comprar casa e a
+    dificuldade com o cr&Atilde;&copy;dito, sou honesto a minha namorada tambem, no
+    entanto foi casada com um mentiruso um caloteiro e ela agora n&Atilde;&pound;o
+    pode entrar num emprestimo comigo porque foi aconselhada pelos advogados que trataram
+    do divorcio a fazer isso, por causa de eventuais dividas. Ou seja estou a comprar
+    casa com ela mas oficialmente estou sozinho, como os meus pais &Atilde;&plusmn;
+    v&Atilde;&ordf;m com bons olhos a minha rela&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy;
+    obvio que n&Atilde;&pound;o v&Atilde;&pound;o ser meus fiadores (s&Atilde;&pound;o
+    mentalidaes e n&Atilde;&pound;o as vou comentar) mas o facto &Atilde;&copy; que
+    ter credito na banca esta-se a tornar uma miss&Atilde;&pound;o quase impossivel
+    estando eu quase a vias de recurer a empresas de credito tipo cofidis para obter
+    o meu cr&Atilde;&copy;dito, tambem existe chama-se GEMoney.\r\n&Atilde;&uml; s&Atilde;&sup3;
+    por uma cordinha a garganta e esta feito... :("
+- id: 217596
+  author: Credito
+  author_email: asfdasd@hotmail.com
+  author_url: http://www.credito-info.com
+  date: '2008-01-04 00:57:30 -0800'
+  date_gmt: '2008-01-04 00:57:30 -0800'
+  content: Eu realmente nunca percebi qual &Atilde;&copy; o histerismo com os fiadores,
+    pelo menos no que toca ao credito habita&Atilde;&sect;&Atilde;&pound;o, os bancos
+    podem ficar com a casa! N&Atilde;&pound;o percebo porque &Atilde;&copy; que exigem
+    duas garantias, a casa e os fiadores! &Atilde;&permil; obvio que os bancos n&Atilde;&pound;o
+    est&Atilde;&pound;o interessados em ser agencias imobili&Atilde;&iexcl;rias, &Atilde;&copy;
+    compreens&Atilde;&shy;vel, mas mesmo assim parece-me excessivo
+- id: 623802
+  author: Maria
+  author_email: llcl@live.com
+  author_url: ''
+  date: '2010-03-23 09:08:34 -0700'
+  date_gmt: '2010-03-23 09:08:34 -0700'
+  content: "Caro candidato empr&Atilde;&copy;stimo,\r\n  Estamos registrados, empr&Atilde;&copy;stimo
+    empresa licenciada, localizada no Reino Unido, oferecemos todos os tipos de empr&Atilde;&copy;stimo,
+    ou seja;\r\n\r\n* Empr&Atilde;&copy;stimos privados\r\n* Os empr&Atilde;&copy;stimos
+    comerciais\r\n* Cr&Atilde;&copy;dito Consolidado:\r\n* Empr&Atilde;&copy;stimos
+    garantidos\r\n* Os empr&Atilde;&copy;stimos inseguros\r\n* Fast Empr&Atilde;&copy;stimos\r\n*
+    Os empr&Atilde;&copy;stimos imediatos\r\n* Quick empr&Atilde;&copy;stimos para
+    pagar contas, comprar casa, comprar bens, come&Atilde;&sect;ar uma vida nova,
+    etc ..............\r\n\r\nEnt&Atilde;&pound;o, para obter mais informa&Atilde;&sect;&Atilde;&micro;es
+    no que diz respeito &Atilde;&nbsp; nossa oferta de empr&Atilde;&copy;stimos e
+    servi&Atilde;&sect;os, voc&Atilde;&ordf; pode enviar um mail para o endere&Atilde;&sect;o
+    abaixo e-mail abaixo;\r\n\r\nllcl@live.com"
+- id: 627978
+  author: BrorsEvarftot
+  author_email: bahtvjd@yandex.ua
+  author_url: http://fart-online.com
+  date: '2010-08-04 21:41:52 -0700'
+  date_gmt: '2010-08-04 21:41:52 -0700'
+  content: "&Ntilde;\x8D&ETH;&frac14;&Ntilde;&fnof;&ETH;&raquo;&Ntilde;\x8F&Ntilde;&sbquo;&ETH;&frac34;&Ntilde;&euro;&Ntilde;&lsaquo;
+    &ETH;&cedil;&ETH;&sup3;&Ntilde;&euro;&ETH;&frac34;&ETH;&sup2;&Ntilde;&lsaquo;&Ntilde;&hellip;
+    &ETH;&deg;&ETH;&sup2;&Ntilde;&sbquo;&ETH;&frac34;&ETH;&frac14;&ETH;&deg;&Ntilde;&sbquo;&ETH;&frac34;&ETH;&sup2;"
+---
+<p>Em Portugal, os meninos das v&Atilde;&iexcl;rias esquerdas (do Bloco &Atilde;&nbsp; JSD) queixam-se que da precariedade. Uma das queixas mais v&Atilde;&iexcl;lidas, na opini&Atilde;&pound;o deste blogue, &Atilde;&copy; a queixa que &Atilde;&copy; dif&Atilde;&shy;cil ter cr&Atilde;&copy;dito para, entre outros, comprar casa, sem um emprego fixo. Os bancos continuam a n&Atilde;&pound;o confiar em quem n&Atilde;&pound;o tem emprego fixo como um poss&Atilde;&shy;vel cliente honesto. &Atilde;&permil; preciso, quase sempre, os pais virem assinar como fiadores. E &Atilde;&copy; preciso ter os pais certos; normalmente propriet&Atilde;&iexcl;rios ou funcion&Atilde;&iexcl;rios p&Atilde;&ordm;blicos, numa esp&Atilde;&copy;cie de novo princ&Atilde;&shy;pio aristocr&Atilde;&iexcl;tico.
+<p>Nos EUA, discute-se o problema contr&Atilde;&iexcl;rio. Queixam-se alguns pundits &Atilde;&nbsp; esquerda que os bancos d&Atilde;&pound;o cr&Atilde;&copy;dito a mais, at&Atilde;&copy; a pessoas que depois n&Atilde;&pound;o o podem pagar. Fala-se, inclusiv&Atilde;&copy;, em obrigar os bancos a investigar melhor se as pessoas est&Atilde;&pound;o a dizer a verdade porque, neste momento, "abusam" das pessoas confiando no que elas dizem (&Atilde;&copy; a morte da responsabilidade pessoal: a pessoa que burla o banco &Atilde;&copy; a v&Atilde;&shy;tima porque o banco confiou). Ainda h&Atilde;&iexcl; bancos que, antes de dar cr&Atilde;&copy;dito, perguntam &Atilde;&nbsp; pessoa o que &Atilde;&copy; que ganha e confiam que a pessoa diz a verdade.
+<p>Porqu&Atilde;&ordf; esta diferen&Atilde;&sect;a? Algumas respostas poss&Atilde;&shy;veis:
+<ol>
+<li>O sistema de <i>credit history<&#47;i> nos EUA n&Atilde;&pound;o existe em Portugal. Aqui, a hist&Atilde;&sup3;ria de pagamentos recentes (j&Atilde;&iexcl; n&Atilde;&pound;o sei se s&Atilde;&pound;o os &Atilde;&ordm;ltimos 5 ou 10 anos) &Atilde;&copy; partilhada pelos bancos. Assim, um indiv&Atilde;&shy;duo que tenha um passado de pagar as contas &Atilde;&copy; de confian&Atilde;&sect;a, mesmo que n&Atilde;&pound;o tenha as marcas tradicionais de "bom cr&Atilde;&copy;dito" (educa&Atilde;&sect;&Atilde;&pound;o, fam&Atilde;&shy;lia rica, emprego est&Atilde;&iexcl;vel, &c). Em Portugal, n&Atilde;&pound;o temos este sistema que permite (i) confiar nas pessoas sem marcas tradicionais de estabilidade e (ii) punir quem n&Atilde;&pound;o paga facilmente [n&Atilde;&pound;o &Atilde;&copy; preciso sequer tribunal: basta amea&Atilde;&sect;ar estragar o historial de cr&Atilde;&copy;dito a algu&Atilde;&copy;m para essa pessoa pensar muito bem antes de n&Atilde;&pound;o pagar].
+<p>A pergunta seguinte &Atilde;&copy; porque &Atilde;&copy; que este sistema n&Atilde;&pound;o surgiu em Portugal (seria proibido? est&Atilde;&iexcl; longe da nossa matriz cultural? ningu&Atilde;&copy;m se lembrou disso? temos simplesmente menos mercado de cr&Atilde;&copy;dito por causa do catolicismo?)
+<li>
+<p>&Atilde;&permil; proibido em Portugal (e no resto da Europa) dar cr&Atilde;&copy;dito mau; o mesmo tipo de leis que se discute aqui para limitar a atribui&Atilde;&sect;&Atilde;&pound;o de cr&Atilde;&copy;dito j&Atilde;&iexcl; vigoram na Europa.<&#47;p>
+<li>
+<p>Se a pessoa n&Atilde;&pound;o pagar, os bancos europeus t&Atilde;&ordf;m muito mais dificuldade em recuperar o dinheiro; portanto, n&Atilde;&pound;o confiam em ningu&Atilde;&copy;m.<&#47;p>
+<li>
+<p>At&Atilde;&copy; seria extremamente lucrativo dar cr&Atilde;&copy;dito a esta gente, mas os bancos preferem n&Atilde;&pound;o o fazer porque &Atilde;&copy; mal visto e eles t&Atilde;&ordf;m outras fontes de lucro. Como as barreiras &Atilde;&nbsp; entrada no mercado do cr&Atilde;&copy;dito s&Atilde;&pound;o altas, ningu&Atilde;&copy;m se mete nisso.<&#47;p>
+<li>
+<p>&Atilde;&permil; extremamente lucrativo o mercado, mas <b>ainda<&#47;b> ningu&Atilde;&copy;m o agarrou. Estamos na fase em que falta o entrepreneur que agarra a oportunidade de mercado. Este &Atilde;&copy; um caso em que Viena bate Chicago a explicar o fen&Atilde;&sup3;meno.<&#47;ol>
+<p>Eu estou a apostar numa mistura de (3) com (4) (com p&Atilde;&sup3;s de (5) no sentido em que prevejo que o cr&Atilde;&copy;dito se v&Atilde;&iexcl; tornando menos d&Atilde;&shy;ficil, mas n&Atilde;&pound;o ser&Atilde;&iexcl; f&Atilde;&iexcl;cil como deste lado do charco). O (1) tamb&Atilde;&copy;m &Atilde;&copy; v&Atilde;&iexcl;lido, mas para o cr&Atilde;&copy;dito &Atilde;&nbsp; habita&Atilde;&sect;&Atilde;&pound;o n&Atilde;&pound;o &Atilde;&copy; assim t&Atilde;&pound;o importante (mas para comprar um carro, por exemplo, &Atilde;&copy; fulcral).</p>

@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Eclipse
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1119
+wordpress_url: http://blog.luispedro.org/posts/eclipse
+date: '2007-08-28 11:18:41 -0700'
+date_gmt: '2007-08-28 11:18:41 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Hoje a lua voltou a ser queijo e foi comida pela Terra.</p>

@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: Escolhas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 930
+wordpress_url: http://blog.luispedro.org/posts/escolhas
+date: '2007-04-08 09:18:05 -0700'
+date_gmt: '2007-04-08 09:18:05 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 59105
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-04-08 14:20:25 -0700'
+  date_gmt: '2007-04-08 14:20:25 -0700'
+  content: Eu nem consigo perceber o que isso quer dizer.
+- id: 59154
+  author: rita
+  author_email: ''
+  author_url: ''
+  date: '2007-04-08 19:51:16 -0700'
+  date_gmt: '2007-04-08 19:51:16 -0700'
+  content: Eu tambem nao, mas tem ar giro...
+- id: 59157
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-04-08 21:42:48 -0700'
+  date_gmt: '2007-04-08 21:42:48 -0700'
+  content: Se isso f&Atilde;&acute;r o que diz <a href="http:&#47;&#47;mathworld.wolfram.com&#47;AxiomofChoice.html"
+    rel="nofollow">aqui<&#47;a>, aceito como verdadeiro. E?...
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; parece um blogue nerd<&#47;i>:
+<p>Pergunta pascoal aos <a href="http:&#47;&#47;www.ateismo.net&#47;diario&#47;">ate&Atilde;&shy;stas<&#47;a> deste pa&Atilde;&shy;s:
+<p>Acreditam no <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Axiom_of_choice">Axioma da Escolha<&#47;a>? Aceitam-no como verdadeiro?</p>

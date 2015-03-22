@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Orgia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 318
+wordpress_url: http://blog.luispedro.org/?p=318
+date: '2006-01-30 23:16:37 -0800'
+date_gmt: '2006-01-30 23:16:37 -0800'
+categories:
+- Cartaz
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>isto at&Atilde;&copy; j&Atilde;&iexcl; parece um blogue pseudo<&#47;i>:</p>
+<blockquote><p>
+<strong>Ela<&#47;strong> O meu pai repetia frases que teria ouvido da parte de seu pai, o meu av&Atilde;&acute;, mas n&Atilde;&pound;o falava. A minha m&Atilde;&pound;e falava da comida e da casa e contudo n&Atilde;&pound;o falava. N&Atilde;&pound;o falava, a minha fam&Atilde;&shy;lia.<br &#47;><strong>Ele<&#47;strong> Ent&Atilde;&pound;o como aprendeste a falar?<br &#47;><strong>Ela<&#47;strong> Diziam o meu nome e nomeavam as coisas que nos rodeiam, mas n&Atilde;&pound;o falavam.</p>
+<p>[...]</p>
+<p><strong>Ele<&#47;strong> Gostas que um homem te bata?<br &#47;><strong>Ela (Outra)<&#47;strong> Me bata? (<i>Ergue os punhos no ar<&#47;i>) Ele que se atreva!<br &#47;><strong>Ele<&#47;strong> <i>rindo-se<&#47;i> Ah, vens de fam&Atilde;&shy;lias pobres!<br />
+<&#47;blockquote></p>
+<p><a href="http:&#47;&#47;lazer.publico.clix.pt&#47;artigo.asp?id=141331">Orgia<&#47;a>, no Teatro Nacional. V&Atilde;&pound;o ver, vale a pena.</p>

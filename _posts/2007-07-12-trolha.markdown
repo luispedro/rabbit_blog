@@ -1,0 +1,106 @@
+---
+layout: post
+status: publish
+published: true
+title: Trolha?
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1053
+wordpress_url: http://blog.luispedro.org/posts/trolha
+date: '2007-07-12 02:39:38 -0700'
+date_gmt: '2007-07-12 02:39:38 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 100724
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-07-12 09:08:46 -0700'
+  date_gmt: '2007-07-12 09:08:46 -0700'
+  content: Mande um email ao provedor do leitor do P&Atilde;&ordm;blico.
+- id: 101821
+  author: Lobotomias
+  author_email: lobotomias.lobo@gmail.com
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-07-13 20:20:46 -0700'
+  date_gmt: '2007-07-13 20:20:46 -0700'
+  content: "Sempre pensei que o Luis pertencesse ao grupo anti-politicamento correcto,
+    como ali&Atilde;&iexcl;s j&Atilde;&iexcl; tem expressado aqui neste blog...\r\nN&Atilde;&pound;o
+    percebo Luis ent&Atilde;&pound;o a imprensa tem de ter cuidado com a linguagem
+    para n&Atilde;&pound;o ofender os trabalhadores da constru&Atilde;&sect;&Atilde;&pound;o
+    civil, mas j&Atilde;&iexcl; n&Atilde;&pound;o tem que ter quando se refere a quest&Atilde;&micro;es
+    de \"ra&Atilde;&sect;a\", sexualidade, ou mesmo m&Atilde;&copy;dicas - como salas
+    de injec&Atilde;&sect;&Atilde;&pound;o assistida?\r\nSer&Atilde;&iexcl; que esta
+    merda da categoria \"politicamente correcto\" como insulto &Atilde;&copy; so uma
+    arma de arremesso para que a impressa possa insultar quem quiser, e exp&Atilde;&acute;r
+    livremente ao mundo os seus tristes preconceitos?\r\nE assim sendo ser&Atilde;&iexcl;
+    que s&Atilde;&sup3; interessa (levantar esta categoria enquanto insulto) quando
+    insulta alguns (aqueles que n&Atilde;&sup3;s queremos insultar)?\r\nAcho que n&Atilde;&pound;o
+    pensas assim, mas sendo esse o uso dominante da express&Atilde;&pound;o deverias
+    clarificar um pouco melhor quando a utilizas (e principalmente para qu&Atilde;&ordf;),
+    se como se v&Atilde;&ordf; te sentes indignado da imprensa insultar os trabalhadores
+    da constru&Atilde;&sect;&Atilde;&pound;o civil....\r\nespera... n&Atilde;&pound;o
+    estavas a ser ir&Atilde;&sup3;nico no post... ou estavas?...."
+- id: 101830
+  author: Lobotomias
+  author_email: lobotomias.lobo@gmail.com
+  author_url: http://psiquiatrizaodavidaquotidiana.blogspot.com/
+  date: '2007-07-13 20:43:51 -0700'
+  date_gmt: '2007-07-13 20:43:51 -0700'
+  content: "J&Atilde;&iexcl; agora, \"trolha\" &Atilde;&copy; uma que adquiriu uma
+    certa conota&Atilde;&sect;&Atilde;&pound;o negativa, e por isso talvez n&Atilde;&pound;o
+    deve ser usada pela imprensa, mas que &Atilde;&copy; ainda utilizada pelos actores
+    sociais.\r\n&Atilde;&permil; comum &Atilde;&nbsp; pergunta- qual &Atilde;&copy;
+    a sua profiss&Atilde;&pound;o, ouvir responder- sou trolha, pelo menos a mim j&Atilde;&iexcl;
+    me aconteceu.\r\nmas concordo que s&Atilde;&sup3; isso n&Atilde;&pound;o &Atilde;&copy;
+    justifica&Atilde;&sect;&Atilde;&pound;o para que a imprensa a utilize..."
+- id: 101844
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-07-13 22:18:31 -0700'
+  date_gmt: '2007-07-13 22:18:31 -0700'
+  content: "1. O politicamente correcto n&Atilde;&pound;o &Atilde;&copy;, muitas vezes,
+    mais do que boa educa&Atilde;&sect;&Atilde;&pound;o e a manuten&Atilde;&sect;&Atilde;&pound;o
+    das barreiras sociais. Necess&Atilde;&iexcl;rio e saud&Atilde;&iexcl;vel no devido
+    contexto; mas rid&Atilde;&shy;culo fora de contexto. Este &Atilde;&copy; um caso
+    dentro de contexto.\r\n\r\n2. Certo que os actores sociais usam \"trolha.\" Tamb&Atilde;&copy;m
+    se usa correntemente \"preto,\" por exemplo, mas n&Atilde;&pound;o ia gostar dum
+    t&Atilde;&shy;tulo \"jovm que mata preto.\""
+- id: 278238
+  author: sofia
+  author_email: sofia.bailote@mac.com
+  author_url: ''
+  date: '2008-04-17 17:38:14 -0700'
+  date_gmt: '2008-04-17 17:38:14 -0700'
+  content: para vossa informa&Atilde;&sect;&Atilde;&pound;o, "trolha" &Atilde;&copy;
+    o nome da profiss&Atilde;&pound;o e n&Atilde;&pound;o um termo depreciativo. Existem
+    trolhas oficiais de 1&Acirc;&ordf; e de 2&Acirc;&ordf;. O sentido pejorativo do
+    termo vem da ideia de que as pessoas com essa profiss&Atilde;&pound;o s&Atilde;&pound;o
+    vulgares e pouco educadas. Da mesma forma,  "carroceiro" apesar do termo estar
+    hoje em dia obsoleto, tamb&Atilde;&copy;m se referia a uma profiss&Atilde;&pound;o
+    cujo t&Atilde;&shy;tulo ganhou um sentido pejorativo.
+- id: 333104
+  author: Human Resources
+  author_email: ''
+  author_url: ''
+  date: '2008-06-18 16:44:40 -0700'
+  date_gmt: '2008-06-18 16:44:40 -0700'
+  content: Concordo com a Sofia, estou na &Atilde;&iexcl;rea de Recursos Humanos e
+    a palavra trolha &Atilde;&copy; uma categoria profissional. N&Atilde;&pound;o
+    tem qualquer conota&Atilde;&sect;&Atilde;&pound;o depreciativa na not&Atilde;&shy;cia,
+    as pessoas por vezes tendem dar essa conota&Atilde;&sect;&Atilde;&pound;o negativa,
+    erradamente, claro.
+---
+<p>Esta not&Atilde;&shy;cia j&Atilde;&iexcl; tem uns dias, mas a forma como foi noticiada pelo P&Atilde;&ordm;blico Online foi vergonhosa:
+<p><a href="http:&#47;&#47;ultimahora.publico.clix.pt&#47;noticia.aspx?id=1298986">Onze anos de pris&Atilde;&pound;o para jovem que matou trolha que atirou piropo &Atilde;&nbsp; namorada<&#47;a>.
+<p>O uso da express&Atilde;&pound;o <cite>trolha<&#47;cite>, que &Atilde;&copy; depreciativa, &Atilde;&copy; indesculp&Atilde;&iexcl;vel. At&Atilde;&copy; a TVI fez <a href="http:&#47;&#47;www.tvi.iol.pt&#47;informacao&#47;noticia.php?id=830500">melhor<&#47;a> ao dizer que <cite>jovem mata trabalhador da constru&Atilde;&sect;&Atilde;&pound;o<&#47;cite>.
+<p>Porque &Atilde;&copy; que a jornalista n&Atilde;&pound;o escreveu, por exemplo, <cite>desempregrado com cadastro condenado a 11 anos por esfaquear trabalhador da constru&Atilde;&sect;&Atilde;&pound;o<&#47;cite>?
+<p>(Onze anos tamb&Atilde;&copy;m &Atilde;&copy; rid&Atilde;&shy;culo, sobretudo porque s&Atilde;&sup3; metade ser&Atilde;&pound;o cumpridos. Mais um exemplo de como em Portugal os homic&Atilde;&shy;dias recebem borlas no tribunal. Isso fica para outras discuss&Atilde;&micro;es.)</p>

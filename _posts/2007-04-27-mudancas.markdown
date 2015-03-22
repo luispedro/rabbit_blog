@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: Mudan&Atilde;&sect;as
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 956
+wordpress_url: http://blog.luispedro.org/posts/mudancas
+date: '2007-04-27 02:22:46 -0700'
+date_gmt: '2007-04-27 02:22:46 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 62008
+  author: aLa&Atilde;&shy;de Costa
+  author_email: dezanovemesesdepois@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2007-04-27 10:42:50 -0700'
+  date_gmt: '2007-04-27 10:42:50 -0700'
+  content: "goste do novo look, mas primareva&#47;ver&Atilde;&pound;o 2007 :)\r\nmas
+    esta coluna ao lado com os coment&Atilde;&iexcl;rios recentes &Atilde;&copy; esctranha
+    :S!"
+- id: 62091
+  author: Tiago Mendes
+  author_email: ''
+  author_url: http://www.logicamente-sim.blogspot.com
+  date: '2007-04-27 19:39:42 -0700'
+  date_gmt: '2007-04-27 19:39:42 -0700'
+  content: "EU NAO QUERO APARECER AQUI!\r\n\r\nTb acho estranho e dessagrad&Atilde;&iexcl;vel
+    ter os coment&Atilde;&iexcl;rios nesta coluna.\r\n\r\nRenovar &Atilde;&copy; quase
+    sempre bom.\r\n\r\nKeep up the good writing.\r\n\r\nAbra&Atilde;&sect;o,\r\n\r\nT"
+- id: 62254
+  author: jorge a.
+  author_email: ''
+  author_url: http://mindwakeup.blogspot.com
+  date: '2007-04-28 15:29:49 -0700'
+  date_gmt: '2007-04-28 15:29:49 -0700'
+  content: '"Primeiro estranha-se, depois entranha-se" ;)'
+- id: 62702
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-04-29 18:57:58 -0700'
+  date_gmt: '2007-04-29 18:57:58 -0700'
+  content: O pior destes coment&Atilde;&iexcl;rios na barra lateral s&Atilde;&pound;o
+    os coment&Atilde;&iexcl;rios que est&Atilde;&pound;o sempre a ser feitos ao post
+    "Aborto e Sa&Atilde;&ordm;de Mental".
+- id: 236435
+  author: xnbhgj@mail.com
+  author_email: xnbhgj@mail.com
+  author_url: http://www.bnygufmq.tsxrlw.com
+  date: '2008-02-26 23:07:44 -0800'
+  date_gmt: '2008-02-26 23:07:44 -0800'
+  content: dnibyofk djeazh kboiphlmg ycmdjnk ygpbeuic angyfbi zyhrvlwbc
+---
+<p>Este blogue est&Atilde;&iexcl; em mudan&Atilde;&sect;as (mudan&Atilde;&sect;a de servidor).</p>
+<p>O novo look ainda n&Atilde;&pound;o &Atilde;&copy; definitivo, mas aproveitei para mud&Atilde;&iexcl;-lo tamb&Atilde;&copy;m.</p>

@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Portugal
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1116
+wordpress_url: http://blog.luispedro.org/posts/portugal
+date: '2007-08-31 02:33:25 -0700'
+date_gmt: '2007-08-31 02:33:25 -0700'
+categories:
+- Vida n'Am&Atilde;&copy;rica
+tags: []
+comments: []
+---
+<p><b>Ele: <&#47;b> Where are you from?<br />
+<b>Eu:<&#47;b> Portugal<br />
+<b>Ele:<&#47;b> Where?<br />
+<b>Eu:<&#47;b> Do you watch soccer?<br />
+<b>Ele:<&#47;b> Oh, I know Portugal, yes.</p>
+<p>O ele nesta conversa repetida &Atilde;&copy; normalmente asi&Atilde;&iexcl;tico (para perceber a refer&Atilde;&ordf;ncia ao soccer).</p>

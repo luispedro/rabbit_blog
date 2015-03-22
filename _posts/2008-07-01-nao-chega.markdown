@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: N&Atilde;&pound;o Chega
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 1357
+wordpress_url: http://blog.luispedro.org/posts/nao-chega
+date: '2008-07-01 12:22:20 -0700'
+date_gmt: '2008-07-01 12:22:20 -0700'
+categories:
+- educa&Atilde;&sect;&Atilde;&pound;o
+tags: []
+comments:
+- id: 343364
+  author: Jo&Atilde;&pound;o Jesus Caetano
+  author_email: joao.jesus.caetano@gmail.com
+  author_url: http://goodnight-moon.net
+  date: '2008-07-01 17:32:49 -0700'
+  date_gmt: '2008-07-01 17:32:49 -0700'
+  content: "O Lu&Atilde;&shy;s tem raz&Atilde;&pound;o quando afirma que os indicadores
+    usados n&Atilde;&pound;o servem para aferir da excel&Atilde;&ordf;ncia dos estudantes
+    portugueses, quando comparados com outros.\r\n\r\nPara que fique claro, e sobre
+    literacia cient&Atilde;&shy;fica aferida em 2006, Portugal n&Atilde;&pound;o consegue
+    melhor do que 3% dos estudantes no n&Atilde;&shy;vel 5 e uma percentagem res&Atilde;&shy;dual
+    no n&Atilde;&shy;vel 6.  A Finl&Atilde;&cent;ndia, por exemplo, tem 17% de estudantes
+    no n&Atilde;&shy;vel 5 e 4% no n&Atilde;&shy;vel 6.  Os EUA, 8% e 2%, respectivamente.
+    A m&Atilde;&copy;dia da OCDE &Atilde;&copy; 8% e 1%. S&Atilde;&sup3; consegui
+    aceder a estes agora, atrav&Atilde;&copy;s <a href=\"http:&#47;&#47;nces.ed.gov&#47;pubsearch&#47;pubsinfo.asp?pubid=2008016\"
+    rel=\"nofollow\">deste relat&Atilde;&sup3;rio<&#47;a>.\r\n\r\nA frase sobre \"o
+    sistema portugu&Atilde;&ordf;s produzir estudantes ao n&Atilde;&shy;vel dos melhores
+    do mundo\" &Atilde;&copy;, portanto, incorreta, embora tenha sido escrita num
+    contexto em que as problem&Atilde;&iexcl;ticas debatidas eram a dos efeitos da
+    reten&Atilde;&sect;&Atilde;&pound;o e da validade do discurso sobre \"facilitismo\".
+    O Hugo Mendes escreveu <a href=\"http:&#47;&#47;pensamentodomeiodia.blogspot.com&#47;2008&#47;07&#47;de-novo-o-pisa-e-porque-que-questo-da.html\"
+    rel=\"nofollow\">um post em resposta a este<&#47;a> onde clarifica a sua interpreta&Atilde;&sect;&Atilde;&pound;o.\r\n\r\nAl&Atilde;&copy;m
+    disso, e para que fique igualmente claro, algumas das suas afirma&Atilde;&sect;&Atilde;&micro;es
+    neste post s&Atilde;&pound;o incorretas:\r\n\r\n- &Atilde;&permil; falso que alguma
+    vez se tenha defendido o que est&Atilde;&iexcl; escrito no primeiro par&Atilde;&iexcl;grafo,
+    por exemplo.\r\n\r\n- O impacto de Portugal ser um dos pa&Atilde;&shy;ses com
+    menor percentagem de alunos no ano modal j&Atilde;&iexcl; tinha sido debatido
+    <a href=\"http:&#47;&#47;goodnight-moon.net&#47;educacao&#47;literacia-cientifica-em-portugal-2&#47;\"
+    rel=\"nofollow\">aqui<&#47;a>, por exemplo."
+---
+<p>Responde o <a href="http:&#47;&#47;pensamentodomeiodia.blogspot.com&#47;2008&#47;06&#47;pisa2006-de-novo.html">Hugo Mendes<&#47;a> &Atilde;&nbsp;s <a href="http:&#47;&#47;blog.luispedro.org&#47;posts&#47;os-melhores-do-mundo">minhas cr&Atilde;&shy;ticas<&#47;a>:</p>
+<blockquote><p>- Reconstru&Atilde;&shy;do o ranking a partir dos alunos no ano modal, Portugal passa de 29.&Acirc;&ordm; do conjunto de 32 pa&Atilde;&shy;ses para 11.&Acirc;&ordm; (com o mesmo score da Austr&Atilde;&iexcl;lia e da Espanha). Nenhum outro pa&Atilde;&shy;s ganha (ou perde) tantos lugares na passagem de um ranking para o outro.</p>
+<p>De uma forma um bocadinho pomposa: os nossos alunos no ano modal est&Atilde;&pound;o &Atilde;&nbsp; porta do top 10 mundial, quando comparados com os alunos dos outros pa&Atilde;&shy;ses nas mesmas condi&Atilde;&sect;&Atilde;&micro;es. N&Atilde;&pound;o s&Atilde;&pound;o os melhores do mundo, mas, sim, est&Atilde;&pound;o entre os melhores.<&#47;blockquote></p>
+<p>Isto &Atilde;&copy; uma melhoria, mas continua a ser uma compara&Atilde;&sect;&Atilde;&pound;o errada. Se anteriormente era entre os nossos melhores 50% e 100% do resto, agora &Atilde;&copy; entre os nossos melhores 50% e x% do resto (em que x &Atilde;&copy; o n&Atilde;&ordm;mero de alunos no "ano modal").</p>
+<p>Estar no ano modal significa coisas diferentes em diferentes pa&Atilde;&shy;ses porque diferentes pa&Atilde;&shy;ses t&Atilde;&ordf;m crit&Atilde;&copy;rios (expl&Atilde;&shy;citos ou impl&Atilde;&shy;citos) para decidir se um aluno fica ou n&Atilde;&pound;o no ano modal.</p>
+<p>Portugal tem apenas 50% dos alunos no seu ano modal, o Reino Unido quase 90%. N&Atilde;&pound;o espanta que os nossos melhores 50% tenham uma melhor m&Atilde;&copy;dia do que os melhores 90% ingleses. Passamos &Atilde;&nbsp; frente de imensos pa&Atilde;&shy;ses com grandes percentagem de alunos no ano modal.</p>
+<p>Se os melhores portugueses fossem t&Atilde;&pound;o bons como os melhores estrangeiros, ent&Atilde;&pound;o esperariamos que, no topo da escala, Portugal estivesse bem representado. N&Atilde;&pound;o est&Atilde;&iexcl;. S&Atilde;&sup3; encontrei dados do <a href="http:&#47;&#47;www.pisa.gc.ca&#47;81-590-xie2004001.pdf">PISA 2003<&#47;a>, mas Portugal tem pouqu&Atilde;&shy;ssimos alunos com resultados muito bons ou excelentes! Apenas 5.4%, quando h&Atilde;&iexcl; pa&Atilde;&shy;ses com 20% e v&Atilde;&iexcl;rios com mais de 10%! (n&Atilde;&shy;vel 5 ou 6 na p&Atilde;&iexcl;gina 75 do relat&Atilde;&sup3;rio acima)</p>
+<p>Al&Atilde;&copy;m disso, como o pr&Atilde;&sup3;prio Hugo Mendes notou, em Portugal, quem n&Atilde;&pound;o est&Atilde;&iexcl; no ano modal, quase sempre est&Atilde;&iexcl; atrasado. Noutros pa&Atilde;&shy;ses, h&Atilde;&iexcl; vezes em que est&Atilde;&iexcl; adiantado.</p>
+<p>Tamb&Atilde;&copy;m n&Atilde;&pound;o espanta que a diferen&Atilde;&sect;a entre o <cite>score modal<&#47;cite> e o <cite>score m&Atilde;&copy;dio<&#47;cite> seja maior num pa&Atilde;&shy;s que tem uma das menores percentagens de alunos no ano modal!</p>
+<p>Imaginemos que, no dia anterior ao exame, a ministra decretava que todos os alunos que estavam atrasados subiam um ano por passagem administrativa. A nossa m&Atilde;&copy;dia global ficava a mesma, o nosso score modal descia e diminui a diferen&Atilde;&sect;a entre ambos. Havia menos desigualdade entre alunos?</p>
+<p>N&Atilde;&pound;o estou a dizer que me espantaria de descobrir que Portugal &Atilde;&copy; muito desigual. Somente, que n&Atilde;&pound;o &Atilde;&copy; isso que dizem estes dados.</p>
+<p>Porque &Atilde;&copy; que n&Atilde;&pound;o olhamos para medidas estat&Atilde;&shy;sticas como a vari&Atilde;&cent;ncia ou a diferen&Atilde;&sect;a entre a m&Atilde;&copy;dia do quartil superior e inferior? Esta n&Atilde;&pound;o sofrem da diferen&Atilde;&sect;a entre diferentes significados para "aluno retido."</p>

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: 1&Acirc;&ordm; de Maio
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1320
+wordpress_url: http://blog.luispedro.org/posts/1%c2%ba-de-maio
+date: '2008-05-02 04:15:43 -0700'
+date_gmt: '2008-05-02 04:15:43 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 296348
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-05-02 21:02:25 -0700'
+  date_gmt: '2008-05-02 21:02:25 -0700'
+  content: N&Atilde;&pound;o &Atilde;&copy; "<b>todo<&#47;b> o santo domingo" (&Atilde;&copy;
+    s&Atilde;&sup3; &Atilde;&nbsp; tarde)
+---
+<p>O PS admite mudar a lei que pro&Atilde;&shy;be a abertura dos supermercados grandes todo o santo domingo.</p>
+<p>O dia do trabalhador j&Atilde;&iexcl; n&Atilde;&pound;o &Atilde;&copy; o que era.</p>

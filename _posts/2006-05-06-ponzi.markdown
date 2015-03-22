@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Ponzi
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 439
+wordpress_url: http://blog.luispedro.org/?p=439
+date: '2006-05-06 16:00:37 -0700'
+date_gmt: '2006-05-06 16:00:37 -0700'
+categories:
+- Economia
+tags: []
+comments:
+- id: 3913
+  author: Rabbit&#8217;s blog &raquo; Blog Archive &raquo;
+  author_email: ''
+  author_url: http://blog.luispedro.org/?p=445
+  date: '2006-05-12 15:26:24 -0700'
+  date_gmt: '2006-05-12 15:26:24 -0700'
+  content: "[...] Ainda esta semana tinha escrito sobre o senhor Ponzi que tamb&eacute;m
+    tinha constru&iacute;do um esquema em pir&acirc;mide a partir de um neg&oacute;cio
+    de selos. [...]"
+---
+<p>Na s&Atilde;&copy;rie <i>isto n&Atilde;&pound;o tem nada a ver com o TGV e muito menos com a seguran&Atilde;&sect;a social<&#47;i>:</p>
+<p>Estive a ler a biografia de <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Charles_Ponzi">Charles Ponzi<&#47;a> na Wikipedia. Ponzi ficou conhecido pelo chamado <cite>Esquema de Ponzi<&#47;cite> em que prometia lucros fabulosos, mas sem ter de facto um modelo de neg&Atilde;&sup3;cios v&Atilde;&iexcl;lido por detr&Atilde;&iexcl;s.</p>
+<p>Na verdade, Ponzi tinha de facto um modelo eventualmente v&Atilde;&iexcl;lido baseado em arbitragem internacional de valores financeiros na forma de selos. Este neg&Atilde;&sup3;cio at&Atilde;&copy; era poss&Atilde;&shy;vel que funcionasse, mas embriagado pelo sucesso nunca o p&Atilde;&acute;s em pr&Atilde;&iexcl;tica na escala que era necess&Atilde;&iexcl;ria para sustentar os milh&Atilde;&micro;es que movimentava.</p>
+<p>Por outro lado, e isto &Atilde;&copy; o mais interessante, Ponzi n&Atilde;&pound;o era um puro aldrab&Atilde;&pound;o.</p>
+<blockquote><p>
+There was something clueless in Ponzi's cleverness. He had set a scheme in motion that was sure to collapse sooner or later. He was pulling in a pile of cash, but only at the expense of going into even greater debt. At some point, the sensible thing to do would be to take the money and run to someplace where the law couldn't get at him.</p>
+<p>Instead, he stayed where he was and continued to pay out. Ponzi wanted to look as honest as possible, and according to his autobiography, he was always hoping he could use the fortune he was accumulating to start a legitimate business that would make enough money to pay back all his investors and make everyone rich. Among the ideas he floated was buying a $300 million American warship and turning it into a floating shopping mall, promoting patriotism and commerce by stocking it with American goods. <&#47;blockquote></p>
+<p>Provavelmente, nem era m&Atilde;&iexcl; pessoa, o Ponzi. E tinha os seus apoiantes:</p>
+<blockquote><p>
+Ponzi's fans were outraged at the officers who arrested him. [...] Many who were ruined were so blinded by their faith in the man or their refusal to admit their foolishness that they still regarded him as a hero.<br />
+<&#47;blockquote></p>
+<p>N&Atilde;&pound;o sendo tendo pessoa, Ponzi era um aldrab&Atilde;&pound;o, e se algumas pessoas ("inocentemente", dir-se-ia) ganharam com esquema, a maioria perdeu. Felizmente, o que ele fez, levou-o &Atilde;&nbsp; cadeia e cumpriu pena.</p>

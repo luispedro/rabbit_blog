@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Medidas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 900
+wordpress_url: http://blog.luispedro.org/posts/medidas
+date: '2007-03-09 16:08:50 -0800'
+date_gmt: '2007-03-09 16:08:50 -0800'
+categories:
+- Europa
+- Ambiente
+tags: []
+comments: []
+---
+<p>No P&Atilde;&ordm;blico:<br />
+<blockquote>Entre outras medidas, os Estados membros comprometem-se tamb&Atilde;&copy;m a alcan&Atilde;&sect;ar, at&Atilde;&copy; 2020, pelo menos, uma redu&Atilde;&sect;&Atilde;&pound;o de 20 por cento das emiss&Atilde;&micro;es de gases com efeito de estufa (respons&Atilde;&iexcl;vel pelo aquecimento global do planeta), em rela&Atilde;&sect;&Atilde;&pound;o aos n&Atilde;&shy;veis de 1990, e de 30 por cento se os restantes pa&Atilde;&shy;ses desenvolvidos se comprometerem a atingir redu&Atilde;&sect;&Atilde;&micro;es de emiss&Atilde;&micro;es "compar&Atilde;&iexcl;veis".<&#47;blockquote>
+<p>Reduzir as emiss&Atilde;&micro;es n&Atilde;&pound;o &Atilde;&copy; "uma medida", mas sim "um objectivo."
+<p>Suponho que este plano ser&Atilde;&iexcl; cumprido logo a seguir &Atilde;&nbsp; Agenda de Lisboa quando a Europa for a mais competitiva economia do mundo.</p>

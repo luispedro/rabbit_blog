@@ -1,0 +1,71 @@
+---
+layout: post
+status: publish
+published: true
+title: Notas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1207
+wordpress_url: http://blog.luispedro.org/posts/notas
+date: '2007-11-23 16:32:25 -0800'
+date_gmt: '2007-11-23 16:32:25 -0800'
+categories:
+- Vida n'Am&Atilde;&copy;rica
+tags: []
+comments:
+- id: 189411
+  author: aL
+  author_email: alaideramalhocosta@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2007-11-24 14:01:28 -0800'
+  date_gmt: '2007-11-24 14:01:28 -0800'
+  content: "bem, e a ementa? o que te pareceu esta celebra&Atilde;&sect;&Atilde;&pound;o?
+    eu acho que gosto muito desta celebra&Atilde;&sect;&Atilde;&pound;o!\r\n\r\neu
+    s&Atilde;&sup3; estive em 2 celebra&Atilde;&sect;&Atilde;&micro;es do Thanksgiving,
+    mas eram um pouco em <em>fake<&#47;em>, era em Portugal, embora alguns ingredientes
+    tenham sido trazidos dos EUA, e a ementa era vegetariana..."
+- id: 189470
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-11-24 16:17:00 -0800'
+  date_gmt: '2007-11-24 16:17:00 -0800'
+  content: 'A ementa foi a tradicional: peru, pur&Atilde;&copy; de batatas, cranberry
+    sauce.'
+- id: 189791
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-11-25 07:07:40 -0800'
+  date_gmt: '2007-11-25 07:07:40 -0800'
+  content: A unica coisa que eu n&Atilde;&pound;o saberia encontrar &Atilde;&nbsp;
+    venda em portugal eram os cranberries. Nem sei se h&Atilde;&iexcl; nome em portugu&Atilde;&ordf;s.
+- id: 190147
+  author: aL
+  author_email: alaideramalhocosta@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2007-11-25 23:01:02 -0800'
+  date_gmt: '2007-11-25 23:01:02 -0800'
+  content: "hummm... cranberry sauce! nos meus thanksgiving tinhamos fake gravy ;)
+    \r\npois tamb&Atilde;&copy;m n&Atilde;&pound;o sei bem o que sao exactamente os
+    cranberries... porque mirtilios s&Atilde;&pound;o blueberries, ser&Atilde;&pound;o
+    arandos??? mas isso tamb&Atilde;&copy;m sao &Atilde;&copy; f&Atilde;&iexcl;cil
+    arranjar por c&Atilde;&iexcl;.\r\n\r\nohhh... tiveste um thanksgiving a s&Atilde;&copy;rio!!!
+    mas n&Atilde;&pound;o percebi o que achas da celebra&Atilde;&sect;&Atilde;&pound;o,
+    ou foi-te indiferente?"
+- id: 190698
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2007-11-26 17:26:50 -0800'
+  date_gmt: '2007-11-26 17:26:50 -0800'
+  content: A celebra&Atilde;&sect;&Atilde;&pound;o foi passar um dia inteiro a comer.
+    Segundo percebi, o thanksgiving &Atilde;&copy; isso mesmo.
+---
+<p>Ontem foi Thanksgiving. Os nativos deram de comer aos estudantes estrangeiros.</p>
+<p>Hoje neva em Pittsburgh.</p>

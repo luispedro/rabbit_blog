@@ -1,0 +1,128 @@
+---
+layout: post
+status: publish
+published: true
+title: 9&#47;11
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 628
+wordpress_url: http://blog.luispedro.org/?p=628
+date: '2006-09-12 03:22:06 -0700'
+date_gmt: '2006-09-12 03:22:06 -0700'
+categories:
+- Pol&Atilde;&shy;tica Internacional
+tags: []
+comments:
+- id: 8615
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-09-12 15:11:31 -0700'
+  date_gmt: '2006-09-12 15:11:31 -0700'
+  content: "Ainda ontem, num debate na SIC Not&Atilde;&shy;cias, a Odete Santos se
+    fartou de defender essa mesma opini&Atilde;&pound;o, e depois na RTP1, o pr&Atilde;&sup3;prio
+    M&Atilde;&iexcl;rio Soares a insinuou em debate com o Pacheco Pereira (j&Atilde;&iexcl;
+    para n&Atilde;&pound;o falar do \"intelectual\" mu&Atilde;&sect;ulmano tamb&Atilde;&copy;m
+    presente), alegando este e aquele documen&Atilde;&iexcl;rio e estes e aqueles
+    \"factos que toda a gente conhece\". Chegou a um ponto em que a Odete invocou
+    um documento qualquer que tinha visto na Internete, e perante o cepticismo da
+    oponente, irou-se respondendo \"Desculpe, mas est&Atilde;&iexcl; l&Atilde;&iexcl;!
+    Eu vi! N&Atilde;&pound;o me chame mentirosa!\" Bem, se est&Atilde;&iexcl; na Internete,
+    ent&Atilde;&pound;o n&Atilde;&pound;o h&Atilde;&iexcl; nada a argumentar.\r\nA
+    certa altura o JPP l&Atilde;&iexcl; teve de dizer, com paci&Atilde;&ordf;ncia,
+    que n&Atilde;&pound;o estava habilitado para discutir teorias com a mesma credibilidade
+    de previs&Atilde;&micro;es astrol&Atilde;&sup3;gicas.\r\n\r\n&Atilde;&permil;
+    extraordin&Atilde;&iexcl;rio o n&Atilde;&shy;vel de del&Atilde;&shy;rio a que
+    chegam algumas pessoas cegas pelo &Atilde;&sup3;dio aos EUA, embora tentem fazer
+    parecer que &Atilde;&copy; apenas &Atilde;&nbsp; administra&Atilde;&sect;&Atilde;&pound;o
+    Bush, e embora estas posi&Atilde;&sect;&Atilde;&micro;es sejam por motivos evidentes
+    mais atribu&Atilde;&shy;das a uma certa esquerda, tamb&Atilde;&copy;m h&Atilde;&iexcl;
+    muito boa gente de direita que alinha na mesma corrente (j&Atilde;&iexcl; tive
+    ocasi&Atilde;&pound;o de o verificar pessoalmente).\r\n\r\nConcordo no entanto,
+    que felizmente nas nossas sociedades essas pessoas recebem tempo de antena e s&Atilde;&pound;o
+    convidadas para debates na TV, onde dizem o que muito bem entendem. Isso n&Atilde;&pound;o
+    justifica que se diga que os valores ocidentais s&Atilde;&pound;o intrinsecamente
+    superiores, porque o Ocidente tamb&Atilde;&copy;m inventou o colonialismo moderno,
+    o fascismo e o comunismo (onde em circunst&Atilde;&cent;ncias id&Atilde;&ordf;nticas
+    se podia ir parar ao campo de concentra&Atilde;&sect;&Atilde;&pound;o ou ao gulag).
+    Mas o Ocidente tamb&Atilde;&copy;m inventou o estado de direito, o primado da
+    Lei, a separa&Atilde;&sect;&Atilde;&pound;o da Igreja e do Estado, a Liberdade
+    de Express&Atilde;&pound;o, os direitos das mulheres, a democracia representativa,
+    o constiticionalismo, etc. &Atilde;&permil; da&Atilde;&shy; que adv&Atilde;&ordf;m
+    a prosperidade, a liberdade e a democracia que tanto prezamos e espero que n&Atilde;&pound;o
+    tenhamos (Ocidente) que abdicar delas, tanto pelos ataques &Atilde;&nbsp; bomba
+    como por ataques a certos direitos civis que chegam de diversos sectores como
+    consequ&Atilde;&ordf;ncia dos atentados de 2001."
+- id: 8619
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-09-13 02:42:22 -0700'
+  date_gmt: '2006-09-13 02:42:22 -0700'
+  content: "Tamb&Atilde;&copy;m pelos EUA se ouve a tese da conspira&Atilde;&sect;&Atilde;&pound;o,
+    cada vez mais.\r\n\r\nA defesa &Atilde;&copy; mais das nossas sociedades do que
+    de todo o Ocidente. Alguns pa&Atilde;&shy;ses que n&Atilde;&pound;o eram parte
+    do Mundo Livre (para recuperar uma express&Atilde;&pound;o da Guerra Fria), hoje
+    fazem (incluo aqui o nosso, que &Atilde;&copy; um pa&Atilde;&shy;s geogr&Atilde;&iexcl;ficamente
+    no ocidente; e outros como o Chile ou o Brasil que n&Atilde;&pound;o eram). A
+    cita&Atilde;&sect;&Atilde;&pound;o era de outr&Atilde;&copy;m."
+- id: 8674
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: '2006-09-15 18:11:51 -0700'
+  date_gmt: '2006-09-15 18:11:51 -0700'
+  content: "N&Atilde;&pound;o podemos ser oito nem oitenta, ali&Atilde;&iexcl;s o
+    ser ou n&Atilde;&pound;o ser de shakespeare &Atilde;&copy; errado &Atilde;&copy;
+    ser e n&Atilde;&pound;o ser! mas n&Atilde;&pound;o quero discutir filosofia, a
+    quest&Atilde;&pound;o &Atilde;&copy; simples n&Atilde;&pound;o podemos ter a ingenuidade
+    de achar que sabemos tudo e que o que nos contam &Atilde;&copy; a verdade transparente.
+    Mas tamb&Atilde;&copy;m n&Atilde;&pound;o podemos cair em teorias loucas e sem
+    fundamento. Para mim as discuss&Atilde;&micro;es politicas s&Atilde;&pound;o ridiculas
+    porque t&Atilde;&ordf;m de haver oposi&Atilde;&sect;&Atilde;&pound;o e t&Atilde;&ordf;m
+    que se contrariar o outro como se os factos e a verdade se podessem discutiir
+    ou contornar, h&Atilde;&iexcl; coisas t&Atilde;&pound;o claras como o dia vir
+    a seguir &Atilde;&nbsp; noite. \r\n  Vamos aos factos, &Atilde;&copy; um facto
+    que o Bin Laden esteve a 100 metros de ser morto e que a administra&Atilde;&sect;&Atilde;&pound;o
+    clinton em pleno esc&Atilde;&cent;ndalo Monica Lewinski n&Atilde;&pound;o quis
+    dar luz verde para acabar com ele, &Atilde;&copy; um facto que a administra&Atilde;&sect;&Atilde;&pound;o
+    Bush teve nota 2 numa escala de 0 a 20 em quest&Atilde;&micro;es de seguran&Atilde;&sect;a,
+    dada pela comiss&Atilde;&pound;o 9&#47;11 e que ignorou os sinais evidentes que
+    algo de grande magnitude vinha a caminho, isto &Atilde;&copy; ser anti americano?
+    n&Atilde;&pound;o, eles mesmo assumem os erros deles, a comiss&Atilde;&pound;o
+    n&Atilde;&pound;o pintou um quadro irreal, &Atilde;&copy; um facto que num s&Atilde;&sup3;
+    dia num pa&Atilde;&shy;s onde a seguran&Atilde;&sect;a &Atilde;&copy; enorme&Acirc;&acute;e
+    onde existe FBI CIA etc 19 homens conseguem embarcar e conseguem desviar 4 avi&Atilde;&micro;es,
+    se isto n&Atilde;&pound;o &Atilde;&copy; total falta de seguran&Atilde;&sect;a
+    e uma vergonha para um pa&Atilde;&shy;s daqueles &Atilde;&copy; ineg&Atilde;&iexcl;vel,
+    &Atilde;&copy; estranho que John Oneill tenha sido demitido em agosto do FBI o
+    homem que sabia tudo! especialista no Bin Laden sabia tudo sobre ele, apanhou
+    os terroristas do ataque em 93 era um homem com a ficha imaculada e brilhante,
+    &Atilde;&copy; demitido sem raz&Atilde;&pound;o, e um homem destes com tanto conhecimento
+    vai em setembro para chefe de seguran&Atilde;&sect;a das  torres g&Atilde;&copy;meas!
+    no minimo estranho, e morre no atentado, poucos dias depois de ter aceite um trabalho
+    t&Atilde;&pound;o aqu&Atilde;&copy;m das suas possiblidades e conhecimento, isto
+    s&Atilde;&pound;o factos que n&Atilde;&pound;o podem sequer ser contestados porque
+    s&Atilde;&pound;o a verdade assim como &Atilde;&copy; verdade que a familia Bin
+    Laden saiu dos EUA com os aeroportos fechados, assim como &Atilde;&copy; verdade
+    que o bush antes de ser presidente levou &Atilde;&nbsp; fal&Atilde;&ordf;ncia
+    duas empresas petroliferas e mantinha tanto ele como o pai rela&Atilde;&sect;&Atilde;&micro;es
+    amistosas com a familia bin laden, &Atilde;&copy; um facto que no dia antes dos
+    atentados, a movimenta&Atilde;&sect;&Atilde;&pound;o na bolsa de NY foi muito
+    suspeita. Bin Laden &Atilde;&copy; saudita assim como a maior parte dos suicidas
+    que iam naqueles voos no entanto atacam o Iraque e est&Atilde;&pound;o longe de
+    apanhar o Bin Laden. Se foi um ataque de dentro? n&Atilde;&pound;o fa&Atilde;&sect;o
+    ideia e n&Atilde;&pound;o h&Atilde;&iexcl; factos que me levem a acreditar nisso,
+    estes factos que enumerei s&Atilde;&pound;o verdades incontorn&Atilde;&iexcl;veis
+    e estranhas, mas faltam pe&Atilde;&sect;as para se chegar a uma conclus&Atilde;&pound;o!
+    mas a morte do John O&Acirc;&acute;neill &Atilde;&copy; muito muito suspeita"
+---
+<p>Um leitor do <a href="http:&#47;&#47;time.blogs.com&#47;daily_dish&#47;2006&#47;09&#47;email_of_the_da_4.html">Andrew Sullivan<&#47;a>:</p>
+<blockquote><p>I was on London's Oxford Street this lunchtime. Coming out of the tube station was a group of men, maybe half a dozen in total, carrying placards that proclaimed "9&#47;11 was an inside job!" and things of that nature.</p>
+<p>My initial reaction was mild annoyance, but then I thought about the possiblity of men walking down the busiest shopping street of Riyadh, Tehran or Saddam-era Baghdad accusing their governments of such massive atrocities.</p>
+<p>There will be many tributes this day, and rightly so. But the fact that a group of people are allowed to walk down a London street saying the most hateful and offensive things, without violent reaction by the people, without imprisonment by the state, speaks volumes of the moral superiority of Western values over the barabarity of Islamism.<&#47;blockquote></p>

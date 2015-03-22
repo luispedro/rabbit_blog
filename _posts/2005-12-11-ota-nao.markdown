@@ -1,0 +1,57 @@
+---
+layout: post
+status: publish
+published: true
+title: OTA N&Atilde;&pound;o
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 250
+wordpress_url: http://blog.luispedro.org/?p=250
+date: '2005-12-11 14:09:11 -0800'
+date_gmt: '2005-12-11 14:09:11 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 2394
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2005-12-12 19:17:09 -0800'
+  date_gmt: '2005-12-12 19:17:09 -0800'
+  content: Pois, mas se morasses em Santar&Atilde;&copy;m talvez os hor&Atilde;&iexcl;rios
+    e custos de transporte fossem outros. ;)
+- id: 2396
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-12-12 23:12:29 -0800'
+  date_gmt: '2005-12-12 23:12:29 -0800'
+  content: "Claro que sim.\r\n\r\nUma pessoa que more em Santar&Atilde;&copy;m s&Atilde;&sup3;
+    tem a ganhar na quest&Atilde;&pound;o da proximidade e esse poder&Atilde;&iexcl;
+    ser um argumento leg&Atilde;&shy;timo para ela favorecer um aeroporto na Ota.\r\n\r\nUma
+    pessoa que more na linha de Sintra ou Cascais perder&Atilde;&iexcl; ainda mais
+    que eu que moro em Lisboa.\r\n\r\nAcho &Atilde;&copy; que h&Atilde;&iexcl; mais
+    gente a perder que gente a ganhar, pela simples raz&Atilde;&pound;o que h&Atilde;&iexcl;
+    mais gente em Lisboa e a Oeste de Lisboa que a Este de Lisboa."
+- id: 2397
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2005-12-12 23:59:55 -0800'
+  date_gmt: '2005-12-12 23:59:55 -0800'
+  content: "Sem d&Atilde;&ordm;vida, embora tamb&Atilde;&copy;m existam as gentes
+    e ind&Atilde;&ordm;strias de Leiria e do interior centro. Os que chegam tamb&Atilde;&copy;m
+    devem ir em maioria para Lisboa.\r\nDe qualquer forma, esses teus custos s&Atilde;&pound;o
+    os lucros de taxistas e empresas de transportes. ;)"
+---
+<p>Na s&Atilde;&copy;rie <i>nem que fosse de gra&Atilde;&sect;a<&#47;i> (escrito a 7 Dezembro, no aeroporto, postado a 11 de Dezembro num caf&Atilde;&copy; <i>ala Kubrik<&#47;i>, com WiFi),</p>
+<p>Hoje, tinha um voo &Atilde;&nbsp;s 5.45.</p>
+<p>Sa&Atilde;&shy; de casa &Atilde;&nbsp;s 4.30. Se o aeroporto fosse na Ota, teria que ter sa&Atilde;&shy;do &Atilde;&nbsp;s 3.30 da manh&Atilde;&pound;.</p>
+<p>Paguei 5 euros de taxi. Se o aeroporto fosse na Ota, teria que ter pago, pelo menos, 20 (5 de taxi mais 15 de TGV).</p>
+<p>Este &Atilde;&ordm;ltimo custo aparecer&Atilde;&iexcl; nos "estudos" do governo?</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Montreal
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 1033
+wordpress_url: http://blog.luispedro.org/posts/montreal
+date: '2007-06-27 22:14:43 -0700'
+date_gmt: '2007-06-27 22:14:43 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>H&Atilde;&iexcl; imensos pedintes em Montreal. N&Atilde;&pound;o estava &Atilde;&nbsp; espera (n&Atilde;&pound;o foi isto que me venderam sobre o Canad&Atilde;&iexcl;: nos EUA teria achado mais normal).</p>

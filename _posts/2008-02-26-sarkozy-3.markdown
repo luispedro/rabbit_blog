@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Sarkozy
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1268
+wordpress_url: http://blog.luispedro.org/posts/sarkozy-3
+date: '2008-02-26 03:28:29 -0800'
+date_gmt: '2008-02-26 03:28:29 -0800'
+categories:
+- Fran&Atilde;&sect;a
+tags: []
+comments: []
+---
+<p>Oh, Segolene, volta! Est&Atilde;&iexcl;s perdoada!</p>

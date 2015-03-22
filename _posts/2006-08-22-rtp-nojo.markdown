@@ -1,0 +1,119 @@
+---
+layout: post
+status: publish
+published: true
+title: 'RTP: Nojo'
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 603
+wordpress_url: http://blog.luispedro.org/?p=603
+date: '2006-08-22 20:31:00 -0700'
+date_gmt: '2006-08-22 20:31:00 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 8198
+  author: FMPires
+  author_email: ''
+  author_url: http://www.small-brother.blogspot.com
+  date: '2006-08-23 12:55:38 -0700'
+  date_gmt: '2006-08-23 12:55:38 -0700'
+  content: "Aten&Atilde;&sect;&Atilde;&pound;o que o ECT refere tamb&Atilde;&copy;m
+    que \"a RTP recebeu ordens directas do gabinete de Jos&Atilde;&copy; S&Atilde;&sup3;crates\".
+    Embora a pe&Atilde;&sect;a seja por demais clara da influ&Atilde;&ordf;ncia do
+    governo na programa&Atilde;&sect;&Atilde;&pound;o da RTP, esta afirma&Atilde;&sect;&Atilde;&pound;o
+    carece como &Atilde;&copy; &Atilde;&sup3;bvio de prova para poder ser reproduzida.
+    \r\nEstranho &Atilde;&copy; que ECT a tenha proferido sem se acautelar devidamente...
+    a ver vamos no que &Atilde;&copy; que d&Atilde;&iexcl;...."
+- id: 8200
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-08-23 17:07:13 -0700'
+  date_gmt: '2006-08-23 17:07:13 -0700'
+  content: "A pe&Atilde;&sect;a original diz, de facto: \" as informa&Atilde;&sect;&Atilde;&micro;es
+    de que disponho indicam que o gabinete do primeiro-ministro deu instru&Atilde;&sect;&Atilde;&micro;es
+    directas &Atilde;&nbsp; RTP para se fazer censura &Atilde;&nbsp; cobertura dos
+    inc&Atilde;&ordf;ndios: s&Atilde;&pound;o ordens directas do gabinete de S&Atilde;&sup3;crates.\"\r\n\r\nA
+    resposta da RTP devia ter sido como Direito de Resposta no P&Atilde;&ordm;blico,
+    negando isso (se for mentira). Publicavam a sua pr&Atilde;&sup3;pria vers&Atilde;&pound;o,
+    eventualmente at&Atilde;&copy; haveria uma troca de comunicados, outras vers&Atilde;&micro;es,
+    discutia-se... O ECT poderia ter revelado as fontes que diz ter, ou n&Atilde;&pound;o.
+    Que tenham partido directamente para tribunal contra um cronista &Atilde;&copy;
+    que me pareceu uma resposta pouco s&Atilde;&copy;ria.\r\n\r\nIsso fez-me perder
+    mais o respeito pela RTP do que os factos relatados na cr&Atilde;&sup3;nica."
+- id: 8201
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-08-23 17:07:49 -0700'
+  date_gmt: '2006-08-23 17:07:49 -0700'
+  content: "http:&#47;&#47;tangerinadoce.blogspot.com&#47;2006&#47;08&#47;grande-momento-de-televiso.html\r\n\r\nhttp:&#47;&#47;otelescopio.blogspot.com&#47;2006&#47;08&#47;enquanto-vocs-viam-o-benfica.html\r\n\r\n(via
+    blasf&Atilde;&copy;mias)"
+- id: 8233
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-08-24 14:17:53 -0700'
+  date_gmt: '2006-08-24 14:17:53 -0700'
+  content: "Eu assisti a essa entrevista&#47;debate&#47;peixeirada na SIC Not&Atilde;&shy;cias,
+    e foi de facto um belo momento de televis&Atilde;&pound;o... A r&Atilde;&iexcl;bula
+    da carteira de jornalista foi brilhante, especialmente quando o M&Atilde;&iexcl;rio
+    Crespo interrompe com a maior calma do mundo o alterado Lu&Atilde;&shy;s Marinho
+    para dizer \"Desculpa Lu&Atilde;&shy;s, mas acabo de ver a carteira do Eduardo,
+    e posso garantir que &Atilde;&copy; uma carteira igual &Atilde;&nbsp;s nossas,
+    e est&Atilde;&iexcl; em dia. Podes continuar.\" \"Bem... se &Atilde;&copy; assim,
+    pe&Atilde;&sect;o desculpa... MAS N&Atilde;&fnof;O FOI ISSO DE QUE ME INFORMARAM
+    HOJE DA ASSOCIA&Atilde;&Dagger;&Atilde;&fnof;O DA CARTEIRA!!! E tamb&Atilde;&copy;m
+    n&Atilde;&pound;o &Atilde;&copy; isso que est&Atilde;&iexcl; na Internet!\"\r\n\r\nA
+    dica da terr&Atilde;&shy;vel m&Atilde;&iexcl;quina jur&Atilde;&shy;dica da RTP
+    que o M&Atilde;&iexcl;rio Crespo largou tamb&Atilde;&copy;m foi brilhante, rematada
+    com um \"E eu sei do que falo por experi&Atilde;&ordf;ncia pr&Atilde;&sup3;pria...\"\r\n\r\nA
+    certa altura, o MC parecia estar a tentar a fazer uma justi&Atilde;&sect;a salom&Atilde;&sup3;nica,
+    e a dizer que o seu programa n&Atilde;&pound;o era um tribunal, e quando o ECT
+    referiu uma s&Atilde;&copy;rie de preceitos que a RTP tinha definido para o tratamento
+    noticioso dos inc&Atilde;&ordf;ndios nos seus alinhamentos, tentando mostrar que
+    ela pr&Atilde;&sup3;pria os tinha violado, o MC diz \"Desculpa Eduardo, mas isso
+    &Atilde;&copy; subjectivo.\" \"Subjectivo?!? N&Acirc;&ordm;1: O fogo est&Atilde;&iexcl;
+    a lavrar h&Atilde;&iexcl; mais de 12 horas? Subjectivo ou objectivo?\" \"Bem...
+    objectivo...\" \"N&Acirc;&ordm;2: o fogo tal e tal. N&Acirc;&ordm;3: o fogo isto
+    e aquilo?\" \"Bem... objectivo...\" \"Ent&Atilde;&pound;o se &Atilde;&copy; objectivo,
+    porque &Atilde;&copy; que est&Atilde;&iexcl;s a dizer que &Atilde;&copy; subjectivo?!
+    Se isto &Atilde;&copy; subjectivo, ent&Atilde;&pound;o a TVI e a SIC tiveram uma
+    aberra&Atilde;&sect;&Atilde;&pound;o subjectiva no seu alinhamento desse dia,
+    ainda para mais referindo que o fogo lavrava no Parque nacional da Peneda-Ger&Atilde;&ordf;s
+    e n&Atilde;&pound;o dizer apenas que era no concelho de Arcos de Valdevez!\"\r\n\r\nBasicamente
+    parece-me que foi o ECT que ganhou o debate, uma vez que foi o &Atilde;&ordm;nico
+    a tentar apresentar alguns argumentos, nunca entrando no espect&Atilde;&iexcl;culo
+    nem em tiradas e sarcasmos baratos (excepto ao comentar ironicamente de passagem
+    o arquivo da RTP quando o LM sacou dos artigos do ano passado), ao passo que o
+    seu advers&Atilde;&iexcl;rio parecia completamente descontrolado atirando com
+    carteiras de jornalista para o ar, referindo-se-lhe como \"esse senhor que est&Atilde;&iexcl;
+    a&Atilde;&shy; armado em jornalista\" e do v&Atilde;&ordf;mo-nos em tribunal sem
+    nunca realmente comentar o alinhamento do Telejornal do dia em causa.\r\n\r\nDe
+    qualquer forma, o ECT afirmou impl&Atilde;&shy;cita ou explicitamente que algu&Atilde;&copy;m
+    no governo ou com acesso a ele tinha puxado os cordelinhos, e que tal lhe tinha
+    sido revelado por um \"insider\", pelo que parece-me que a prociss&Atilde;&pound;o
+    ainda vai no adro..."
+- id: 8618
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: '2006-09-12 18:13:24 -0700'
+  date_gmt: '2006-09-12 18:13:24 -0700'
+  content: o brigada
+---
+<p>Dizia o Mark Twain:</p>
+<blockquote><p>If you do not read newspapers, you are uniformed. If you do read them, you are misinformed.<&#47;blockquote><br />
+No P&Atilde;&ordm;blico:</p>
+<blockquote><p>O Telejornal da RTP de 15 de Agosto referia que o recorde do ano ocorreu na sexta-feira, dia 11, com 579 inc&Atilde;&ordf;ndios. Mas quem tivesse visto a RTP no dia seguinte n&Atilde;&pound;o acreditaria nisso. No s&Atilde;&iexcl;bado, dia 12, o Telejornal da RTP foi uma das pe&Atilde;&sect;as mais tenebrosas da informa&Atilde;&sect;&Atilde;&pound;o televisiva em Portugal em muito tempo.</p>
+<p>(...)</p>
+<p>E o Telejornal (RTP) [o que fez no dia 12, depois do pior dia do ano, em termos de inc&Atilde;&ordf;ndios]? N&Atilde;&pound;o fez nenhum directo. Remeteu os inc&Atilde;&ordf;ndios para a 18&Acirc;&ordf; not&Atilde;&shy;cia de 28, j&Atilde;&iexcl; depois do desporto. As tr&Atilde;&ordf;s &Atilde;&ordm;nicas not&Atilde;&shy;cias sobre inc&Atilde;&ordf;ndios activos foram t&Atilde;&pound;o breves que totalizaram menos tempo (1m50) do que a convalescen&Atilde;&sect;a de Fidel Castro (2m16) ou a vit&Atilde;&sup3;ria dum Jo&Atilde;&pound;o Cabreira na etapa do dia da Volta (2m18). As outras tr&Atilde;&ordf;s not&Atilde;&shy;cias relacionadas com fogos eram todas positivas: um inventor dum autotanque; uma visita de bombeiros alem&Atilde;&pound;es a Vila Real; a entrega de 16 jipes pelo Instituto de Conserva&Atilde;&sect;&Atilde;&pound;o da Natureza aos parques naturais.<&#47;blockquote><br />
+Isto ainda era a simples parvo&Atilde;&shy;ce, mau jornalismo, provavelmente uma mistura de vamos fazer o ministro aparecer bem com pura incompet&Atilde;&ordf;ncia, mas a resposta da RTP foi claramente para l&Atilde;&iexcl; do que se esperaria de um canal s&Atilde;&copy;rio (que a RTP demonstrou n&Atilde;&pound;o ser). Segundo a <a href="http:&#47;&#47;www.lusa.pt&#47;print.asp?id=SIR-8272992">Lusa<&#47;a>:</p>
+<blockquote><p>A Direc&Atilde;&sect;&Atilde;&pound;o de Informa&Atilde;&sect;&Atilde;&pound;o da esta&Atilde;&sect;&Atilde;&pound;o p&Atilde;&ordm;blica anunciou, em comunicado, que vai processar judicialmente Eduardo Cintra Torres na sequ&Atilde;&ordf;ncia de um artigo de opini&Atilde;&pound;o publicado domingo no jornal P&Atilde;&ordm;blico, no qual acusa a RTP de ceder a alegadas press&Atilde;&micro;es do Governo na cobertura de inc&Atilde;&ordf;ndios.<&#47;blockquote></p>

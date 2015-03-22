@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: Os Jovens
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 826
+wordpress_url: http://blog.luispedro.org/posts/os-jovens
+date: '2007-01-23 01:26:39 -0800'
+date_gmt: '2007-01-23 01:26:39 -0800'
+categories:
+- Aborto
+tags: []
+comments:
+- id: 50076
+  author: V&Atilde;&shy;tor Soarers
+  author_email: vitor-parede
+  author_url: ''
+  date: '2007-01-23 21:29:53 -0800'
+  date_gmt: '2007-01-23 21:29:53 -0800'
+  content: O Sr. Marcelo Sousa nunca escondeu que era filho de um ministro de Salazar
+    e afilhado do sucessor de Salazar no trono do fascismo. O que ele esconde por
+    n&Atilde;&pound;o lhe ser conveniente &Atilde;&copy; que o n&Atilde;&pound;o &Atilde;&copy;
+    filho da Inquisi&Atilde;&sect;&Atilde;&pound;o. Esconde tamb&Atilde;&copy;m que
+    a diocese cat&Atilde;&sup3;lica de Spokane EUA pagou 48 milh&Atilde;&micro;es
+    de dolares para suspender o julgamento de alguns dos seus sacerdotes que ter&Atilde;&pound;o
+    cometido abusos sexuais a menores. Restam mais algumas centenas de sacerdotes
+    nos EUA para serem julgados pelos mesmos crimes. Era isto que o senhor Sousa e
+    os senhores bispos deste pa&Atilde;&shy;s deviam condenar. E se as autoridades
+    deste pa&Atilde;&shy;s investigassem o que se passa nas igrejas portuguesas?
+---
+<p>Se os <cite>Jovens pelo Sim<&#47;cite> incluem o Z&Atilde;&copy; Pedro dos Xutos e Pontap&Atilde;&copy;s, o <cite>Assim N&Atilde;&pound;o<&#47;cite>, inclui o Marcelo Rebelo de Sousa "e outros jovens" (palavras do pr&Atilde;&sup3;prio, no video).</p>

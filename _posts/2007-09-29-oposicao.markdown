@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: Oposi&Atilde;&sect;&Atilde;&pound;o
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1158
+wordpress_url: http://blog.luispedro.org/posts/oposicao
+date: '2007-09-29 16:39:36 -0700'
+date_gmt: '2007-09-29 16:39:36 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 146920
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-09-30 10:43:57 -0700'
+  date_gmt: '2007-09-30 10:43:57 -0700'
+  content: "O Rabbit tem a certeza de que a liberaliza&Atilde;&sect;&Atilde;&pound;o
+    do mercado de trabalho faria acabar os recibos verdes? Eu n&Atilde;&pound;o tenha
+    nada a certeza.\r\n\r\nO regime de recibos verdes tem imensos benef&Atilde;&shy;cios
+    para o patr&Atilde;&pound;o em rela&Atilde;&sect;&Atilde;&pound;o a um contrato
+    de trabalho, por mais liberal que este seja: n&Atilde;&pound;o obriga a dar f&Atilde;&copy;rias,
+    n&Atilde;&pound;o obriga a pagar Seguran&Atilde;&sect;a Social, n&Atilde;&pound;o
+    obriga a dar licen&Atilde;&sect;as por doen&Atilde;&sect;a ou maternidade... o
+    patr&Atilde;&pound;o fica sem responsbilidades absolutamente nenhumas. A n&Atilde;&pound;o
+    ser que, para o Rabbit, \"liberalizar o mercado de trabalho\" signifique p&Atilde;&acute;r
+    todos os trabalhadores neste regime de recibos verdes, estou convencido que nenhuma
+    liberaliza&Atilde;&sect;&Atilde;&pound;o acabar&Atilde;&iexcl;, de facto, com
+    a trag&Atilde;&copy;dia dos recibos verdes."
+- id: 147218
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-09-30 22:56:55 -0700'
+  date_gmt: '2007-09-30 22:56:55 -0700'
+  content: N&Atilde;&pound;o penso que o regime de recibos verdes seja uma trag&Atilde;&copy;dia.
+    Sem ele, muita mais gente estaria desempregada.
+---
+<p>O PS de S&Atilde;&sup3;crates ganhou elei&Atilde;&sect;&Atilde;&micro;es como <cite>um PSD melhor<&#47;cite> porque ocupou o espa&Atilde;&sect;o social-democrata respons&Atilde;&iexcl;vel que era do PSD. F&Atilde;&ordf;-lo contra um Santana Lopes economicamente &Atilde;&nbsp; sua esquerda (o debate S&Atilde;&sup3;crates-Santana parecia um debate PS-PSD de anos idos com os pap&Atilde;&copy;is trocados).</p>
+<p>A partir daqui, o PSD ou se juntava ao PS (Judice fez isso mesmo, como fez, &Atilde;&nbsp; sua maneira, Cavaco), tentava ser um melhor partido social-democrata sem grandes diferen&Atilde;&sect;as de base (Manuela Ferreira Leite), tentava ir pela direita (Ant&Atilde;&sup3;nio Borges, Marques Mendes num ou outro momento [reforma da seguran&Atilde;&sect;a social]), ou ia atacar o PS <em>pela esquerda<&#47;em> (Lu&Atilde;&shy;s Filipe Menezes).</p>
+<p>Com a escolha de Menezes &Atilde;&copy; capaz de ficar consolidada a troca: o PS tornou-se um partido do centro-esquerda social-democrata, o PSD fica com a esquerda economicamente iliterada que pede, ao mesmo tempo, menos impostos e mais servi&Atilde;&sect;os do estado. Vai atacar o PS por reagir &Atilde;&nbsp; fal&Atilde;&ordf;ncia do estado social. N&Atilde;&pound;o o vai fazer pedindo a privatiza&Atilde;&sect;&Atilde;&pound;o da seguran&Atilde;&sect;a social, mas negando que existe problema. N&Atilde;&pound;o vai pedir liberaliza&Atilde;&sect;&Atilde;&pound;o do mercado de trabalho, mas prometer lutar contra o "regime dos recibos verdes."</p>
+<p>Resumindo, ganhou o Francisco Lou&Atilde;&sect;&Atilde;&pound; do PSD.</p>

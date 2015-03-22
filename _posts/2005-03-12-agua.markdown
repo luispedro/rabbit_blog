@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: "&Atilde;\x81gua"
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 38
+wordpress_url: http://luispedro.org/blog/?p=38
+date: '2005-03-12 17:04:49 -0800'
+date_gmt: '2005-03-12 17:04:49 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 1270
+  author: Rabbit&#8217;s blog &raquo; O Pequeno Grande Sacrif&Atilde;&shy;cio Comum
+  author_email: ''
+  author_url: http://blog.luispedro.org/?p=112
+  date: '2005-07-26 01:24:21 -0700'
+  date_gmt: '2005-07-26 01:24:21 -0700'
+  content: "[...] O Pequeno Grande Sacrif&Atilde;&shy;cio Comum \tFiled under: General
+    &#8212; luispedro @ 01:24  \t \t \t\t\tJ&Atilde;&iexcl; falei de como o problema
+    da seca leva a respostas de poupe &Atilde;&iexcl;gua quando parece que toda a
+    gente informada con [...]"
+---
+<p>Repare-se <a href="http:&#47;&#47;www.publico.clix.pt&#47;shownews.asp?id=1218001&idCanal=62">neste coment&Atilde;&iexcl;rio<&#47;a> dos distribuidores de &Atilde;&iexcl;gua. Em primeiro lugar, dizem que </p>
+<blockquote><p>
+A &Atilde;&iexcl;gua utilizada na distribui&Atilde;&sect;&Atilde;&pound;o de &Atilde;&iexcl;gua domicili&Atilde;&iexcl;ria n&Atilde;&pound;o ultrapassa os dez por cento dos usos da &Atilde;&iexcl;gua...<br />
+<&#47;blockquote></p>
+<p>logo n&Atilde;&pound;o vale a muito a pena tentar reduzir muito o consumo neste segmento, mas  mais tarde considera que </p>
+<blockquote><p>
+devido &Atilde;&nbsp; actual seca, dever&Atilde;&pound;o ser refor&Atilde;&sect;adas as campanhas de sensibiliza&Atilde;&sect;&Atilde;&pound;o para a poupan&Atilde;&sect;a do consumo de  &Atilde;&iexcl;gua.<br />
+<&#47;blockquote></p>
+<p>Se, como disseram, o consumo residencial &Atilde;&copy; pouco significante (o que acredito: &Atilde;&copy; coerente com outras fontes), estas campanhas s&Atilde;&pound;o apenas <i>feel good campaigns<&#47;i>, como muito do ambientalismo que se faz, pagas com os nosso impostos.</p>
+<p>Claro que se houvesse uma subida dos pre&Atilde;&sect;os uniformes para todos os consumidores de &Atilde;&iexcl;gua, pequenos e grandes, como a rega para a agricultura ou campos de golfe e parques municipais e etc, seria outra conversa. At&Atilde;&copy; talvez certos destes utilizadores procurassem solu&Atilde;&sect;&Atilde;&micro;es alternativas, como o aproveitamento das &Atilde;&iexcl;guas da chuva.</p>

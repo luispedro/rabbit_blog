@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: Museus
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 75
+wordpress_url: http://blog.luispedro.org/?p=75
+date: '2005-05-16 00:08:44 -0700'
+date_gmt: '2005-05-16 00:08:44 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 181
+  author: MMNeves
+  author_email: maneves@dem.ist.utl.pt
+  author_url: ''
+  date: '2005-05-16 08:20:17 -0700'
+  date_gmt: '2005-05-16 08:20:17 -0700'
+  content: 'Adoro Vienna! ... e &Atilde;&nbsp;s viagens que fa&Atilde;&sect;o, quando
+    posso, por M&Atilde;&frac14;nchen --> Innsbruck --> Vienna (e '
+- id: 182
+  author: MMNeves
+  author_email: maneves@dem.ist.utl.pt
+  author_url: ''
+  date: '2005-05-16 08:21:25 -0700'
+  date_gmt: '2005-05-16 08:21:25 -0700'
+  content: "Adoro Vienna! ... e &Atilde;&nbsp;s viagens que fa&Atilde;&sect;o, quando
+    posso, por M&Atilde;&frac14;nchen --> Innsbruck --> Vienna chamo uns \"banhos
+    de civiliza&Atilde;&sect;&Atilde;&pound;o\". A diferen&Atilde;&sect;a &Atilde;&copy;
+    grande, mas sinto que j&Atilde;&iexcl; foi muito maior (no geral)... \r\n\r\n\r\n\r\n"
+- id: 183
+  author: miguel manso
+  author_email: mansomiguel@hotmail.com
+  author_url: http://baixashiatsu.blogspot.com
+  date: '2005-05-21 18:55:55 -0700'
+  date_gmt: '2005-05-21 18:55:55 -0700'
+  content: lp, eu percebi...
+- id: 5257
+  author: Rabbit&#8217;s blog &raquo; Blog Archive &raquo; Noite Fixe dos Museus
+  author_email: ''
+  author_url: http://blog.luispedro.org/?p=466
+  date: '2006-05-23 13:47:10 -0700'
+  date_gmt: '2006-05-23 13:47:10 -0700'
+  content: "[...] Um post de h&aacute; um ano queixava-se da Noite Elitista dos Museus.
+    Este ano, foi completamente diferente. Eu passei&nbsp;S&aacute;bado &agrave;&nbsp;noite,
+    no Museu do Chiado, o meu museu preferido de Lisboa, mas nunca l&aacute; tinha
+    ido para beber uns copos. [...]"
+---
+<p>Quando morei em Viena n&Atilde;&pound;o tive, infelizmente, oportunidade de ir &Atilde;&nbsp; <cite>Longa Noite dos Museus<&#47;cite>. Este fim-de-semana, alguns museus portugueses participaram na iniciativa francesa chamada <cite>Nuit des Mus&Atilde;&copy;es<&#47;cite>.</p>
+<p>Por exemplo, o Museu Nacional de Arte Antiga tinha uma performance de Miguel Palma que <cite>levantava quest&Atilde;&micro;es sobre a luz, a arte e a rela&Atilde;&sect;&Atilde;&pound;o do p&Atilde;&ordm;blico com o patrim&Atilde;&sup3;nio e a sua instabilidade<&#47;cite>. Em Viena, era diferente: nesssa noite, os museus fechavam mais tarde e depois havia festa com m&Atilde;&ordm;sica e bebidas at&Atilde;&copy; &Atilde;&nbsp;s seis da manh&Atilde;&pound;.</p>
+<p>Viena &Atilde;&copy; uma cidade muito mais cultural com pessoas muito mais cultas e &Atilde;&copy; nestas coisas que se v&Atilde;&ordf; a diferen&Atilde;&sect;a.</p>
+<p><small>Quem achar que a frase acima &Atilde;&copy; ir&Atilde;&sup3;nica &Atilde;&copy; porque n&Atilde;&pound;o percebeu nada deste post.<&#47;small></p>

@@ -1,0 +1,65 @@
+---
+layout: post
+status: publish
+published: true
+title: Casinos
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1263
+wordpress_url: http://blog.luispedro.org/posts/casinos
+date: '2008-02-19 05:30:22 -0800'
+date_gmt: '2008-02-19 05:30:22 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 234813
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2008-02-19 10:12:08 -0800'
+  date_gmt: '2008-02-19 10:12:08 -0800'
+  content: "Excelente post.\r\n\r\n&Atilde;&permil; o problema da esquerda, sempre
+    a vacilar entre o anarquismo, que &Atilde;&copy; contra o Estado, e o marxismo,
+    que procura apoderar-se do Estado."
+- id: 234866
+  author: Miguel Madeira
+  author_email: miguelj112sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-02-19 13:12:46 -0800'
+  date_gmt: '2008-02-19 13:12:46 -0800'
+  content: "&Acirc;&laquo;que mostram como a interven&Atilde;&sect;&Atilde;&pound;o
+    do Estado &Atilde;&copy; muitas vezes a favor de grupos ligados ao poder e n&Atilde;&pound;o
+    a favor do &acirc;&euro;&oelig;bem comum.&acirc;&euro;\x9D&Acirc;&raquo;\r\n\r\n&Acirc;&laquo;Disfar&Atilde;&sect;ado
+    por baixo do zero de conduta est&Atilde;&iexcl; um blogue libert&Atilde;&iexcl;rio
+    a tentar sair.&Acirc;&raquo;\r\n\r\nDiga-se que a ideia de que a inbterven&Atilde;&sect;&Atilde;&pound;o
+    do Estado &Atilde;&copy; a favor do \"bem comum\" n&Atilde;&pound;o era a posi&Atilde;&sect;&Atilde;&pound;o
+    tradicional da esquerda.\r\n\r\nA posi&Atilde;&sect;&Atilde;&pound;o esquerdista
+    cl&Atilde;&iexcl;ssica - tanto entre os anarquistas como os marxistas - &Atilde;&copy;
+    (ou era?) a de que n&Atilde;&pound;o existe \"bem comum\" (e que tal conceito
+    n&Atilde;&pound;o passa de uma m&Atilde;&iexcl;scara para os interesses das classes
+    dominantes)mas apenas classes com interesses em confronto, e que o Estado &Atilde;&copy;
+    sempre o defensor de uma classe  contra outra."
+- id: 235265
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2008-02-21 04:27:00 -0800'
+  date_gmt: '2008-02-21 04:27:00 -0800'
+  content: "\"\"\"\r\nA posi&Atilde;&sect;&Atilde;&pound;o esquerdista cl&Atilde;&iexcl;ssica
+    - tanto entre os anarquistas como os marxistas - &Atilde;&copy; (ou era?) a de
+    que n&Atilde;&pound;o existe &acirc;&euro;&oelig;bem comum&acirc;&euro;\x9D (e
+    que tal conceito n&Atilde;&pound;o passa de uma m&Atilde;&iexcl;scara para os
+    interesses das classes dominantes)mas apenas classes com interesses em confronto,
+    e que o Estado &Atilde;&copy; sempre o defensor de uma classe contra outra.\r\n\"\"\"\r\n\r\nEu
+    sei. A esquerda cl&Atilde;&iexcl;ssica era muito diferente da esquerda actual.
+    As semelhan&Atilde;&sect;as s&Atilde;&pound;o quase acidentais."
+---
+<p>O <a href="http:&#47;&#47;zerodeconduta.blogs.sapo.pt&#47;">zero de conduta<&#47;a> &Atilde;&copy; um blogue de esquerda, mas est&Atilde;&iexcl; cheio de posts, como <a href="http:&#47;&#47;zerodeconduta.blogs.sapo.pt&#47;562543.html">este sobre o casino<&#47;a> que mostram como a interven&Atilde;&sect;&Atilde;&pound;o do Estado &Atilde;&copy; muitas vezes a favor de grupos ligados ao poder e n&Atilde;&pound;o a favor do "bem comum."</p>
+<p>O problema n&Atilde;&pound;o est&Atilde;&iexcl; nos grupos privados, como diz o zero, mas num estado que micro-gere a economia. Quando o estado micro-gere tudo, os vencedores s&Atilde;&pound;o quem tem os melhores amigos. &Atilde;&permil; importante que se denuncie as ac&Atilde;&sect;&Atilde;&micro;es do estado que desmentem o mito do Estado benevolente.</p>
+<p>Disfar&Atilde;&sect;ado por baixo do zero de conduta est&Atilde;&iexcl; um blogue libert&Atilde;&iexcl;rio a tentar sair.</p>

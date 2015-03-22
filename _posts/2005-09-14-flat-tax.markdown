@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Flat-tax
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 156
+wordpress_url: http://blog.luispedro.org/?p=156
+date: '2005-09-14 21:47:20 -0700'
+date_gmt: '2005-09-14 21:47:20 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 1664
+  author: marta
+  author_email: marta_leocadio@hotmail.com
+  author_url: http://lunario.blogspot.com
+  date: '2005-09-14 22:48:28 -0700'
+  date_gmt: '2005-09-14 22:48:28 -0700'
+  content: n&Atilde;&pound;o fa&Atilde;&sect;o a minima ideia, mas gosto do nome do
+    teu blog...
+---
+<p>Primeiro, uma pergunta: <i>Algu&Atilde;&copy;m tem um bom nome em Portugu&Atilde;&ordf;s para flat-tax? imposto fixo, imposto simples, taxa &Atilde;&ordm;nica?<&#47;i> At&Atilde;&copy; encontrar alternativa, vou usar <i>flat tax<&#47;i>.</p>
+<p>Um <i>flat tax<&#47;i> significa que a taxa do imposto &Atilde;&copy; sempre a mesma <em>dentro do mesmo imposto<&#47;em>. N&Atilde;&pound;o significa que a taxa de IVA deva ser igual &Atilde;&nbsp; de IRS, como &Atilde;&nbsp;s vezes se v&Atilde;&ordf; escrito. &Atilde;&permil; verdade que h&Atilde;&iexcl; pa&Atilde;&shy;ses que adoptaram esse sistema, mas n&Atilde;&pound;o me parece essencial (nem vejo quais as vantagens directas disso).</p>
+<p>Significa que a taxa de IVA &Atilde;&copy; igual para qualquer produto.<br />
+Significa que a taxa de IRS marginal &Atilde;&copy; sempre a mesma (embora, como <a href="http:&#47;&#47;blog.luispedro.org&#47;?p=152">ilustrei ontem<&#47;a> a taxa efectivamente paga seja crescente).<br />
+Significa que se acabam os benef&Atilde;&shy;cios fiscais (e se desce a taxa, simplificando o sistema).</p>
+<p>A taxa de IRC &Atilde;&copy; j&Atilde;&iexcl; de si fixa, mas tamb&Atilde;&copy;m aqui &Atilde;&copy; importante acabar com as isen&Atilde;&sect;&Atilde;&micro;es para isto e para aquilo e descer a taxa.</p>
+<p>Ainda outra pergunta: porque &Atilde;&copy; que um p&Atilde;&pound;o com carne no supermercado paga IVA a 21% e num caf&Atilde;&copy; a 12%? E se f&Atilde;&acute;r um caf&Atilde;&copy;&#47;padaria? Depende se &Atilde;&copy; para levar (21%) ou para comer no local (12%)?</p>

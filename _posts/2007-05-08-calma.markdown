@@ -1,0 +1,57 @@
+---
+layout: post
+status: publish
+published: true
+title: Calma
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 971
+wordpress_url: http://blog.luispedro.org/posts/calma
+date: '2007-05-08 00:46:53 -0700'
+date_gmt: '2007-05-08 00:46:53 -0700'
+categories:
+- Fran&Atilde;&sect;a
+tags: []
+comments:
+- id: 64124
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-05-08 13:15:31 -0700'
+  date_gmt: '2007-05-08 13:15:31 -0700'
+  content: "\"Enquanto ministro da Economia, protegeu a ind&Atilde;&ordm;stria nacional
+    como um socialista\"\r\n\r\nPenso que n&Atilde;&pound;o h&Atilde;&iexcl; nenhum
+    ponto da ideologia socialista que diga que o Estado deva proteger a ind&Atilde;&ordm;stria
+    nacional (mas pronto, os liberais tendem a definir \"socialista\" como \"qualquer
+    coisa que n&Atilde;&pound;o seja liberal\")\r\n\r\n\"Falta-lhe uma prova de fogo,
+    falta-lhe enfrentar, olhos nos olhos, uma greve dos mineiros (ou dos controladores
+    a&Atilde;&copy;reos). E ganhar\"\r\n\r\nSe ele ganhar decretando uma requisi&Atilde;&sect;&Atilde;&pound;o
+    civil (n&Atilde;&pound;o sei se isso existe em Fran&Atilde;&sect;a) ou legislando
+    no sentido que sindicatos que fazem greves \"nocivas &Atilde;&nbsp; economia nacional\"
+    tenham que pagar pesadas indeminza&Atilde;&sect;&Atilde;&micro;es (tamb&Atilde;&copy;m
+    n&Atilde;&pound;o sei qual a legisla&Atilde;&sect;&Atilde;&pound;o francesa a
+    esse respeito), tamb&Atilde;&copy;m conta para o campeonato liberal?"
+- id: 64568
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-05-09 18:02:37 -0700'
+  date_gmt: '2007-05-09 18:02:37 -0700'
+  content: "N&Atilde;&pound;o &Atilde;&copy; um campeonato. A import&Atilde;&cent;ncia
+    da vit&Atilde;&sup3;ria da Thatcher sobre os mineiros &Atilde;&copy; mais do que
+    qualquer coisa que tenha a ver com minas: essas estavam condenadas de qualquer
+    maneira. A vit&Atilde;&sup3;ria marcou a altura em que o interesse p&Atilde;&ordm;blico
+    se sobrep&Atilde;&acute;s ao dos sindicatos.\r\n\r\nN&Atilde;&pound;o &Atilde;&copy;
+    decretar isto ou aquilo que interessa (afinal, a greve dos mineiros era ilegal
+    porque foi decidida somente pela direc&Atilde;&sect;&Atilde;&pound;o do sindicato
+    e nunca votada pelos mineiros), mas fazer respeitar a lei, primeiro, e ganhar
+    aos olhos da opini&Atilde;&pound;o p&Atilde;&ordm;blica, segundo."
+---
+<p>Na s&Atilde;&copy;rie <i>como diria o Sarkozy: calmez vous, Madame<&#47;i>:</p>
+<p>O Sarkozy era, de longe, a melhor das alternativas nas elei&Atilde;&sect;&Atilde;&micro;es francesas, mas da&Atilde;&shy; a ser um "liberal" ainda vai um metro e meio. Enquanto ministro da Economia, protegeu a ind&Atilde;&ordm;stria nacional como um socialista (por exemplo, gastou dinheiro do contribuinte para "salvar" a Alstom do perigo estrangeiro). O discurso de campanha foi mais liberal, mas ainda tem de provar que &Atilde;&copy; capaz de fazer o que prometeu e, por exemplo, acabar com a lei das 35 horas.</p>
+<p>Falta-lhe uma prova de fogo, falta-lhe enfrentar, olhos nos olhos, uma greve dos mineiros (ou dos controladores a&Atilde;&copy;reos). E ganhar.</p>
+<p>Oportunidades para esta prova certamente n&Atilde;&pound;o faltar&Atilde;&pound;o. Sarkozy ainda n&Atilde;&pound;o mostrou estar disposto a bater-se ou se vai desistir ao primeiro embate.</p>

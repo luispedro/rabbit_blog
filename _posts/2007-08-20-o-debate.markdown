@@ -1,0 +1,85 @@
+---
+layout: post
+status: publish
+published: true
+title: O Debate
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1109
+wordpress_url: http://blog.luispedro.org/posts/o-debate
+date: '2007-08-20 19:19:33 -0700'
+date_gmt: '2007-08-20 19:19:33 -0700'
+categories:
+- Ambiente
+tags: []
+comments:
+- id: 118436
+  author: Bruno
+  author_email: bmcmartins@gmail.com
+  author_url: http://ideiateca.blogspot.com
+  date: '2007-08-21 16:35:43 -0700'
+  date_gmt: '2007-08-21 16:35:43 -0700'
+  content: Isso j&Atilde;&iexcl; para n&Atilde;&pound;o falar daquelas estirpes de
+    trigo que eram obtidas em meaados do s&Atilde;&copy;culo XX expondo a planta a
+    um material radioactivo de modo a originar muta&Atilde;&sect;&Atilde;&micro;es
+    cegas, e depois rezar para que uma delas originasse um fen&Atilde;&sup3;tipo &Atilde;&ordm;til.
+    Ningu&Atilde;&copy;m sabia o que &Atilde;&copy; que estava realmente a acontecer,
+    mas houve milh&Atilde;&micro;es de pessoas no 3&Acirc;&ordm; mundo que foram salvas
+    da fome &Atilde;&nbsp; custa de estirpes criadas por esta "engenharia gen&Atilde;&copy;tica"
+    &Atilde;&nbsp; trolha. Provavelmente andamos a com&Atilde;&ordf;-las alegremente
+    ainda hoje, juntamente com outras mais antigas e "naturais".
+- id: 118458
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-08-21 17:45:41 -0700'
+  date_gmt: '2007-08-21 17:45:41 -0700'
+  content: Ser&Atilde;&iexcl; que essas estirpes podem ser usadas em agricultura biol&Atilde;&sup3;gica?
+- id: 118945
+  author: Osvaldo Lucas
+  author_email: osvaldo.lucas@clix.pt
+  author_url: ''
+  date: '2007-08-22 21:10:50 -0700'
+  date_gmt: '2007-08-22 21:10:50 -0700'
+  content: "O saber n&Atilde;&pound;o ocupa lugar!!\r\nParecer conjunto do Conselho
+    Nacional de Ambiente e Desenvolvimento Sustent&Atilde;&iexcl;vel &#47; Conselho
+    Econ&Atilde;&sup3;mico e Social sobre OGM (2000) \r\nhttp:&#47;&#47;www.cnads.pt&#47;docs&#47;ParecerOGM%20Dezemb2000.pdf"
+- id: 237895
+  author: Joel
+  author_email: geral@24horas-pt.com
+  author_url: http://www.24horas-pt.com
+  date: '2008-03-02 19:07:58 -0800'
+  date_gmt: '2008-03-02 19:07:58 -0800'
+  content: Os debates s&Atilde;&copy;rios, s&Atilde;&pound;o sempre bons, para uns
+    ficam esclarecidos, para outros podem mudar de opini&Atilde;&pound;o, pois....
+- id: 309080
+  author: Juegos online casino.
+  author_email: ''
+  author_url: http://groups.msn.com/JuegosOnlineCasino-FreeOnlineCasinoGuide
+  date: '2008-05-16 15:38:31 -0700'
+  date_gmt: '2008-05-16 15:38:31 -0700'
+  content: |-
+    <strong>Juegos online casino....<&#47;strong>
+
+    Juegos online casino....
+---
+<p>Eu tamb&Atilde;&copy;m gostava que houvesse <cite>um debate s&Atilde;&copy;rio<&#47;cite> sobre os trang&Atilde;&copy;nicos em Portugal. Infelizmente, a minha experi&Atilde;&ordf;ncia &Atilde;&copy; que discutir com alguns destes movimentos &Atilde;&copy; como discutir biologia no Texas.</p>
+<p>*</p>
+<p>H&Atilde;&iexcl; riscos no uso de plantas mutantes sejam obtidas por m&Atilde;&copy;todos de engenharia gen&Atilde;&copy;tica ou n&Atilde;&pound;o: h&Atilde;&iexcl; m&Atilde;&copy;todos tradicionais de gerar mutantes que j&Atilde;&iexcl; eram usados antes de Cristo, mas que hoje s&Atilde;&pound;o feitos de forma dirigida e em larga escala com o objectivo de conseguir gerar o mutante sem ter de marcar o resultado como OGM. O resultado &Atilde;&copy; o mesmo, independemente de como a planta foi obtida. O resultado &Atilde;&copy; uma planta.</p>
+<p>Hoje ningu&Atilde;&copy;m anda para a&Atilde;&shy; a gritar que as ma&Atilde;&sect;&Atilde;&pound;s s&Atilde;&pound;o erradas e um atentado contra a Natureza. Mas n&Atilde;&pound;o h&Atilde;&iexcl; ma&Atilde;&sect;&Atilde;&pound;s selvagens como as que comemos. Fomos n&Atilde;&sup3;s que as cri&Atilde;&iexcl;mos.</p>
+<p>As am&Atilde;&ordf;ndoas selvagens s&Atilde;&pound;o venenosas. As que comemos s&Atilde;&pound;o mutantes que n&Atilde;&pound;o produzem o gene certo.</p>
+<p>O milho &Atilde;&copy; um caso especialmente crasso de engenharia biol&Atilde;&sup3;gica primitiva. As plantas usadas em cultura diferem tanto do que se encontra selvagem que nem existe um consenso sobre qual das esp&Atilde;&copy;cies selvagens &Atilde;&copy; que foram cruzadas (com transfer&Atilde;&ordf;ncia de genes) para obter a planta actual.</p>
+<p>*</p>
+<p>Os riscos para a sa&Atilde;&ordm;de de quem consome produtos geneticamente modificados s&Atilde;&pound;o quase nulos. &Atilde;&permil; muito menos perigoso do que outros aditivos alimentares regularmente autorizados sem grande alarido. Mesmo muito menos.</p>
+<p>Se existe quem deseja comer comida kosher ou halal ou biol&Atilde;&sup3;gica ou sem-OGMs e existe quem queira fazer dinheiro a vend&Atilde;&ordf;-la, ent&Atilde;&pound;o ainda bem; que o fa&Atilde;&sect;am (os tribunais estar&Atilde;&pound;o l&Atilde;&iexcl; para processar casos de fraude: vender comida kosher contendo porco, ou OGMs). Agora n&Atilde;&pound;o me obriguem a mim a comer o que o vosso guru&#47;padre&#47;rabi vos exige. Nem obriguem todos os agricultores a cumprir os vossos rituais.</p>
+<p>(Sabiam que os produtos biol&Atilde;&sup3;gicos podem usar alguns pesticidas? Quais? Aqueles que se usavam antes do s&Atilde;&copy;c XX.)</p>
+<p>*</p>
+<p>Os riscos reais s&Atilde;&pound;o ecol&Atilde;&sup3;gicos (no sentido cient&Atilde;&shy;fico da palavra). As esp&Atilde;&copy;cies podem escapar da cultura para o exterior. Isto tende a acontecer pouco porque as esp&Atilde;&copy;cies cultivadas d&Atilde;&pound;o-se mal sem protec&Atilde;&sect;&Atilde;&pound;o humana, mas &Atilde;&copy; poss&Atilde;&shy;vel. Sobretudo, pode escapar para outras culturas. Isto certamente j&Atilde;&iexcl; aconteceu v&Atilde;&iexcl;rias vezes.</p>
+<p>H&Atilde;&iexcl; uma solu&Atilde;&sect;&Atilde;&pound;o simples e eficaz para isto: sementes que geram plantas est&Atilde;&copy;reis. Curiosamente, este tipo de plantas s&Atilde;&pound;o normalmente apresentadas como o c&Atilde;&ordm;mulo do mal da biotecnologia.</p>
+<p>Mas a pergunta fundamental n&Atilde;&pound;o &Atilde;&copy; sequer evitar que isso aconte&Atilde;&sect;a &Atilde;&copy; estimar os custos de isso acontecer. Somente uma vis&Atilde;&pound;o religiosa da Natureza justifica o medo apocal&Atilde;&shy;tico que se ouve nos "activistas."</p>
+<p>&Atilde;&permil; como ter medo de, um dia, encontrar uma amendoeira doce na floresta.</p>

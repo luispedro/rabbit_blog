@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: S&Atilde;&sup3;crates
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1157
+wordpress_url: http://blog.luispedro.org/posts/socrates
+date: '2007-09-29 15:38:42 -0700'
+date_gmt: '2007-09-29 15:38:42 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>S&Atilde;&sup3;crates ganhou ontem as elei&Atilde;&sect;&Atilde;&micro;es de 2009, ou foi impress&Atilde;&pound;o minha?</p>

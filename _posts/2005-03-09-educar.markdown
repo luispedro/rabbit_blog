@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Educar
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 32
+wordpress_url: http://luispedro.org/blog/?p=32
+date: '2005-03-09 11:54:37 -0800'
+date_gmt: '2005-03-09 11:54:37 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 69
+  author: ana vicente
+  author_email: ''
+  author_url: http://naperon.blogspot.com/
+  date: '2005-03-09 19:36:35 -0800'
+  date_gmt: '2005-03-09 19:36:35 -0800'
+  content: "No outro dia, na RTP N, estava a dar aquele programa com o J&Atilde;&ordm;lio
+    Machado Vaz e a outra psicol&Atilde;&sup3;ga muito interessante que n&Atilde;&pound;o
+    sei o nome, e falaram disso. E de facto esse mito de que com informa&Atilde;&sect;&Atilde;&pound;o
+    tudo se resolve j&Atilde;&iexcl; caiu h&Atilde;&iexcl; muito tempo na psicologia
+    e, suponho, tamb&Atilde;&copy;m noutras &Atilde;&iexcl;reas.\r\nNa quest&Atilde;&pound;o
+    sexual, no sexo, na cama, a informa&Atilde;&sect;&Atilde;&pound;o n&Atilde;&pound;o
+    entra. H&Atilde;&iexcl; uma paix&Atilde;&pound;o pelo risco e uma vontade enorme
+    de transgress&Atilde;&pound;o. O problema &Atilde;&copy; quando se confunde com
+    auto-destrui&Atilde;&sect;&Atilde;&pound;o."
+- id: 70
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-03-09 19:48:40 -0800'
+  date_gmt: '2005-03-09 19:48:40 -0800'
+  content: "Sobra a falta de solu&Atilde;&sect;&Atilde;&micro;es.\r\n\r\nLembrei-me
+    agora que se fumar n&Atilde;&pound;o matasse, eu n&Atilde;&pound;o fumava."
+---
+<p>Um dos problemas recorrentes em Portugal, &Atilde;&copy; o mito de que <cite>&Atilde;&copy; preciso &Atilde;&copy; educar as pessoas<&#47;cite>, mas sobre  este tema falarei noutro dia. Hoje, fa&Atilde;&sect;o minhas <a href="http:&#47;&#47;jornal.publico.pt&#47;noticias.asp?a=2005&m=03&d=09&id=10389&sid=1115">as palavras doutro<&#47;a> (P&Atilde;&ordm;blico de hoje), citando o que me pareceu fundamental:</p>
+<blockquote><p>
+A generalidade das mulheres portuguesas - mesmo as das camadas mais jovens - j&Atilde;&iexcl; tem, hoje, um conhecimento bastante razo&Atilde;&iexcl;vel dos principais m&Atilde;&copy;todos anticoncepcionais. [No entanto], h&Atilde;&iexcl; ainda uma percentagem assustadoramente alta - sobretudo entre as camadas mais jovens - que n&Atilde;&pound;o os usa por sistema, mesmo tendo uma actividade sexual regular, acabando por correr riscos.</p>
+<p>(...)</p>
+<p>Reduzir a educa&Atilde;&sect;&Atilde;&pound;o &Atilde;&nbsp; mera transmiss&Atilde;&pound;o de informa&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy; um enorme engano.<br />
+<&#47;blockquote></p>

@@ -1,0 +1,127 @@
+---
+layout: post
+status: publish
+published: true
+title: Sondagem
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 234
+wordpress_url: http://blog.luispedro.org/?p=234
+date: '2005-11-23 17:15:49 -0800'
+date_gmt: '2005-11-23 17:15:49 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 2295
+  author: ana
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://ablogadela.blogspot.com/
+  date: '2005-11-24 10:14:23 -0800'
+  date_gmt: '2005-11-24 10:14:23 -0800'
+  content: quais os benef&Atilde;&shy;cios  (em termos monet&Atilde;&iexcl;rios) da
+    OTA e TGV? quanto ganhariamos? n&Atilde;&pound;o votaria sem o saber
+- id: 2296
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-11-24 10:46:40 -0800'
+  date_gmt: '2005-11-24 10:46:40 -0800'
+  content: "1. Depende, tens terrenos na OTA ou est&Atilde;&iexcl;s ligada &Atilde;&nbsp;
+    constru&Atilde;&sect;&Atilde;&pound;o civil?\r\n\r\n2. N&Atilde;&pound;o sejas
+    t&Atilde;&pound;o <i>economicista<&#47;i>. Afinal, &Atilde;&copy; uma quest&Atilde;&pound;o
+    de orgulho nacional ter o TGV. N&Atilde;&pound;o queres que Portugal fique no
+    grupo dos pa&Atilde;&shy;ses como a Su&Atilde;&copy;cia, UK ou a Irlanda sem TGV,
+    pois n&Atilde;&pound;o?\r\n\r\n3. Pelo que toca &Atilde;&nbsp; OTA, parece que
+    os efeitos negativos no turismo, pelo menos, fariam <i>perder<&#47;i> e bastante
+    a Portugal.\r\n\r\nEu votei <i>N&Atilde;&pound;o<&#47;i>."
+- id: 2297
+  author: ana
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://ablogadela.blogspot.com/
+  date: '2005-11-24 12:31:48 -0800'
+  date_gmt: '2005-11-24 12:31:48 -0800'
+  content: "1. n&Atilde;&pound;o\r\n2. sou economicista sou. n&Atilde;&pound;o tenho
+    orgulho em coisas desse g&Atilde;&copy;nero. guardo-o pro alvaro de campos e pro
+    eug&Atilde;&copy;nio e pra sofia e pro saramago. (olha eu a armar-me) assim  sendo...
+    n&Atilde;&pound;o me importo n&Atilde;&pound;o.\r\n3. ai sim?\r\n\r\nbom, ent&Atilde;&pound;o
+    &Atilde;&copy; n&Atilde;&pound;o."
+- id: 2308
+  author: aLa&Atilde;&shy;de Costa
+  author_email: dezanovemesesdepois@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2005-11-26 09:42:31 -0800'
+  date_gmt: '2005-11-26 09:42:31 -0800'
+  content: "&Acirc;&laquo;Nos EUA fazem-se muitos referendos assim. Vota-se se deve
+    ser cobrado um novo imposto (ou aumentado um existente) para financiar a obra
+    tal.&Acirc;&raquo; \r\n\r\nCompreendo a ideia, mas confesso ach&Atilde;&iexcl;-la
+    contraproducente. O excesso de democracia participativa nos EUA [com in&Atilde;&ordm;meros
+    referendos sobre tudo e mais alguma coisa] pode ser paralisador. Basta ver o caso
+    \"Calif&Atilde;&sup3;rnia\", supostamente o estado mais liberal dos EUA, e durante
+    v&Atilde;&iexcl;rias d&Atilde;&copy;cadas o mais pr&Atilde;&sup3;spero, mas que
+    caiu na artimanha de tudo referendar. A&Atilde;&shy; a responsabiliza&Atilde;&sect;&Atilde;&pound;o
+    por determinadas decis&Atilde;&micro;es n&Atilde;&pound;o pode ser imputada a
+    nenhuma entidade. Os pol&Atilde;&shy;ticos descartam-se de assumir uma determinada
+    decis&Atilde;&pound;o, atirando a \"batata quente\" para o eleitorado!\r\n\r\nMas
+    &Atilde;&copy; realmente importante &acirc;&euro;&oelig;economizar&acirc;&euro;\x9D
+    o pensamento, nestas quest&Atilde;&micro;es do dinheiro. Porque ao contr&Atilde;&iexcl;rio
+    do que muito pensam e outros dizem, isto at&Atilde;&copy; pode ser uma maravilha
+    [e isso tem de ser provado], mas o dinheiro n&Atilde;&pound;o aparece assim do
+    nada&acirc;&euro;&brvbar;\r\n\r\n\r\n"
+- id: 2309
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-11-26 12:46:45 -0800'
+  date_gmt: '2005-11-26 12:46:45 -0800'
+  content: "Concordo.\r\n\r\nEu n&Atilde;&pound;o acho que fosse boa ideia fazer este
+    referendo \"a s&Atilde;&copy;rio,\" mas a ideia de ligar os custos aos projectos
+    &Atilde;&copy; importante e por isso a pergunta n&Atilde;&pound;o &Atilde;&copy;
+    \"&Atilde;&copy; a favor ou contra a Ota\", mas sim \"&Atilde;&copy; a favor ou
+    contra pagar X pela Ota.\""
+- id: 2310
+  author: aLa&Atilde;&shy;de Costa
+  author_email: dezanovemesesdepois@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2005-11-26 14:58:28 -0800'
+  date_gmt: '2005-11-26 14:58:28 -0800'
+  content: "&Acirc;&laquo;a pergunta n&Atilde;&pound;o &Atilde;&copy; &acirc;&euro;&oelig;&Atilde;&copy;
+    a favor ou contra a Ota&acirc;&euro;\x9D, mas sim &acirc;&euro;&oelig;&Atilde;&copy;
+    a favor ou contra pagar X pela Ota.&acirc;&euro;\x9D &Acirc;&raquo; \r\n\r\nbom,
+    n&Atilde;&pound;o sei se compreendi a tua pergunta. Porque ela parece sugerir
+    que poderiamos pagar Y pela OTA?! \r\n\r\nMas de qualquer das forma seria um passo
+    fundamental, para que finalmente seja compreens&Atilde;&shy;vel que o \"dinheiro
+    p&Atilde;&ordm;blico\" n&Atilde;&pound;o &Atilde;&copy; dessa entidade metaf&Atilde;&shy;sica
+    que &Atilde;&copy; o \"estado\", o cidad&Atilde;&pound;o tem o direito de saber
+    como &Atilde;&copy; gasto o seu dinheiro, e tem a obriga&Atilde;&sect;&Atilde;&pound;o
+    de o exigir! eu considero estes pressupostos pilares fundamentais da cidadania...\r\n\r\n\r\n"
+- id: 2311
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-11-26 16:47:22 -0800'
+  date_gmt: '2005-11-26 16:47:22 -0800'
+  content: "N&Atilde;&pound;o, n&Atilde;&pound;o era isso que eu queria dizer, mas
+    se calhar fui demasiado sucinto. Queria dizer &Atilde;&copy; que a pergunta n&Atilde;&pound;o
+    pode ser \"Quer um aeroporto?\" mas \"Est&Atilde;&iexcl; disposta a pagar 1% de
+    IVA por um aeroporto?\" em que 1% de IVA &Atilde;&copy; o custo estimado.\r\n\r\nIsto
+    &Atilde;&copy;, inclua-se o custo para o contribuinte na pergunta."
+- id: 2312
+  author: Salvador
+  author_email: paulosalvador@gmail.com
+  author_url: http://abibliotecadebabel.blogspot.com/
+  date: '2005-11-27 00:38:29 -0800'
+  date_gmt: '2005-11-27 00:38:29 -0800'
+  content: "excelente post e brilhante \"resposta\".\r\n\r\neu tamb&Atilde;&copy;m
+    voto n&Atilde;&pound;o."
+---
+<p>Sondagem &Atilde;&nbsp; direita:</p>
+<blockquote><p>Concorda com o aumento de 1% do IVA para Portugal ter um aeroporto na Ota e TGV?<&#47;blockquote></p>
+<p>Os valores s&Atilde;&pound;o aproximados (como o Or&Atilde;&sect;amento de Estado, ali&Atilde;&iexcl;s): 1% de IVA deve <a href="http:&#47;&#47;jn.sapo.pt&#47;2005&#47;05&#47;26&#47;em_foco&#47;classe_media_atingida.html">render cerca de 500 milh&Atilde;&micro;es de contos por ano<&#47;a>. Como a Ota vai custar pelo menos 3,6 mil milh&Atilde;&micro;es, menos a ajuda da UE (que n&Atilde;&pound;o chega a 20%), mais o TGV e os acessos (que deve duplicar o custo), mais as eventuais derrapagens (que, em abono da verdade, t&Atilde;&ordf;m sido menos escandalosas nos &Atilde;&ordm;ltimos anos do que eram), 1% de aumento do IVA durante 15 anos deve chegar.</p>
+<p>Nos EUA fazem-se muitos referendos assim. Vota-se se deve ser cobrado um novo imposto (ou aumentado um existente) para financiar a obra tal.</p>
+<p>Se fosse c&Atilde;&iexcl;, ser&Atilde;&iexcl; que este passava?</p>

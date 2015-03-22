@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: Via CTT
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1100
+wordpress_url: http://blog.luispedro.org/posts/via-ctt
+date: '2007-08-14 20:28:33 -0700'
+date_gmt: '2007-08-14 20:28:33 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 350201
+  author: pedro
+  author_email: dsf@gmail.com
+  author_url: http://CTT
+  date: '2008-07-11 21:18:57 -0700'
+  date_gmt: '2008-07-11 21:18:57 -0700'
+  content: "CTT  -os criminosos s&Atilde;&pound;o os pr&Atilde;&sup3;prios ctt que
+    s&Atilde;&pound;o uma organiza&Atilde;&sect;&Atilde;&pound;o criminosa, roubam
+    l&Atilde;&iexcl; de dentro cheques vales e tudo.s&Atilde;&fnof;O MILHARES DE RECLAMA&Atilde;&Dagger;&Atilde;&bull;ES\r\n\r\nO
+    n&Acirc;&ordm; de reclama&Atilde;&sect;&Atilde;&pound;o- n&Atilde;&pound;o telefonem
+    para l&Atilde;&iexcl; &acirc;&euro;&rdquo; tem um tarif&Atilde;&iexcl;rio acrescido,
+    ou seja quem reclama para um n&Acirc;&ordm; que n&Atilde;&pound;o &Atilde;&copy;
+    gratuito paga uma fortuna , isto &Atilde;&copy; uma pouca vergonha CTT=ORGANIZA&Atilde;&Dagger;&Atilde;&sbquo;O
+    CRIMINOSA=MAFIA.\r\n\r\ntelefonei para l&Atilde;&iexcl; mandaram-me desligar e
+    ligar um 7000 e qualquer coisa, tarif&Atilde;&iexcl;rio acrescido, por apenas
+    uma informa&Atilde;&sect;&Atilde;&pound;o apguei 4&acirc;&sbquo;&not;!!!!!!!,
+    s&Atilde;&pound;o uns ladr&Atilde;&micro;es sem vergonha pro caralh, todos puta
+    que os pariu e a culpa &Atilde;&copy; do socrates, os ladr&Atilde;&micro;es est&Atilde;&pound;o
+    dentro dos CTT, dentro dos CTT, dentro dos CTT t&Atilde;&pound;o a ouvir???\r\ne
+    ninguem contrloLa os MILHARES de euros roubados anualmente, mer para este pa&Atilde;&not;s
+    de merd ladr&Atilde;&micro;es puta qos pariu&acirc;&euro;&brvbar; cabr&Atilde;&micro;pesAS.\r\n\r\nELES
+    SABEM MAS NIGUEM FAZ NADA TODOS COMEM DE L&Atilde;\x81. \r\n\r\nempres&Atilde;&iexcl;rios-aviso-n&Atilde;&pound;o
+    enviem nada pelos ctt\r\nQuem avisa amigo &Atilde;&uml;!!!!!!!\r\n\r\nO POVO &Atilde;&permil;
+    PARVO"
+---
+<p>Nunca ningu&Atilde;&copy;m me mostrou, falou, ou apresentou como seu, um endere&Atilde;&sect;o mail viactt.</p>
+<p>Quantos utilizadores regulares &Atilde;&copy; que o sistema tem? Cumpriu as previs&Atilde;&micro;es?</p>
+<p>Para quando &Atilde;&copy; que &Atilde;&copy; o pr&Atilde;&sup3;ximo projecto de "dar uma caixa de correio electr&Atilde;&sup3;nico a cada portugu&Atilde;&ordf;s [que n&Atilde;&pound;o sabe que o google&#47;yahoo&#47;microsoft&#47;os ISPs&#47;... j&Atilde;&iexcl; o fazem]"?</p>

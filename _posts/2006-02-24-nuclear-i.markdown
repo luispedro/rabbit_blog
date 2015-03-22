@@ -1,0 +1,394 @@
+---
+layout: post
+status: publish
+published: true
+title: Nuclear (I)
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 377
+wordpress_url: http://blog.luispedro.org/?p=377
+date: '2006-02-24 16:07:33 -0800'
+date_gmt: '2006-02-24 16:07:33 -0800'
+categories:
+- General
+- Energia Nuclear
+tags: []
+comments:
+- id: 2832
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 14:18:24 -0800'
+  date_gmt: '2006-02-27 14:18:24 -0800'
+  content: "Da mesma forma que se tenta proteger uma refinaria, uma ponte, um arranha-c&Atilde;&copy;us
+    ou um dep&Atilde;&sup3;sito de &Atilde;&iexcl;gua ou petr&Atilde;&sup3;leo, mas
+    provavelmente com muito mais aten&Atilde;&sect;&Atilde;&pound;o e cuidado.\r\nPr&Atilde;&sup3;xima
+    pergunta?"
+- id: 2833
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 14:27:19 -0800'
+  date_gmt: '2006-02-27 14:27:19 -0800'
+  content: "Boa resposta, mas um ataque bem sucedido a um arranha-c&Atilde;&copy;us
+    n&Atilde;&pound;o tem o mesmo impacto que a um arranha-c&Atilde;&copy;us (e j&Atilde;&iexcl;
+    se mostrou poss&Atilde;&shy;vel atacar arranha-c&Atilde;&copy;us e refinarias).
+    Num arranha-c&Atilde;&copy;us deitado abaixo, temos Nova Iorque em 9&#47;11, numa
+    central nuclear temos Chernobil.\r\n\r\nA pr&Atilde;&sup3;xima pergunta fica para
+    a pr&Atilde;&sup3;xima vez que se discutir isto, mas &Atilde;&copy; \"o que &Atilde;&copy;
+    que se faz aos detritos nucleares?\" e depois v&Atilde;&ordf;m o cl&Atilde;&iexcl;ssico
+    \"e &Atilde;&copy; o contribuinte que vai pagar isto tudo sem receber sequer uma
+    bomba em troca?\" (em Fran&Atilde;&sect;a o programa nuclear faz sentido visto
+    como tendo objectivos militares com benef&Atilde;&shy;cios c&Atilde;&shy;vis laterais)."
+- id: 2835
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 15:00:21 -0800'
+  date_gmt: '2006-02-27 15:00:21 -0800'
+  content: "N&Atilde;&pound;o necessariamente. Em Chernobyl o reactor foi &Atilde;&nbsp;
+    vida por causa duma reac&Atilde;&sect;&Atilde;&pound;o em cadeia descontrolada,
+    a inexist&Atilde;&ordf;ncia dum contentor para o caso de ocorr&Atilde;&ordf;ncia
+    dum acidente do g&Atilde;&copy;nero, dum plano de contig&Atilde;&ordf;ncia, e
+    devido &Atilde;&nbsp;s especificidades dos reactores de desenho sovi&Atilde;&copy;tico,
+    que eram uma esp&Atilde;&copy;cie de h&Atilde;&shy;bridos para fins civis e militares,
+    produzindo energia e plut&Atilde;&sup3;nio simultaneamente (enfim, tecnologia
+    sovi&Atilde;&copy;tica...). \r\n\r\nUm reactor n&Atilde;&pound;o est&Atilde;&iexcl;
+    assim &Atilde;&nbsp; vista para quem est&Atilde;&iexcl; de fora, e hoje em dia
+    s&Atilde;&pound;o constru&Atilde;&shy;dos de forma a suportarem ataques que causem
+    os impactos estruturais causados pelos avi&Atilde;&micro;es do 11 de Setembro.
+    Se acontecer um desastre, obviamente ser&Atilde;&iexcl; catastr&Atilde;&sup3;fico,
+    mas em 50 anos de energia nuclear n&Atilde;&pound;o ocorreu nenhum para al&Atilde;&copy;m
+    de Chernobyl, e o quase acidente de Three Mile Island exponenciou as medidas de
+    seguran&Atilde;&sect;a nas centrais de gera&Atilde;&sect;&Atilde;&micro;es posteriores.\r\n\r\nA
+    quest&Atilde;&pound;o dos detritos &Atilde;&copy; obviamente central, mas existem
+    a maior parte dos detritos s&Atilde;&pound;o reprocessados no ciclo do reactor.
+    Obviamente n&Atilde;&pound;o todos, e o restante ter&Atilde;&iexcl; que ser armazenado
+    em silos muito bem desenhados. Mais uma vez nunca houve nenhum acidente at&Atilde;&copy;
+    &Atilde;&nbsp; data.\r\n\r\nQuanto a porqu&Atilde;&ordf; investir no nuclear sem
+    fazer uma bomba? Bem, por onde &Atilde;&copy; que hei-de come&Atilde;&sect;ar?
+    Energia consideravelmente mais limpa que a obtida por combust&Atilde;&shy;veis
+    f&Atilde;&sup3;sseis (ali&Atilde;&iexcl;s, &Atilde;&copy; muito pouco conhecido
+    o detalhe de que a queima de combust&Atilde;&shy;veis f&Atilde;&sup3;sseis liberta
+    para o ambiente mais res&Atilde;&shy;duos radioactivos para o ambiente do que
+    o que &Atilde;&copy; produzido por via nuclear), menor depend&Atilde;&ordf;ncia
+    energ&Atilde;&copy;tica, particularmente do petr&Atilde;&sup3;leo do m&Atilde;&copy;dio-oriente,
+    com possibilidade at&Atilde;&copy; da exporta&Atilde;&sect;&Atilde;&pound;o da
+    energia assim produzida, diversifica&Atilde;&sect;&Atilde;&pound;o das fontes
+    de energia, aquisi&Atilde;&sect;&Atilde;&pound;o de know-how tecnol&Atilde;&sup3;gico,
+    investimento e postos de trabalho. \r\nSeja como f&Atilde;&acute;r, j&Atilde;&iexcl;
+    temos centrais nucleares junto &Atilde;&nbsp; fronteira com Espanha, pelo que
+    o argumento da prolifera&Atilde;&sect;&Atilde;&pound;o nuclear no nosso quintal
+    &Atilde;&copy; rid&Atilde;&shy;culo, e, mesmo com  a trag&Atilde;&copy;dia de
+    Chernobyl os custos financeiros, ambientais e de sa&Atilde;&ordm;de dos combust&Atilde;&shy;veis
+    f&Atilde;&sup3;sseis excedem em muito os do nuclear. &Atilde;&permil; um pouco
+    como comparar o avi&Atilde;&pound;o com o autom&Atilde;&sup3;vel. Morrem muito
+    menos pessoas em desastres de avi&Atilde;&pound;o do que em desastres de carro,
+    mas quando morre algu&Atilde;&copy;m num avi&Atilde;&pound;o, isso &Atilde;&copy;
+    not&Atilde;&shy;cia. Claro que uma central nuclear &Atilde;&copy; algo muito delicado,
+    e por isso mesmo, muito mais seguro do que um avi&Atilde;&pound;o."
+- id: 2836
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 15:10:34 -0800'
+  date_gmt: '2006-02-27 15:10:34 -0800'
+  content: A prop&Atilde;&sup3;sito, e as centrais alem&Atilde;&pound;s ou finlandesas
+    ou canadianas, tamb&Atilde;&copy;m t&Atilde;&ordf;m em vista objectivos militares
+    com benef&Atilde;&shy;cios civis laterais?
+- id: 2837
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 15:12:22 -0800'
+  date_gmt: '2006-02-27 15:12:22 -0800'
+  content: "&Atilde;&permil; mais limpa, dependendo da tua defini&Atilde;&sect;&Atilde;&pound;o
+    de limpa. Os detritos s&Atilde;&pound;o muito complicados de lidar (at&Atilde;&copy;
+    porque detritos nucleares poderiam servir de base a um dirty bomb) e, por outro
+    lado, as novas clean-coal s&Atilde;&pound;o bastante limpas a queimar carv&Atilde;&pound;o.\r\n\r\nMenor
+    depend&Atilde;&ordf;ncia energ&Atilde;&copy;tica do m&Atilde;&copy;dio oriente,
+    concordo, e tamb&Atilde;&copy;m concordo com argumentos ambientalistas de menos
+    polui&Atilde;&sect;&Atilde;&pound;o atmosf&Atilde;&copy;rica mas a teoria mercantilista
+    do \"investimento e postos de trabalho\" &Atilde;&copy; tanga (o desinvestimento
+    causado pelo facto de isso ser pago com impostos cobrados a pessoas que v&Atilde;&pound;o
+    deixar de comprar&#47;investir noutras coisas &Atilde;&copy;, pelo menos t&Atilde;&pound;o
+    grande como o investimento realizado): &Atilde;&copy; um custo para n&Atilde;&pound;o
+    dependermos de regimes inst&Atilde;&iexcl;veis e poluirmos menos: um custo, um
+    custo. Que acho que vale a pena pagar, mas &Atilde;&copy; um custo.\r\n\r\nN&Atilde;&pound;o
+    acho &Atilde;&copy; que o nuclear possa alguma vez ser a melhor alternativa: &Atilde;&copy;
+    muit&Atilde;&shy;ssimo caro e h&Atilde;&iexcl; hoje cada vez mais alternativas
+    limpas para quebrarmos a nossa depend&Atilde;&ordf;ncia de pa&Atilde;&shy;ses
+    pouco recomend&Atilde;&iexcl;veis (m&Atilde;&copy;dio-oriente, r&Atilde;&ordm;ssia,
+    venezuela...).\r\n\r\nEm Fran&Atilde;&sect;a, o nuclear &Atilde;&copy; um sucesso
+    porque &Atilde;&copy; um programa com uma grande componente militar e porque o
+    contribuinte franc&Atilde;&ordf;s tem vindo a pagar os custos enormes da energia
+    que eles produzem. E vai continuar a pagar: as centrais ter&Atilde;&pound;o de
+    ser de-comissioned pelo Estado Franc&Atilde;&ordf;s, numa opera&Atilde;&sect;&Atilde;&pound;o
+    cujos custos s&Atilde;&pound;o desconhecidos porque nunca foi feito.\r\n\r\nImponham-se
+    cotas de emiss&Atilde;&pound;o de CO_2, obrigue-se o investidor a pagar o ciclo
+    total de produto (incluindo res&Atilde;&shy;duos) e tenho a certeza que o investimento
+    mais sensato seria coisas como e&Atilde;&sup3;lica, solar (at&Atilde;&copy; h&Atilde;&iexcl;
+    quem produza solar \"for profit\" nos EUA) e clean-coal. Nunca nuclear."
+- id: 2838
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 15:20:22 -0800'
+  date_gmt: '2006-02-27 15:20:22 -0800'
+  content: "Do <a rel=\"nofollow\" href=\"http:&#47;&#47;www.economist.com&#47;displaystory.cfm?story_id=4149623\">economist<&#47;a>:\r\n\r\n&Acirc;&raquo;Nuclear
+    fans point to Finland where a private consortium seems to have managed to finance
+    a new power plant without government subsidy. But was it done without subsidies
+    or unfair state aid? Absolutely, insists Mr Simola [the manager of the project].
+    &acirc;&euro;&oelig;You must be joking,&acirc;&euro;\x9D retorts UBS's Mr Gilles.\r\n\r\nThe
+    plant is to be built by France's Areva on a fixed-price bid [...]. [Areva] vigorously
+    denies that French government ownership means that that country's taxpayers will
+    be subsidising Finnish power. [...] But if it does go bust, the French taxpayer
+    must write that cheque to [Finnish investors].\r\n&Acirc;&raquo;"
+- id: 2839
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 15:23:58 -0800'
+  date_gmt: '2006-02-27 15:23:58 -0800'
+  content: "O vento &Atilde;&copy; mais barato:\r\n\r\n<center><img src=\"http:&#47;&#47;www.economist.com&#47;images&#47;20050709&#47;CSF967.gif\"
+    &#47;><&#47;center>\r\n\r\nE o facto do custo da e&Atilde;&sup3;lica ser quase
+    s&Atilde;&sup3; de \"investimento\" leva a prever que v&Atilde;&iexcl; descer
+    &Atilde;&nbsp; medida que deixe de ser t&Atilde;&copy;cnologia de ponta (que ainda
+    &Atilde;&copy;): patentes que expiram, ganhos de escala..."
+- id: 2840
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 15:38:16 -0800'
+  date_gmt: '2006-02-27 15:38:16 -0800'
+  content: "Obviamente uma central nuclear produz detritos perigosos, os quais como
+    disse, s&Atilde;&pound;o menores que os produzidos por combust&Atilde;&shy;veis
+    f&Atilde;&sup3;sseis, mesmo a n&Atilde;&shy;vel de detritos radiactivos. Claro
+    que os nucelares est&Atilde;&pound;o concentrados no mesmo local, e a haver um
+    acidente podem causar um impacto maior do que detritos f&Atilde;&sup3;sseis dispersos
+    pela atmosfera e pelo planeta. \r\n\r\nO nuclear &Atilde;&copy; muit&Atilde;&shy;ssimo
+    caro, mas trata-se dum investimento a longo prazo. Neste momento, a energia solar
+    para produ&Atilde;&sect;&Atilde;&pound;o de electricidade n&Atilde;&pound;o &Atilde;&copy;
+    rent&Atilde;&iexcl;vel nem a curto nem a longo prazo, embora possa um dia vir
+    a ser se se generalizar, calro. Quanto ao e&Atilde;&sup3;lico, n&Atilde;&pound;o
+    h&Atilde;&iexcl; em Portugal potencial e&Atilde;&sup3;lico suficiente para um
+    dia essa energia poder assegurar a nossa subsist&Atilde;&ordf;ncia energ&Atilde;&copy;tica,
+    toda o buzz &Atilde;&nbsp; volta disso em Portugal em hoje &Atilde;&copy; o politicamente
+    correcto a funcionar. Quanto &Atilde;&nbsp;s clean coal que referes, n&Atilde;&pound;o
+    estou a ver qual o interesse de Portugal em investir em carv&Atilde;&pound;o,
+    em primeiro lugar, e depois numa tecnologia cujo impacto &Atilde;&copy; pouco
+    mais que resultante dum modelo te&Atilde;&sup3;rico, onde n&Atilde;&pound;o se
+    sabe muito bem onde se vai armazenar o CO2 que n&Atilde;&pound;o vai ser emitido
+    para a atmosfera, para o que o custo de instala&Atilde;&sect;&Atilde;&pound;o
+    e manuten&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy; muito superior a uma central
+    de carv&Atilde;&pound;o normal. Para al&Atilde;&copy;m disso, em Portugal o investimento
+    tecnol&Atilde;&sup3;gico numa alternativa dessas &Atilde;&copy; maior do que numa
+    central nuclear, cujo processo &Atilde;&copy; conhecido e executado em dezenas
+    de centrais pelo mundo fora. E ainda assim, se Portugal algum dia tivesse a tecnologia
+    para armezanar o tal CO2, n&Atilde;&pound;o &Atilde;&copy; garantido que esses
+    dep&Atilde;&sup3;sitos n&Atilde;&pound;o se escapem de alguma forma ou doutra
+    para a amosfera muito mais facilmente que qualquer res&Atilde;&shy;diuo s&Atilde;&sup3;lido
+    nuclear.\r\n\r\nQuanto &Atilde;&nbsp; energia h&Atilde;&shy;drica, para produ&Atilde;&sect;&Atilde;&pound;o
+    em massa de energia, s&Atilde;&sup3; &Atilde;&copy; rent&Atilde;&iexcl;vel se
+    for a grande h&Atilde;&shy;drica. Ora, n&Atilde;&pound;o emitindo res&Atilde;&shy;duos
+    atmosf&Atilde;&copy;ricos, a grande h&Atilde;&shy;drica tem outros tipos de impacto
+    negativo indirecto, que fazem com que actualmente, entre os pa&Atilde;&shy;ses
+    desenvolvidos, s&Atilde;&sup3; Portugal e Espanha ainda continuem a apostar nessa
+    solu&Atilde;&sect;&Atilde;&pound;o. \r\nPara solu&Atilde;&sect;&Atilde;&micro;es
+    locais e em pequena escala, creio que a pquena e micro-h&Atilde;&shy;drica s&Atilde;&pound;o
+    &Atilde;&sup3;ptimas solu&Atilde;&sect;&Atilde;&micro;es de desenvolvimento sustentado.\r\n\r\nConcordo
+    com a quest&Atilde;&pound;o das cotas de emiss&Atilde;&pound;o, mas n&Atilde;&pound;o
+    vejo em que &Atilde;&copy; que isso diminua ou n&Atilde;&pound;o a alternativa
+    nuclear."
+- id: 2841
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 15:45:55 -0800'
+  date_gmt: '2006-02-27 15:45:55 -0800'
+  content: "S&Atilde;&sup3; para esclarecer, n&Atilde;&pound;o defendo que devamos
+    centrar a nossa pol&Atilde;&shy;tica energ&Atilde;&copy;tica no nuclear, devemos
+    diversific&Atilde;&iexcl;-la ao m&Atilde;&iexcl;ximo, mas nessa perspectiva, a
+    componente nuclear &Atilde;&copy; a que tem, de longe, um potencial de produ&Atilde;&sect;&Atilde;&pound;o
+    maior. Mas isso sem desprimor da e&Atilde;&sup3;lica, solar, mar&Atilde;&copy;s,
+    biomassa, etc.\r\n\r\nSeja como f&Atilde;&acute;r, se algum dia a fus&Atilde;&pound;o
+    for uma realidade e economicamente vi&Atilde;&iexcl;vel, todas estas discuss&Atilde;&micro;es
+    sobre nuclear (fiss&Atilde;&pound;o), f&Atilde;&sup3;sseis e renov&Atilde;&iexcl;veis
+    ser&Atilde;&pound;o curiosidade hist&Atilde;&sup3;rica. ;)"
+- id: 2842
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 15:49:32 -0800'
+  date_gmt: '2006-02-27 15:49:32 -0800'
+  content: "A quest&Atilde;&pound;o das cotas &Atilde;&copy; esta: se as cotas fossem
+    suficientemente apertadas para come&Atilde;&sect;ar a valer a pena fugir da termo-electrica,
+    mas fossem investidores privados a pagar os custos e n&Atilde;&pound;o o contribuinte,
+    n&Atilde;&pound;o acredito que pusessem a hip&Atilde;&sup3;tese do nuclear.\r\n\r\nQuanto
+    a Portugal e o carv&Atilde;&pound;o: ficar dependente de pa&Atilde;&shy;ses como
+    a Inglaterra n&Atilde;&pound;o me preocupa e j&Atilde;&iexcl; existem centrais
+    de carv&Atilde;&pound;o de baixa emiss&Atilde;&pound;o (com captura de emiss&Atilde;&micro;es)
+    portanto n&Atilde;&pound;o &Atilde;&copy; \"modelo te&Atilde;&sup3;rico.\" Al&Atilde;&copy;m
+    disso, se estes produzem res&Atilde;&shy;duos, n&Atilde;&pound;o t&Atilde;&ordf;m
+    o mesmo n&Atilde;&shy;vel de perigosidade que os radioactivos. E uma central de
+    carv&Atilde;&pound;o &Atilde;&copy; um investimento muito menor que o investimento
+    nuclear visto que n&Atilde;&pound;o precisa de uma escala t&Atilde;&pound;o enorme
+    (novamente, dados do economist):\r\n\r\n&Acirc;&laquo;\r\nA 1,000MW nuclear plant
+    would cost $2 billion and take at least five years to build. A coal plant of that
+    size would cost perhaps $1.2 billion and take three to four years, while a combined-cycle
+    gas plant that size costs about $500m and takes less than two years to get up
+    and running. The bigger the project, the more susceptible it is to delays&acirc;&euro;&rdquo;and
+    UBS's Mr Gilles estimates that a two-year delay in nuclear projects wipes out
+    20-25% of the project's value to investors.\r\n&Acirc;&raquo;\r\n\r\nmesmo que
+    aqui \"coal plant\" seja provavelmente uma termo-electrica tradicional."
+- id: 2843
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 16:29:00 -0800'
+  date_gmt: '2006-02-27 16:29:00 -0800'
+  content: "E todos esses dados incluem as externalidades de impacto ambiental e de
+    desmantela&Atilde;&sect;&Atilde;&pound;o? A ind&Atilde;&ordm;stria nuclear &Atilde;&copy;
+    a &Atilde;&ordm;nica que inclui esses custos, incluindo como disse, o do armazenamento
+    de res&Atilde;&shy;duos (transporte, construc&Atilde;&sect;&Atilde;&pound;o dos
+    silos, manuten&Atilde;&sect;&Atilde;&pound;o) e de desmantelamento uma vez findo
+    o tempo de vida &Atilde;&ordm;til. Quanto ao carv&Atilde;&pound;o, &Atilde;&copy;
+    melhore saires do s&Atilde;&copy;culo XIX. :p A Inglaterra n&Atilde;&pound;o mais
+    &Atilde;&copy; um produtor com um peso minimamente significativo na produ&Atilde;&sect;&Atilde;&pound;o
+    de carv&Atilde;&pound;o. Mais de metade das reservas mundiais est&Atilde;&pound;o
+    nos EUA e ex-URSS, estando a China tamb&Atilde;&copy;m bem colocada no ranking.
+    Como j&Atilde;&iexcl; disse, o carv&Atilde;&pound;o liberta mais res&Atilde;&shy;duos
+    t&Atilde;&sup3;xicos e radioactivos que o nuclear, embora seja claro bem dif&Atilde;&shy;cil
+    junt&Atilde;&iexcl;-lo para fazer uma bomba suja. Claro que a longo prazo, a bomba
+    suja vai-se tornando na atmosfera &Atilde;&nbsp; medida que mais res&Atilde;&shy;duos
+    de carv&Atilde;&pound;o v&Atilde;&pound;o sendo libertados... De qualquer modo,
+    o ur&Atilde;&cent;nio &Atilde;&copy; mais barato que o petr&Atilde;&sup3;leo ou
+    o g&Atilde;&iexcl;s, como o teu gr&Atilde;&iexcl;fico mostra, com a vantagem de
+    que n&Atilde;&sup3;s j&Atilde;&iexcl; produzimos ur&Atilde;&pound;nio em Portugal
+    at&Atilde;&copy; h&Atilde;&iexcl; poucos anos, e temos ainda bastantes reservas
+    por explorar.\r\n\r\nOk, j&Atilde;&iexcl; existem centrais de captura de CO2,
+    embora poucas. Contudo, usando os teus dados do Economist que parecem ser para
+    uma central tradicional, os custos n&Atilde;&pound;o seriam muito diferentes da
+    central nuclear, para al&Atilde;&copy;m dos custos ambientais que duvido que sejam
+    contabilizados. Emboram emitam menos CO2, emitem algum, e outro supostamente &Atilde;&copy;
+    armazenado. Para isso h&Atilde;&iexcl; muitas sugest&Atilde;&micro;es (e tanto
+    quanto sei nenhuma a funcionar at&Atilde;&copy; ao momento, mas posso estar enganado),
+    desde envi&Atilde;&iexcl;-lo para o espa&Atilde;&sect;o at&Atilde;&copy; deposit&Atilde;&iexcl;-lo
+    em dep&Atilde;&sup3;sitos naturais submarinos. Para j&Atilde;&iexcl; Portugal
+    nunca teria capacidade t&Atilde;&copy;cnica para se livrar desse CO2 capturado,
+    e mesmo que tivesse, ainda n&Atilde;&pound;o vi ningu&Atilde;&copy;m algu&Atilde;&copy;m
+    garantir que esse g&Atilde;&iexcl;s armazenado n&Atilde;&pound;o se escapar&Atilde;&iexcl;
+    gradualmente para o meio-ambiente novamente. Finalmente, estudos recentes estimam
+    que daqui a 40 anos, os EUA, o maior produtor de carv&Atilde;&pound;o do mundo,
+    deixem de conseguir satisfazer a procura devido ao desaparecimento das reservas."
+- id: 2845
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 16:48:36 -0800'
+  date_gmt: '2006-02-27 16:48:36 -0800'
+  content: "N&Atilde;&pound;o me preocupa importar carv&Atilde;&pound;o dos EUA, da
+    Austr&Atilde;&iexcl;lia ou at&Atilde;&copy; mesmo da &Atilde;\x8Dndia: n&Atilde;&pound;o
+    s&Atilde;&pound;o pa&Atilde;&shy;ses com o mesmo risco pol&Atilde;&shy;tico que
+    o petr&Atilde;&sup3;leo (embora, aqui seja preciso dizer que o Canad&Atilde;&iexcl;
+    se tornou o pa&Atilde;&shy;s com maiores reservas do mundo depois de se ter come&Atilde;&sect;ado
+    a contar  com o petr&Atilde;&sup3;leo dos tarpits) e sobretudo, diversificava
+    do petr&Atilde;&sup3;leo.\r\n\r\nDaqui a 40 anos? Estou-me nas tintas para daqui
+    a 40 anos. At&Atilde;&copy; l&Atilde;&iexcl; pensa-se, a tecnologia muda e usamos
+    fus&Atilde;&pound;o ou outra coisa que hoje nem conseguimos prever. Em 1880 j&Atilde;&iexcl;
+    se perguntava \"O que &Atilde;&copy; que vamos fazer quando o petr&Atilde;&sup3;leo
+    acabar daqui a 30 anos?\" e cada vez h&Atilde;&iexcl; mais petr&Atilde;&sup3;leo
+    explor&Atilde;&iexcl;vel (sim, a quantidade de petr&Atilde;&sup3;leo tem vindo
+    a <b>subir<&#47;b> e n&Atilde;&pound;o a descer). O investimento nunca seria a
+    t&Atilde;&pound;o grande prazo.\r\n\r\nA minha posi&Atilde;&sect;&Atilde;&pound;o
+    &Atilde;&copy;: N&Atilde;&pound;o tenho nada contra \"licenciar-se\" uma central
+    nuclear, se o dinheiro for privado, mas n&Atilde;&pound;o quero pagar as contas
+    de mais um projecto de \"des&Atilde;&shy;gnio nacional\" para mostrarmos que temos
+    uma pila t&Atilde;&pound;o grande como os espanh&Atilde;&sup3;is. Como n&Atilde;&pound;o
+    tenho ilus&Atilde;&micro;es que isso fosse poss&Atilde;&shy;vel a m&Atilde;&copy;dio-prazo
+    em Portugal (um investimento destes sem que fossem chulados os contribuintes),
+    sou contra a central."
+- id: 2846
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 16:59:08 -0800'
+  date_gmt: '2006-02-27 16:59:08 -0800'
+  content: "1- Diversificava do petr&Atilde;&sup3;leo, mas n&Atilde;&pound;o dos f&Atilde;&sup3;sseis.\r\n\r\n2-
+    Est&Atilde;&iexcl;s-te nas tintas para daqui a 40 anos e at&Atilde;&copy; l&Atilde;&iexcl;
+    pensa-se? Bastante portugu&Atilde;&ordf;s... ;p (Cada vez h&Atilde;&iexcl; mais
+    petr&Atilde;&sup3;leo explor&Atilde;&iexcl;vel, mas cada vez &Atilde;&copy; mais
+    caro explor&Atilde;&iexcl;-lo, porque cada vez &Atilde;&copy; mais dif&Atilde;&shy;cil
+    aceder &Atilde;&nbsp;s novas jazidas que v&Atilde;&pound;o sendo descobertas).\r\n\r\n3-
+    Ent&Atilde;&pound;o conclui-se que a tua oposi&Atilde;&sect;&Atilde;&pound;o a
+    uma central nuclear passou apenas a ser quanto &Atilde;&nbsp; natureza do investimento,
+    e n&Atilde;&pound;o mais quanto &Atilde;&nbsp;s raz&Atilde;&micro;es apresentadas
+    no in&Atilde;&shy;cio da conversa. Tudo bem, mas... o que quer que se fa&Atilde;&sect;a
+    de significativo nessa &Atilde;&iexcl;rea, duvido muito que seja feito com dinheiros
+    privados, qualquer que seja o combust&Atilde;&shy;vel duma hipot&Atilde;&copy;tica
+    central. :&#47;"
+- id: 2848
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-27 17:07:13 -0800'
+  date_gmt: '2006-02-27 17:07:13 -0800'
+  content: 'Mas concordo contigo nesse &Atilde;&ordm;ltimo ponto: n&Atilde;&pound;o
+    vale a pena construir uma (1) central nuclear se isso f&Atilde;&acute;r apresentado
+    como a panaceia para os nossos males e n&Atilde;&pound;o se fizer mais nada em
+    rela&Atilde;&sect;&Atilde;&pound;o &Atilde;&nbsp; pol&Atilde;&shy;tica energ&Atilde;&copy;tica.
+    E obviamente, com os nossos antecedentes, as possibilidades disso acontecer s&Atilde;&pound;o
+    bastante significativas...'
+- id: 2849
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-02-27 19:45:22 -0800'
+  date_gmt: '2006-02-27 19:45:22 -0800'
+  content: "1) Diminuia o risco pol&Atilde;&shy;tico.\r\n\r\n2) Sim, &Atilde;&copy;
+    verdade que vai aumentando o custo, mas tamb&Atilde;&copy;m &Atilde;&copy; verdade
+    que o petr&Atilde;&sup3;leo canadiano que dantes custava 100USD&#47;barril hoje
+    j&Atilde;&iexcl; custa 25USD&#47;barril e portanto j&Atilde;&iexcl; vale a pena
+    explorar.\r\n\r\nUma coisa &Atilde;&copy; pensar no abstracto, ou enquanto projectos
+    de investiga&Atilde;&sect;&Atilde;&pound;o cient&Atilde;&shy;fica, outra coisa
+    &Atilde;&copy; decidir um investimento concreto, hoje. E do ponto de vista de
+    avaliar um investimento, sim, daqui a 40 anos n&Atilde;&pound;o interessa. Qualquer
+    previs&Atilde;&pound;o ser&Atilde;&iexcl; sempre invalidada pela realidade.\r\n\r\n3)
+    sim, claro que ser&Atilde;&iexcl; sempre com dinheiro p&Atilde;&ordm;blico (infelizmente).\r\n\r\nPode
+    ser que consigamos no entanto, p&Atilde;&acute;r o contribuinte franc&Atilde;&ordf;s
+    a pagar-nos as contas de electricidade :)"
+- id: 12246
+  author: krix
+  author_email: ecristina_092@hotmail.com
+  author_url: ''
+  date: '2006-11-23 19:14:21 -0800'
+  date_gmt: '2006-11-23 19:14:21 -0800'
+  content: preciso de saber com alguma urg&Atilde;&ordf;ncia o que s&Atilde;&pound;o
+    res&Atilde;&shy;duos t&Atilde;&sup3;xicos e radioactivos?
+- id: 172261
+  author: andreia
+  author_email: andreiaalmeida@yahoo.com.br
+  author_url: http://fucionamentodoavio
+  date: '2007-11-06 00:25:10 -0800'
+  date_gmt: '2007-11-06 00:25:10 -0800'
+  content: no sistema de propuls&Atilde;&pound;o a jatos de avi&Atilde;&micro;es e
+    foguetes,os gases produzidos pela queima do combust&Atilde;&shy;vel s&Atilde;&pound;o
+    lan&Atilde;&sect;ados para fora.Os jatos de gases aplicam no foguete ou no avi&Atilde;&pound;o
+    uma for&Atilde;&sect;a de rea&Atilde;&sect;&Atilde;&pound;o de mesma intensidade,mesma
+    dire&Atilde;&sect;&Atilde;&pound;o e sentido contrario.Desse modo,foguetes e avi&Atilde;&micro;es
+    se movimenta em sentido oposto ao da sa&Atilde;&shy;da dos gases.
+- id: 193609
+  author: Ari
+  author_email: jqcjgf@hotmail.com
+  author_url: http://dodge-124052.machinsford.cn/st-louis-enterprise-rent-a-car.htm
+  date: '2007-11-29 15:57:57 -0800'
+  date_gmt: '2007-11-29 15:57:57 -0800'
+  content: Nice...
+---
+<p>Expliquem-me como &Atilde;&copy; que se protege uma central nuclear de um ataque terrorista e depois voltamos a falar:</p>
+<p><a href="http:&#47;&#47;blog.luispedro.org&#47;?p=59">Nuclear energy is safe, but is it secure?<&#47;a></p>

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Aurora
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 243
+wordpress_url: http://blog.luispedro.org/?p=243
+date: '2005-12-03 23:47:09 -0800'
+date_gmt: '2005-12-03 23:47:09 -0800'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>dinheiro bem gasto<&#47;i> (ou <i>n&Atilde;&pound;o quero que este pare&Atilde;&sect;a um blogue do dizer-mal<&#47;i>):</p>
+<p>V&Atilde;&pound;o ver o <a href="http:&#47;&#47;cinecartaz.publico.clix.pt&#47;filme.asp?id=18695">Aurora<&#47;a> de Murnau, um dos melhores filmes que vi este ano.</p>

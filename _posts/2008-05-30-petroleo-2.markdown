@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: Petr&Atilde;&sup3;leo
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1338
+wordpress_url: http://blog.luispedro.org/posts/petroleo-2
+date: '2008-05-30 00:49:10 -0700'
+date_gmt: '2008-05-30 00:49:10 -0700'
+categories:
+- Europa
+- EUA
+- Ambiente
+tags: []
+comments:
+- id: 318238
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2008-05-30 08:26:34 -0700'
+  date_gmt: '2008-05-30 08:26:34 -0700'
+  content: "\"a identidade europe&Atilde;&shy;a [...] consiste de fazer coisas diferentes
+    dos americanos\"\r\n\r\nIsto &Atilde;&copy; profundamente falso. A Europa, pelo
+    contr&Atilde;&iexcl;rio, carateriza-se por ser um espa&Atilde;&sect;o unido pelo
+    sua similaridade com os EUA. Por exemplo, ningu&Atilde;&copy;m na Europa conhece
+    o &Atilde;&ordm;ltimo filme feito em Fran&Atilde;&sect;a (exceto os franceses),
+    ou na Hungria, ou na Dinamarca, mas todos os europeus sem exce&Atilde;&sect;&Atilde;&pound;o
+    v&Atilde;&ordf;em o &Atilde;&ordm;ltimo filme vindo dos EUA. Todos os europeus
+    conhecem as mesmas marcas americanas, comem no McDonalds, etc. Por oposi&Atilde;&sect;&Atilde;&pound;o
+    por exemplo aos indianos ou aos chineses, que t&Atilde;&ordf;m a sua cultura local
+    e, em grande parte, desconhecem as americanices."
+- id: 318747
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-05-30 22:12:05 -0700'
+  date_gmt: '2008-05-30 22:12:05 -0700'
+  content: "Talvez fosse mais correcto &acirc;&euro;&oelig;a identidade europe&Atilde;&shy;a
+    consiste de dizer coisas diferentes dos americanos&acirc;&euro;\x9D"
+---
+<p>1. Tratamos a quest&Atilde;&pound;o das emiss&Atilde;&micro;es de carbono como se fosse uma quest&Atilde;&pound;o social, como o aborto ou o casamento gay. Uma quest&Atilde;&pound;o de estar do lado mais iluminado.</p>
+<p>2. Mas reduzir as emiss&Atilde;&micro;es passa por intervir na economia, taxando o carbono ou privatizando o ar (com cap&trade, como previsto por Kyoto). O efeito seria subir o pre&Atilde;&sect;o de fontes de energia que usem combust&Atilde;&shy;veis f&Atilde;&sup3;sseis e, tamb&Atilde;&copy;m, o pre&Atilde;&sect;o da gasolina.</p>
+<p>Na Europa, o consenso &Atilde;&copy; que &Atilde;&copy; preciso fazer qualquer coisa (ali&Atilde;&iexcl;s, esta &Atilde;&copy; j&Atilde;&iexcl; uma quest&Atilde;&pound;o que define parte da identidade europe&Atilde;&shy;a---que n&Atilde;&pound;o existe excepto na medida em que consiste de fazer coisas diferentes dos americanos). Tendo em conta isto, esperaria-se uma aceita&Atilde;&sect;&Atilde;&pound;o dum pre&Atilde;&sect;o alto da gasolina.</p>
+<p>3. No entanto, quando o pre&Atilde;&sect;o da gasolina sobe, toda a gente se queixa.</p>
+<p>Por isto &Atilde;&copy; que &Atilde;&copy; politicamente dificil fazer qualquer coisa. Por isto, &Atilde;&copy; que s&Atilde;&pound;o poucos os pa&Atilde;&shy;ses que v&Atilde;&pound;o cumprir Kyoto---porque todos os pol&Atilde;&shy;ticos sabem o que seria preciso fazer, mas nenhum sabe como ser eleito depois disso.</p>

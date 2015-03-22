@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Regras
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 613
+wordpress_url: http://blog.luispedro.org/?p=613
+date: '2006-09-06 17:41:30 -0700'
+date_gmt: '2006-09-06 17:41:30 -0700'
+categories:
+- Liberalismo
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <em>meio a gozar, meio a s&Atilde;&copy;rio<&#47;em>:<br />
+O Tiago Mendes escreve hoje um <a href="http:&#47;&#47;diarioeconomico.sapo.pt&#47;edicion&#47;diarioeconomico&#47;opinion&#47;columnistas&#47;pt&#47;desarrollo&#47;685656.html">artigo<&#47;a> no Di&Atilde;&iexcl;rio Econ&Atilde;&sup3;mico, defendendo que cumpramos mais as regras em Portugal. Infelizmente, se cumprissemos as regras, em muitos casos, o pa&Atilde;&shy;s parava.</p>
+<p>A certo ponto na minha vida, acho que n&Atilde;&pound;o conhecia ningu&Atilde;&copy;m que vivesse numa resid&Atilde;&ordf;ncia legal, em Lisboa. A maioria das pessoas que conhe&Atilde;&sect;o estava a sub-alugar em casos em que isso era ilegal (est&Atilde;&iexcl;-se a normalizar, mas a certa altura o mercado de arrendamento s&Atilde;&sup3; podia funcionar informalmente), ou a morar num local em que o contrato era verbal, e n&Atilde;&pound;o declarado. A maioria trabalhava tamb&Atilde;&copy;m a recibos verdes quando isso n&Atilde;&pound;o &Atilde;&copy; previsto para substituir contratos de trabalho.</p>
+<p>Acho que &Atilde;&copy; extremamente falacioso argumentar que, caso fossem cumpridas as regras, seria sempre para melhor. Algumas das pessoas que est&Atilde;&pound;o a recibos verdes, passariam a estar desempregadas. Haveria quem deixasse de alugar, ou sub-alugar a sua casa. Ou os custos de transa&Atilde;&sect;&Atilde;&pound;o aumentariam. Teriamos uma economia &Atilde;&nbsp; francesa: &Atilde;&sup3;ptimos, excelentes empregos para alguns, os instalados, mas impossibilidade de acesso para quem est&Atilde;&iexcl; de fora.<br />
+Muitas vezes, em Portugal, <em>gra&Atilde;&sect;as a deus a fraude<&#47;em>.</p>

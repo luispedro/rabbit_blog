@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Verboten!
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 819
+wordpress_url: http://blog.luispedro.org/posts/verboten
+date: '2007-01-18 09:24:56 -0800'
+date_gmt: '2007-01-18 09:24:56 -0800'
+categories:
+- Europa
+- Amea&Atilde;&sect;a &Atilde;&nbsp; Liberdade
+- Liberdade de Express&Atilde;&pound;o
+tags: []
+comments:
+- id: 60851
+  author: Rabbit&#8217;s blog &raquo; Blog Archive &raquo; Gato Fedorento? Verboten!
+  author_email: ''
+  author_url: http://blog.luispedro.org/posts/gato-fedorento-verboten
+  date: '2007-04-20 00:50:23 -0700'
+  date_gmt: '2007-04-20 00:50:23 -0700'
+  content: "[...] Na s&Atilde;&copy;rie eu tinha avisado: [...]"
+---
+<p>Um dos &Atilde;&shy;dolos nacionais, o gato fedorento, tem alguns sketches que s&Atilde;&pound;o proibidos na maioria dos pa&Atilde;&shy;ses europeus. Lembram-se daquele do funcion&Atilde;&iexcl;rio da EMEL que &Atilde;&copy; pior que o Hitler? Proibido, proibid&Atilde;&shy;ssimo.
+<p>A Alemanha quer agora proibir coisas destas em toda a Europa. Inclu&Atilde;&shy;ndo Portugal. Gozar com o Holocausto? Verboten! Usar su&Atilde;&iexcl;sticas na televis&Atilde;&pound;o de forma leve? Verboten!
+<p>Ser&Atilde;&iexcl; que, no futuro, os DVDs da s&Atilde;&copy;rie vir&Atilde;&pound;o com pequenas mensagens a azul que dizem, no lugar onde estava o sketch:
+<p><em>Para sua pr&Atilde;&sup3;pria protec&Atilde;&sect;&Atilde;&pound;o, este sketch foi retirado da colec&Atilde;&sect;&Atilde;&pound;o.<&#47;em></p>

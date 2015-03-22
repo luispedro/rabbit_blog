@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Goleada
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 863
+wordpress_url: http://blog.luispedro.org/posts/goleada
+date: '2007-02-11 21:59:04 -0800'
+date_gmt: '2007-02-11 21:59:04 -0800'
+categories:
+- General
+- Aborto
+tags: []
+comments: []
+---
+<p>Faltaram 564701 eleitores terem ido &Atilde;&nbsp;s urnas para o referendo ser formalmente vinculativo.
+<p>Se <i>todos tivessem votado N&Atilde;&fnof;O<&#47;i>, o sim ainda ganhava, com 52% dos votos.</p>

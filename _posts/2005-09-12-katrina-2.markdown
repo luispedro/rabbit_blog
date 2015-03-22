@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Katrina
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 150
+wordpress_url: http://blog.luispedro.org/?p=150
+date: '2005-09-12 11:52:34 -0700'
+date_gmt: '2005-09-12 11:52:34 -0700'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>O Andrew Sullivan &Atilde;&copy; sempre melhor a escrever em jornais do que no seu <a href="http:&#47;&#47;www.andrewsullivan.com&#47;">blogue<&#47;a>. Na sua cr&Atilde;&sup3;nica do <a href="http:&#47;&#47;www.timesonline.co.uk&#47;article&#47;0,,2089-1774328,00.html">Sunday Times<&#47;a> londrino, destaca-se o seguinte:</p>
+<blockquote><p>
+What happened after Katrina hit - the complete failure of local, state and federal authorities to seize control of the situation - was not about right or left, Democrat or Republican. It was about simple competence.<br />
+<&#47;blockquote></p>
+<p>O resto do artigo &Atilde;&copy; um ataque equilibrado dum liberal-conservador que apoiou John Kerry (sobretudo porque Kerry era mais liberal socialmente, um tema querido a Sullivan que &Atilde;&copy; assumidamente homossexual) &Atilde;&nbsp; actual administra&Atilde;&sect;&Atilde;&pound;o Bush.</p>

@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: ASAE
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1239
+wordpress_url: http://blog.luispedro.org/posts/asae
+date: '2008-01-13 02:04:22 -0800'
+date_gmt: '2008-01-13 02:04:22 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 223053
+  author: Sem Anestesia
+  author_email: sem.anestesia@geral.com
+  author_url: ''
+  date: '2008-01-14 12:23:49 -0800'
+  date_gmt: '2008-01-14 12:23:49 -0800'
+  content: "Acima de tudo, acho particularmente interessante quando dois l&Atilde;&sup3;bis
+    cheios de boa vontade descobrem que s&Atilde;&pound;o incompat&Atilde;&shy;veis.\r\nVeja-se
+    o (suposto?) caso da proibicao de chavenas de cafe de ceramica em favor das chavenas
+    de plastico. De repente (como sempre), o l&Atilde;&sup3;bi verde verificou que
+    algo de incomodativo haveria ali.\r\n\r\nComo diz o meu povo: querem sol na eira
+    e chuva no nabal.\r\n\r\nO que interessa &Atilde;&copy; regulamentar, normalizar,
+    proibir, fiscalizar. Mostrar servi&Atilde;&sect;o, propagandear que algo est&Atilde;&iexcl;
+    ser feito, as medidas est&Atilde;&pound;o a ser tomadas.\r\nAs consequ&Atilde;&ordf;ncias
+    e sequ&Atilde;&ordf;ncias &Atilde;&copy; que j&Atilde;&iexcl; n&Atilde;&pound;o
+    interessam a ningu&Atilde;&copy;m, como &Atilde;&copy; habitual.\r\n\r\nOra veja-se
+    mais este pequeno exemplo:\r\nhttp:&#47;&#47;ultimahora.publico.clix.pt&#47;noticia.aspx?id=1316518&amp;idCanal=59\r\n\r\nH&Atilde;&iexcl;
+    livro de reclama&Atilde;&sect;&Atilde;&micro;es, sim senhor. Muito bem, apoiado
+    chefe! E a consequ&Atilde;&ordf;ncia? Zero, est&Atilde;&iexcl; em an&Atilde;&iexcl;lise.\r\nDepois
+    d&Atilde;&iexcl;-se este caricato.\r\n[Sem querer questionar qualquer legimitidade
+    das duas partes, como &Atilde;&copy; &Atilde;&sup3;bvio]\r\n\r\nN&Atilde;&pound;o
+    h&Atilde;&iexcl; deliverables? N&Atilde;&pound;o h&Atilde;&iexcl; KPI's? N&Atilde;&pound;o
+    h&Atilde;&iexcl; responsabiliza&Atilde;&sect;&Atilde;&pound;o?\r\n\r\n(Portuguese)
+    Business as usual.\r\n\r\nValham-nos os pasteis de Belem, para ter algo a falar
+    de bom deste pa&Atilde;&shy;s.\r\n\r\n(Oops, ai o l&Atilde;&sup3;bi da sa&Atilde;&ordm;de!!)"
+- id: 223059
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2008-01-14 12:30:13 -0800'
+  date_gmt: '2008-01-14 12:30:13 -0800'
+  content: "E o Rabbit &Atilde;&copy; mesmo contra (toda) a regulamenta&Atilde;&sect;&Atilde;&pound;o
+    econ&Atilde;&sup3;mica? Tem a certeza? Acha que n&Atilde;&pound;o deve haver ASAE
+    nenhuma?\r\n\r\nEm minha opini&Atilde;&pound;o h&Atilde;&iexcl; muita regulamenta&Atilde;&sect;&Atilde;&pound;o
+    econ&Atilde;&sup3;mica que est&Atilde;&iexcl; mal, &Atilde;&copy; sup&Atilde;&copy;rflua
+    ou prejudicial. Mas eu acho que alguma regulamenta&Atilde;&sect;&Atilde;&pound;o
+    econ&Atilde;&sup3;mica &Atilde;&copy; necess&Atilde;&iexcl;ria, e que &Atilde;&copy;
+    necess&Atilde;&iexcl;rio uma ASAE funcional e determinada que fa&Atilde;&sect;a
+    cumprir a regulamenta&Atilde;&sect;&Atilde;&pound;o existente.\r\n\r\nSe a regulamenta&Atilde;&sect;&Atilde;&pound;o
+    est&Atilde;&iexcl; mal, mude-se a regulamenta&Atilde;&sect;&Atilde;&pound;o. Se
+    necess&Atilde;&iexcl;rio, saia-se da Uni&Atilde;&pound;o Europeia - pois que muita
+    da regulamenta&Atilde;&sect;&Atilde;&pound;o vem de l&Atilde;&iexcl;. Agora, n&Atilde;&pound;o
+    se culpe a ASAE."
+- id: 223692
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-01-16 00:09:23 -0800'
+  date_gmt: '2008-01-16 00:09:23 -0800'
+  content: Penso que a objec&Atilde;&sect;&Atilde;&pound;o da maior parte das pessoas
+    &Atilde;&copy; ao conte&Atilde;&ordm;do concreto da regulamenta&Atilde;&sect;&Atilde;&pound;o,
+    n&Atilde;&pound;o &Atilde;&nbsp; regulamenta&Atilde;&sect;&Atilde;&pound;o em
+    abstracto.
+---
+<p>Foi preciso a ASAE para se descobrir em Portugal um sentimento de fundo anti-regula&Atilde;&sect;&Atilde;&pound;o econ&Atilde;&sup3;mica. Tanta gente chateada.</p>
+<p>N&Atilde;&pound;o que sirva de muito, porque muitas das mesmas pessoas que criticam a ASAE, depois defendem o discurso da "regulamenta&Atilde;&sect;&Atilde;&pound;o contra os abusos" e da protec&Atilde;&sect;&Atilde;&pound;o do "consumidor ignorante" que lhe serve de base intelectual.</p>

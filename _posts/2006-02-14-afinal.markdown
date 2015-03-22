@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Afinal
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 350
+wordpress_url: http://blog.luispedro.org/?p=350
+date: '2006-02-14 11:09:49 -0800'
+date_gmt: '2006-02-14 11:09:49 -0800'
+categories:
+- Portugal
+- Presidenciais
+- Pol&Atilde;&shy;tica Internacional
+tags: []
+comments: []
+---
+<p>Citei h&Atilde;&iexcl; tempos algu&Atilde;&copy;m que dizia <cite>combato veemente ideias que nem sei se existem<&#47;cite>. Ontem, leio (via v&Atilde;&iexcl;rios blogues), as seguintes declara&Atilde;&sect;&Atilde;&micro;es de um candidato presidencial (e foi-o duas vezes):</p>
+<blockquote><p>
+Quem sou eu para dizer que a minha democracia &Atilde;&copy; melhor do que a cubana?</p>
+<p>(Jer&Atilde;&sup3;nimo de Sousa)<br />
+<&#47;blockquote></p>

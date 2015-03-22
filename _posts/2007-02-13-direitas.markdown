@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Direitas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 868
+wordpress_url: http://blog.luispedro.org/posts/direitas
+date: '2007-02-13 02:40:31 -0800'
+date_gmt: '2007-02-13 02:40:31 -0800'
+categories:
+- Aborto
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <em>isto j&Atilde;&iexcl; parece um blogue<&#47;em>:<P>No <a href="http:&#47;&#47;31daarmada.blogs.sapo.pt&#47;287113.html">31<&#47;a>, Tiago Geraldo:</p>
+<blockquote><p>N&Atilde;&pound;o escondo que, mesmo contra todas as previs&Atilde;&micro;es, tinha a secreta e ing&Atilde;&copy;nua esperan&Atilde;&sect;a de encontrar entre a direita uma vis&Atilde;&pound;o (ainda) mais desempoeirada e liberal neste debate. Houve honrosas e importantes excep&Atilde;&sect;&Atilde;&micro;es. Globalmente, por&Atilde;&copy;m, &Atilde;&copy; facto indesment&Atilde;&shy;vel que a direita mais representativa n&Atilde;&pound;o saiu de onde estava antes nem mexeu uma v&Atilde;&shy;rgula perante um problema em que devemos tentar assumir um certo compromisso entre a liberdade, a convic&Atilde;&sect;&Atilde;&pound;o e a repress&Atilde;&pound;o do estado. Compreendo e acho perfeitamente leg&Atilde;&shy;timo que a direita se continue a distinguir por determinadas op&Atilde;&sect;&Atilde;&micro;es sociais, culturais e morais. Mas a gest&Atilde;&pound;o a fazer entre essas op&Atilde;&sect;&Atilde;&micro;es e o monismo legitimador do Estado dever&Atilde;&iexcl; ser cada vez mais judiciosa.<&#47;blockquote></p>

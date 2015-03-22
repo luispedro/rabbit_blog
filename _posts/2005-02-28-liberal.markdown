@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Liberal
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 22
+wordpress_url: http://luispedro.org/blog/?p=22
+date: '2005-02-28 00:41:00 -0800'
+date_gmt: '2005-02-28 00:41:00 -0800'
+categories:
+- Economy & Politics
+tags: []
+comments: []
+---
+<ol>
+<li>The word liberal has become meaningless. In the US, it means left-wing, in Continental Europe it means right-wing (more or less, the Dutch seem to have a different kind of liberal).
+<li>Liberal has become a slander. I honestly do not understand why.
+<li>Why aren't there any liberals? Rightwing people who don't want the state in the marketplace always seem to want it in the bedroom. And leftwing people want the state everywhere except, of course, if it happens to be doing something they don't like.<br />
+<&#47;li><&#47;li><&#47;li><&#47;ol></p>
+<p>I should note that I consider myself a moderate, radical centre. I do approach problems in a libertarian view, but try to look at hard reality. I always seem to like politicians who other find political prostitutes, like Bill Clinton or A. Schwarzeneger. I don't want to sound like <a href="http:&#47;&#47;www.cato.org&#47;">some <a><br />
+<href ="http:&#47;&#47;www.chomsky.info&#47;">people<&#47;href><&#47;a>.<br />
+<&#47;a></p>

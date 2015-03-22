@@ -1,0 +1,107 @@
+---
+layout: post
+status: publish
+published: true
+title: PCP
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1129
+wordpress_url: http://blog.luispedro.org/posts/pcp
+date: '2007-09-05 03:54:01 -0700'
+date_gmt: '2007-09-05 03:54:01 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 127646
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-09-05 09:29:33 -0700'
+  date_gmt: '2007-09-05 09:29:33 -0700'
+  content: N&Atilde;&pound;o tem nada de mal que sejam traficantes de droga. S&Atilde;&pound;o
+    apenas comerciantes que se esfor&Atilde;&sect;am por satisfazer a procura de coca&Atilde;&shy;na
+    existente.
+- id: 127647
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-09-05 09:31:04 -0700'
+  date_gmt: '2007-09-05 09:31:04 -0700'
+  content: "Todos os trficantes e droga s&Atilde;&pound;o potencialmente violentos,
+    porque, infelizmente, o Estado combate o seu neg&Atilde;&sup3;cio por meios violentos.\r\n\r\nSe
+    se est&Atilde;&iexcl; interessado em que a viol&Atilde;&ordf;ncia e o tr&Atilde;&iexcl;fico
+    de drogas deixem de estar interligados, a solu&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy;
+    despenalizar o com&Atilde;&copy;rcio de drogas."
+- id: 127656
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-09-05 09:47:01 -0700'
+  date_gmt: '2007-09-05 09:47:01 -0700'
+  content: "As FARC, este ano, n&Atilde;&pound;o foram convidadas pelo PCP. Quem foi
+    foi o Partido Comunista da Colombia, que at&Atilde;&copy; &Atilde;&copy; um partido
+    legal.\r\n\r\nEfectivamente, as FARC foram criadas como o bra&Atilde;&sect;o armado
+    do PCC, nos anos 60, mas ambas as organiza&Atilde;&sect;&Atilde;&micro;es afirmam
+    ter cortado rela&Atilde;&sect;&Atilde;&micro;es &Atilde;&nbsp; cerca de 15 anos."
+- id: 127803
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-09-05 13:53:13 -0700'
+  date_gmt: '2007-09-05 13:53:13 -0700'
+  content: "N&Atilde;&pound;o come&Atilde;&sect;a nem acaba nas FARC. Ele &Atilde;&copy;
+    o PC da Bielor&Atilde;&ordm;ssia, o PC da Coreia do Norte (ambos legais nos respectivos
+    pa&Atilde;&shy;ses; ali&Atilde;&iexcl;s, os &Atilde;&ordm;nicos partidos legais
+    nos respectivos pa&Atilde;&shy;ses. As FARC, v&Atilde;&iexcl; se l&Atilde;&iexcl;
+    saber porqu&Atilde;&ordf;, foram tomadas como exemplo conhecido.\r\n"
+- id: 127902
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-09-05 16:24:45 -0700'
+  date_gmt: '2007-09-05 16:24:45 -0700'
+  content: "\"As FARC, v&Atilde;&iexcl; se l&Atilde;&iexcl; saber porqu&Atilde;&ordf;,
+    foram tomadas como exemplo conhecido.\"\r\n\r\nProvavelmente, se calhar essas
+    criticas ao PC v&Atilde;&ordf;m sobretudo de pessoas que preferem \"governos soberanos\"
+    a movimentos rebeldes.\r\n\r\n\"Ele &Atilde;&copy; o PC da Bielor&Atilde;&ordm;ssia,
+    o PC da Coreia do Norte (ambos legais nos respectivos pa&Atilde;&shy;ses; ali&Atilde;&iexcl;s,
+    os &Atilde;&ordm;nicos partidos legais nos respectivos pa&Atilde;&shy;ses\"\r\n\r\nO
+    PC Bielorruso n&Atilde;&pound;o &Atilde;&copy; o unico partido legal no pa&Atilde;&shy;s,
+    nem sei se t&Atilde;&ordf;m alguma influencia real (&Atilde;&copy; um pequeno
+    partido pr&Atilde;&sup3;-Lukashenko, oficialmente com 6% dos votos).\r\n\r\n[teoricamente,
+    h&Atilde;&iexcl; mais 2 partidos legais na Coreia do Norte, mas s&Atilde;&pound;o
+    partidos-fantoches, estilo PEV; pelo contr&Atilde;&iexcl;rio, penso que, na Bielorrusia,
+    o \"fantoche\" &Atilde;&copy; o PCB]"
+- id: 142232
+  author: Pedro
+  author_email: pedrinho_907@hotmail.com
+  author_url: ''
+  date: '2007-09-23 20:27:15 -0700'
+  date_gmt: '2007-09-23 20:27:15 -0700'
+  content: "Viva o comunismo,o pr&Atilde;&copy; anarquismo.\r\nSe apoiaram grupos
+    anti-facistas fizeram bem, pos ate hoje s&Atilde;&pound;o reconhecidos aqueles
+    que quiseram revolu&Atilde;&sect;&Atilde;&pound;o.."
+- id: 234983
+  author: Andr&Atilde;&copy;
+  author_email: andrefiaalho@hotmail.com
+  author_url: ''
+  date: '2008-02-19 22:23:55 -0800'
+  date_gmt: '2008-02-19 22:23:55 -0800'
+  content: "O PC &Atilde;&copy; o maior partido em termos ideol&Atilde;&sup3;gicos
+    do momento. em varios pontos ja demostrou que &Atilde;&copy; um partido democr&Atilde;&iexcl;tico.\r\nEm
+    rela&Atilde;&sect;&Atilde;&pound;o as FARC podem ou nao ser convidadas isso &Atilde;&copy;
+    uma decis&Atilde;&pound;o do PC.\r\nEm rela&Atilde;&sect;&Atilde;&pound;o a alguns
+    autoritarismos referidos na biellorussia &Atilde;&copy; mentira e na coreia &Atilde;&copy;
+    um sitema que veio vigorar para suplementar um que era muito pior.\r\nViva o Comunismo"
+---
+<p><center><img src="http:&#47;&#47;www.educweb.org&#47;Ficib&#47;Documents&#47;Photo-IngridOff-300.jpg" alt="Ingrid Betancourt"  &#47;><&#47;center></p>
+<p>Uma pessoa diz que apoia o PCP e l&Atilde;&iexcl; tem de ouvir com os crimes passados de regimes que se diziam comunistas. N&Atilde;&pound;o &Atilde;&copy; nada disso o verdadeiro comunismo, o do Partido Comunista Portugu&Atilde;&ordf;s. O comunismo &Atilde;&copy; contra a l&Atilde;&sup3;gica da viol&Atilde;&ordf;ncia, pela paz.</p>
+<p>No passado, por ignor&Atilde;&cent;ncia ou excesso de zelo, houve erros. O PCP talvez tenha apoiado regimes ou grupos violentos, mas era por raz&Atilde;&micro;es da &Atilde;&copy;poca. Era preciso combater o fascismo. Para atingir esse objectivo, outros valores ficaram por vezes de lado.</p>
+<p>Hoje, o PCP j&Atilde;&iexcl; tem mais consci&Atilde;&ordf;ncia desses erros e voltou &Atilde;&nbsp; mensagem original de esperan&Atilde;&sect;a. N&Atilde;&pound;o est&Atilde;&iexcl; associado a grupos violentos. Luta pela paz, contra a viol&Atilde;&ordf;ncia fomentada pela direita, pelo amor entre os povos.</p>
+<p>* A imagem acima &Atilde;&copy; a de Ingrid Betancourt, raptada pelas FARC, um grupo de traficantes de droga violentos, convidado (novamente) pelo PCP para a festa do Avante.</p>

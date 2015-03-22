@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Cof, Cof
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 699
+wordpress_url: http://blog.luispedro.org/?p=699
+date: '2006-11-06 20:36:45 -0800'
+date_gmt: '2006-11-06 20:36:45 -0800'
+categories:
+- Aborto
+tags: []
+comments:
+- id: 10852
+  author: AA
+  author_email: antoniocostaamaral@gmail.com
+  author_url: http://aartedafuga.blogpspot.com
+  date: '2006-11-06 20:44:01 -0800'
+  date_gmt: '2006-11-06 20:44:01 -0800'
+  content: Dizer que aqui h&Atilde;&iexcl; indec&Atilde;&ordf;ncias &Atilde;&copy;
+    publicidade enganosa :D
+---
+<p>Na s&Atilde;&copy;rie <em>os melhores posts s&Atilde;&pound;o os roubados<&#47;em>:</p>
+<p><a href="http:&#47;&#47;frenchkissin.blogspot.com&#47;2006&#47;11&#47;aborto-e-liberdade-individual.html">N&Atilde;&sup3;s aqui somos liberais...<&#47;a></p>
+<p>...e conservadores, e pr&Atilde;&sup3;-escolha.</p>
+<p>(Post roubado, de forma indecente, ao <a href="http:&#47;&#47;aartedafuga.blogspot.com&#47;2006&#47;11&#47;cof-cof.html">Arte da Fuga<&#47;a>)</p>

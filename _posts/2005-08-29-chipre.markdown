@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Chipre
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 125
+wordpress_url: http://blog.luispedro.org/?p=125
+date: '2005-08-29 00:57:27 -0700'
+date_gmt: '2005-08-29 00:57:27 -0700'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Um dos maiores erros geo-estrat&Atilde;&copy;gicos da Uni&Atilde;&pound;o Europeia dos &Atilde;&ordm;ltimos anos (e isto n&Atilde;&pound;o &Atilde;&copy; dizer pouco), foi provavelmente ter aceite Chipre no estado actual (dividido).</p>
+<p>Na SIC Not&Atilde;&shy;cias, no <i>Fam&Atilde;&shy;lia Europa<&#47;i>, financiado pela Uni&Atilde;&pound;o Europeia, est&Atilde;&iexcl; a passar o que deve ser descrito por <em>propaganda anti-turca<&#47;em>. Claro que vem da boca dos cipriotas-gregos (e de um euro-deputado), mas a vers&Atilde;&pound;o da hist&Atilde;&sup3;ria que eles apresentam &Atilde;&copy; um pouco uni-dimensional.</p>
+<p>Afinal, quem paga o programa, decide o que passa, n&Atilde;&pound;o?</p>

@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: A Crise
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 220
+wordpress_url: http://blog.luispedro.org/?p=220
+date: '2005-11-14 12:38:52 -0800'
+date_gmt: '2005-11-14 12:38:52 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 2203
+  author: Telmo A.
+  author_email: arfresco@mail.pt
+  author_url: http://ar_fresco.blogspot.com
+  date: '2005-11-15 12:26:59 -0800'
+  date_gmt: '2005-11-15 12:26:59 -0800'
+  content: "Tamb&Atilde;&copy;m li essa not&Atilde;&shy;cia e fiquei pasmado, especialmente
+    porque os entrevistados falavam em divers&Atilde;&pound;o, amigos e n&Atilde;&pound;o
+    despesas corrente:supermercado, etc...\r\n\r\nPor outro lado, onde se divertem
+    estas pessoas com custos t&Atilde;&pound;o elevados..."
+- id: 2235
+  author: Rabbit&#8217;s blog  &raquo; Blog Archive   &raquo; O Que Seria uma Sociedade
+    Liberal
+  author_email: ''
+  author_url: http://blog.luispedro.org/?p=225
+  date: '2005-11-18 10:17:08 -0800'
+  date_gmt: '2005-11-18 10:17:08 -0800'
+  content: "[...] de de classe). Leva ainda a uma s&Atilde;&copy;rie de coisas mais
+    e menos engra&Atilde;&sect;adas, como as pessoas ganharem bem e asssumirem-se
+    quase como pobres (que &Atilde;&copy; tamb&Atilde;&copy;m uma desresponsabiliza&Atilde;&sect;&Atilde;&pound;o,
+    por se aceita que os  [...]"
+---
+<p>Na s&Atilde;&copy;rie <i>em Portugal, somos todos pobres<&#47;i>:</p>
+<p>No jornal <cite>O Metro<&#47;cite>, um daqueles inqu&Atilde;&copy;ritos de rua, faz a seguinte pergunta <cite>Quanto dinheiro gasta no fim-de-semana?<&#47;cite>. A relev&Atilde;&cent;ncia estat&Atilde;&shy;stica &Atilde;&copy; nula, mas duas das respostas parecem-me suficientemente plaus&Atilde;&shy;veis para serem transcritas: </p>
+<ul>
+<li><cite>N&Atilde;&pound;o costumo gastar muito. Normalmente n&Atilde;&pound;o ultrapasso os 60 ou 70 euros (...) para me divertir e estar com os amigos.<&#47;cite>  (21 anos, estudante)<br />
+<&#47;li>
+<li><cite>Gasto muito pouco durante as folgas que tenho. Fico-me entre os 50 a 100 euros (...) para estar com a fam&Atilde;&shy;lia e para alguma divers&Atilde;&pound;o com os meus amigos.<&#47;cite> (31 anos, electricista)<br />
+<&#47;li><&#47;ul></p>
+<p>Sou eu que estou deslocado e o Portugal tornou-se o Luxemburgo enquanto eu estava a ler os blogues, ou 50 a 100 euros por fim-de-semana para <cite>divers&Atilde;&pound;o<&#47;cite> &Atilde;&copy; muito dinheiro? N&Atilde;&pound;o que eu tenha nada contra as pessoas gastarem dinheiro em copos (&Atilde;&copy; isto que quer dizer <cite>divers&Atilde;&pound;o<&#47;cite>, certo?), mas dizerem que 60 euros num fim-de-semana &Atilde;&copy; <cite>muito pouco dinheiro<&#47;cite> &Atilde;&copy;, digamos, exagerado.</p>
+<p>Estas atitudes alimentam a <a href="http:&#47;&#47;blog.luispedro.org&#47;?p=103">nacional-choraminguice<&#47;a> que j&Atilde;&iexcl; n&Atilde;&pound;o se pode aturar. </p>
+<p><cite>Somos todos pobres<&#47;cite>. <cite>Est&Atilde;&iexcl; tudo muito caro<&#47;cite>. <cite>Ganha-se pouco<&#47;cite>.</p>
+<p>N&Atilde;&pound;o estou a dizer que em Portugal toda a gente ganha o suficiente para gastar 250 euros por m&Atilde;&ordf;s em <cite>divers&Atilde;&pound;o de fim-de-semana<&#47;cite>, antes fosse. Estou a dizer que a nossa cultura permite que quem gasta esta quantidade de dinheiro se possa queixar seriamente de como a vida est&Atilde;&iexcl; cara e de como tem de poupar.</p>
+<p>(Uma terceira respondente, mais s&Atilde;&sup3;bria, admite <cite>gastar imenso dinheiro<&#47;cite> [at&Atilde;&copy; 200 euros], fala ainda nas <cite>compras para a casa<&#47;cite> e n&Atilde;&pound;o somente em <cite>divers&Atilde;&pound;o<&#47;cite>).</p>

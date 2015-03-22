@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: Rampas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 118
+wordpress_url: http://blog.luispedro.org/?p=118
+date: '2005-08-11 13:07:48 -0700'
+date_gmt: '2005-08-11 13:07:48 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 1430
+  author: ana sim&Atilde;&micro;es
+  author_email: anacertosimoes@hotmail.com
+  author_url: http://ablogadela.blogspot.com/
+  date: '2005-08-11 13:17:29 -0700'
+  date_gmt: '2005-08-11 13:17:29 -0700'
+  content: "estou desejosa pelo resto dos epis&Atilde;&sup3;dios desta s&Atilde;&copy;rie!\r\n\r\ncom
+    este concordo em absoluto!\r\n\r\n"
+- id: 1431
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://naperon.blogspot.com
+  date: '2005-08-11 13:33:28 -0700'
+  date_gmt: '2005-08-11 13:33:28 -0700'
+  content: "Estado &Atilde;&copy; solu&Atilde;&sect;&Atilde;&pound;o.\r\nAs l&Atilde;&iexcl;grimas
+    caem-me dos olhos ao ler isto...\r\n\r\nN&Atilde;&pound;o, agora a s&Atilde;&copy;rio,
+    tens toda a raz&Atilde;&pound;o. E mais uma vez &Atilde;&copy; necess&Atilde;&iexcl;ria
+    visibilidade para estes problemas - sem o uso da palavra <em>coitadinhos<&#47;em>."
+- id: 126445
+  author: Orestis
+  author_email: vzuqum@hotmail.com
+  author_url: http://honda-gresini.poweredcar.cn
+  date: '2007-09-03 19:51:15 -0700'
+  date_gmt: '2007-09-03 19:51:15 -0700'
+  content: interesting
+---
+<p>Serve o presente post para iniciar um nova s&Atilde;&copy;rie: <i>Estado Social? Onde?<&#47;i> que serve para cortar um pouco com a t&Atilde;&sup3;nica dominante e queixar-me da falta de apoios sociais do Estado Portugu&Atilde;&ordf;s onde eu acho que os devia haver (definindo tamb&Atilde;&copy;m onde &Atilde;&copy; que acho que &Atilde;&copy; moral o uso da for&Atilde;&sect;a de lei ao servi&Atilde;&sect;o do social):</p>
+<p>H&Atilde;&iexcl; uma coisa que espanta quem visita pa&Atilde;&shy;ses como a Su&Atilde;&copy;cia ou os EUA (mais parecidos entre si do que n&Atilde;&sup3;s somos com qualquer dos dois, em mais que um aspecto): o n&Atilde;&ordm;mero de pessoas de cadeiras de rodas que se v&Atilde;&ordf;em nas ruas. Da&Atilde;&shy; conclu&Atilde;&shy;mos que ou (1) em Portugal n&Atilde;&pound;o temos pessoas que precisem de cadeiras de rodas [<i>melhores genes<&#47;i> ou <i>o Sol cura tudo<&#47;i>, sei l&Atilde;&iexcl;] ou (2) em Portugal essas pessoas s&Atilde;&pound;o impedidas de sair &Atilde;&nbsp; rua porque n&Atilde;&pound;o t&Atilde;&ordf;m condi&Atilde;&sect;&Atilde;&micro;es e est&Atilde;&pound;o ou em casa, ou em hospitais&#47;asilos.</p>
+<p>Acho que a segunda hip&Atilde;&sup3;tese &Atilde;&copy; mais prov&Atilde;&iexcl;vel. Afinal,</p>
+<ul>
+<li>Quantos dos nossos edif&Atilde;&shy;cios t&Atilde;&ordf;m rampas de acesso? Mesmo edif&Atilde;&shy;cios p&Atilde;&ordm;blicos ou de servi&Atilde;&sect;os (Lojas do Cidad&Atilde;&pound;o, Bancos, Cinemas...)<br />
+<&#47;li>
+<li>Quantos dos nossos caf&Atilde;&copy;s t&Atilde;&ordf;m casas de banho acess&Atilde;&shy;veis (sem escadas, por exemplo) e suficientemente grandes para cadeiras de rodas?<br />
+<&#47;li>
+<li>Quantas das nossas ruas s&Atilde;&pound;o intransit&Atilde;&iexcl;veis a uma cadeira de rodas?<br />
+<&#47;li><&#47;ul></p>
+<p>As leis est&Atilde;&pound;o l&Atilde;&iexcl;, claro, mas n&Atilde;&pound;o s&Atilde;&pound;o cumpridas.</p>
+<p>Porque esta &Atilde;&copy; definitivamente uma classe de pessoas que precisam de apoio: n&Atilde;&pound;o &Atilde;&copy; poss&Atilde;&shy;vel esperar que possam sobreviver (a palavra &Atilde;&copy; mesmo sobreviver) sem algum esfor&Atilde;&sect;o da parte de terceiro e n&Atilde;&pound;o &Atilde;&copy; nunca rent&Atilde;&iexcl;vel servir este mercado. Porque os custos t&Atilde;&ordf;m de ser assumidos por particulares quando constr&Atilde;&sup3;em e a boa consci&Atilde;&ordf;ncia n&Atilde;&pound;o chega. Gostava de acreditar que sim, nas pessoas, mas acho que a esquerda cl&Atilde;&iexcl;ssica tem raz&Atilde;&pound;o nesta: boa consci&Atilde;&ordf;ncia n&Atilde;&pound;o chega: &Atilde;&copy; preciso obrigar. Por tudo isso, o Estado &Atilde;&copy; aqui uma solu&Atilde;&sect;&Atilde;&pound;o.</p>
+<p>Onde est&Atilde;&iexcl;?</p>

@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: ALICE
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 177
+wordpress_url: http://blog.luispedro.org/?p=177
+date: '2005-10-02 11:10:09 -0700'
+date_gmt: '2005-10-02 11:10:09 -0700'
+categories:
+- Cartaz
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>isto at&Atilde;&copy; j&Atilde;&iexcl; parece um blogue pseudo<&#47;i>:</p>
+<p>Tive oportunidade de ver <a href="http:&#47;&#47;www.madragoafilmes.pt&#47;alice&#47;">Alice<&#47;a> em ante-estreia e &Atilde;&copy; daqueles filmes que Kafka diria serem <cite>como um machado no mar gelado que h&Atilde;&iexcl; em n&Atilde;&sup3;s<&#47;cite>.</p>
+<p>A Beatriz Batarda, nos dois minutos em que aparece, confirma-nos que &Atilde;&copy; a melhor atriz portuguesa desde h&Atilde;&iexcl; muito. O Nuno Lopes, que eu n&Atilde;&pound;o conhecia, engana-nos com uma representa&Atilde;&sect;&Atilde;&pound;o quase apagada para construir uma personagem arrasadora.</p>

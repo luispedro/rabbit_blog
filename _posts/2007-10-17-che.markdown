@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Che
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1179
+wordpress_url: http://blog.luispedro.org/posts/che
+date: '2007-10-17 18:58:39 -0700'
+date_gmt: '2007-10-17 18:58:39 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 160997
+  author: blogue atl&Atilde;&cent;ntico &raquo; Blog Archive &raquo; Che fascista
+  author_email: ''
+  author_url: http://www.atlantico-online.net/blogue/2007/10/24/che-fascista/
+  date: '2007-10-23 23:06:43 -0700'
+  date_gmt: '2007-10-23 23:06:43 -0700'
+  content: "[...] Nestas discuss&Atilde;&micro;es em que Che &Atilde;&copy; comparado
+    a Hitler ou Mao, ainda n&Atilde;&pound;o ouvi a compara&Atilde;&sect;&Atilde;&pound;o
+    a Mussoli... [...]"
+- id: 338708
+  author: Viagra online stores.
+  author_email: ''
+  author_url: http://giellatekno.uit.no/bugzilla/attachment.cgi?id=89
+  date: '2008-06-24 19:45:32 -0700'
+  date_gmt: '2008-06-24 19:45:32 -0700'
+  content: |-
+    <strong>Viagra online stores....<&#47;strong>
+
+    Viagra online stores....
+---
+<p>Nestas discuss&Atilde;&micro;es em que Che &Atilde;&copy; comparado a Hitler ou Mao, ainda n&Atilde;&pound;o ouvi a compara&Atilde;&sect;&Atilde;&pound;o a Mussolini que &Atilde;&copy; a &Atilde;&ordm;nica que me parece adequada, sobretudo quando vejo as defesas que s&Atilde;&pound;o feitas de Che (n&Atilde;&pound;o os crimes, as defesas). O culto do her&Atilde;&sup3;i, da vida arriscada (no fundo, um culto da guerra), o sacrif&Atilde;&shy;cio por um ideal, s&Atilde;&pound;o ideais fascistas (fascista no sentido do panfleto "O que &Atilde;&copy; o fascismo" de Mussolini).</p>
+<p>Celebra-se o culto da vida de Che, mas esquece-se que os cultos da vida acabam, quase sempre, em cultos da morte. No caso dele, passou por um fasc&Atilde;&shy;nio pela guerra e pelo gosto de matar.</p>

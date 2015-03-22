@@ -1,0 +1,91 @@
+---
+layout: post
+status: publish
+published: true
+title: Colagem
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 658
+wordpress_url: http://blog.luispedro.org/?p=658
+date: '2006-10-07 15:32:44 -0700'
+date_gmt: '2006-10-07 15:32:44 -0700'
+categories:
+- Ambiente
+tags: []
+comments:
+- id: 9589
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-10-08 01:01:58 -0700'
+  date_gmt: '2006-10-08 01:01:58 -0700'
+  content: "\"If you take just two cross country and two overseas trips a year\"\r\n\r\nEsses
+    2+2 referem-se a quatro entradas no avi&Atilde;&pound;o ou a oito (ou seja, uma
+    \"trip\" inclui a ida-e-volta ou cada qual &Atilde;&copy; uma \"trip\")?"
+- id: 9607
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2006-10-08 17:47:04 -0700'
+  date_gmt: '2006-10-08 17:47:04 -0700'
+  content: Eu leio que um trip &Atilde;&copy; uma ida-e-volta.
+- id: 9747
+  author: Holand&Atilde;&ordf;s Voador
+  author_email: abcd@efgh.com
+  author_url: ''
+  date: '2006-10-13 08:19:39 -0700'
+  date_gmt: '2006-10-13 08:19:39 -0700'
+  content: "Fa&Atilde;&sect;o-lhe notar que gostar de viajar e defender que a economia
+    se deve descarbonizar n&Atilde;&pound;o s&Atilde;&pound;o opini&Atilde;&micro;es
+    necessariamente contradit&Atilde;&sup3;rias.\r\n\r\nFa&Atilde;&sect;o um par&Atilde;&ordf;ntesis
+    para enfatizar que o ponto fulcral n&Atilde;&pound;o &Atilde;&copy; tanto o \"descarbonizar\"
+    da economia, mas mais, pelo menos no imediato, a obten&Atilde;&sect;&Atilde;&pound;o
+    de combust&Atilde;&shy;veis cujo balan&Atilde;&sect;o no ciclo do carbono seja
+    zero, ou pr&Atilde;&sup3;ximo disso, o que naturalmente se consegue com a utiliza&Atilde;&sect;&Atilde;&pound;o
+    de biocombust&Atilde;&shy;veis.\r\n\r\nO bus&Atilde;&shy;lis da quest&Atilde;&pound;o
+    &Atilde;&copy; a resist&Atilde;&ordf;ncia poderosa que o lobby do petr&Atilde;&sup3;leo
+    e seus representantes po&Atilde;&shy;ticos um pouco por todo o mundo, com natural
+    &Atilde;&ordf;nfase para os EUA, mas tamb&Atilde;&copy;m para o Reino Unido, Fran&Atilde;&sect;a,
+    R&Atilde;&ordm;ssia (e para minha surpresa, tamb&Atilde;&copy;m na China) conseguem
+    abrandar (quase) at&Atilde;&copy; parar uma transi&Atilde;&sect;&Atilde;&pound;o
+    cujos custos s&Atilde;&pound;o extremamente reduzidos, se comparados com solu&Atilde;&sect;&Atilde;&micro;es
+    mais limpas, mas necessariamente mais de longo prazo, como a transi&Atilde;&sect;&Atilde;&pound;o
+    para um sistema de transportes baseado em ve&Atilde;&shy;culos el&Atilde;&copy;ctricos.\r\n\r\n&Atilde;&permil;
+    que autom&Atilde;&sup3;veis el&Atilde;&copy;ctricos, embora caros, j&Atilde;&iexcl;
+    vai havendo, e poder&Atilde;&pound;o come&Atilde;&sect;ar a massificar-se a curto
+    prazo, mas n&Atilde;&pound;o h&Atilde;&iexcl; grande expectativa de se conseguirem
+    densidades de energia suficientes para avi&Atilde;&micro;es el&Atilde;&copy;ctricos,
+    digamos, nos pr&Atilde;&sup3;ximos 50 anos. No entanto, um turbofan pode perfeitamente
+    queimar um biocombust&Atilde;&shy;vel sem modifica&Atilde;&sect;&Atilde;&micro;es
+    mais do que de detalhe, e o di&Atilde;&sup3;xido de carbono libertado estar tranquilamente
+    a ser absorvido pelo crescimento da \"colheita\" da produ&Atilde;&sect;&Atilde;&pound;o
+    seguinte..."
+- id: 9750
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2006-10-13 09:32:14 -0700'
+  date_gmt: '2006-10-13 09:32:14 -0700'
+  content: "1. A contradi&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy; pensar que
+    o problema &Atilde;&copy; um de consci&Atilde;&ordf;ncia e mostrar que mesmo com
+    consci&Atilde;&ordf;ncia, o problema &Atilde;&copy; demasiado dif&Atilde;&shy;cil.\r\n\r\n2.
+    Os lobbys, os lobbys, os lobbys, os lobbys... Isto &Atilde;&copy; tudo <a href=\"http:&#47;&#47;blog.luispedro.org&#47;?p=633\"
+    rel=\"nofollow\">cinismo naive<&#47;a>.\r\n\r\nAli&Atilde;&iexcl;s, porque h&Atilde;&iexcl;
+    pouco lobby t&Atilde;&pound;o forte como os agricultores que recebem subs&Atilde;&shy;dios
+    para produzir bio-combust&Atilde;&shy;veis."
+---
+<p>Na s&Atilde;&copy;rie <em>quando eu for grande quero ser como a Helena Matos<&#47;em> (concordo totalmente com a cr&Atilde;&sup3;nica de hoje no P&Atilde;&ordm;blico):</p>
+<ol>
+<li>Ontem, na Dia D, entrevistava-se uma senhora, muito cr&Atilde;&shy;tica do capitalismo desenfreado. Para salvar o ambiente, dizia ela, era preciso mais consci&Atilde;&ordf;ncia social e falava num rating social, blah blah. <a href="http:&#47;&#47;jornal.publico.clix.pt&#47;noticias.asp?a=2006&m=10&d=07&uid=&id=100899&sid=11136">H&Atilde;&iexcl; uma economia que precisa de se "descarbonizar"<&#47;a> Depois dizia que, nos tempos livres, adorava viajar.<&#47;li>
+<li>Facto do dia da <a href="http:&#47;&#47;www.janegalt.net&#47;archives&#47;009497.html">jane galt<&#47;a>:<br />
+<blockquote><p>If you take just two cross country and two overseas trips a year . . . not a big number for today's more mobile young adults . . . you're consuming as much carbon as you would by driving a huge gas-guzzling SUV 12,000 miles a year [20 mil km].<&#47;blockquote><br />
+<&#47;li></p>
+<li>Diz quem viu que no seu filme, o Al Gore faz um discurso apaixonado sobre a necessidade de carros mais eficientes, na sala de espera de um aeroporto.<&#47;li>
+<li>Enquanto depender da boa vontade do jet-set, ent&Atilde;&pound;o, meus caros, n&Atilde;&pound;o vamos a lado nenhum. O ambiente &Atilde;&copy; uma trag&Atilde;&copy;dia dos comuns, que se resolve privatizando os recursos, a utiliza&Atilde;&sect;&Atilde;&pound;o da atmosfera com quotas de polui&Atilde;&sect;&Atilde;&pound;o, das &Atilde;&iexcl;guas, dos peixes. Quotas, quotas, quotas. Vendidas em leil&Atilde;&pound;o aberto, sem favores pol&Atilde;&shy;ticos (isto &Atilde;&copy;, sem projectos de interesse nacional, ou <em>os amigos do Major<&#47;em>). Abertamente trocadas em bolsa.
+<p>Os problemas s&Atilde;&pound;o demasiados complexos para poderem ser atacados com solu&Atilde;&sect;&Atilde;&micro;es pensadas a priori ou grandes planos: cada solu&Atilde;&sect;&Atilde;&pound;o tem os seus problemas, a cada passo h&Atilde;&iexcl; um novo trade-off, novas solu&Atilde;&sect;&Atilde;&micro;es podem ser respostas ou podem ser fracassos. O problema do c&Atilde;&iexcl;lculo socialista p&Atilde;&micro;e-se de forma gigante nos problemas ambientais. N&Atilde;&pound;o h&Atilde;&iexcl; comiss&Atilde;&pound;o de peritos que consiga chegar a uma solu&Atilde;&sect;&Atilde;&pound;o (mesmo que fossem completamente isentos, j&Atilde;&iexcl; de si uma premissa dif&Atilde;&shy;cil): apenas o mercado livre pode resolver o problema.<&#47;li><br />
+<&#47;ol></p>

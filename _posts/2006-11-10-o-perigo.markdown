@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: O Perigo
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 714
+wordpress_url: http://blog.luispedro.org/?p=714
+date: '2006-11-10 23:11:18 -0800'
+date_gmt: '2006-11-10 23:11:18 -0800'
+categories:
+- Economy & Politics
+- Europa
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <em>A Nova Esquerda &Atilde;&copy; a Velha Direita<&#47;em>:</p>
+<ol>
+<li>Se h&Atilde;&iexcl; algo que &Atilde;&copy; perigoso para a Europa na pr&Atilde;&sup3;xima d&Atilde;&copy;cada &Atilde;&copy; o surgimento de movimentos sincr&Atilde;&copy;ticos que juntem (1) anti-capitalismo, (2) anti-globaliza&Atilde;&sect;&Atilde;&pound;o, (3) defesa da tradi&Atilde;&sect;&Atilde;&pound;o [verdadeira ou mistificada], (4) ambientalismo, e (5) pan-europe&Atilde;&shy;smo.
+<p>Uma aproxima&Atilde;&sect;&Atilde;&pound;o entre as chamadas extremas-direitas e extremas-esquerdas pode lembrar-nos de forma cruel que o problema da Europa nunca deixou de sentir a vertigem dos nacional-socialismos.<&#47;li></p>
+<li>H. Arendt avisou-nos que o <cite>Nazismo n&Atilde;&pound;o pode ser confundido com um nacionalismo. &Atilde;&permil;, na base, um movimento <strong>anti-nacional<&#47;strong> que pretendia ultrapassar as tradicionais barreiras e ser pan-germ&Atilde;&cent;nico<&#47;cite>. Os pan-europe&Atilde;&shy;smos de hoje s&Atilde;&pound;o tamb&Atilde;&copy;m anti-nacionais, mas mais ainda que os nazis definem o europeu somente como algo contra o americano.
+<p>Que o pan-europe&Atilde;&shy;smo tenha deixado de ser visto como de extrema-direita como quando apareceu, j&Atilde;&iexcl; l&Atilde;&iexcl; v&Atilde;&pound;o uns anitos; para se tornar algo de extrema-esquerda e at&Atilde;&copy; mainstream, &Atilde;&copy; algo que me assusta.<&#47;li></p>
+<li>O fasc&Atilde;&shy;nio das esquerdas por Chavez e pelo volkista Morales   mostra como demos a volta. Se o <cite>socialismo do s&Atilde;&copy;c XXI<&#47;cite> &Atilde;&copy; o fascismo do s&Atilde;&copy;c XX, 'tamos bem fodidos.<&#47;li>
+<li>Movimentos <cite>identit&Atilde;&iexcl;rios<&#47;cite> s&Atilde;&pound;o fascismos de cara lavada.
+<p>Admita-se: o fascismo possu&Atilde;&shy; um apelo vertiginoso, o apelo vertiginoso do poder (quem n&Atilde;&pound;o quer <cite>viver perigosamente<&#47;cite>?). Se se libertarem do estigma a onde foram reduzidos, ganharem respeitabilidade pela esquerda (na cr&Atilde;&shy;tica ao capitalismo, no discurso anti-globaliza&Atilde;&sect;&Atilde;&pound;o, no ambientalismo m&Atilde;&shy;stico), ressurgir&Atilde;&pound;o, perigosos como nunca deixaram de ser.</p>
+<p>O pior da direita pode vir a fazer a sua entrada pela esquerda do palco. O partido emergente na Alemanha chama-se <cite>Links Partei<&#47;cite> (<cite>Partido de Esquerda<&#47;cite>), mas, para falar de emigra&Atilde;&sect;&Atilde;&pound;o, vai buscar o vocabul&Atilde;&iexcl;rio de Hitler.<&#47;li><br />
+<&#47;ol></p>

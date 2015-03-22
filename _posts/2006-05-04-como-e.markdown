@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Como &Atilde;&copy;?
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 435
+wordpress_url: http://blog.luispedro.org/?p=435
+date: '2006-05-04 09:50:57 -0700'
+date_gmt: '2006-05-04 09:50:57 -0700'
+categories:
+- Cartaz
+tags: []
+comments: []
+---
+<p>&Atilde;&permil; um <em>Mad Max Cat&Atilde;&sup3;lico<&#47;em>. <a href="http:&#47;&#47;teatro.ist.utl.pt&#47;">Escandaloso<&#47;a>.</p>

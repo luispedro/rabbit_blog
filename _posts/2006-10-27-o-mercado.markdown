@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: O Mercado
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 685
+wordpress_url: http://blog.luispedro.org/?p=685
+date: '2006-10-27 23:53:53 -0700'
+date_gmt: '2006-10-27 23:53:53 -0700'
+categories:
+- Photos
+tags: []
+comments: []
+---
+<p>&Acirc;&nbsp;</p>
+<p><center><a class="imagelink" title="30 Minute Service" href="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;10&#47;30min-service.jpg"><img id="image684" style="width: 80%" alt="30 Minute Service" src="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;10&#47;30min-service.jpg" &#47;><&#47;a><&#47;center>&Acirc;&nbsp;</p>

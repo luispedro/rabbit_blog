@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Rid&Atilde;&shy;culo
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 1261
+wordpress_url: http://blog.luispedro.org/posts/ridiculo
+date: '2008-02-16 05:32:49 -0800'
+date_gmt: '2008-02-16 05:32:49 -0800'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>A certa altura, torna-se rid&Atilde;&shy;culo. N&Atilde;&pound;o h&Atilde;&iexcl; outra palavra.</p>
+<p>Aqui est&Atilde;&pound;o as taxas de crescimento dos pa&Atilde;&shy;ses que se juntaram mais recentemente &Atilde;&nbsp; Uni&Atilde;&pound;o Europe&Atilde;&shy;a:</p>
+<ul>
+<li>Poland:  6.5%<&#47;li>
+<li>Czech Republic:  4.8%<&#47;li>
+<li>Romania: 6.5%<&#47;li>
+<li>Hungary: 2.8%<&#47;li>
+<li>Slovakia: 8.2%<&#47;li>
+<li>Slovenia: 4.5%<&#47;li>
+<li>Latvia: 10.5%<&#47;li>
+<li>Cyprus:  3.9%<&#47;li>
+<li>Estonia:  9.9%<&#47;li>
+<li>Malta:  2.3%<&#47;li><br />
+<&#47;ul></p>
+<p>(<a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Economy_of_the_European_Union">Wikipedia<&#47;a>)</p>
+<p>Em Portugal, festeja-se uma taxa de crescimento abaixo dos dois por cento---uma das mais baixas de toda a uni&Atilde;&pound;o.</p>
+<p>A diferen&Atilde;&sect;a &Atilde;&copy; que em Portugal somos governados por sociais-democratas, enquanto a Europa de Leste &Atilde;&copy; o continente dos impostos baixos e do flat-tax (os outros campe&Atilde;&micro;es dos impostos baixos, a Irlanda e o Luxemburgo, j&Atilde;&iexcl; riquissimos, crescem &Atilde;&nbsp; volta dos cinco por cento).</p>

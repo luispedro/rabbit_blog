@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Sabia Que?
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1260
+wordpress_url: http://blog.luispedro.org/posts/sabia-que
+date: '2008-02-16 05:02:40 -0800'
+date_gmt: '2008-02-16 05:02:40 -0800'
+categories:
+- Amea&Atilde;&sect;a &Atilde;&nbsp; Liberdade
+tags: []
+comments: []
+---
+<p>A sua impressora provavelmente imprime um c&Atilde;&sup3;digo inv&Atilde;&shy;sivel ao olho humano, mas que inclu&Atilde;&shy; o n&Atilde;&ordm;mero de s&Atilde;&copy;rie da impressora e, nalguns modelos, at&Atilde;&copy; a data e hora em que o documento foi impresso?</p>
+<p><a href="http:&#47;&#47;www.eff.org&#47;issues&#47;printers">EFF sobre impressoras<&#47;a>.</p>

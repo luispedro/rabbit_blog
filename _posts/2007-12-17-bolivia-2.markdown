@@ -1,0 +1,214 @@
+---
+layout: post
+status: publish
+published: true
+title: Bol&Atilde;&shy;via
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1219
+wordpress_url: http://blog.luispedro.org/posts/bolivia-2
+date: '2007-12-17 00:05:59 -0800'
+date_gmt: '2007-12-17 00:05:59 -0800'
+categories:
+- Am&Atilde;&copy;rica Latina
+tags: []
+comments:
+- id: 208195
+  author: Carla Cristina
+  author_email: carlactsantos@yahoo.com.br
+  author_url: ''
+  date: '2007-12-17 21:41:36 -0800'
+  date_gmt: '2007-12-17 21:41:36 -0800'
+  content: Eu diria, se me permite, fim das ditaduras socialistas na Am&Atilde;&copy;rica
+    Latina. Mas penso tamb&Atilde;&copy;m que dizer "ditadura socialista" seja redundante.
+- id: 208264
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-12-18 01:29:21 -0800'
+  date_gmt: '2007-12-18 01:29:21 -0800'
+  content: "Qual &Atilde;&copy; a base da Carla Cristina para considerar a Bolivia
+    de Morales uma ditadura?\r\n\r\n&Acirc;&laquo;Mas penso tamb&Atilde;&copy;m que
+    dizer &acirc;&euro;&oelig;ditadura socialista&acirc;&euro;\x9D seja redundante.&Acirc;&raquo;\r\n\r\nSe
+    pretende dizer que uma ditadura &Atilde;&copy; sempre socialista, isso &Atilde;&copy;
+    um perfeito disparate.\r\n\r\nSe pretende dizer que o socialismo &Atilde;&copy;
+    sempre ditatorial, depende do que considerarmos \"socialismo - ser&Atilde;&iexcl;
+    que a India de Nehru e Indira era \"socialista\"? Se o era, n&Atilde;&pound;o
+    era uma ditadura (tirando talvez um pequeno momento). Se n&Atilde;&pound;o era
+    \"socialista\", ent&Atilde;&pound;o tamb&Atilde;&copy;m a Venezuela e a Bolivia
+    n&Atilde;&pound;o o ser&Atilde;&pound;o."
+- id: 208641
+  author: Carla Cristina
+  author_email: carlactsantos@yahoo.com.br
+  author_url: ''
+  date: '2007-12-18 15:23:03 -0800'
+  date_gmt: '2007-12-18 15:23:03 -0800'
+  content: Um presidente que manda ocupar militarmente as instala&Atilde;&sect;&Atilde;&micro;es
+    de empresa estrangeira (como foi feito com a Petrobr&Atilde;&iexcl;s) e quebra
+    contratos; que quer a "refunda&Atilde;&sect;&Atilde;&pound;o" de um pa&Atilde;&shy;s
+    com base numa constitui&Atilde;&sect;&Atilde;&pound;o aprovada apenas por governistas,
+    a qual, entre outros disparates, p&Atilde;&micro;e a propriedade privada a servi&Atilde;&sect;o
+    do interesse coletivo (quem definir&Atilde;&iexcl; tal interesse?) e prev&Atilde;&ordf;
+    a reelei&Atilde;&sect;&Atilde;&pound;o ilimitada do presidente e do vice; um presidente
+    com os caracter&Atilde;&shy;ticos de Evo Morales pode n&Atilde;&pound;o ser chamado
+    de ditador?
+- id: 208717
+  author: JP
+  author_email: ''
+  author_url: ''
+  date: '2007-12-18 17:20:16 -0800'
+  date_gmt: '2007-12-18 17:20:16 -0800'
+  content: A grande quest&Atilde;&pound;o nem &Atilde;&copy; se s&Atilde;&pound;o
+    ditadores ou n&Atilde;&pound;o. Ditadores s&Atilde;&pound;o a maior parte dos
+    governantes da Am&Atilde;&copy;rica do Sul nos &Atilde;&ordm;ltimos 50 anos. A
+    quest&Atilde;&pound;o &Atilde;&copy; se s&Atilde;&pound;o melhores para (a maioria
+    do) povo sul americano do que os anteriores. E a mim parece-me dif&Atilde;&shy;cil
+    dizer que n&Atilde;&pound;o.
+- id: 208934
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-12-18 23:54:43 -0800'
+  date_gmt: '2007-12-18 23:54:43 -0800'
+  content: "\"Um presidente que manda ocupar militarmente as instala&Atilde;&sect;&Atilde;&micro;es
+    de empresa estrangeira (como foi feito com a Petrobr&Atilde;&iexcl;s) e quebra
+    contratos;\"\r\n\r\nPenso que nacionalizar coisas faz parte dos poderes do Estado
+    em quase todos os regimes considerados democr&Atilde;&iexcl;ticas. Ser&Atilde;&iexcl;
+    que Clement Attle foi um ditador (sim, imagino que n&Atilde;&pound;o tenha mandado
+    o ex&Atilde;&copy;rcito ocupar as empresas que o seu governo nacionalizou, mas
+    o detalhe da ocupa&Atilde;&sect;&Atilde;&pound;o militar parece-me exactamente
+    isso: apenas um detalhe)\r\n\r\n\"que quer a &acirc;&euro;&oelig;refunda&Atilde;&sect;&Atilde;&pound;o&acirc;&euro;\x9D
+    de um pa&Atilde;&shy;s com base numa constitui&Atilde;&sect;&Atilde;&pound;o aprovada
+    apenas por governistas,\"\r\n\r\nPenso que o que, no principio dos trabalhos da
+    Constituinte foi acordado, era que o que fosse aprovado por 2&#47;3 estava aprovado;
+    o que fosse aprovado por maioria, teria que ir a referendo - como creio que vai
+    ser)\r\n\r\n\"a qual, entre outros disparates, p&Atilde;&micro;e a propriedade
+    privada a servi&Atilde;&sect;o do interesse coletivo\"\r\n\r\nPenso que passagens
+    semelhantes se encontrar&Atilde;&pound;o nas constitui&Atilde;&sect;&Atilde;&micro;es
+    da maior parte dos paises ocidentais\r\n\r\n\"e prev&Atilde;&ordf; a reelei&Atilde;&sect;&Atilde;&pound;o
+    ilimitada do presidente e do vice;\"\r\n\r\nTem certeza que &Atilde;&copy; isso
+    que prev&Atilde;&ordf;? O pouco que li (quase todas as noticiais s&Atilde;&sup3;
+    falam da quest&Atilde;&pound;o da capital e ignoram o resto) sobre a nova constitui&Atilde;&sect;&Atilde;&pound;o
+    d&Atilde;&iexcl;-me a ideia que &Atilde;&copy; apenas mais um mandato."
+- id: 208935
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-12-18 23:56:27 -0800'
+  date_gmt: '2007-12-18 23:56:27 -0800'
+  content: Afinal, na parte do referendo j&Atilde;&iexcl; n&Atilde;&pound;o tenho
+    tanta certeza.
+- id: 208978
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2007-12-19 01:03:55 -0800'
+  date_gmt: '2007-12-19 01:03:55 -0800'
+  content: "Nem a Bol&Atilde;&shy;via nem a Venezuela actuais s&Atilde;&pound;o socialistas,
+    mas para l&Atilde;&iexcl; caminhavam e talvez ainda caminhem.\r\n\r\nH&Atilde;&iexcl;
+    n&Atilde;&shy;veis de respeito pela propriedade e pelas liberdades. Ser democracia
+    ou ser socialista n&Atilde;&pound;o &Atilde;&copy; bin&Atilde;&iexcl;rio."
+- id: 209015
+  author: Carla Cristina
+  author_email: carlactsantos@yahoo.com.br
+  author_url: ''
+  date: '2007-12-19 02:14:11 -0800'
+  date_gmt: '2007-12-19 02:14:11 -0800'
+  content: "N&Atilde;&pound;o creio que ocupar militarmente empresas estrangeiras
+    &Atilde;&copy; mero detalhe, considero-o outrossim grav&Atilde;&shy;ssimo, al&Atilde;&copy;m
+    do descumprimento de contratos.\r\nA Constitui&Atilde;&sect;&Atilde;&pound;o,
+    al&Atilde;&copy;m de ser aprovada sem os deputados da oposi&Atilde;&sect;&Atilde;&pound;o,
+    foi feita com os governistas trancados dentro de um quartel. \r\nQue em constitui&Atilde;&sect;&Atilde;&micro;es
+    se defina a fun&Atilde;&sect;&Atilde;&pound;o social da propriedade privada &Atilde;&copy;
+    fato, por isso se quer que fique claro quem definir&Atilde;&iexcl; o &acirc;&euro;&oelig;interesse
+    coletivo&acirc;&euro;\x9D a que &Atilde;&copy; subordinada tal propriedade na
+    Constitui&Atilde;&sect;&Atilde;&pound;o boliviana: &acirc;&euro;&oelig;toda persona
+    tiene derecho a la propiedad privada, individual o colectiva, siempre que &Atilde;&copy;sta
+    cumpla una funci&Atilde;&sup3;n social. Se garantiza la propiedad privada siempre
+    que el uso que se haga de ella no sea perjudicial al inter&Atilde;&copy;s colectivo.
+    La expropiaci&Atilde;&sup3;n se impondr&Atilde;&iexcl; por causa de necesidad
+    o utilidad p&Atilde;&ordm;blicas, o cuando la propiedad no cumpla una funci&Atilde;&sup3;n
+    social, calificada de esta manera conforme a la ley y previa indemnizaci&Atilde;&sup3;n
+    justa.&acirc;&euro;\x9D\r\nO artigo em que tal Constitui&Atilde;&sect;&Atilde;&pound;o
+    prev&Atilde;&ordf; reelei&Atilde;&sect;&Atilde;&pound;o ilimitada para presidente
+    e vice &Atilde;&copy; o de n&Acirc;&ordm; 166. (Segundo o jornalista brasileiro
+    William Waack.)\r\nE, Luis, se &Atilde;&copy; certo que a Bol&Atilde;&shy;via
+    e a Venezuela caminham para o socialismo, &Atilde;&copy; igualmente certo que
+    o socialismo nesses pa&Atilde;&shy;ses se dar&Atilde;&iexcl; por meio de regimes
+    com caracter&Atilde;&shy;sticas ditatoriais. &Atilde;&permil; o que se v&Atilde;&ordf;."
+- id: 209252
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-12-19 10:10:17 -0800'
+  date_gmt: '2007-12-19 10:10:17 -0800'
+  content: "\"N&Atilde;&pound;o creio que ocupar militarmente empresas estrangeiras
+    &Atilde;&copy; mero detalhe\"\r\n\r\nAcho que &Atilde;&copy; - o ponto essencial
+    foi a nacionaliza&Atilde;&sect;&Atilde;&pound;o; a partir do momento em que o
+    g&Atilde;&iexcl;s foi nacionalizado de qualquer maneira, mandar o ex&Atilde;&copy;rcito
+    ocupar as instala&Atilde;&sect;&Atilde;&micro;es parece-me mais show-off que outra
+    coisa qualquer.\r\n\r\n\"al&Atilde;&copy;m do descumprimento de contratos\"\r\n\r\nPor
+    esse ordem de ideias, um governo nunca poderia decidir nada que contrariasse uma
+    anterior decis&Atilde;&pound;o.\r\n\r\n\"A Constitui&Atilde;&sect;&Atilde;&pound;o,
+    al&Atilde;&copy;m de ser aprovada sem os deputados da oposi&Atilde;&sect;&Atilde;&pound;o,
+    foi feita com os governistas trancados dentro de um quartel.\"\r\n\r\nSe os deputados
+    da oposi&Atilde;&sect;&Atilde;&pound;o tivessem participado na vota&Atilde;&sect;&Atilde;&pound;o,
+    n&Atilde;&pound;o se tinha atingido os 2&#47;3 e a nova constitui&Atilde;&sect;&Atilde;&pound;o
+    teria que ser referendada (em vez de apenas um artigo, como vai ser o caso) -
+    quem os mandou n&Atilde;&pound;o participaram?\r\n\r\n\"por isso se quer que fique
+    claro quem definir&Atilde;&iexcl; o &acirc;&euro;&oelig;interesse coletivo&acirc;&euro;\x9D
+    a que &Atilde;&copy; subordinada tal propriedade na Constitui&Atilde;&sect;&Atilde;&pound;o
+    boliviana:\"\r\n\r\n(...)\r\n\r\n\"La expropiaci&Atilde;&sup3;n se impondr&Atilde;&iexcl;
+    por causa de necesidad o utilidad p&Atilde;&ordm;blicas, o cuando la propiedad
+    no cumpla una funci&Atilde;&sup3;n social, <b>calificada de esta manera conforme
+    a la ley<&#47;b>\"\r\n\r\nPelos vistos, &Atilde;&copy; \"a lei\" (que imagino
+    seja da responsabilidade do Congresso)\r\n\r\nhttp:&#47;&#47;www.constituyente.bo&#47;documentos&#47;contenidos&#47;nuevacpe1.pdf\r\n\r\n\"Art&Atilde;&shy;culo
+    169\r\nEl periodo de mandato de la Presidenta o del Presidente y de la Vicepresidenta
+    o del Vicepresidente del\r\nEstado es de cinco a&Atilde;&plusmn;os, y pueden ser
+    reelectas o reelectos de manera continua por una sola vez.\""
+- id: 209539
+  author: Carla Cristina
+  author_email: carlactsantos@yahoo.com.br
+  author_url: ''
+  date: '2007-12-19 19:28:53 -0800'
+  date_gmt: '2007-12-19 19:28:53 -0800'
+  content: Obrigada, Miguel, pelos esclarecimentos. Pelo visto, a reelei&Atilde;&sect;&Atilde;&pound;o
+    n&Atilde;&pound;o &Atilde;&copy; infinita conforme informa&Atilde;&sect;&Atilde;&micro;es
+    que eu tinha. Mas apesar desse detalhe &acirc;&euro;&ldquo;importante &acirc;&euro;&ldquo;
+    eu n&Atilde;&pound;o confio em Evo Morales, e acredito que ele est&Atilde;&iexcl;
+    a fazer mal &Atilde;&nbsp; pol&Atilde;&shy;tica boliviana. Veja o poder que ele
+    d&Atilde;&iexcl; aos ind&Atilde;&shy;genas, por exemplo, e a Bol&Atilde;&shy;via
+    n&Atilde;&pound;o &Atilde;&copy; constitu&Atilde;&shy;da apenas desse povo.
+- id: 210275
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-12-20 16:16:56 -0800'
+  date_gmt: '2007-12-20 16:16:56 -0800'
+  content: "Aparentemente, a proposta aprovada na generalidade s&Atilde;&sup3; dizia
+    mesmo \"o presidente pode ser reeleito\".\r\n\r\nNa vota&Atilde;&sect;&Atilde;&pound;o
+    na especialidade &Atilde;&copy; que foi acrescentado o \"uma s&Atilde;&sup3; vez\"."
+- id: 210578
+  author: Carla Cristina
+  author_email: carlactsantos@yahoo.com.br
+  author_url: ''
+  date: '2007-12-21 00:11:25 -0800'
+  date_gmt: '2007-12-21 00:11:25 -0800'
+  content: Ufa! ent&Atilde;&pound;o foi por um fio...:-)
+- id: 228247
+  author: robert
+  author_email: robgt_36@hotmail.com
+  author_url: ''
+  date: '2008-01-31 12:26:51 -0800'
+  date_gmt: '2008-01-31 12:26:51 -0800'
+  content: yo creo que los cambios son buenos, pero lo que ocurre en Bolivia actualmente
+    es una revolucion discriminatoria inversamente, o sea de la clase indigena a la
+    clase media, existe un resentimiento marcado es un asco lo que sucede en bolivia
+---
+<p>Uma parte da Bol&Atilde;&shy;via rejeitou a politica socialista de Morales, de forma radical: declarou-se <a href="http:&#47;&#47;edition.cnn.com&#47;2007&#47;WORLD&#47;americas&#47;12&#47;15&#47;bolivia.unrest&#47;?iref=mpstoryview">semi-independente<&#47;a> e caminha para a independ&Atilde;&ordf;ncia.</p>
+<p>Com a derrota de Chavez no referendo, estamos no fim do estado de gra&Atilde;&sect;a do novo socialismo na Am&Atilde;&copy;rica Latina. Pode n&Atilde;&pound;o ser o fim do socialismo na Am&Atilde;&copy;rica Latina (n&Atilde;&pound;o acredito que seja), mas &Atilde;&copy; uma nova fase.</p>

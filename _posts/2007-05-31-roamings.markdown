@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: Roamings
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 997
+wordpress_url: http://blog.luispedro.org/posts/roamings
+date: '2007-05-31 09:49:04 -0700'
+date_gmt: '2007-05-31 09:49:04 -0700'
+categories:
+- Europa
+- Liberalismo
+tags: []
+comments:
+- id: 73531
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-05-31 13:06:38 -0700'
+  date_gmt: '2007-05-31 13:06:38 -0700'
+  content: "N&Atilde;&pound;o conhecia essa hist&Atilde;&sup3;ria sobre a Vodafone
+    e o \"roaming\".\r\n\r\nEstou em crer que, quando a Vodafone se prop&Atilde;&acute;s
+    baixar os pre&Atilde;&sect;os do \"roaming\", ter&Atilde;&iexcl; sido porque nessa
+    altura a Vodafone teria uma posi&Atilde;&sect;&Atilde;&pound;o quase monopolista
+    no mercado, nomeadamente a n&Atilde;&shy;vel das conex&Atilde;&micro;es internacionais.
+    A Comiss&Atilde;&pound;o Europeia ter&Atilde;&iexcl; impedido a Vodafone de baixar
+    os pre&Atilde;&sect;os com o objetivo de garantir que outras companhias pudessem
+    surgir que competissem com a Vodafone.\r\n\r\nO Estado deve ter por objetivo permitir
+    e fomentar a concorr&Atilde;&ordf;ncia. Isso obriga, ocasionalmente, a viola&Atilde;&sect;&Atilde;&micro;es
+    da propriedade privada."
+---
+<p>H&Atilde;&iexcl; uns anos, a Vodafone prop&Atilde;&acute;s baixar as tarifas de roaming. Para evitar este abuso de poder de mercado, a Comiss&Atilde;&pound;o Europeia impediu a Vodafone de o fazer.
+<p>Agora, para evitar abusos de poder de mercado, a Comiss&Atilde;&pound;o Europeia obrigou todas as companhias de telem&Atilde;&sup3;vel a baixar as tarifas de roaming.
+<p>&Atilde;&permil; bom ver que algu&Atilde;&copy;m anda a zelar para que os pre&Atilde;&sect;os n&Atilde;&pound;o baixem cedo demais. Deus sabe o que teria acontecido se os pre&Atilde;&sect;os tivessem baixado h&Atilde;&iexcl; uns anos em vez de baixarem s&Atilde;&sup3; agora.</p>

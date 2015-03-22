@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Sarkozy
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 947
+wordpress_url: http://blog.luispedro.org/posts/sarkozy-2
+date: '2007-04-20 18:57:58 -0700'
+date_gmt: '2007-04-20 18:57:58 -0700'
+categories:
+- Fran&Atilde;&sect;a
+tags: []
+comments: []
+---
+<p>Contra:
+<ol>
+<li>&Atilde;&permil; contra a entrada da Turquia na UE.
+<li>&Atilde;&permil; a favor de discrimina&Atilde;&sect;&Atilde;&pound;o positiva nas universidades e no emprego.
+<li>Como ministro da Economia, governou como um socialista, a gastar dinheiro dos contribuinte em <del>grupos amigos<&#47;del> ind&Atilde;&ordm;strias essenciais ao interesse <del>do partido<&#47;del> nacional.<&#47;ol>
+<p>A favor do Sarkozy:
+<ol>
+<li>&Atilde;&permil; o &Atilde;&ordm;nico candidato que tem ideias minimamente liberais, pelo menos por pragmatismo. N&Atilde;&pound;o &Atilde;&copy; a Thatcher, mas &Atilde;&copy; o melhor que se pode arranjar.
+<li>&Atilde;&permil; um pragm&Atilde;&iexcl;tico.
+<li>&Atilde;&permil; melhor ter os socialistas no governo (onde privatizaram --- ningu&Atilde;&copy;m em Fran&Atilde;&sect;a privatizou mais do que o Jospin) do que Presid&Atilde;&ordf;ncia (onde nacionalizaram --- O Miterrand &Atilde;&copy; que come&Atilde;&sect;ou o decl&Atilde;&shy;nio).
+<li>Sabe que os taliban j&Atilde;&iexcl; n&Atilde;&pound;o s&Atilde;&pound;o governo. (Imaginam a vergonha duma confer&Atilde;&ordf;ncia internacional em que a Royal &Atilde;&copy; corrigida pelo George Bush depois da gaffe? A mulher cada vez que sai de Fran&Atilde;&sect;a s&Atilde;&sup3; diz disparates).
+<li>Tem a esperan&Atilde;&sect;a de fugir ao gaulismo tradicional franc&Atilde;&ordf;s, ao contr&Atilde;&iexcl;rio do Bayrou que &Atilde;&copy; o tradicional democrata-crist&Atilde;&pound;o laico que popula a direita francesa.
+<li>N&Atilde;&pound;o &Atilde;&copy; um "campon&Atilde;&ordf;s."
+<li>Sabe que o problema da Fran&Atilde;&sect;a &Atilde;&copy; o desemprego (a S. Royal diz que n&Atilde;&pound;o est&Atilde;&iexcl; preocupada com o facto de aumentar o sal&Atilde;&iexcl;rio m&Atilde;&shy;nimo criar ainda mais desemprego porque melhora a vida de algumas pessoas). At&Atilde;&copy; os problemas de seguran&Atilde;&sect;a --- perdoem-me o marxismo --- &Atilde;&copy;, no caso franc&Atilde;&ordf;s, um problema de origem econ&Atilde;&sup3;mica: na Zone o desemprego jovem excede os 50%.<&#47;ol>
+<p>Balan&Atilde;&sect;o: Sarkozy. Tendo em conta os outros candidatos, a margem &Atilde;&copy; grande.</p>

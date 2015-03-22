@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: O Meu Sim
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 849
+wordpress_url: http://blog.luispedro.org/posts/porque-voto-sim
+date: '2007-02-05 09:09:39 -0800'
+date_gmt: '2007-02-05 09:09:39 -0800'
+categories:
+- Aborto
+tags: []
+comments: []
+---
+<p><cite>Para cada pergunta complicada h&Atilde;&iexcl; uma resposta simples e essa resposta est&Atilde;&iexcl; errada<&#47;cite> --- H. L. Mencken.</p>
+<p>No caso do referendo, a resposta simples &Atilde;&copy; <cite>N&Atilde;&pound;o<&#47;cite>. &Atilde;&permil;, tamb&Atilde;&copy;m, a resposta errada.</p>
+<p>Depois de muito escrever sobre este tema, e entrando na recta final da campanha decidi publicar um post por dia com o tema <cite>porque voto sim<&#47;cite>. A maioria das ideias est&Atilde;&pound;o espalhadas por posts, mas agora escrevi sem a press&Atilde;&pound;o de criticar a frase do dia vinda do campo oposto (ou, como j&Atilde;&iexcl; aconteceu, do campo do Sim).</p>
+<p>Portanto, vou deixar para outros o argumento negativo da cr&Atilde;&shy;tica ao N&Atilde;&pound;o e fazer um argumento <i>pelo Sim<&#47;i>. Do mais abstracto ao mais consequencialista, todos os dias, at&Atilde;&copy; ao referendo, &Atilde;&nbsp;s 9.09, hora do continente, mais um argumento.</p>

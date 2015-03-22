@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Chocante
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1137
+wordpress_url: http://blog.luispedro.org/posts/chocante
+date: '2007-09-09 17:00:50 -0700'
+date_gmt: '2007-09-09 17:00:50 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Conta <a href="http:&#47;&#47;www.miguelportas.net&#47;blog&#47;?p=141">Miguel Portas<&#47;a>:</p>
+<blockquote><p>A 7 de Agosto, algures entre a costa tunisina e a ilha italiana de Lampedusa, dois pescadores tunisinos, regularmente inscritos no departamento mar&Atilde;&shy;timo de Monastir, socorreram em alto mar 44 imigrantes sem pap&Atilde;&copy;is, entre os quais 11 mulheres e duas crian&Atilde;&sect;as, pouco antes da barca em que iam se afundar. Recolhidos, os pescadores levaram-nos at&Atilde;&copy; porto seguro, em Lampedusa.</p>
+<p>Por causa disto, os sete homens que constitu&Atilde;&shy;am a equipagem das duas embarca&Atilde;&sect;&Atilde;&micro;es, foram presos pelas autoridades italianas. Contra eles foi aberto um processo legal a 14 de Agosto, na cidade de Agrigento, no Sul de It&Atilde;&iexcl;lia. que se pode concluir com uma condena&Atilde;&sect;&Atilde;&pound;o at&Atilde;&copy; 15 anos de cadeia. Acusa&Atilde;&sect;&Atilde;&pound;o: favorecimento da imigra&Atilde;&sect;&Atilde;&pound;o clandestina e tr&Atilde;&iexcl;fico de seres humanos. <&#47;blockquote></p>
+<p>A BBC <a href="http:&#47;&#47;news.bbc.co.uk&#47;2&#47;hi&#47;europe&#47;6979715.stm">conta a mesma hist&Atilde;&sup3;ria<&#47;a>.</p>

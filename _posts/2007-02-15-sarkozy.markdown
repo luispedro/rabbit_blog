@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Sarkozy!
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 870
+wordpress_url: http://blog.luispedro.org/posts/sarkozy
+date: '2007-02-15 09:44:31 -0800'
+date_gmt: '2007-02-15 09:44:31 -0800'
+categories:
+- Fran&Atilde;&sect;a
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>ceci n'est pas un blogue<&#47;i>:
+<p>At&Atilde;&copy; aqui, n&Atilde;&pound;o tinha grande posi&Atilde;&sect;&Atilde;&pound;o em rela&Atilde;&sect;&Atilde;&pound;o &Atilde;&nbsp; elei&Atilde;&sect;&Atilde;&pound;o francesa. &Atilde;&euro; partida preferia Sarkozy, mas o homem ora seduz ora afasta e n&Atilde;&pound;o me convencia assim tanto. Por outro lado, a Segol&Atilde;&uml;ne &Atilde;&copy; bem gira (<i>V&Atilde;&iexcl; l&Atilde;&iexcl;, querida, n&Atilde;&pound;o fiques zangada. Eu queria dizer bem gira <&#47;i>politicamente<i>, &Atilde;&copy; diferente.<&#47;i>) .
+<p>Al&Atilde;&copy;m disso, parecia-me melhor ter o Sarkozy na Presid&Atilde;&ordf;ncia para deixar o PS de Strauss-Kahn ser primeiro-ministro e talvez, a&Atilde;&shy;, tivessemos um governo decente naquele pa&Atilde;&shy;s (foi o PS que privatizou, para quem n&Atilde;&pound;o se lembra; mas n&Atilde;&pound;o deixem aquela gente tratar de pol&Atilde;&shy;tica externa).
+<p>Nos &Atilde;&ordm;ltimos dias, decidi-me: Sarkozy!
+<p>Por um lado, li as declara&Atilde;&sect;&Atilde;&micro;es de Sarkozy em rela&Atilde;&sect;&Atilde;&pound;o ao Charlie Hebdo (<cite>prefiro caricaturas a mais do que a menos<&#47;cite>) e parte do que ele vai dizendo por a&Atilde;&shy; (inclusiv&Atilde;&copy; no com&Atilde;&shy;cio que fez em Londres). Por outro, a menina Segol&Atilde;&uml;ne que j&Atilde;&iexcl; tinha mostrado que olhos lindos n&Atilde;&pound;o bastam quando s&Atilde;&sup3; se diz disparates a cada vez que sa&Atilde;&shy;a do pa&Atilde;&shy;s, resolveu puxar a carta do populismo econ&Atilde;&sup3;mico com mil e uma garantias de estagna&Atilde;&sect;&Atilde;&pound;o econ&Atilde;&sup3;mica e desemprego. Assim N&Atilde;&pound;o, Sarkozy!</p>

@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase do Dia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1252
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-14
+date: '2008-02-02 06:55:18 -0800'
+date_gmt: '2008-02-02 06:55:18 -0800'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p><cite> European conservatives should, like many of their American cousins, hope not only for an Obama nomination, but also for his election on November 4th. It has been difficult to present a strong case for conservatism in Europe, partly because of the Bush administration. But Obama could change that; a charismatic and broadly supported president with ideas similar to Burkean philosophy would lend credibility to conservatism everywhere.<&#47;cite></p>
+<p>Johan Wennstr&Atilde;&para;m na <a href="http:&#47;&#47;www.prospect-magazine.co.uk&#47;article_details.php?id=9988">Prospect<&#47;a></p>
+<p>Amen!</p>

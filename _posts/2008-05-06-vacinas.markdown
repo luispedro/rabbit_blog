@@ -1,0 +1,228 @@
+---
+layout: post
+status: publish
+published: true
+title: Vacinas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1321
+wordpress_url: http://blog.luispedro.org/posts/vacinas
+date: '2008-05-06 00:23:51 -0700'
+date_gmt: '2008-05-06 00:23:51 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 301986
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2008-05-06 08:48:24 -0700'
+  date_gmt: '2008-05-06 08:48:24 -0700'
+  content: "&Atilde;&permil; o que acontece quando se faz como alguns liberais extremistas
+    advogam, ou seja, se d&Atilde;&iexcl; aos pais autoridade total sobre os filhos,
+    retirando ao Estado qualquer autoridade em mat&Atilde;&copy;ria de prote&Atilde;&sect;&Atilde;&pound;o
+    das crian&Atilde;&sect;as.\r\n\r\nTamb&Atilde;&copy;m j&Atilde;&iexcl; vi uma
+    \"liberal\" a defender que n&Atilde;&pound;o devia ser obrigat&Atilde;&sup3;rio
+    usar cadeirinhas para as crian&Atilde;&sect;as nos autom&Atilde;&sup3;veis, porque
+    d&Atilde;&iexcl; muito trabalho e constrangimento aos pais ter que l&Atilde;&iexcl;
+    p&Atilde;&acute;r as crian&Atilde;&sect;as."
+- id: 302162
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2008-05-06 10:38:08 -0700'
+  date_gmt: '2008-05-06 10:38:08 -0700'
+  content: "&Atilde;&permil; claro que os liberais de direita raramente se atrevem
+    a levar as ideias que defendem &Atilde;&nbsp;s &Atilde;&ordm;ltimas consequ&Atilde;&ordf;ncias,
+    preferindo aplic&Atilde;&iexcl;-las a casos criteriosamente selecionados. Defendem
+    po exemplo a liberdade de os pais escolherem a educa&Atilde;&sect;&Atilde;&pound;o
+    que querem dar aos filhos, em particular a liberdade de os pais proibirem os filhos
+    de ter educa&Atilde;&sect;&Atilde;&pound;o sexual na escola. Esquecem-se que a
+    consequ&Atilde;&ordf;ncia l&Atilde;&sup3;gica desta ideia &Atilde;&copy; que os
+    pais tamb&Atilde;&copy;m devem poder proibir os filhos de aprender a ler e a escrever,
+    como era costume fazer-se em Portugal. nomeadamente com as crian&Atilde;&sect;as
+    do sexo feminino, h&Atilde;&iexcl; uns 100 anos atr&Atilde;&iexcl;s - foi por
+    causa desta ideia que pessoas extemamente inteligentes, como a minha av&Atilde;&sup3;
+    por exemplo, foram retiradas da escola pelos pais aos 7 anos de idade e ficaram
+    privadas por toda a vida mesmo da educa&Atilde;&sect;&Atilde;&pound;o mais rudimentar,
+    condenando-as a elas e ao pa&Atilde;&shy;s.\r\n\r\nNas mentes obtusas dos liberais
+    de direita portuguesas, os pais s&Atilde;&pound;o sempre pais perfeitos que desejam
+    o bem dos filhos, e que sabem perfeitamente o que &Atilde;&copy; bom paa os filhos.
+    Alguns pais sabem que &Atilde;&copy; bom que as filhas n&Atilde;&pound;o aprendam
+    a ler, outros pais sabem que os filhos n&Atilde;&pound;o precisam de ser vacinados
+    contra a var&Atilde;&shy;ola, etc. S&Atilde;&pound;o todos pais ultra-sapientes,
+    todos eles pessoas honestas que desejam o melhor para os seus filhos, e que devem
+    ter o direito de fazer com os seus filhos aquilo que muito bem entendem, uma vez
+    que uma crian&Atilde;&sect;a &Atilde;&copy; como um m&Atilde;&sup3;vel ou uma
+    vassoura - &Atilde;&copy; uma propriedade privada dos seus pais."
+- id: 303397
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2008-05-07 01:48:18 -0700'
+  date_gmt: '2008-05-07 01:48:18 -0700'
+  content: "1. Normalmente, as pessoas que n&Atilde;&pound;o vacinam os filhos n&Atilde;&pound;o
+    s&Atilde;&pound;o especialmente liberais de direita. Um dos pais que n&Atilde;&pound;o
+    vacina os filhos que eu conhe&Atilde;&sect;o aqui at&Atilde;&copy; me disse hoje
+    que era a favor de um estado introviso como princ&Atilde;&shy;pio.\r\n\r\n2. Al&Atilde;&copy;m
+    disso, a vacina&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy; tamb&Atilde;&copy;m
+    uma quest&Atilde;&pound;o de sa&Atilde;&ordm;de p&Atilde;&ordm;blica. Sa&Atilde;&ordm;de
+    p&Atilde;&ordm;blica a s&Atilde;&copy;rio, no sentido que se A n&Atilde;&pound;o
+    vacina os filhos, ent&Atilde;&pound;o os filhos de B t&Atilde;&ordf;m um risco
+    acrescido de contamina&Atilde;&sect;&Atilde;&pound;o. As vacinas funcionam porque
+    criam imunidade de grupo mesmo que a imunidade individual n&Atilde;&pound;o seja
+    total."
+- id: 304021
+  author: lobotomias
+  author_email: lobotomias.lobo@gmail.com
+  author_url: ''
+  date: '2008-05-07 18:33:33 -0700'
+  date_gmt: '2008-05-07 18:33:33 -0700'
+  content: "1- surpreendido...:&Atilde;&euro;s\r\nParece-me dificil defender qualquer
+    projecto de saude publica sem defender o que os americanos chamam uma medicina
+    \"socialista\"...\r\n\r\n2- por outro lado\r\na vacina&Atilde;&sect;&Atilde;&pound;o-
+    qualquer acto m&Atilde;&copy;dico mas a vacina&Atilde;&sect;&Atilde;&pound;o em
+    particular, comporta riscos .  lembro-me dos casos de regress&Atilde;&pound;o
+    autistica aos 18 meses - 3 meses  depois vacina, que apesar de n&Atilde;&pound;o
+    ter uma explica&Atilde;&sect;&Atilde;&pound;o causal muito plausivel parece ter
+    dados epidemiol&Atilde;&sup3;gicos importantes. e h&Atilde;&iexcl; tamb&Atilde;&copy;m
+    duvidas em rela&Atilde;&sect;&Atilde;&pound;o a doen&Atilde;&sect;as auto-imunes
+    e outras doen&Atilde;&sect;as , por enquanto de etiologia mais ou menos mistica,
+    como a esclerose multipla. \r\npensando individualmente no seu proprio filho as
+    vantagens da n&Atilde;&pound;o vacina&Atilde;&sect;&Atilde;&pound;o s&Atilde;&pound;o
+    em  muitos casos  superiores ao risco - pela imunidade de grupo que falas.\r\nParece-me
+    ent&Atilde;&pound;o que neste blogue liberal se sugere que temos de permitir que
+    o estado prejudique  (ligeiramente)os nossos filhos, para defender um bem comum
+    (a saude dos filhos de todos), isto n&Atilde;&pound;o &Atilde;&copy; um raciocinio
+    um bocado pr&Atilde;&sup3; socialista?\r\n  h&Atilde;&iexcl; vezes em que nos
+    lembramos que estamos todos no mesmo barco e o melhor &Atilde;&copy; cuidarmos
+    uns dos outros atrav&Atilde;&copy;s de uma figura que se chama estado.  Saude
+    e bom senso manda rapidamente o liberalismo &Atilde;&nbsp;s urtigas."
+- id: 304039
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2008-05-07 19:07:56 -0700'
+  date_gmt: '2008-05-07 19:07:56 -0700'
+  content: "A sa&Atilde;&ordm;de p&Atilde;&ordm;blica, definida estritamente como
+    o que afecta a sa&Atilde;&ordm;de de todos (e n&Atilde;&pound;o casos de sa&Atilde;&ordm;de
+    privada, ainda que afectem muita gente --- como a obesidade); sempre me pareceram
+    uma das poucas justifica&Atilde;&sect;&Atilde;&micro;es para o uso da for&Atilde;&sect;a.\r\n\r\nN&Atilde;&pound;o
+    h&Atilde;&iexcl; nada de socialista nisto.\r\n\r\n***\r\n\r\nOs casos de autismo
+    s&Atilde;&pound;o tanga. O suposto culpado (um aditivo nas vacinas) foi retirado
+    do mercado h&Atilde;&iexcl; anos e os casos de autismo n&Atilde;&pound;o diminuiram.\r\n\r\nNem
+    estou convencido que exista uma mudan&Atilde;&sect;a real e que o aumento dos
+    casos diagnosticados n&Atilde;&pound;o seja somente devido a mudan&Atilde;&sect;as
+    no diagn&Atilde;&sup3;stico."
+- id: 304158
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-05-07 22:30:29 -0700'
+  date_gmt: '2008-05-07 22:30:29 -0700'
+  content: "\"Normalmente, as pessoas que n&Atilde;&pound;o vacinam os filhos n&Atilde;&pound;o
+    s&Atilde;&pound;o especialmente liberais de direita. \"\r\n\r\nPenso que o ponto
+    do LL n&Atilde;&pound;o era propriamente se os liberais de direita vacinavam ou
+    n&Atilde;&pound;o os filhos, mas sim se os liberais de direita defendiam o direito
+    dos pais a n&Atilde;&pound;o vacinar os filhos.\r\n\r\nDe qualquer forma, de vez
+    em quando leio textos no site \"liberal de direita\" lewrockwell.com a dizer que
+    determinadas vacinas causam autismo&#47;cancro&#47;etc."
+- id: 304284
+  author: lobotomias
+  author_email: lobotomias.lobo@gmail.com
+  author_url: ''
+  date: '2008-05-08 00:11:54 -0700'
+  date_gmt: '2008-05-08 00:11:54 -0700'
+  content: "A quest&Atilde;&pound;o &Atilde;&copy; que sem cuidados tendencialmente
+    gratuitos e de proximidade (de saude e n&Atilde;&pound;o s&Atilde;&sup3; , tambem
+    de habita&Atilde;&sect;&Atilde;&pound;o, trabalho, etc) torna-se muito dificil
+    controlar riscos para a sa&Atilde;&ordm;de publica (concordo com a tua ideia de
+    saude publica,  mas n&Atilde;&pound;o se resume a riscos infecciosos). \r\nNem
+    &Atilde;&copy; preciso ir a Africa basta falar das consequnecias desastrosas que
+    parece ter tido a exclus&Atilde;&pound;o da pop toxicodependente dos servi&Atilde;&sect;os
+    de saude entre 85 e 95 nas nossas taxas de inf pelo hiv e de turberculose\r\nParece-me
+    que h&Atilde;&iexcl; muito socialismo nisto (defini&Atilde;&sect;&Atilde;&pound;o
+    pelo estado de cuidados de saude e n&Atilde;&pound;o s&Atilde;&sup3; importantes
+    a fornecer a todos e custeados por todos aqueles que descontam)\r\n \r\nEm rela&Atilde;&sect;&Atilde;&pound;o
+    &Atilde;&nbsp;s regress&Atilde;&micro;es autisticas tardias (18 meses) penso que
+    o caso &Atilde;&copy; um pouco mais complicado que isso, (&Acirc;&laquo;que tanga&Acirc;&raquo;)
+    at&Atilde;&copy; porque sendo um numero t&Atilde;&pound;o pequeno (mesmo muito
+    pequeno dentro do grupo das crian&Atilde;&sect;as autistas- j&Atilde;&iexcl; de
+    si pequeno) e um grpo t&Atilde;&pound;o dificil de diagnosticar (&Atilde;&copy;
+    dificil saber se j&Atilde;&iexcl; haviam ou n&Atilde;&pound;o sinais antesdos
+    18)  parece-me dificil que se construam estudos que permitam encontrar teorias
+    crediveis ou mesmo excluir fantasias. Na duvida, uma hipotese auto-imune atrav&Atilde;&copy;s
+    da vacina&Atilde;&sect;&Atilde;&pound;o (independentemente dos excepientes) penso
+    que ainda est&Atilde;&iexcl; sobre a mesa (n&Atilde;&pound;o sei n&Atilde;&pound;o
+    li nada mas ainda ontem ouvi um pedopsiquiatra falar disso- em privado- claro)"
+- id: 304857
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2008-05-08 18:49:03 -0700'
+  date_gmt: '2008-05-08 18:49:03 -0700'
+  content: "\"\"\"Nem &Atilde;&copy; preciso ir a Africa basta falar das consequnecias
+    desastrosas que parece ter tido a exclus&Atilde;&pound;o da pop toxicodependente
+    dos servi&Atilde;&sect;os de saude entre 85 e 95 nas nossas taxas de inf pelo
+    hiv e de turberculose\"\"\"\r\n\r\nN&Atilde;&pound;o acabaste de dar um exemplo
+    onde o nosso servi&Atilde;&sect;o socialista n&Atilde;&pound;o resolve um problema
+    de exclus&Atilde;&pound;o?"
+- id: 305304
+  author: lobotomias
+  author_email: lobotomias.lobo@gmail.com
+  author_url: ''
+  date: '2008-05-09 14:07:43 -0700'
+  date_gmt: '2008-05-09 14:07:43 -0700'
+  content: "Resolveu (ou come&Atilde;&sect;ou a resolver) em 95 com o toninho guterres.
+    \r\nDe qualquer maneira  o que eu disse foi \"a quest&Atilde;&pound;o &Atilde;&copy;
+    que sem cuidados tendencialmente gratuitos e de proximidade (de saude e n&Atilde;&pound;o
+    s&Atilde;&sup3; , tambem de habita&Atilde;&sect;&Atilde;&pound;o, trabalho, etc)
+    torna-se muito dificil controlar riscos para a sa&Atilde;&ordm;de publica.\" &Atilde;&copy;
+    nesse sentido que vem o exemplo como deves ter compreendido. Com um sistema baseado
+    no lucro, e excluindo aqueles que n&Atilde;&pound;o podem ou n&Atilde;&pound;o
+    querem pagar parece-me que vais excluir muitos com riscos para todos. \r\nde qualquer
+    maneira o sistema de saude em si n&Atilde;&pound;o &Atilde;&copy; socialista,
+    visto que o estado detem pouco e n&Atilde;&pound;o tem o objectivo de deter tudo
+    (n&Atilde;&pound;o s&Atilde;&sup3; dai mas tambem vem dai a exclus&Atilde;&pound;o-
+    a prolifera&Atilde;&sect;&Atilde;&pound;o de clinicas de reabilita&Atilde;&sect;&Atilde;&pound;o
+    com metodos pouco comprovados e custos enormes)"
+- id: 601676
+  author: S&Atilde;&pound;o
+  author_email: conceicao.palma01@gmail.com
+  author_url: ''
+  date: '2010-01-12 14:21:15 -0800'
+  date_gmt: '2010-01-12 14:21:15 -0800'
+  content: 'Eu sei que estas coisas s&Atilde;&pound;o discut&Atilde;&shy;veis e cada
+    um tem os seus fundamentos.  Se as pessoas acreditam que &Atilde;&copy; melhor
+    para os filhos n&Atilde;&pound;o sere vacinados, &Atilde;&copy; porque t&Atilde;&cent;m
+    base onde se fundamentar, embora isso me pare&Atilde;&sect;a perigoso, sei l&Atilde;&iexcl;...
+    Agora... H&Atilde;&iexcl; uma coisa que eu n&Atilde;&pound;o percebo &Atilde;&copy;
+    a "pressa desenfreada" de dar uma vacina quando a crian&Atilde;&sect;a pode d&Atilde;&iexcl;-la
+    mais tarde. Sendo uma vacina algo que interfere, quer queiramos quer n&Atilde;&pound;o,
+    com o organismo e tem algumas contra-indica&Atilde;&sect;&Atilde;&micro;es, porque
+    n&Atilde;&pound;o d&Atilde;&iexcl;-la mais tarde, desde que n&Atilde;&pound;o
+    fora de tempo, quando o organismo da crian&Atilde;&sect;a j&Atilde;&iexcl; est&Atilde;&iexcl;
+    mais resistente, quando a crian&Atilde;&sect;a &Atilde;&copy; mais velha? N&Atilde;&pound;o
+    estou a dizer que se saia fora dos prazos (isto, para aqueles que vacinam, par
+    aos que n&Atilde;&pound;o vacinam, pois, se n&Atilde;&pound;o vacinam, n&Atilde;&pound;o
+    vacinam nunca). Um exemplo que dou sempre &Atilde;&copy; a vacina que "deve ser
+    dada" com 5&#47;6 anos... &Atilde;&permil; assim que est&Atilde;&iexcl; assinalado
+    na boletim de sa&Atilde;&ordm;de: 5&#47;6... Poque &Atilde;&copy; que mal uma
+    crian&Atilde;&sect;a completa 5 anos se h&Atilde;&iexcl;-de ir logo a correr dar
+    a vacina??? Eu dei essa vacina quase com 7 anos, que foi quando fui para a escola...
+    Ainda tinha 6, portanto, nem sequer por a&Atilde;&shy; me podiam pegar... Se diz
+    l&Atilde;&iexcl; 5&#47;6 &Atilde;&copy; porque at&Atilde;&copy; aos 6 a vacina
+    est&Atilde;&iexcl; v&Atilde;&iexcl;lida... Porqu&Atilde;&ordf; a "sangria dasatada"
+    ent&Atilde;&pound;o de correr a vacinar a crian&Atilde;&sect;a no dia seguir a
+    ter competado 5 anos?'
+---
+<p>Nos EUA, tal como em muitos pa&Atilde;&shy;ses da Europa, muitos pais come&Atilde;&sect;aram a n&Atilde;&pound;o vacinar os filhos (eu conhe&Atilde;&sect;o pelo menos um nessa categoria). Infelizmente, os resultados come&Atilde;&sect;am tamb&Atilde;&copy;m a aparecer:</p>
+<blockquote><p>From January 1 through April 25, 2008, CDC received a total of 64 reports of confirmed measles cases in nine states &acirc;&euro;&rdquo; the highest number for the same time period since 2001. In four of the states &acirc;&euro;&rdquo; Arizona, New York, Michigan, and Wisconsin &acirc;&euro;&rdquo; outbreaks (3 or more cases linked in time or place) are ongoing. Outbreaks may occur when measles cases are imported into the U.S. Ten of the recent case-patients (5 US residents and 5 visitors to the U.S.) acquired measles abroad, and the remaining cases are considered linked to the imported cases.</p>
+<p>Of the 64 people infected by the measles virus, only 1 had documentation of prior vaccination.<&#47;blockquote></p>
+<p><a href="http:&#47;&#47;www.cdc.gov&#47;Features&#47;MeaslesUpdate&#47;">CDC<&#47;a></p>

@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase do Dia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1289
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-18
+date: '2008-03-22 18:53:12 -0700'
+date_gmt: '2008-03-22 18:53:12 -0700'
+categories:
+- Pol&Atilde;&shy;tica Internacional
+tags: []
+comments:
+- id: 624725
+  author: ivan de Castro
+  author_email: ivandisimoni@gmail.com
+  author_url: http://diplomassinha.blogspot.com/
+  date: '2010-04-19 21:22:20 -0700'
+  date_gmt: '2010-04-19 21:22:20 -0700'
+  content: "Ol&Atilde;&iexcl;, sigo seu blog e gostaria que voc&Atilde;&ordf; visse
+    o meu sobre pol&Atilde;&shy;tica internacional. Parabens pelo seu blog\r\nhttp:&#47;&#47;diplomassinha.blogspot.com&#47;\r\nMuito
+    obrigado"
+---
+<p><cite>Essa coisa do Tribunal Penal Internacional, n&Atilde;&sup3;s n&Atilde;&pound;o queremos --- queremos paz.<&#47;cite></p>
+<p>Uma costureira no Uganda, onde o TPI (somente mais uma bem-intencionada ideia europe&Atilde;&shy;a com resultados menos positivos em &Atilde;frica) &Atilde;&copy; um dos &Atilde;&sup3;bst&Atilde;&iexcl;culos a um acordo de paz.</p>
+<p>Fonte: <a href="http:&#47;&#47;www.economist.com&#47;world&#47;africa&#47;displaystory.cfm?story_id=10854048">economist<&#47;a>.</p>

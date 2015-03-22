@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: O Meu Sim (V)
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 853
+wordpress_url: http://blog.luispedro.org/posts/porque-voto-sim-v
+date: '2007-02-09 02:09:18 -0800'
+date_gmt: '2007-02-09 02:09:18 -0800'
+categories:
+- Aborto
+tags: []
+comments: []
+---
+<p>As consequ&Atilde;&ordf;ncias desta lei est&Atilde;&pound;o &Atilde;&nbsp; vista. Morrem mulheres. Isto, por si s&Atilde;&sup3;, &Atilde;&copy; um argumento.</p>

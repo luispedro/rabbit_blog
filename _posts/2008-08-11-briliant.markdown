@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Briliant
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1380
+wordpress_url: http://blog.luispedro.org/posts/briliant
+date: '2008-08-11 19:07:32 -0700'
+date_gmt: '2008-08-11 19:07:32 -0700'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>In the series <i>this is starting to look like a blog<&#47;i>:</p>
+<p>Some fireworks in the Olympics opening ceremony were <a href="http:&#47;&#47;www.msnbc.msn.com&#47;id&#47;26139005&#47;">digitally faked<&#47;a>.</p>

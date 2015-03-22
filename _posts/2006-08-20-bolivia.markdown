@@ -1,0 +1,782 @@
+---
+layout: post
+status: publish
+published: true
+title: Bol&Atilde;&shy;via
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 600
+wordpress_url: http://blog.luispedro.org/?p=600
+date: '2006-08-20 13:37:17 -0700'
+date_gmt: '2006-08-20 13:37:17 -0700'
+categories:
+- Economia
+- Liberalismo
+tags: []
+comments:
+- id: 8242
+  author: prensa democratica
+  author_email: prensademocratica@gmail.com
+  author_url: ''
+  date: '2006-08-26 07:36:58 -0700'
+  date_gmt: '2006-08-26 07:36:58 -0700'
+  content: "HIDROCARBUROS \r\nNoticias Bolivia 25 de agosto de 2006 &acirc;&euro;&ldquo;
+    Diarios\r\n\r\nJusticia intervino petrolera por denuncia de da&Atilde;&plusmn;os
+    al Estado por m&Atilde;&iexcl;s de $us 161 millones\r\n- El s&Atilde;&shy;ndico
+    de Andina, Sa&Atilde;&ordm;l Encinas Mirando, fue convocado a declarar ante autoridades
+    competentes y, luego de prestar sus declaraciones, fue detenido. El senador de
+    la alianza opositora Podemos, &Atilde;&ldquo;scar Ort&Atilde;&shy;z, uno de los
+    m&Atilde;&iexcl;s radicales cr&Atilde;&shy;ticos de la gesti&Atilde;&sup3;n del
+    presidente Morales, particip&Atilde;&sup3; como s&Atilde;&shy;ndico y director
+    de Andina, pero asegur&Atilde;&sup3; que desconoc&Atilde;&shy;a el contrato que
+    caus&Atilde;&sup3; da&Atilde;&plusmn;os millonarios al pa&Atilde;&shy;s.\r\n\r\nSanta
+    Cruz, 25 ago (ABI).- La empresa petrolera Andina, subsidiaria de la Repsol, fue
+    intervenida judicialmente hoy a ra&Atilde;&shy;z de una denuncia en la que se
+    la involucra en la firma de un contrato con Petrobras, que represent&Atilde;&sup3;
+    un da&Atilde;&plusmn;o econ&Atilde;&sup3;mico al Estado de m&Atilde;&iexcl;s de
+    161 millones de d&Atilde;&sup3;lares.\r\nUn grupo de cinco fiscales intervinieron,
+    este viernes, las oficinas de la petrolera que tiene operaciones en el pa&Atilde;&shy;s
+    desde la capitalizaci&Atilde;&sup3;n de los hidrocarburos. La decisi&Atilde;&sup3;n
+    se deriv&Atilde;&sup3; de la renuencia de las autoridades de Andina a entregar
+    los documentos exigidos por la justicia.\r\nLas investigaciones se iniciaron a
+    partir de la denuncia de autoridades de Yacimientos Petrol&Atilde;&shy;feros Fiscales
+    Bolivianos (YPFB), quienes descubrieron que Andina y Petrobras firmaron un contrato
+    &acirc;&euro;&oelig;de revisi&Atilde;&sup3;n de volatilizaci&Atilde;&sup3;n de
+    los precios&acirc;&euro;\x9D con un gran perjuicio para el Estado.\r\nLa empresa
+    habr&Atilde;&shy;a mostrado informaci&Atilde;&sup3;n falsa en la que mostraba
+    una tendencia a la baja de los precios de los hidrocarburos. Este contrato, entre
+    Andina y Petrobras, fue escondido durante los &Atilde;&ordm;ltimos tres a&Atilde;&plusmn;os.\r\nSe
+    estima que los da&Atilde;&plusmn;os econ&Atilde;&sup3;micos ascender&Atilde;&shy;an
+    a m&Atilde;&iexcl;s de 161 millones de d&Atilde;&sup3;lares, pero habr&Atilde;&shy;a
+    existido la intenci&Atilde;&sup3;n de realizar nuevos cobros por un valor de 150
+    millones de d&Atilde;&sup3;lares. En el allanamiento se recuper&Atilde;&sup3;
+    un volumen importante de documentos de exportaci&Atilde;&sup3;n y facturas.\r\nEl
+    fiscal Alberto Cornejo inform&Atilde;&sup3; que pesan sobre Andina cargos por
+    contratos lesivos al Estado, estafa agravada y otras delitos, sin embargo no se
+    quiso dar mayores detalles para evitar entorpecer la investigaci&Atilde;&sup3;n
+    en pleno proceso de desarrollo.\r\nEl s&Atilde;&shy;ndico de Andina, Sa&Atilde;&ordm;l
+    Encinas Mirando, fue convocado a declarar ante autoridades competentes y, luego
+    de prestar sus declaraciones, fue detenido y puesto a disposici&Atilde;&sup3;n
+    de la Fuerza Especial de Lucha Contra el Crimen (FELCC).\r\nEncinas deber&Atilde;&iexcl;
+    comparecer este s&Atilde;&iexcl;bado ante un juez cautelar, quien deber&Atilde;&iexcl;
+    establecer su situaci&Atilde;&sup3;n legal.\r\nEl senador de la alianza opositora
+    Podemos, &Atilde;&ldquo;scar Ort&Atilde;&shy;z, particip&Atilde;&sup3; como s&Atilde;&shy;ndico
+    de Andina y director, pero asegur&Atilde;&sup3; que desconoc&Atilde;&shy;a este
+    contrato.\r\n&acirc;&euro;&oelig;En ninguna reuni&Atilde;&sup3;n de directorio
+    de las cuales yo particip&Atilde;&copy; se firm&Atilde;&sup3; o se trat&Atilde;&sup3;
+    ese tema&acirc;&euro;\x9D, asegur&Atilde;&sup3; Ortiz, uno de los m&Atilde;&iexcl;s
+    radicales opositores a la gesti&Atilde;&sup3;n del presidente Evo Morales, y record&Atilde;&sup3;
+    que renunci&Atilde;&sup3; p&Atilde;&ordm;blicamente a su cargo en esta empresa
+    petrolera porque no exist&Atilde;&shy;a condiciones para una labor transparente.\r\nCcp&#47;Dgav
+    ABI\r\n\r\nhttp:&#47;&#47;www.opinion.com.bo&#47;PortalNota.html?CodNot=113591&amp;CodSec=4\r\n\r\nDos
+    auditor&Atilde;&shy;as apuntan que Alvarado vulner&Atilde;&sup3; el decreto de
+    la nacionalizaci&Atilde;&sup3;n El Contralor ya remiti&Atilde;&sup3; el informe
+    al Presidente y al ministro Andr&Atilde;&copy;s Soliz Rada. \r\nLa Paz&#47;Agencias\r\nEl
+    informe final de la auditor&Atilde;&shy;a emitido por la Contralor&Atilde;&shy;a
+    General de la Rep&Atilde;&ordm;blica (CGR) ratific&Atilde;&sup3; el jueves indicios
+    de responsabilidad administrativa por parte del presidente de Yacimientos Petrol&Atilde;&shy;feros
+    Fiscales Bolivianos (YPFB), Jorge Alvarado, en la firma del contrato con la petrolera
+    Iberoam&Atilde;&copy;rica Trading SRL para la exportaci&Atilde;&sup3;n de petr&Atilde;&sup3;leo
+    crudo a Brasil.\r\nEn rueda de prensa, el Contralor General de la Rep&Atilde;&ordm;blica,
+    Osvaldo Guti&Atilde;&copy;rrez, explic&Atilde;&sup3; que no le corresponde hacer
+    un an&Atilde;&iexcl;lisis sobre las consecuencias (econ&Atilde;&sup3;micas) del
+    contrato suscrito entre la estatal petrolera YPFB y la empresa Iberoam&Atilde;&copy;rica
+    el pasado 8 de julio de 2006, porque el mismo no entr&Atilde;&sup3; en vigencia
+    conforme establece la Ley 1178 de Administraci&Atilde;&sup3;n y Control Gubernamental
+    que se&Atilde;&plusmn;ala que las atribuciones de la Contralor&Atilde;&shy;a es
+    ejercer control externo posterior.\r\n\r\nIndicios\r\nPero que del an&Atilde;&iexcl;lisis
+    de los instrumentos normativos y de la conducta asumida por el presidente de YPFB,
+    Jorge Alvarado, se establecieron indicios de responsabilidad administrativa mediante
+    informe de auditor&Atilde;&shy;a que establece que como m&Atilde;&iexcl;xima autoridad
+    ejecutiva y su jerarqu&Atilde;&shy;a es responsable de la administraci&Atilde;&sup3;n
+    de la entidad que forma parte, conforme se&Atilde;&plusmn;ala el art&Atilde;&shy;culo
+    28, inciso d) de la Ley 1178.\r\nDe acuerdo a los resultados emitidos el mencionado
+    contrato de compra venta de petr&Atilde;&sup3;leo no fue protocolizado con las
+    formalidades requeridas por ley. Adem&Atilde;&iexcl;s, que se incluy&Atilde;&sup3;
+    un art&Atilde;&shy;culo que limita la informaci&Atilde;&sup3;n s&Atilde;&sup3;lo
+    a las partes contratantes, determinando su confidencialidad, siempre y cuando
+    una ley expresa le d&Atilde;&copy; dicha calidad, \"vulnerando la transparencia
+    sobre la credibilidad en este tipo de operaciones\".\r\nLa Contralor&Atilde;&shy;a
+    indica que se omiti&Atilde;&sup3; aplicar o dar cumplimiento al texto ordenado
+    al Decreto Supremo No 27328, de Subsistema de Contrataciones Estatales, sin tomar
+    en cuenta que la Resoluci&Atilde;&sup3;n No. 060&#47;2006 establece que debe darse
+    cumplimiento a las disposiciones relativas a contrataciones estatales con respecto
+    a la compra del diesel oil.\r\nAgrega que no se resolvi&Atilde;&sup3; el contrato,
+    pese a que YPFB ten&Atilde;&shy;a la facultad de resolverlo unilateralmente cuando
+    el comprador no present&Atilde;&sup3; los permisos y licencias dentro del plazo
+    de treinta d&Atilde;&shy;as, a partir de la firma del contrato, plazo que a la
+    fecha feneci&Atilde;&sup3; superabundantemente.\r\nEl informe se&Atilde;&plusmn;ala
+    que el presidente de la estatal petrolera contravino el art&Atilde;&shy;culo dos,
+    par&Atilde;&iexcl;grafo segundo del Decreto Supremo No 28701, de nacionalizaci&Atilde;&sup3;n
+    de los hidrocarburos al suscribir el contrato con Iberoam&Atilde;&copy;rica, permitiendo
+    la cesi&Atilde;&sup3;n y transferencia de derechos y obligaciones que gener&Atilde;&sup3;
+    la suscripci&Atilde;&sup3;n de un segundo contrato entre Iberoam&Atilde;&copy;rica
+    Trading y Univen Petroqu&Atilde;&shy;mica LTDA.\r\n\r\nConclusiones\r\nEn su conclusi&Atilde;&sup3;n,
+    la Contralor&Atilde;&shy;a se&Atilde;&plusmn;ala que los indicios de responsabilidad
+    administrativa son por contravenir el art&Atilde;&shy;culo 63 del par&Atilde;&iexcl;grafo
+    primero del Reglamento de la Responsabilidad por la Funci&Atilde;&sup3;n P&Atilde;&ordm;blica,
+    aprobado por Decreto Supremo No. 233318-A.\r\nTambi&Atilde;&copy;n sostiene que
+    ese contrato no se ajust&Atilde;&sup3; al art&Atilde;&shy;culo 7 del par&Atilde;&iexcl;grafo
+    primero del DS 28168, al art&Atilde;&shy;culo tres de la Ley de Notario, al art&Atilde;&shy;culo
+    nueve inciso e), k) y 25 inciso b) del DS 28324, al art&Atilde;&shy;culo 1 par&Atilde;&iexcl;grafo
+    II del texto ordenado del DS 27328, al art&Atilde;&shy;culo uno del DS 23148 y
+    al art&Atilde;&shy;culo dos par&Atilde;&iexcl;grafo II del DS 28701.\r\nEl contralor
+    Guti&Atilde;&copy;rrez adelant&Atilde;&sup3; que el informe fue remitido al presidente
+    Evo Morales y al ministro de Hidrocarburos, Andr&Atilde;&copy;s Soliz Rada para
+    su conocimiento y que en el curso de las siguientes horas se notificar&Atilde;&iexcl;
+    personalmente al presidente de YPFB, Jorge Alvarado, para que en un plazo de 10
+    d&Atilde;&shy;as presente sus descargos correspondientes.\r\nEl informe de la
+    Contralor&Atilde;&shy;a coincide en muchos aspectos a las conclusiones que arrib&Atilde;&sup3;
+    la auditor&Atilde;&shy;a realizada por el Ministerio de Hidrocarburos, que tambi&Atilde;&copy;n
+    hall&Atilde;&sup3; indicios de responsabilidad, los cuales deben tambi&Atilde;&copy;n
+    ser motivo de descargo por Alvarado. \r\n\r\nhttp:&#47;&#47;www.laprensa.com.bo&#47;hoy&#47;negocios&#47;negocios01.htm\r\n\r\nEl
+    Presidente anunci&Atilde;&sup3; que se pronunciar&Atilde;&iexcl; el fin de semana
+    \r\nDOS INFORMES EN CONTRA DE ALVARADO Y EVO A&Atilde;&scaron;N NO DECIDE\r\nInforme
+    oral en Diputados: el acto de fiscalizaci&Atilde;&sup3;n a Alvarado demor&Atilde;&sup3;
+    m&Atilde;&iexcl;s de cinco horas\r\nLa auditor&Atilde;&shy;a de la Contralor&Atilde;&shy;a
+    General de la Rep&Atilde;&ordm;blica (CGR) coincide con el informe del Ministerio
+    de Hidrocarburos en sentido de que el presidente de YPFB, Jorge Alvarado, viol&Atilde;&sup3;
+    el Decreto Supremo 28701, de nacionalizaci&Atilde;&sup3;n de los hidrocarburos,
+    al firmar un contrato de exportaci&Atilde;&sup3;n de petr&Atilde;&sup3;leo con
+    Iberoam&Atilde;&copy;rica Trading SRL, pero adem&Atilde;&iexcl;s devela que esta
+    autoridad no rescindi&Atilde;&sup3; el acuerdo con esa empresa.\r\n\r\n&acirc;&euro;&oelig;El
+    Presidente Ejecutivo a.i. de YPFB contravino el art&Atilde;&shy;culo 2, par&Atilde;&iexcl;grafo
+    II, del Decreto Supremo 28701, al suscribir el contrato con la empresa Iberoam&Atilde;&copy;rica,
+    permitiendo la cesi&Atilde;&sup3;n y transferencia de derechos y obligaciones
+    que gener&Atilde;&sup3; la suscripci&Atilde;&sup3;n de un segundo convenio entre
+    esta empresa y Univen Petroqu&Atilde;&shy;mica Ltda&acirc;&euro;\x9D, se&Atilde;&plusmn;ala
+    el documento presentado por el contralor Osvaldo Guti&Atilde;&copy;rrez.\r\nLa
+    auditor&Atilde;&shy;a del ente fiscalizador tambi&Atilde;&copy;n concluy&Atilde;&sup3;
+    que Alvarado no rescindi&Atilde;&sup3; el contrato con la compa&Atilde;&plusmn;&Atilde;&shy;a
+    petrolera, aunque &Atilde;&copy;ste justific&Atilde;&sup3; ese hecho en que el
+    acuerdo establec&Atilde;&shy;a una resoluci&Atilde;&sup3;n autom&Atilde;&iexcl;tica
+    si al cabo de 30 d&Atilde;&shy;as el comprador no presentaba los permisos y las
+    licencias de exportaci&Atilde;&sup3;n.\r\nEl presidente Evo Morales anunci&Atilde;&sup3;
+    ayer que este fin de semana tomar&Atilde;&iexcl; decisiones sobre el futuro de
+    la estatal petrolera con base en los resultados del informe que recibi&Atilde;&sup3;.\r\n&acirc;&euro;&oelig;Desde
+    la pr&Atilde;&sup3;xima semana tomar&Atilde;&copy; en cuenta seriamente las recomendaciones,
+    o las conclusiones de la Contralor&Atilde;&shy;a, pero felizmente no nos acusan,
+    no demuestran el grado de corrupci&Atilde;&sup3;n en el Gobierno ni en Yacimientos,
+    no se demuestra que hay da&Atilde;&plusmn;os econ&Atilde;&sup3;micos en el pa&Atilde;&shy;s&acirc;&euro;\x9D,
+    sostuvo el Jefe de Estado.\r\nAlvarado dijo ayer que las conclusiones de los dos
+    informes presentados s&Atilde;&sup3;lo establecen &acirc;&euro;&oelig;indicios&acirc;&euro;\x9D.
+    Hoy presentar&Atilde;&iexcl; sus descargos en el Ministerio de Hidrocarburos y
+    espera enviar su respuesta a la Contralor&Atilde;&shy;a en los pr&Atilde;&sup3;ximos
+    d&Atilde;&shy;as.\r\nDe confirmarse los indicios de responsabilidad administrativa,
+    el Presidente de YPFB podr&Atilde;&shy;a ser sancionado con un descuento de hasta
+    20 por ciento de su haber mensual, la destituci&Atilde;&sup3;n temporal o el alejamiento
+    definitivo del cargo. La decisi&Atilde;&sup3;n est&Atilde;&iexcl; en manos del
+    Primer Mandatario.\r\n\r\nDos auditor&Atilde;&shy;as\r\nEl informe del contralor
+    Guti&Atilde;&copy;rrez se suma al que el lunes present&Atilde;&sup3; el Ministerio
+    de Hidrocarburos, que hall&Atilde;&sup3; indiciones de responsabilidad administrativa
+    y varias fallas en el contrato con Iberoam&Atilde;&copy;rica.\r\nEl Presidente
+    de YPFB suscribi&Atilde;&sup3; ese contrato, el 8 de junio, para la exportaci&Atilde;&sup3;n
+    de 2.000 barriles de crudo por d&Atilde;&shy;a a Brasil, pero surgieron varios
+    cuestionamientos porque la compradora iba a revender el petr&Atilde;&sup3;leo,
+    en territorio boliviano, a la empresa Univen para que refine el energ&Atilde;&copy;tico
+    en Brasil.\r\nEl documento de la Contralor&Atilde;&shy;a establece que en este
+    convenio Alvarado introdujo un art&Atilde;&shy;culo que limita la informaci&Atilde;&sup3;n
+    s&Atilde;&sup3;lo a las partes contratantes y determina su confidencialidad, lo
+    cual vulnera la transparencia, base de la credibilidad en este tipo de operaciones.\r\nSe
+    se&Atilde;&plusmn;ala, de la misma manera, que el contrato de compraventa de petr&Atilde;&sup3;leo
+    no fue suscrito en una minuta y tampoco fue protocolizado.\r\nEl contrato entre
+    YPFB e Iberoam&Atilde;&copy;rica est&Atilde;&iexcl; siendo investigado por la
+    Fiscal&Atilde;&shy;a y la C&Atilde;&iexcl;mara de Diputados. En el Ministerio
+    P&Atilde;&ordm;blico se prev&Atilde;&copy; que hoy declare el representante de
+    esta empresa. \r\n\r\nPetroleras dicen que no estuvieron detr&Atilde;&iexcl;s
+    de opositores \r\nSanta Cruz &#47; ABI\r\nEl presidente de la C&Atilde;&iexcl;mara
+    Boliviana de Hidrocarburos (CBH), Jos&Atilde;&copy; Magela Bernardes, neg&Atilde;&sup3;
+    ayer en la ma&Atilde;&plusmn;ana que las petroleras estuvieran detr&Atilde;&iexcl;s
+    de los senadores de Podemos y asegur&Atilde;&sup3; que la censura al ministro
+    de Hidrocarburos, Andr&Atilde;&copy;s Soliz Rada, impulsada por la alianza opositora
+    al Gobierno, es lamentable.\r\nNosotros esperamos que el proceso de nacionalizaci&Atilde;&sup3;n
+    avance, que las negociaciones se encaminen para llegar a un buen acuerdo, para
+    que el tama&Atilde;&plusmn;o de la torta sea el mayor y que la inversi&Atilde;&sup3;n
+    llegue lo m&Atilde;&iexcl;s pronto posible, declar&Atilde;&sup3;.\r\nEn ese marco,
+    expres&Atilde;&sup3; la preocupaci&Atilde;&sup3;n de las transnacionales respecto
+    a que las inversiones han disminuido sustancialmente. En 2006 en Bolivia se invertir&Atilde;&iexcl;
+    cinco veces menos que hace cinco a&Atilde;&plusmn;os, se&Atilde;&plusmn;al&Atilde;&sup3;,
+    y expres&Atilde;&sup3; du deseo de que &Atilde;&copy;sta se reactive r&Atilde;&iexcl;pidamente.\r\n&acirc;&euro;&oelig;Nuestra
+    tarea debe ser transparente ante todo, no tenemos ni reuniones secretas ni estamos
+    en contra del Gobierno ni de nadie, somos una instituci&Atilde;&sup3;n apol&Atilde;&shy;tica,
+    que no tiene color partidario, y estamos enfocados en colaborar con el Gobierno
+    para que el proceso de migraci&Atilde;&sup3;n de contratos que a&Atilde;&ordm;n
+    es lento pueda llegar a un feliz t&Atilde;&copy;rmino&acirc;&euro;\x9D, afirm&Atilde;&sup3;.
+    \r\nEl presidente de la CBH hizo estas declaraciones en un acto de descubrimiento
+    de una plaqueta en homenaje a los trabajadores petroleros bolivianos. \r\n\r\nOpiniones
+    sobre los indicios de responsabilidad \r\nGenaro Quenta \r\nFiscal adscrito al
+    caso YPFB\r\n&acirc;&euro;&oelig;El Ministerio P&Atilde;&ordm;blico no conoce
+    oficialmente el informe de la Contralor&Atilde;&shy;a General de la Rep&Atilde;&ordm;blica
+    (CGR). \r\nSin embargo, si este informe ha concluido, servir&Atilde;&iexcl; a
+    la Fiscal&Atilde;&shy;a en las investigaciones de car&Atilde;&iexcl;cter penal
+    que est&Atilde;&iexcl; llevando adelante, para valorar y analizar la conducta
+    de los que han intervenido en la firma del contrato entre YPFB e Iberoam&Atilde;&copy;rica
+    Trading. Servir&Atilde;&iexcl; tambi&Atilde;&copy;n que Yacimientos pueda mandar
+    m&Atilde;&iexcl;s datos&acirc;&euro;\x9D. \r\nAntonio Franco \r\nDiputado de Podemos
+    \r\n&acirc;&euro;&oelig;Si la Contralor&Atilde;&shy;a ha encontrado responsablidad
+    administrativa, confirma la existencia de irregularidades en el contrato entre
+    YPFB e Iberoam&Atilde;&copy;rica. \r\nPero debe notarse que la Contralor&Atilde;&shy;a
+    no habla de da&Atilde;&plusmn;o econ&Atilde;&sup3;mico. Eso es extra&Atilde;&plusmn;o,
+    porque no toma en cuenta los informes de la Superintendencia de Hidrocarburos,
+    que revelaron que ese contrato iba a causar un da&Atilde;&plusmn;o econ&Atilde;&sup3;mico
+    de 38,5 millones de d&Atilde;&sup3;lares al Estado&acirc;&euro;\x9D. \r\nSantos
+    Ram&Atilde;&shy;rez \r\nPresidente del Senado \r\n&acirc;&euro;&oelig;No conozco
+    el contenido del informe de la Contralor&Atilde;&shy;a, pero si establece que
+    hay responsabilidad administrativa, es as&Atilde;&shy;. En ning&Atilde;&ordm;n
+    momento se ha hecho da&Atilde;&plusmn;o al Estado. \r\nEl Gobierno tiene clara
+    la figura, y todos los que atacan el proceso de nacionalizaci&Atilde;&sup3;n ahora,
+    estaban antes con los privatizadores. Ellos quieren destruir el proceso (de nacionaliaci&Atilde;&sup3;n)
+    iniciado por el Presidente el 1 de mayo. Ellos s&Atilde;&sup3;lo quieren volver
+    atr&Atilde;&iexcl;s&acirc;&euro;\x9D. \r\nPeter Maldonado \r\nJefe de bancada
+    de UN\r\n&acirc;&euro;&oelig;Est&Atilde;&iexcl; claro que en el informe de la
+    auditor&Atilde;&shy;a del Ministerio de Hidrocarburos y en el de la Contralor&Atilde;&shy;a
+    General de la Rep&Atilde;&ordm;blica se ratifica el mal manejo de los recuros
+    estatales. \r\nPor eso es que se debe hacer un cambio en la estatal petrolera;
+    un cambio que debe incluir tambi&Atilde;&copy;n el que el Gobierno designe a otro
+    Presidente de YPFB. Nosotros respaldamos el proceso de nacionalizaci&Atilde;&sup3;n
+    de los hidrocarburos y estamos en contra de los actos de desestabilizaci&Atilde;&sup3;n&acirc;&euro;\x9D.
+    \r\n\r\nResultados de las auditor&Atilde;&shy;as \r\nCONTRALOR&Atilde;\x8DA GENERAL
+    DE LA REP&Atilde;&scaron;BLICA\r\nEl informe de auditor&Atilde;&shy;a presentado
+    por la entidad fiscalizadora concluye que existen indicios de responsabilidad
+    contra Jorge Alvarado, presidente de YPFB, por la firma del contrato con la empresa
+    Iberoam&Atilde;&copy;rica Trading SRL.\r\nAlvarado contravino los art&Atilde;&shy;culos
+    63 par&Atilde;&iexcl;grafo I del Reglamento de la Responsabilidad por la Funci&Atilde;&sup3;n
+    P&Atilde;&ordm;blica; 7 par&Atilde;&iexcl;grafo I del Decreto Supremo N&Acirc;&ordm;
+    28168; art&Atilde;&shy;culo 3 de la Ley de Notariado; 9 inciso e) y k) y 25 inciso
+    b) del Decreto Supremo N&Acirc;&ordm; 28324; 1 par&Atilde;&iexcl;grafo II del
+    Texto Ordenado del Decreto Supremo N&Acirc;&ordm; 27328; 1 del Decreto Supremo
+    N&Acirc;&ordm; 23148; y el art&Atilde;&shy;culo 2 par&Atilde;&iexcl;grafo II del
+    Decreto Supremo N&Acirc;&ordm; 28701.\r\nAdem&Atilde;&iexcl;s se&Atilde;&plusmn;ala
+    que una de las atribuciones del Presidente Ejecutivo es cumplir y hacer cumplir
+    las disposiciones legales; sin embargo, Alvarado omiti&Atilde;&sup3; aplicar o
+    dar cumplimiento al Texto Ordenado del Decreto Supremo N&Acirc;&ordm; 27328 (Subsistema
+    de Contrataciones Estatales), sin tomar en cuenta que en la Resoluci&Atilde;&sup3;n
+    N&Acirc;&ordm; 060&#47;2006, suscrita por el propio Presidente, se dispon&Atilde;&shy;a,
+    en la parte resolutiva punto primero, que previamente deb&Atilde;&shy;a darse
+    cumplimiento a las disposiciones relativas a contrataciones estatales con respecto
+    a la compra de di&Atilde;&copy;sel oil.\r\nAlvarado suscribi&Atilde;&sup3; el
+    contrato introduciendo un art&Atilde;&shy;culo que limita la informaci&Atilde;&sup3;n
+    s&Atilde;&sup3;lo a las partes contratantes y determina su confidencialidad sin
+    que previamente una ley expresa le d&Atilde;&copy; dicha calidad, vulnerando de
+    esta manera la transparencia, base de la credibilidad en este tipo de operaciones.\r\n\r\nMINISTERIO
+    DE HIDROCARBUROS Y ENERG&Atilde;\x8DA\r\nEn la firma del contrato entre la petrolera
+    estatal y la intermediaria no se evidencia la participaci&Atilde;&sup3;n de otra
+    instancia, como Direcci&Atilde;&sup3;n Legal, que deber&Atilde;&shy;a haber suscrito
+    en su condici&Atilde;&sup3;n de unidad especializada de la entidad. La contrataci&Atilde;&sup3;n
+    efectuada por YPFB no fue realizada en el marco de la transparencia. El informe
+    t&Atilde;&copy;cnico de la empresa estatal, que realiza el an&Atilde;&iexcl;lisis
+    de las diferentes opciones de compra o importaci&Atilde;&sup3;n de di&Atilde;&copy;sel,
+    fue emitido con car&Atilde;&iexcl;cter posterior a la Resoluci&Atilde;&sup3;n
+    de contrataci&Atilde;&sup3;n y al mismo contrato.\r\nSe evidencia incumplimiento
+    del art&Atilde;&shy;culo 63 del Decreto 23318, que se&Atilde;&plusmn;ala que a
+    efectos del art&Atilde;&shy;culo 33 de la Ley 1178, el servidor p&Atilde;&ordm;blico,
+    previa, concurrente o inmediatamente tomada la decisi&Atilde;&sup3;n, deb&Atilde;&shy;a
+    enviar a su superior jer&Atilde;&iexcl;rquico, a los m&Atilde;&iexcl;ximos ejecutivos
+    de su entidad y a la autoridad que ejerce tuici&Atilde;&sup3;n sobre su entidad,
+    un informe escrito sustentando su decisi&Atilde;&sup3;n.\r\nSe incumplen los art&Atilde;&shy;culos
+    2 y 5 del Decreto Supremo 28701 de nacionalizaci&Atilde;&sup3;n.\r\nEl art&Atilde;&shy;culo
+    2, numeral II de esta norma, se&Atilde;&plusmn;ala que: &acirc;&euro;&oelig;YPFB,
+    a nombre y en representaci&Atilde;&sup3;n del Estado, en ejercicio pleno de la
+    propiedad de todos los hidrocarburos producidos en el pa&Atilde;&shy;s, asume
+    su comercializaci&Atilde;&sup3;n, definiendo las condiciones, vol&Atilde;&ordm;menes
+    y precios tanto para el mercado interno como para la exportaci&Atilde;&sup3;n
+    y la industrializaci&Atilde;&sup3;n&acirc;&euro;\x9D. El art&Atilde;&shy;culo
+    5, numeral I, menciona: &acirc;&euro;&oelig;El Estado toma el control y la direcci&Atilde;&sup3;n
+    de la producci&Atilde;&sup3;n, transporte, refinaci&Atilde;&sup3;n, almacenaje,
+    distribuci&Atilde;&sup3;n, comercializaci&Atilde;&sup3;n e industrializaci&Atilde;&sup3;n
+    de los hidrocarburos&acirc;&euro;\x9D.\r\nLos apuntes \r\nLa Contralor&Atilde;&shy;a
+    coincidi&Atilde;&sup3; con la auditor&Atilde;&shy;a que realiz&Atilde;&sup3; el
+    Ministerio de Hidrocarburos.\r\nEl Presidente de YPFB tiene indicios de responsabilidad
+    administrativa.\r\nAlvarado anunci&Atilde;&sup3; que hoy presentar&Atilde;&iexcl;
+    sus descargos ante el Ministerio.\r\nEl presidente Evo Morales dijo que analizar&Atilde;&iexcl;
+    el caso entre el s&Atilde;&iexcl;bado y domingo.\r\nPero aclar&Atilde;&sup3; que
+    no hay indicios de corrupci&Atilde;&sup3;n en el caso Iberoam&Atilde;&copy;rica.\r\nAlvarado
+    prest&Atilde;&sup3; un informe de cinco horas ante una comisi&Atilde;&sup3;n de
+    diputados.\r\nEl ejecutivo de YPFB insiste en su inocencia, aunque sus explicaciones
+    no son claras.\r\nQueda pendiente el informe que debe entregar la Fiscal&Atilde;&shy;a,
+    que a&Atilde;&ordm;n realiza entrevistas. \r\n\r\nEl Presidente de YPFB se complica
+    al explicar el contrato con Iberoam&Atilde;&copy;rica \r\nEn un ambiente de enfrentamiento,
+    el presidente de Yacimientos Petrol&Atilde;&shy;feros Fiscales Bolivianos (YPFB),
+    Jorge Alvarado, respondi&Atilde;&sup3; por m&Atilde;&iexcl;s de cinco horas ayer
+    a 44 preguntas formuladas por los miembros de la oposici&Atilde;&sup3;n (Podemos
+    y UN) que integran la Comisi&Atilde;&sup3;n de Desarrollo Econ&Atilde;&sup3;mico
+    de la C&Atilde;&iexcl;mara de Diputados. El ejecutivo de la petrolera se enred&Atilde;&sup3;
+    a la hora de aclarar bajo qu&Atilde;&copy; terminos Iberoam&Atilde;&copy;rica
+    Trading SRL iba a entregar di&Atilde;&copy;sel al pa&Atilde;&shy;s.\r\nEl informe
+    oral estuvo marcado por acusaciones entre Alvarado y el diputado Peter Maldonado
+    (UN). &acirc;&euro;&oelig;Nadie duda del car&Atilde;&iexcl;cter incorruptible
+    del presidente (Evo Morales) y del ministro (Andr&Atilde;&copy;s) Soliz, pero
+    hoy d&Atilde;&shy;a la administraci&Atilde;&sup3;n de YPFB pone en tela de juicio
+    la nacionalizaci&Atilde;&sup3;n y la refundaci&Atilde;&sup3;n de la estatal petrolera&acirc;&euro;\x9D,
+    dijo, y observ&Atilde;&sup3; la profesi&Atilde;&sup3;n del ejecutivo y sus colaboradores
+    para el &Atilde;&iexcl;rea hidrocarbur&Atilde;&shy;fera.\r\n&acirc;&euro;&oelig;Qu&Atilde;&copy;
+    iron&Atilde;&shy;a, un ex mirista pasa-pasa, jefe de la juventud nacional del
+    MIR, que fue parte de la capitalizaci&Atilde;&sup3;n, hablando de nacionalizaci&Atilde;&sup3;n&acirc;&euro;\x9D,
+    respondi&Atilde;&sup3; Alvarado. Como descargo sobre su profesi&Atilde;&sup3;n
+    mostr&Atilde;&sup3; un carnet que certifica su condici&Atilde;&sup3;n de ingeniero
+    ge&Atilde;&sup3;logo petrolero e hizo referencias a varias maestr&Atilde;&shy;as
+    en ese campo. &acirc;&euro;&oelig;No se puede decir que YPFB est&Atilde;&iexcl;
+    siendo manejada por personas improvisadas&acirc;&euro;\x9D.\r\nEl contrato firmado
+    con Iberoam&Atilde;&copy;rica, seg&Atilde;&ordm;n Alvarado, no est&Atilde;&iexcl;
+    referido a la compra de di&Atilde;&copy;sel, sino que ese acuerdo establece que
+    Iberoam&Atilde;&copy;rica deber&Atilde;&iexcl; poner a disposici&Atilde;&sup3;n
+    del pa&Atilde;&shy;s ese combustible a cambio de la exportaci&Atilde;&sup3;n de
+    petr&Atilde;&sup3;leo. Sin embargo, el diputado Maldonado cuestion&Atilde;&sup3;
+    el hecho de que el art&Atilde;&shy;culo cuarto del contrato dice que los tr&Atilde;&iexcl;mites
+    para la importaci&Atilde;&sup3;n de di&Atilde;&copy;sel, as&Atilde;&shy; como
+    su transporte hasta el punto de entrega, deben ser realizados por la petrolera
+    estatal, sin que haya una licitaci&Atilde;&sup3;n. Observ&Atilde;&sup3; tambi&Atilde;&copy;n
+    que la compradora asume el compromiso de poner a disposici&Atilde;&sup3;n de YPFB
+    este energ&Atilde;&copy;tico, &acirc;&euro;&oelig;como si nos estuvieran regalando&acirc;&euro;\x9D,
+    cuando en el mismo documento de compraventa se establece un pago por el carburante.\r\nSali&Atilde;&sup3;
+    al paso y respondi&Atilde;&sup3; que para importar el carburante se ten&Atilde;&shy;a
+    que firmar otro contrato, pero no supo explicar con qui&Atilde;&copy;n. Deslind&Atilde;&sup3;
+    toda responsabilidad sobre el contrato suscrito entre Iberoam&Atilde;&copy;rica
+    y Univen para que &Atilde;&copy;sta &Atilde;&ordm;ltima refine el crudo en Brasil.
+    Asegur&Atilde;&sup3; desconocer ese acuerdo porque de lo contrario hubiera rescindido
+    el convenio que firm&Atilde;&sup3; con la primera.\r\nM&Atilde;&iexcl;s de una
+    vez neg&Atilde;&sup3; que la suscripci&Atilde;&sup3;n de este convenio haya violado
+    el decreto de nacionalizaci&Atilde;&sup3;n u otras normativas, como se&Atilde;&plusmn;ala
+    la auditor&Atilde;&shy;a del Ministerio de Hidrocarburos, que hall&Atilde;&sup3;
+    indicios de responsabilidad, ratificados por la Contralor&Atilde;&shy;a General
+    de la Rep&Atilde;&ordm;blica. Adem&Atilde;&iexcl;s esta auditor&Atilde;&shy;a,
+    seg&Atilde;&ordm;n dijo, no estableci&Atilde;&sup3; un da&Atilde;&plusmn;o econ&Atilde;&sup3;mico
+    para el Estado. El diputado Arturo Carlos Murrillo le record&Atilde;&sup3; que
+    si no se lleg&Atilde;&sup3; a ese extremo es porque la Superintendencia del sector
+    logr&Atilde;&sup3; frenar el da&Atilde;&plusmn;o.\r\nEl acuerdo &acirc;&euro;&rdquo;dijo
+    Alvarado&acirc;&euro;&rdquo; establece con claridad que YPFB es la vendedora e
+    Iberoam&Atilde;&copy;rica la compradora, y que la entrega del energ&Atilde;&copy;tico
+    pod&Atilde;&shy;a hacerse en cualquier parte dentro o fuera del pa&Atilde;&shy;s.
+    Adem&Atilde;&iexcl;s, el convenio de exportaci&Atilde;&sup3;n tiene un car&Atilde;&iexcl;cter
+    transitorio, no es de largo plazo al que se le pueda dar precios definidos, y
+    puede ser resuelto por cualquiera de las partes 45 d&Atilde;&shy;as antes. Iberoam&Atilde;&copy;rica
+    fue la empresa elegida para vender crudo porque ninguna otra daba di&Atilde;&copy;sel
+    al pa&Atilde;&shy;s a cambio de la exportaci&Atilde;&sup3;n.\r\nSobre la reestructuraci&Atilde;&sup3;n
+    de YPFB se&Atilde;&plusmn;al&Atilde;&sup3; que present&Atilde;&sup3; una propuesta
+    a Hidrocarburos y que este despacho es el que debe responder en qu&Atilde;&copy;
+    fase est&Atilde;&iexcl; el proceso de refundaci&Atilde;&sup3;n.\r\n\r\nhttp:&#47;&#47;www.el-nuevodia.com\r\nEconom&Atilde;&shy;a
+    \ \r\nYPFB: la Contralor&Atilde;&shy;a ratifica ilegalidades y Evo pide m&Atilde;&iexcl;s
+    pruebas \r\nLa Contralor&Atilde;&shy;a dice que Alvarado vulner&Atilde;&sup3;
+    siete disposiciones legales. Evo Morales pide a la oposici&Atilde;&sup3;n que
+    presente pruebas y dice que el fin de semana analizar&Atilde;&iexcl; el informe.
+    En Camiri piden que renuncien varios ejecutivos de YPFB.\r\nA petici&Atilde;&sup3;n
+    expresa del presidente Evo Morales, la Contralor&Atilde;&shy;a General de la Rep&Atilde;&ordm;blica
+    entreg&Atilde;&sup3; ayer los resultados de la auditor&Atilde;&shy;a especial
+    realizada al contrato suscrito entre YPFB e Iberoam&Atilde;&copy;rica Trandig
+    SRL. Seg&Atilde;&ordm;n una de las conclusiones, el presidente de la estatal,
+    Jorge Alvarado, incluy&Atilde;&sup3; una cl&Atilde;&iexcl;usula de confidencialidad
+    en el contrato para mantener en secreto los alcances del negocio.\r\nPero a pesar
+    de lo concluyente de este informe, el presidente Evo Morales dijo que se tomar&Atilde;&iexcl;
+    unos d&Atilde;&shy;as para analizar el informe de la Contralor&Atilde;&shy;a,
+    y la vez que demand&Atilde;&sup3; a los partidos de la oposici&Atilde;&sup3;n
+    a que presenten pruebas contra el titular de YPFB. &acirc;&euro;&oelig;Que presenten
+    documentos de corrupci&Atilde;&sup3;n. Quiero verlas&acirc;&euro;\x9D, amenaz&Atilde;&sup3;
+    Morales.\r\nLa Contralor&Atilde;&shy;a hall&Atilde;&sup3; indicios de responsabilidad
+    administrativa en el contrato entre YPFB e Iberoam&Atilde;&copy;rica. Por haber
+    contravenido a siete disposiciones legales, seg&Atilde;&ordm;n el informe de auditor&Atilde;&shy;a,
+    Alvarado podr&Atilde;&shy;a ser suspendido, multado y hasta destituido de su cargo
+    si no presenta sus descargos en los pr&Atilde;&sup3;ximos 10 d&Atilde;&shy;as.\r\n&acirc;&euro;&oelig;El
+    presidente Ejecutivo (de YPFB) suscribi&Atilde;&sup3; el contrato introduciendo
+    un art&Atilde;&shy;culo que limita la informaci&Atilde;&sup3;n s&Atilde;&sup3;lo
+    a las partes contratantes, determinando su confidencialidad, sin que previamente
+    una ley expresa le d&Atilde;&copy; dicha calidad vulnerando de esta manera la
+    transparencia, base de la credibilidad en este tipo de operaciones&acirc;&euro;\x9D,
+    se&Atilde;&plusmn;ala el informe. \r\nEl art&Atilde;&shy;culo 16 del acuerdo contractual
+    suscrito el 8 de junio entre YPFB e Iberoam&Atilde;&copy;rica se&Atilde;&plusmn;ala:
+    &acirc;&euro;&oelig;Las partes convienen que toda informaci&Atilde;&sup3;n y&#47;o
+    datos intercambiados entre ellas, durante la vigencia de este contrato y de manera
+    posterior a la fecha de su terminaci&Atilde;&sup3;n, ser&Atilde;&iexcl; considerada
+    como confidencial. Cada parte ser&Atilde;&iexcl; responsable de mantener la confidencialidad
+    y reserva respecto del contenido del presente contrato&acirc;&euro;\x9D. \r\nEn
+    varias oportunidades, el MAS cuestion&Atilde;&sup3; las cl&Atilde;&iexcl;usulas
+    de confidencialidad que hab&Atilde;&shy;a suscrito el ex presidente Gonzalo S&Atilde;&iexcl;nchez
+    de Lozada con las capitalizadoras. El 16 de agosto, el ministro de Hidrocarburos,
+    Andr&Atilde;&copy;s Soliz, calific&Atilde;&sup3; como &acirc;&euro;&oelig;una
+    canallada contra el pa&Atilde;&shy;s&acirc;&euro;\x9D la existencia de estos art&Atilde;&shy;culos
+    que imped&Atilde;&shy;an que se conozca la verdad.\r\nCon el informe de la Contralor&Atilde;&shy;a,
+    el presidente Morales cuenta con dos informes de auditor&Atilde;&shy;a. Ambos
+    encontraron indicios de responsabilidad administrativa cometidas por el presidente
+    de YPFB. Ayer, en la Comisi&Atilde;&sup3;n de Desarrollo Econ&Atilde;&sup3;mico,
+    Alvarado dijo que hoy entregar&Atilde;&iexcl; sus descargos al informe de auditor&Atilde;&shy;a
+    interna del Ministerio de Hidrocarburos. \r\nEn tanto, ayer en La Paz, el asesor
+    de YPFB, Manuel Morales Olivera, dijo ante la Fiscal&Atilde;&shy;a que &Atilde;&copy;l
+    no tuvo &acirc;&euro;&oelig;ninguna participaci&Atilde;&sup3;n en este contrato&acirc;&euro;\x9D.\r\nEn
+    Santa Cruz, el presidente de la C&Atilde;&iexcl;mara Boliviana de Hidrocarburos
+    (CBH), Jos&Atilde;&copy; Magela Bernardes, neg&Atilde;&sup3; ayer que las petroleras
+    hayan estado detr&Atilde;&iexcl;s de los senadores de Podemos y asegur&Atilde;&sup3;
+    que la censura del ministro de Hidrocarburos, Andr&Atilde;&copy;s Soliz Rada,
+    impulsada por la alianza opositora al Gobierno, es lamentable.\r\n&acirc;&euro;&oelig;Nosotros
+    esperamos que el proceso de nacionalizaci&Atilde;&sup3;n avance, que las negociaciones
+    se encaminen para llegar a un buen acuerdo donde el tama&Atilde;&plusmn;o de la
+    torta sea el mayor y que la inversi&Atilde;&sup3;n llegue lo m&Atilde;&iexcl;s
+    pronto posible&acirc;&euro;\x9D, dijo Magela Bernardes. \r\nExpres&Atilde;&sup3;
+    la preocupaci&Atilde;&sup3;n de las transnacionales respecto a que las inversiones
+    han disminuido sustancialmente. En 2006 en Bolivia se invertir&Atilde;&iexcl;
+    5 veces menos que hace 5 a&Atilde;&plusmn;os, se&Atilde;&plusmn;al&Atilde;&sup3;
+    al desear que &Atilde;&copy;sta se reactive r&Atilde;&iexcl;pidamente. \r\n\r\nEl
+    Nuevo D&Atilde;&shy;a y La Raz&Atilde;&sup3;n \r\nAlvarado justifica acuerdo \r\nEl
+    presidente de Yacimientos Petrol&Atilde;&shy;feros Fiscales Bolivianos (YPFB),
+    Jorge Alvarado, justific&Atilde;&sup3; ayer en el Parlamento el contrato suscrito
+    con la empresa Iberoam&Atilde;&copy;rica Trading SRL y neg&Atilde;&sup3; haber
+    transgredido el decreto de nacionalizaci&Atilde;&sup3;n o la Ley Safco.\r\nEl
+    funcionario, que prest&Atilde;&sup3; un informe oral en la Comisi&Atilde;&sup3;n
+    de Desarrollo Econ&Atilde;&sup3;mico de la C&Atilde;&iexcl;mara de Diputados,
+    dijo que &Atilde;&copy;l se hace responsable del contrato firmado con Iberoam&Atilde;&copy;rica.
+    \r\nAunque asegur&Atilde;&sup3; que el contrato fue &acirc;&euro;&oelig;resuelto&acirc;&euro;\x9D,
+    es decir que ya no est&Atilde;&iexcl; en vigencia, fustig&Atilde;&sup3; duramente
+    la resoluci&Atilde;&sup3;n de la Superintendencia de Hidrocarburos.\r\nSeg&Atilde;&ordm;n
+    Alvarado, la entidad reguladora cometi&Atilde;&sup3; usurpaci&Atilde;&sup3;n de
+    funciones al haber &acirc;&euro;&oelig;insinuado&acirc;&euro;\x9D que el contrato
+    era lesivo para los intereses del Estado. &acirc;&euro;&oelig;Los t&Atilde;&copy;cnicos
+    de la Superintendencia hicieron malos c&Atilde;&iexcl;lculos a sabiendas que no
+    es atribuci&Atilde;&sup3;n de ellos&acirc;&euro;\x9D, dijo en su defensa. \r\nAdem&Atilde;&iexcl;s,
+    dijo, presentaron una denuncia ante la Fiscal&Atilde;&shy;a &acirc;&euro;&oelig;queriendo
+    mostrar que hubo un da&Atilde;&plusmn;o econ&Atilde;&sup3;mico, cuando sus c&Atilde;&iexcl;lculos
+    son totalmente err&Atilde;&sup3;neos&acirc;&euro;\x9D. Para el presidente de la
+    estatal boliviana, la resoluci&Atilde;&sup3;n de la entidad reguladora ten&Atilde;&shy;a
+    un solo fin: &acirc;&euro;&oelig;perjudicar y poner trabas al proceso de nacionalizaci&Atilde;&sup3;n&acirc;&euro;\x9D.\r\n\r\nDENUNCIAS
+    Y AMENAZAS\r\nPodemos &acirc;&euro;&cent; Poder Democr&Atilde;&iexcl;tico Social
+    formul&Atilde;&sup3; ayer otra denuncia de corrupci&Atilde;&sup3;n y tr&Atilde;&iexcl;fico
+    de influencias en la contrataci&Atilde;&sup3;n de empresas auditoras para la investigaci&Atilde;&sup3;n
+    de los contratos petroleros. Esta vez los dardos apuntan al vicepresidente de
+    Administraci&Atilde;&sup3;n, Contratos y Fiscalizaci&Atilde;&sup3;n de YPFB, Juan
+    Carlos Ortiz. \r\nCaso &acirc;&euro;&cent; El diputado Oscar Urenda dijo que Ortiz
+    contrat&Atilde;&sup3; su propia empresa Baltic Control Ltda., para auditar a los
+    campos Ita&Atilde;&ordm; y el &Atilde;&iexcl;rea de retenci&Atilde;&sup3;n en
+    el Incahuasi. Sobre la denuncia, el aludido s&Atilde;&sup3;lo lament&Atilde;&sup3;
+    que un diputado de su regi&Atilde;&sup3;n se haya prestado para realizar &acirc;&euro;&oelig;comentarios&acirc;&euro;\x9D.
+    \r\nAmenaza y toma &acirc;&euro;&cent; Ayer en Camiri, los ex trabajadores de
+    YPFB con quienes el Gobierno se ha comprometido de devolverles sus fuentes de
+    trabajo y no cumpli&Atilde;&sup3;, tomaron las oficinas de Transredes y advirtieron
+    que si en 48 horas no los atienden, radicalizar&Atilde;&iexcl;n sus medidas. Tambi&Atilde;&copy;n
+    piden que el Presidente despida al titular de YPFB, Jorge Alvarado y varios de
+    sus asesores y dependientes.\r\n\r\nhttp:&#47;&#47;www.la-razon.com&#47;versiones&#47;20060825_005644&#47;nota_248_324276.htm\r\n\r\nEconom&Atilde;&shy;a
+    \ \r\nAlvarado quer&Atilde;&shy;a un negocio secreto; Evo no ve corrupci&Atilde;&sup3;n
+    \r\nLa Contralor&Atilde;&shy;a dice que Jorge Alvarado vulner&Atilde;&sup3; siete
+    disposiciones legales. Afirma que no hubo transparencia en el contrato suscrito
+    con Iberoam&Atilde;&copy;rica. El presidente Evo Morales pide a la oposici&Atilde;&sup3;n
+    que presente pruebas.\r\nA petici&Atilde;&sup3;n expresa del presidente Evo Morales,
+    la Contralor&Atilde;&shy;a General de la Rep&Atilde;&ordm;blica entreg&Atilde;&sup3;
+    ayer los resultados de la auditor&Atilde;&shy;a especial realizada al contrato
+    suscrito entre YPFB e Iberoam&Atilde;&copy;rica Trading SRL. Seg&Atilde;&ordm;n
+    una de las conclusiones, el presidente de la estatal, Jorge Alvarado, incluy&Atilde;&sup3;
+    una cl&Atilde;&iexcl;usula de confidencialidad en el contrato para mantener en
+    secreto los alcances del negocio.\r\nA pesar de lo concluyente de este informe,
+    el presidente Evo Morales dijo que se tomar&Atilde;&iexcl; unos d&Atilde;&shy;as
+    para analizar el informe de la Contralor&Atilde;&shy;a, a la vez que demand&Atilde;&sup3;
+    a los partidos de la oposici&Atilde;&sup3;n a que presenten pruebas contra el
+    titular de YPFB. &acirc;&euro;&oelig;Que presenten documentos de corrupci&Atilde;&sup3;n.
+    Quiero verlos&acirc;&euro;\x9D, demand&Atilde;&sup3; Morales.\r\nEl 21 de julio,
+    la Superintendencia de Hidrocarburos encontr&Atilde;&sup3; varias irregularidades
+    en este contrato, as&Atilde;&shy; como un posible da&Atilde;&plusmn;o econ&Atilde;&sup3;mico
+    al Estado &acirc;&euro;&rdquo;calculado en $us 38,5 millones&acirc;&euro;&rdquo;
+    en caso de haberse consumado la exportaci&Atilde;&sup3;n de 2.000 barriles de
+    petr&Atilde;&sup3;leo crudo a Brasil.\r\nAyer, la Contralor&Atilde;&shy;a hall&Atilde;&sup3;
+    indicios de responsabilidad administrativa en el contrato entre YPFB e Iberoam&Atilde;&copy;rica.
+    Por haber contravenido a siete disposiciones legales, seg&Atilde;&ordm;n el informe
+    de auditor&Atilde;&shy;a, Alvarado podr&Atilde;&shy;a ser suspendido, multado
+    y hasta destituido de su cargo si no presenta sus descargos en los pr&Atilde;&sup3;ximos
+    10 d&Atilde;&shy;as. &acirc;&euro;&oelig;El presidente ejecutivo suscribi&Atilde;&sup3;
+    el contrato introduciendo un art&Atilde;&shy;culo que limita la informaci&Atilde;&sup3;n
+    s&Atilde;&sup3;lo a las partes contratantes, determinando su confidencialidad,
+    sin que previamente una ley expresa le d&Atilde;&copy; dicha calidad, vulnerando
+    de esta manera la transparencia, base de la credibilidad en este tipo de operaciones&acirc;&euro;\x9D,
+    se&Atilde;&plusmn;ala el informe. \r\nEl art&Atilde;&shy;culo 16 del acuerdo contractual,
+    suscrito el 8 de junio entre YPFB e Iberoam&Atilde;&copy;rica, se&Atilde;&plusmn;ala:
+    &acirc;&euro;&oelig;Las partes convienen que toda informaci&Atilde;&sup3;n y&#47;o
+    datos intercambiados entre ellas, durante la vigencia de este contrato y de manera
+    posterior a la fecha de su terminaci&Atilde;&sup3;n, ser&Atilde;&iexcl; considerada
+    como confidencial (...)&acirc;&euro;\x9D. \r\nEn varias oportunidades, el MAS
+    cuestion&Atilde;&sup3; las cl&Atilde;&iexcl;usulas de confidencialidad que hab&Atilde;&shy;a
+    suscrito el ex presidente Gonzalo S&Atilde;&iexcl;nchez de Lozada con las capitalizadoras.
+    El 16 de agosto, el ministro de Hidrocarburos, Andr&Atilde;&copy;s Soliz, calific&Atilde;&sup3;
+    como &acirc;&euro;&oelig;una canallada contra el pa&Atilde;&shy;s&acirc;&euro;\x9D
+    la existencia de estos art&Atilde;&shy;culos que imped&Atilde;&shy;an que se conozca
+    la verdad.\r\nCon el informe de la Contralor&Atilde;&shy;a, el Presidente cuenta
+    ahora con dos documentos de auditor&Atilde;&shy;a. Ambos encontraron indicios
+    de responsabilidad administrativa cometidos por el presidente de YPFB. En tanto,
+    el asesor de YPFB, Manuel Morales Olivera, dijo ante la Fiscal&Atilde;&shy;a que
+    &Atilde;&copy;l no tuvo &acirc;&euro;&oelig;ninguna participaci&Atilde;&sup3;n
+    en este contrato&acirc;&euro;\x9D. \r\n\r\nEconom&Atilde;&shy;a  \r\nOtra denuncia
+    ensombrece a la estatal petrolera \r\nIrregularidades\r\nPoder Democr&Atilde;&iexcl;tico
+    Social (Podemos) formul&Atilde;&sup3; otra denuncia de corrupci&Atilde;&sup3;n
+    y tr&Atilde;&iexcl;fico de influencias en la contrataci&Atilde;&sup3;n de empresas
+    auditoras para la investigaci&Atilde;&sup3;n de los contratos petroleros. Esta
+    vez, la denuncia es contra el vicepresidente de Administraci&Atilde;&sup3;n, Contratos
+    y Fiscalizaci&Atilde;&sup3;n de YPFB, Juan Carlos Ortiz.\r\nEl diputado &Atilde;&ldquo;scar
+    Urenda dijo que el ex intendente nacional de Hidrocarburos y actual vicepresidente
+    de YPFB contrat&Atilde;&sup3; a su propia empresa, Baltic Control Ltda., para
+    auditar a los campos Itau y el &Atilde;&iexcl;rea de retenci&Atilde;&sup3;n en
+    Incahuasi.\r\nAl respecto, Ortiz calific&Atilde;&sup3; las acusaciones de &acirc;&euro;&oelig;comentarios&acirc;&euro;\x9D
+    y lament&Atilde;&sup3; que &acirc;&euro;&oelig;un diputado de mi regi&Atilde;&sup3;n
+    se haya prestado a transmitir informaci&Atilde;&sup3;n tendenciosa y que carece
+    de veracidad&acirc;&euro;\x9D.\r\nUrenda afirm&Atilde;&sup3; que del 2002 al 2004,
+    Ortiz trabaj&Atilde;&sup3; en Petrobras. El 2005 reasumi&Atilde;&sup3; funciones
+    como gerente general de Baltic Control. El 2006 fue nombrado ejecutivo de la empresa
+    estatal del petr&Atilde;&sup3;leo. Ortiz trabaj&Atilde;&sup3; en Petrobras Bolivia
+    entre el 2000 y el 2004, luego fue empleado de Baltic Control en Ecuador. ANF\r\n\r\nhttp:&#47;&#47;www.eldeber.com.bo&#47;2006&#47;20060825&#47;al71.html\r\n\r\nLa
+    Contralor&Atilde;&shy;a confirma fallas en contrato de YPFB \r\nInvestigaci&Atilde;&sup3;n.
+    Se conoci&Atilde;&sup3; la segunda auditor&Atilde;&shy;a al proceso de contrataci&Atilde;&sup3;n
+    de la empresa Iberoam&Atilde;&copy;rica por Yacimientos. Como la primera, la que
+    difundieron ayer encontr&Atilde;&sup3; responsabilidad en Jorge Alvarado\r\n\r\nYPFB:
+    dos informes revelan irregularidades Reporte. Morales, no le da pleno valor a
+    la auditor&Atilde;&shy;a final de la Contralor&Atilde;&shy;a pero dice que la
+    evaluar&Atilde;&iexcl; la pr&Atilde;&sup3;xima semana. Denuncia una conspiraci&Atilde;&sup3;n
+    contra la nacionalizaci&Atilde;&sup3;n. Estallaron las acusaciones \r\nBolivia
+    y Brasil volcar&Atilde;&iexcl;n la p&Atilde;&iexcl;gina de las desavenencias sobre
+    el gas\r\nDos de tres informes sobre el contrato entre YPFB e Iberoam&Atilde;&copy;rica
+    para exportar 2.000 barriles de crudo a Brasil confirmaron los indicios de responsabilidad
+    administrativa que recaen sobre los hombros del titular de la estatal petrolera,
+    Jorge Alvarado, y activ&Atilde;&sup3; la reacci&Atilde;&sup3;n del Gobierno y
+    de los partidos de oposici&Atilde;&sup3;n.\r\nAyer, la Contralor&Atilde;&shy;a
+    General de la Rep&Atilde;&ordm;blica (CGR) present&Atilde;&sup3; el informe de
+    auditor&Atilde;&shy;a externa Nx EX&#47;EP26&#47;G06-Rl, donde se revel&Atilde;&sup3;
+    que se hall&Atilde;&sup3; indicios de responsabilidad administrativa en el contrato
+    por haberse contravenido a siete disposiciones legales, y que el presidente de
+    YPFB, Jorge Alvarado, puede ser suspendido, multado y hasta destituido de su cargo
+    si no presenta sus descargos, ante la instancia contralora en los pr&Atilde;&sup3;ximos
+    10 d&Atilde;&shy;as.\r\nEste reporte confirma aquel que emiti&Atilde;&sup3; el
+    Ministerio de Hidrocarburos el pasado martes, donde se indica tambi&Atilde;&copy;n
+    que Alvarado cometi&Atilde;&sup3; irregularidades administrativas al firmar dicho
+    contrato. El tercer informe ser&Atilde;&iexcl; emitido por la Fiscal&Atilde;&shy;a
+    el jueves 31, con lo que Morales tendr&Atilde;&iexcl; que decidir sobre el futuro
+    de Alvarado.\r\nLa Contralor&Atilde;&shy;a realiz&Atilde;&sup3; una auditor&Atilde;&shy;a
+    especial a los actos previos al pacto entre YPFB e Iberoam&Atilde;&copy;rica,
+    de 8 de junio de 2006, y a su contenido por solicitud de Morales.\r\nEl informe
+    se&Atilde;&plusmn;ala que Alvarado suscribi&Atilde;&sup3; el contrato introduciendo
+    un art&Atilde;&shy;culo que limita la informaci&Atilde;&sup3;n s&Atilde;&sup3;lo
+    a las partes contratantes, determinando su confidencialidad, sin que previamente
+    una ley expresa le d&Atilde;&copy; dicha calidad, vulnerando de esta manera la
+    transparencia, base de la credibilidad en este tipo de operaciones.\r\nUna de
+    sus atribuciones es cumplir y hacer cumplir las disposiciones legales; sin embargo,
+    Alvarado omiti&Atilde;&sup3; aplicar o dar cumplimiento al Decreto Supremo 27328
+    (Subsistema de Contrataciones Estatales), sin tomar en cuenta que en la Resoluci&Atilde;&sup3;n
+    060&#47;2006, suscrita por el propio Alvarado, se dispon&Atilde;&shy;a en la parte
+    resolutiva que previamente deb&Atilde;&shy;a darse cumplimiento a las disposiciones
+    relativas a contrataciones estatales para la compra de di&Atilde;&copy;sel.\r\nTodas
+    las acciones y omisiones de Jorge Alvarado, en el ejercicio de las funciones,
+    constituyen indicios de responsabilidad administrativa por contravenir siete leyes.\r\nGuti&Atilde;&copy;rrez
+    se&Atilde;&plusmn;al&Atilde;&sup3; que el informe fue enviado a Morales, al Ministerio
+    de Hidrocarburos y que ser&Atilde;&iexcl; entregado al titular de YPFB. \"De ratificarse
+    esta responsabilidad, puede originar suspensi&Atilde;&sup3;n, sustituci&Atilde;&sup3;n,
+    descuento hasta un 20% de un sueldo mensual\", dijo.\r\nEn caso de que renuncie
+    a su cargo, no le eximir&Atilde;&iexcl; de sus responsabilidades administrativas,
+    por cuanto puede ser investigado por dos a&Atilde;&plusmn;os m&Atilde;&iexcl;s.\r\nMorales
+    salt&Atilde;&sup3; anoche a la palestra, mediante un mensaje a la naci&Atilde;&sup3;n,
+    para afirmar que el informe de la Contralor&Atilde;&shy;a no acusa de corrupci&Atilde;&sup3;n,
+    pero que igual lo analizar&Atilde;&iexcl; este fin de semana para tomar una decisi&Atilde;&sup3;n
+    la pr&Atilde;&sup3;xima semana. Al igual que lo hizo en su oportunidad el vicepresidente,
+    &Atilde;\x81lvaro Garc&Atilde;&shy;a, tom&Atilde;&sup3; partido porque el caso
+    no amerita una sanci&Atilde;&sup3;n dr&Atilde;&iexcl;stica, como el alejamiento
+    de Alvarado de su cargo.\r\nEs m&Atilde;&iexcl;s, ahora el Gobierno considera
+    que con estas denuncias y el recurso directo de inconstitucionalidad que presentaron
+    tres diputados del bloque opositor en contra del decreto de nacionalizaci&Atilde;&sup3;n
+    de hidrocarburos, &acirc;&euro;&oelig;se confirma una conspiraci&Atilde;&sup3;n
+    a dicho proceso&acirc;&euro;\x9D.\r\nEntre tanto, Alvarado realiz&Atilde;&sup3;
+    un informe oral, con 44 preguntas, ante la Comisi&Atilde;&sup3;n de Desarrollo
+    Econ&Atilde;&sup3;mico de la C&Atilde;&iexcl;mara Baja sobre el contrato con Iberoam&Atilde;&copy;rica,
+    donde insisti&Atilde;&sup3; no haber cometido ning&Atilde;&ordm;n acto il&Atilde;&shy;cito.
+    Al final, y en una improvisada conferencia de prensa, dijo que dicho contrato
+    es \"nulo de pleno derecho sin compensaci&Atilde;&sup3;n alguna\", porque Iberoam&Atilde;&copy;rica
+    incumpli&Atilde;&sup3; el compromiso referido a la tramitaci&Atilde;&sup3;n de
+    las licencias. La comisi&Atilde;&sup3;n econ&Atilde;&sup3;mica no qued&Atilde;&sup3;
+    satisfecha.\r\n\r\nMAS y oposici&Atilde;&sup3;n lanzaron acusaciones \r\nEl recurso
+    directo de inconstitucionalidad contra el Decreto 28701 de nacionalizaci&Atilde;&sup3;n
+    de los hidrocarburos presentado por los diputados Sandra Y&Atilde;&iexcl;&Atilde;&plusmn;ez
+    (Podemos), Gary Joaqu&Atilde;&shy;n Pereyra (UN) y Gustavo Ugarte (MNR), y admitido
+    por el Tribunal Constitucional, fue lo que motiv&Atilde;&sup3; la furia del MAS,
+    que acus&Atilde;&sup3; a estos partidos de sabotear el proceso nacionalizador.
+    El presidente, Evo Morales, denunci&Atilde;&sup3; que abogados de Transredes son
+    los asesores jur&Atilde;&shy;dicos de los tres diputados que presentaron la demanda.
+    Enfatiz&Atilde;&sup3; que los opositores utilizan a los comit&Atilde;&copy;s c&Atilde;&shy;vicos
+    para desestabilizar a su Gobierno.\r\nPor su parte, el ministro de Hidrocarburos,
+    Andr&Atilde;&copy;s Soliz, hizo un llamado para que la nacionalizaci&Atilde;&sup3;n
+    sea defendida en las calles.\r\nSin embargo, &Atilde;&ldquo;scar Ortiz, senador
+    de Podemos, aclar&Atilde;&sup3; que la decisi&Atilde;&sup3;n de Y&Atilde;&iexcl;&Atilde;&plusmn;ez
+    no representa la posici&Atilde;&sup3;n de Podemos, porque no hubo consulta ni
+    se le autoriz&Atilde;&sup3; para esta acci&Atilde;&sup3;n e indic&Atilde;&sup3;
+    que se le pidi&Atilde;&sup3; que retire la demanda.\r\nDe igual forma, UN desautoriz&Atilde;&sup3;
+    al diputado Pereyra. El jefe de bancada de UN, Peter Maldonado, y Ortiz negaron
+    una conspiraci&Atilde;&sup3;n contra la nacionalizaci&Atilde;&sup3;n.\r\nPor otra
+    parte, el segundo vicepresidente de Podemos, &Atilde;&ldquo;scar Urenda, denunci&Atilde;&sup3;
+    otro caso de presunta corrupci&Atilde;&sup3;n y tr&Atilde;&iexcl;fico de influencias
+    que apunta a Juan Carlos Ortiz, actual vicepresidente de Administraci&Atilde;&sup3;n,
+    Contratos y Fiscalizaci&Atilde;&sup3;n de YPFB, que contrat&Atilde;&sup3; a su
+    empresa Baltic Control Ltda. para auditar los campos Ita&Atilde;&ordm; e Incahuasi.\r\nEn
+    respuesta, Ortiz dijo que se trata de un desprop&Atilde;&sup3;sito y que &Atilde;&copy;l
+    trabaj&Atilde;&sup3; en Baltic en Ecuador y que nunca fue su propietario.\r\n\r\nFiscal&Atilde;&shy;a
+    allana oficinas de Andina-Repsol\r\nLa fiscal&Atilde;&shy;a allan&Atilde;&sup3;
+    este viernes las oficinas de la empresa petrolera Andina, filial de la espa&Atilde;&plusmn;ola
+    Repsol, con apoyo de unos cincuenta polic&Atilde;&shy;as, inform&Atilde;&sup3;
+    el fiscal Hugo Iquize.\r\n\"No hemos detenido a nadie, nosotros hemos solicitado
+    un allanamiento de domicilio, en este caso de Repsol, y ahora estamos haciendo
+    un inventario de la documentaci&Atilde;&sup3;n que requerimos\"   respecto a un
+    contrato suscrito con Petrobras por supuesto fraude al Estado , se&Atilde;&plusmn;al&Atilde;&sup3;
+    Iquize.\r\nIquize, uno de los cinco fiscales que participaron en la acci&Atilde;&sup3;n,
+    declar&Atilde;&sup3; que \"tenemos nosotros una orden de allanamiento del juez
+    que conoce el caso y lo que estamos haciendo ahora es el inventario con la finalidad
+    de poder recabar informaci&Atilde;&sup3;n que nosotros hemos obtenido porque la
+    empresa nos ha negado entregar documentaci&Atilde;&sup3;n\".\r\nLa acci&Atilde;&sup3;n
+    judicial fue solicitada por un representante de la empresa estatal Yacimientos
+    Petrol&Atilde;&shy;feros Fiscales Bolivianos (YPFB) acerca de \"una posible o
+    probable estafa sobre un contrato que celebr&Atilde;&sup3; Andina con (la brasile&Atilde;&plusmn;a)
+    Petrobras\", ampli&Atilde;&sup3; el fiscal Jos&Atilde;&copy; Centenaro.\r\nEl
+    gobierno abri&Atilde;&sup3; un juicio penal contra representantes de Andina por
+    un supuesto da&Atilde;&plusmn;o al Estado en la suscripci&Atilde;&sup3;n de un
+    contrato de exportaci&Atilde;&sup3;n de gas con Petrobras.\r\n\r\nPodemos apoyar&Atilde;&iexcl;
+    elevaci&Atilde;&sup3;n a rango de ley de decreto de nacionalizaci&Atilde;&sup3;n\r\nEl
+    senador de la agrupaci&Atilde;&sup3;n ciudadana, Podemos, Roger Pinto anunci&Atilde;&sup3;
+    hoy en forma oficial que su partido apoyar&Atilde;&iexcl; la elevaci&Atilde;&sup3;n
+    al rango de Ley del decreto de nacionalizaci&Atilde;&sup3;n de los hidrocarburos
+    emitido por el gobierno del Presidente Evo Morales, el pasado 1 de Mayo.\r\nIndic&Atilde;&sup3;
+    que esta es una muestra de que su agrupaci&Atilde;&sup3;n pol&Atilde;&shy;tica
+    no es est&Atilde;&iexcl; en contra de este proceso que impulsa el gobierno del
+    Presidente Morales y sostuvo que esperaba que el gobierno deje por su lado las
+    acusaciones contra Podemos.\r\nPidi&Atilde;&sup3; asimismo que los diputados que
+    presentaron un recurso de inconstitucionalidad contra el decreto de nacionalizaci&Atilde;&sup3;n,
+    lo suspendan y no lo lleven adelante. ABI\r\n\r\n\r\nhttp:&#47;&#47;www.elmundo.com.bo&#47;\r\nMinistro
+    boliviano censurado ataca a oposici&Atilde;&sup3;n y Petrobras \r\nEl ministro
+    de Hidrocarburos Andr&Atilde;&copy;s Soliz acus&Atilde;&sup3; al jueves a la oposici&Atilde;&sup3;n
+    y a las principales empresas petroleras, como la brasile&Atilde;&plusmn;a Petrobras,
+    de haber promovido su censura en el Senado para supuestamente frenar el proceso
+    de nacionalizaci&Atilde;&sup3;n de los hidrocarburos. \r\nLa censura es solo un
+    acto simb&Atilde;&sup3;lico, ya que de inmediato el presidente Evo Morales ratific&Atilde;&sup3;
+    a Soliz en su cargo. \r\nA la pol&Atilde;&copy;mica se sum&Atilde;&sup3; el jueves
+    la decisi&Atilde;&sup3;n del Tribunal Constitucional de admitir una demanda de
+    la oposici&Atilde;&sup3;n en contra del decreto de nacionalizaci&Atilde;&sup3;n
+    aprobado por el presidente Morales en mayo. \r\nEl diputado Gustavo Ugarte y su
+    correligionaria Sandra Ya&Atilde;&plusmn;ez del principal partido opositor, Podemos,
+    alegan que esa pol&Atilde;&copy;mica medida viola la constituci&Atilde;&sup3;n.
+    \r\n\"El jueves ha sido notificado el Presidente de la Rep&Atilde;&ordm;blica
+    y los demandantes\", dijo a la AP la vocera de ese tribunal, Aloida Rodr&Atilde;&shy;guez.
+    \r\n\r\nLa admisi&Atilde;&sup3;n de la demanda no paraliza la ejecuci&Atilde;&sup3;n
+    del decreto de nacionalizaci&Atilde;&sup3;n, aclar&Atilde;&sup3; el &Atilde;&sup3;rgano
+    judicial. En 30 d&Atilde;&shy;as podr&Atilde;&shy;a conocerse un fallo. \r\nSoliz,
+    quien fue censurado por supuestamente actuar con negligencia en al menos tres
+    supuestos casos de corrupci&Atilde;&sup3;n en la empresa estatal Yacimientos Petrol&Atilde;&shy;feros
+    Fiscales Bolivianos (YPFB), volvi&Atilde;&sup3; a atacar a Petrobras al se&Atilde;&plusmn;alar
+    que con otras petroleras se halla \"en campa&Atilde;&plusmn;a\" para liquidar
+    el proceso nacionalizador. \r\nHa se&Atilde;&plusmn;alado que Petrobras \"est&Atilde;&iexcl;
+    recaudando fondos... para hacer fracasar a la nacionalizaci&Atilde;&sup3;n\",
+    cuando el gobierno se encamina a iniciar, en una semana m&Atilde;&iexcl;s, negociaciones
+    con las petroleras para que se adecuen al proceso, que debe concluir en octubre.
+    \r\nSoliz fustig&Atilde;&sup3;, en declaraciones a radio Fides y Erbol, al ex
+    mandatario (2001-2002) y actual l&Atilde;&shy;der de la oposici&Atilde;&sup3;n,
+    Jorge Quiroga, al se&Atilde;&plusmn;alar que \"tiene intereses\" en varias transnacionales
+    y que esa ser&Atilde;&shy;a la causa por la que su agrupaci&Atilde;&sup3;n Podemos
+    aport&Atilde;&sup3; con la mayor cantidad de votos para la censura del ministro
+    en el Senado. No present&Atilde;&sup3; pruebas. \r\nSoliz, quien se presenta como
+    principal arquitecto de la nacionalizaci&Atilde;&sup3;n, fue socio pol&Atilde;&shy;tico
+    del gobierno de Hugo Banzer (1997-2001), del que Quiroga fue vicepresidente. En
+    esa gesti&Atilde;&sup3;n, el desaparecido presidente vendi&Atilde;&sup3; un par
+    de refiner&Atilde;&shy;as a Petrobras por 100 millones de d&Atilde;&sup3;lares.
+    \r\nLa censura en el Senado, la primera que sufre un ministro de Morales, parece
+    marcar el primer contraste importante del gobierno, siete meses despu&Atilde;&copy;s
+    de haber asumido y tras ganar dos elecciones por mayor&Atilde;&shy;a absoluta.
+    \r\nTambi&Atilde;&copy;n muestra indicios, seg&Atilde;&ordm;n el gobierno, de
+    que la oposici&Atilde;&sup3;n empieza a agruparse en contra del mandatario tras
+    haberse mostrado muy debilitada por las sucesivas derrotas que le infligi&Atilde;&sup3;
+    el oficialismo desde diciembre. \r\nMorales, al ratificar a Soliz el mi&Atilde;&copy;rcoles
+    en la noche, lanz&Atilde;&sup3; acusaciones en un breve discurso en el que calific&Atilde;&sup3;
+    a los senadores opositores de \"vendepatrias, asesinos y masacradores\". \r\nEl
+    jefe del bloque de diputados de Podemos, Fernando Messmer, dijo a la prensa que
+    \"es lamentable e indigno que el primer mandatario se refiera en esos t&Atilde;&copy;rminos\"
+    y que \"sigue creyendo y actuando como un simple dirigente cocalero\". \r\n\"Nosotros
+    hemos tomado una posici&Atilde;&sup3;n, hemos censurado la corrupci&Atilde;&sup3;n
+    de YPFB, una corrupci&Atilde;&sup3;n que est&Atilde;&iexcl; siendo encubierta
+    por el gobierno\", agreg&Atilde;&sup3;. \r\nEl vicepresidente Alvaro Garc&Atilde;&shy;a
+    Linera, dijo en Brasilia donde estuvo de visita, que la censura a Soliz \"era
+    una cosa previsible\", y que \"es posible que vuelvan a suceder ese tipo de peque&Atilde;&plusmn;as
+    y previsibles adversidades\". \r\n\r\n\r\n\r\n\r\n24 de agosto. Links y direcciones.\r\n\r\n\r\nLA
+    CORRUPCI&Atilde;&ldquo;N DEL MAS ATENTA CONTRA LA NACIONALIZACI&Atilde;&ldquo;N,
+    \r\n&Atilde;&ldquo;, acaso, \r\nERA PURA PROMESA NOM&Atilde;\x81S!!!!!\r\n\r\n\r\n\r\nEvo
+    desata guerra de insultos, apuntando al cierre del Congreso\r\n Santa Cruz, 24
+    de agosto.-   En una conferencia de prensa conjunta, realizada por constituyentes
+    y parlamentarios de PODEMOS, los representantes de la agrupaci&Atilde;&sup3;n
+    ciudadana ratificaron las denuncias vertidas el d&Atilde;&shy;a de ayer, en el
+    sentido de que estar&Atilde;&shy;a en marcha un proyecto oficialista para cerrar
+    el Congreso Nacional.\r\n \"Todas y cada una de las denuncias que hemos hecho
+    en los &Atilde;&ordm;ltimos d&Atilde;&shy;as se han venido confirmando\", indic&Atilde;&sup3;
+    Jorge &Atilde;\x81vila, jefe de la bancada departamental constituyente de PODEMOS.
+    \r\n \"En el caso de la compra de constituyentes iniciada por el MAS, se ha visto
+    por los medios de comunicaci&Atilde;&sup3;n que el secretario pol&Atilde;&shy;tico
+    de Alianza Social Patri&Atilde;&sup3;tica, Juan Ren&Atilde;&copy; Calliconde,
+    anunci&Atilde;&sup3; que su agrupaci&Atilde;&sup3;n est&Atilde;&iexcl; en huelga
+    de hambre y que podr&Atilde;&shy;a retirarse de la Constituyente, por la compra
+    de dos de sus asamble&Atilde;&shy;stas: David Vargas Flores y Humberto Tapia Choquehuanca\",
+    agreg&Atilde;&sup3;.\r\n \"Respecto a nuestra denuncia sobre un golpe al Estado
+    de Derecho a trav&Atilde;&copy;s de la declaraci&Atilde;&sup3;n de la Asamblea
+    como originaria, esto ha sido reconocido por el  asamble&Atilde;&shy;sta del MAS
+    Ra&Atilde;&ordm;l Prada, quien habla de una Constituyente con poderes absolutos\",
+    dijo &Atilde;\x81vila. \r\n Por su parte, el diputado de PODEMOS Wilfredo A&Atilde;&plusmn;ez
+    cuestion&Atilde;&sup3; a sus pares del MAS que, en la sesi&Atilde;&sup3;n de ayer,
+    se negaron a apoyar una Resoluci&Atilde;&sup3;n Camaral en defensa del Estado
+    de Derecho. \r\n \"Varios diputados oficialistas se manifestaron a favor del cierre
+    del Congreso, como es el caso de Arminda M&Atilde;&copy;ndez\", denunci&Atilde;&sup3;.\r\n
+    \r\n\"La corrupci&Atilde;&sup3;n del gobierno es la  enemiga de la nacionalizaci&Atilde;&sup3;n\"\r\n
+    A&Atilde;&plusmn;ez tambi&Atilde;&copy;n se refiri&Atilde;&sup3; al voto de censura
+    a Soliz Rada, se&Atilde;&plusmn;alando que \"Se debi&Atilde;&sup3; al encubrimiento
+    de la corrupci&Atilde;&sup3;n en YPFB por parte del Ministerio de Hidrocarburos.
+    El MAS ha intentado desvirtuar el voto de censura, argumentando que ir&Atilde;&shy;a
+    en contra de la nacionalizaci&Atilde;&sup3;n. Desmentimos tajantemente estas acusaciones.
+    La corrupci&Atilde;&sup3;n del gobierno es el principal enemigo de la pol&Atilde;&shy;tica
+    de hidrocarburos\".\r\n \"Despu&Atilde;&copy;s del voto de censura, vimos una
+    reacci&Atilde;&sup3;n de intolerancia, intransigencia y soberbia por parte del
+    presidente Evo Morales, que recurri&Atilde;&sup3; a la bajeza del insulto contra
+    la oposici&Atilde;&sup3;n, dada su total falta de argumentos. Advertimos que la
+    denigraci&Atilde;&sup3;n es el camino seguido por el gobierno para justificar
+    el cierre del Congreso\", concluy&Atilde;&sup3;.\r\nMINISTERIO DE HIDROCARBUROS:
+    HACER CLICK EN EL INFORME DE LA SUPERINTENDENCIA QUE DENUNCIA RESPONSABILIDADES
+    ADMINISTRATIVAS Y ADJUDICACI&Atilde;&ldquo;N A DEDO, SIN LICITACI&Atilde;&ldquo;N
+    DE CONTRATO PETROLERO:\r\nhttp:&#47;&#47;www.hidrocarburos.gov.bo&#47;\r\n \r\nINFORME
+    UAI &acirc;&euro;&ldquo; 25\r\nINFORME UAI - 26\r\n \r\nLinks: Bolivia:\r\n \r\nwww.idearia.org
+    \   (ciao! YACIMIENTOS y HOLA! EVOpetrol!!!!)\r\n \r\nInternacional: \r\nVenezuela:\r\nhttp:&#47;&#47;internacional.eluniversal.com&#47;2006&#47;08&#47;24&#47;int_ava_24A770545.shtml\r\nhttp:&#47;&#47;www.unionradio.com.ve&#47;Noticias&#47;Noticia.aspx?noticiaid=179145\r\n
+    \r\nM&Atilde;&copy;xico:\r\nhttp:&#47;&#47;www.jornada.unam.mx&#47;2006&#47;08&#47;24&#47;034n1mun.php\r\n
+    \r\nArgentina:\r\nhttp:&#47;&#47;martinpgutierrez.blogspot.com&#47;2006&#47;07&#47;descolonizando-el-doble-discurso-de.html\r\nhttp:&#47;&#47;www.laopinion.com&#47;editorial&#47;?rkey=00000000000000159280\r\nhttp:&#47;&#47;blogautonomo.blogspot.com&#47;2006&#47;08&#47;noticias-del-10-8-06.html\r\n
+    \r\n \r\nEspa&Atilde;&plusmn;a:\r\nhttp:&#47;&#47;www.lavanguardia.es&#47;gen&#47;20060822&#47;51280436348&#47;noticias&#47;bolivia\r\n
+    \r\nYacimientos cambiar&Atilde;&iexcl; de nombre y ser&Atilde;&iexcl; un holding
+    \r\nEl Gobierno piensa llamarlo Empresa Boliviana de Petr&Atilde;&sup3;leos, Ebopetrol,
+    anunci&Atilde;&sup3; el Ministro de Hidrocarburos. Quieren que sea como Petrobras.
+    \r\n \r\nProfundizar la nacionalizaci&Atilde;&sup3;n de los hidrocarburos y cambiarle
+    la estructura y el nombre de YPFB para convertirlo en holding; esos ser&Atilde;&iexcl;n
+    los dos pasos siguientes que dar&Atilde;&iexcl; el Gobierno, seg&Atilde;&ordm;n
+    anunci&Atilde;&sup3; anoche el ministro de Hidrocarburos, Andr&Atilde;&copy;s
+    Soliz. \r\nLa autoridad, censurada por el Senado y ratificada por el Presidente,
+    anunci&Atilde;&sup3; que en 10 d&Atilde;&shy;as el Gobierno presentar&Atilde;&iexcl;
+    un proyecto de ley al Congreso. Uno de los probables nombres es Empresa Boliviana
+    de Petr&Atilde;&sup3;leo (Ebopetrol). \r\n?Lo que va haber es una profundizaci&Atilde;&sup3;n
+    de la nacionalizaci&Atilde;&sup3;n... lo que conviene al pa&Atilde;&shy;s, es
+    que el pa&Atilde;&shy;s pague el 18% a petroleras porque en el momento en que
+    pagamos, somos due&Atilde;&plusmn;os de toda la cadena productiva; recuperamos
+    la refiner&Atilde;&shy;a, vamos a ir almacenaje; ya tenemos el mayoreo y controlamos
+    el conjunto de la cadena productiva. Este es el siguiente paso\", anunci&Atilde;&sup3;.
+    As&Atilde;&shy; se resolver&Atilde;&iexcl; la discusi&Atilde;&sup3;n del pago
+    a las petroleras al Estado o viceversa, agreg&Atilde;&sup3; el ministro. \r\nEn
+    esa l&Atilde;&shy;nea, el cambio tambi&Atilde;&copy;n apunta a que \"nosotros
+    (el Estado) somos los que vamos a pagar las regal&Atilde;&shy;as y el IDH a los
+    departamentos\" sostuvo. Asegur&Atilde;&sup3; que para cumplir estos objetivos,
+    se contar&Atilde;&iexcl; con $us 120 millones provenientes de los pagos por cuatro
+    meses (mayo, junio, julio y agosto) que realizan las compa&Atilde;&plusmn;&Atilde;&shy;as
+    petroleras. \r\nEsta profundizaci&Atilde;&sup3;n, incluye una \"reorganizaci&Atilde;&sup3;n
+    muy profunda\" de YPFB que tiene juicios laborales, ajustar su estructura a un
+    holding y el cambio de nombre de esta empresa, explic&Atilde;&sup3;. \r\nAunque
+    aclar&Atilde;&sup3; que el nombre est&Atilde;&iexcl; en discusi&Atilde;&sup3;n,
+    debido a que la sigla podr&Atilde;&shy;a asociarse al nombre del Primer Mandatario,
+    Soliz dej&Atilde;&sup3; claro que YPFB no ser&Atilde;&iexcl; la misma y que, en
+    10 d&Atilde;&shy;as m&Atilde;&iexcl;s, se presentar&Atilde;&iexcl; una ley al
+    Congreso. \r\n\"Ser&Atilde;&iexcl; un holding, similar a Petrobras (ya que) trabajar&Atilde;&iexcl;
+    (en el formato de entidades descentralizadas bajo una sola coordinaci&Atilde;&sup3;n)
+    en refiner&Atilde;&shy;a, exploraci&Atilde;&sup3;n, transporte. &Acirc;&iquest;Por
+    qu&Atilde;&copy; no hacer una nueva empresa estatal?\", dijo. \r\nSoliz Rada dijo
+    sentirse ?orgulloso? por haber sido censurado por ?el poder transnacional? y asegur&Atilde;&sup3;
+    que se sentar&Atilde;&iexcl; ?con mucha m&Atilde;&iexcl;s fuerza? para negociar
+    con las empresas petroleras."
+---
+<p>Na s&Atilde;&copy;rie <em>n&Atilde;&pound;o digam que ningu&Atilde;&copy;m avisou<&#47;em>:</p>
+<p>No <a href="http:&#47;&#47;economist.com&#47;world&#47;la&#47;displaystory.cfm?story_id=E1_SSJGQVN">economist<&#47;a>:</p>
+<blockquote><p>ON MAY 1st Bolivia's socialist president, Evo Morales, nationalised his country's oil and gas industry with a bang. He sent troops to the gas fields, and put <span class="scaps">YPFB<&#47;span>, a state company, in charge. On August 11th the government emitted what sounded like a whimper: the &acirc;&euro;&oelig;full effect&acirc;&euro; of <span class="scaps">YPFB<&#47;span>'s takeover would be &acirc;&euro;&oelig;temporarily suspended owing to lack of economic resources.&acirc;&euro; It needs a $180m loan from the central bank, currently prohibited by law. &acirc;&euro;&oelig;It's a problem of cashflow, not the stopping of nationalisation,&acirc;&euro; says Pablo Sol&Atilde;&sup3;n, a Bolivian trade negotiator. Money is not the problem, retorts Carlos Miranda, a former energy minister. It is &acirc;&euro;&oelig;not knowing the business or being able to control [it].&acirc;&euro;<&#47;blockquote></p>

@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: Macabro
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 682
+wordpress_url: http://blog.luispedro.org/?p=682
+date: '2006-10-27 23:37:46 -0700'
+date_gmt: '2006-10-27 23:37:46 -0700'
+categories:
+- Photos
+tags: []
+comments:
+- id: 10265
+  author: manso
+  author_email: monmanso@gmail.com
+  author_url: http://largodokarma.blogspot.com
+  date: '2006-10-29 16:58:11 -0800'
+  date_gmt: '2006-10-29 16:58:11 -0800'
+  content: j&Atilde;&iexcl; deixam o cesariny ir sozinho &Atilde;&nbsp; janela?
+- id: 10438
+  author: prozina
+  author_email: gamma3000@hotmail.com
+  author_url: http://numanoitequalquer.blogspot.com
+  date: '2006-10-31 22:32:24 -0800'
+  date_gmt: '2006-10-31 22:32:24 -0800'
+  content: atirou-se?
+- id: 209312
+  author: Canadian payday loans.
+  author_email: ''
+  author_url: http://blogs.grab.com/PayDay_Loan_NET
+  date: '2007-12-19 12:35:48 -0800'
+  date_gmt: '2007-12-19 12:35:48 -0800'
+  content: |-
+    <strong>Canadian payday loans....<&#47;strong>
+
+    Canadian payday loans....
+---
+<p>Este &Atilde;&copy; um dos objectos mais estranho de Lisboa</p>
+<p><center><a id="p681" rel="attachment" class="imagelink" title="Manequim" href="http:&#47;&#47;blog.luispedro.org&#47;?attachment_id=681" &#47;><a title="Manequim" class="imagelink" href="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;10&#47;manequim.JPG"><img alt="Manequim" id="image683" style="min-width: 80%" src="http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2006&#47;10&#47;manequim.JPG" &#47;><&#47;a><br />
+<&#47;center>(Damasceno Monteiro, &Atilde;&nbsp; Gra&Atilde;&sect;a)</p>

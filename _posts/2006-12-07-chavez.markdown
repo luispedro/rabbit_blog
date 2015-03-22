@@ -1,0 +1,287 @@
+---
+layout: post
+status: publish
+published: true
+title: Chavez
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 766
+wordpress_url: http://blog.luispedro.org/posts/chavez
+date: '2006-12-07 15:56:32 -0800'
+date_gmt: '2006-12-07 15:56:32 -0800'
+categories:
+- Am&Atilde;&copy;rica Latina
+tags: []
+comments:
+- id: 13247
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2006-12-07 16:07:32 -0800'
+  date_gmt: '2006-12-07 16:07:32 -0800'
+  content: "Tr&Atilde;&ordf;s corre&Atilde;&sect;&Atilde;&micro;es (concordo com todo
+    o resto do post):\r\n\r\n1) A produ&Atilde;&sect;&Atilde;&pound;o de petr&Atilde;&sup3;leo
+    da Venezuela j&Atilde;&iexcl; h&Atilde;&iexcl; muitos anos que est&Atilde;&iexcl;
+    a decrescer, lentamente ano ap&Atilde;&sup3;s ano. Esse decr&Atilde;&copy;scimo
+    n&Atilde;&pound;o se deve a sub-investimento, mas sim ao facto de os po&Atilde;&sect;os
+    se estarem a esgotar.\r\n\r\n2) O pre&Atilde;&sect;o do petr&Atilde;&sup3;leo
+    n&Atilde;&pound;o voltar&Atilde;&iexcl; ao \"normal\". Ali&Atilde;&iexcl;s, esse
+    pre&Atilde;&sect;o, tal como o clima, j&Atilde;&iexcl; n&Atilde;&pound;o tem \"normal\"
+    nos tempos que correm. J&Atilde;&iexcl; n&Atilde;&pound;o h&Atilde;&iexcl; normalidade,
+    h&Atilde;&iexcl; uma evolu&Atilde;&sect;&Atilde;&pound;o constante. O pre&Atilde;&sect;o
+    do petr&Atilde;&sup3;leo dificilmente abaixar&Atilde;&iexcl; muito daquilo que
+    &Atilde;&copy; atualmente. \r\n\r\n3) Duvido que Ch&Atilde;&iexcl;vez se mantenha
+    muito mais tempo no poder. Nestas elei&Atilde;&sect;&Atilde;&micro;es ele s&Atilde;&sup3;
+    teve 60% dos votos. Foi uma vit&Atilde;&sup3;ria pouco melhor que marginal. A
+    n&Atilde;&pound;o ser que ele recorra &Atilde;&nbsp; fraude pura e simples, tem
+    boas hip&Atilde;&sup3;teses de acabar derrotado algum dia."
+- id: 13248
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-12-07 16:28:51 -0800'
+  date_gmt: '2006-12-07 16:28:51 -0800'
+  content: "1. O sub-investimento &Atilde;&copy; um problema na Venezuela. Os campos
+    podiam ser mais bem explorados. A PDVSA costumava ser das melhores e deixou de
+    o ser. O decl&Atilde;&shy;nio de longo-prazo n&Atilde;&pound;o &Atilde;&copy;
+    t&Atilde;&pound;o grande como o que tem sido com Chavez no poder. \r\n\r\n2. H&Atilde;&iexcl;
+    uns meses, o pre&Atilde;&sect;o do petr&Atilde;&sup3;leo \"s&Atilde;&sup3; ia
+    aumentar.\" <i>Voil&Atilde;&iexcl;, desceu<&#47;i>. A tend&Atilde;&ordf;ncia de
+    longo prazo &Atilde;&copy; descer, vai continuar a descer.\r\n\r\n3. \"A n&Atilde;&pound;o
+    ser que ele recorra &Atilde;&nbsp; fraude pura e simples, tem boas hip&Atilde;&sup3;teses
+    de acabar derrotado algum dia.\" Eu penso que ele vai recorrer &Atilde;&nbsp;
+    fraude pura e simples. A menos que haja um golpe ou uma revolu&Atilde;&sect;&Atilde;&pound;o."
+- id: 13261
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: '2006-12-07 21:20:39 -0800'
+  date_gmt: '2006-12-07 21:20:39 -0800'
+  content: "O Lavoura tem raz&Atilde;&pound;o relativamente ao ponto 2.\r\n\r\nPeak
+    Oil"
+- id: 13264
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: '2006-12-07 21:25:58 -0800'
+  date_gmt: '2006-12-07 21:25:58 -0800'
+  content: "\"A tend&Atilde;&ordf;ncia de longo prazo &Atilde;&copy; descer, vai continuar
+    a descer.\"\r\n\r\nesta afirma&Atilde;&sect;&Atilde;&pound;o &Atilde;&copy; uma
+    asneira\r\n\r\nGr&Atilde;&iexcl;fico longo prazo\r\nhttp:&#47;&#47;www.futuresbuzz.com&#47;crudelt.html"
+- id: 13266
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-12-07 21:32:54 -0800'
+  date_gmt: '2006-12-07 21:32:54 -0800'
+  content: "O gr&Atilde;&iexcl;fico n&Atilde;&pound;o est&Atilde;&iexcl; ajustado
+    &Atilde;&nbsp; inflac&Atilde;&sect;&Atilde;&pound;o!\r\n\r\nSe fosse ajustado
+    &Atilde;&nbsp; inflac&Atilde;&sect;&Atilde;&pound;o mostrava algo bem diferente:
+    que a recente subida atingiu nem sequer pico dos anos 80 antes de come&Atilde;&sect;ar
+    a descer novamente (o gr&Atilde;&iexcl;fico n&Atilde;&pound;o mostra os &Atilde;&ordm;ltimos
+    meses onde o petr&Atilde;&sup3;leo desceu, apesar de ter come&Atilde;&sect;ado
+    o frio nos pa&Atilde;&shy;ses ricos)."
+- id: 13270
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-12-07 21:41:18 -0800'
+  date_gmt: '2006-12-07 21:41:18 -0800'
+  content: "Daqui a uns anitos, vamos ouvir os produtores choramingar que ningu&Atilde;&copy;m
+    lhes compra o petr&Atilde;&sup3;leo que eles t&Atilde;&ordf;m para vender.\r\n\r\nPre&Atilde;&sect;os
+    em d&Atilde;&sup3;lares reais (para reflectir a inflac&Atilde;&sect;&Atilde;&pound;o):
+    http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Image:Oil_Prices_1861_2006.jpg"
+- id: 13308
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-12-08 02:28:03 -0800'
+  date_gmt: '2006-12-08 02:28:03 -0800'
+  content: Olhando para esse gr&Atilde;&iexcl;fico, n&Atilde;&pound;o me parece que
+    o petr&Atilde;&sup3;leo tenha tend&Atilde;&ordf;ncia, nem para descer, nem para
+    subir
+- id: 13311
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-12-08 02:42:54 -0800'
+  date_gmt: '2006-12-08 02:42:54 -0800'
+  content: "Caro Miguel, tem raz&Atilde;&pound;o.\r\n\r\nContinuo a pensar que o petr&Atilde;&sup3;leo
+    vai tender para os 20 d&Atilde;&sup3;lares ao longo dos pr&Atilde;&sup3;ximos
+    anos."
+- id: 13748
+  author: Joao t
+  author_email: ''
+  author_url: ''
+  date: '2006-12-08 15:50:47 -0800'
+  date_gmt: '2006-12-08 15:50:47 -0800'
+  content: "acho interessante como a direita se preocupa com o futuro de chavez enquanto
+    especula sobre o pre&Atilde;&sect;o do petroleo.\r\nEu como sou de esquerda n&Atilde;&pound;o
+    percebo nada de mercados mas acho que se as pessoas que compram e vendem reservas
+    futuras de petroleo as compram a este pre&Atilde;&sect;o, &Atilde;&copy; porque
+    lhes parece que o valor no futuro andara nesta area, ou n&Atilde;&pound;o?Se voc&Atilde;&ordf;s
+    sabem assim tanto talvez consigam enriquecer na bolsa ou n&Atilde;&pound;o?\r\nMas
+    acho interessante que a Venezuela se tenha de repente tornado num assunto t&Atilde;&pound;o
+    importante para os amigos direitistas. algum de voc&Atilde;&ordf;s se lembra assim
+    de repente (sem pesquizas...)quem era o presidente anterior.\r\n &Atilde;&permil;
+    que se o futuro do regime venezuelano &Atilde;&copy; t&Atilde;&pound;o negro como
+    voc&Atilde;&ordf;s o retratam ent&Atilde;&pound;o se calhar, a sua influencia
+    regional e global n&Atilde;&pound;o ser&Atilde;&iexcl; muito preocupante...\r\ncaros
+    amigos o que pergunto &Atilde;&copy; porqu&Atilde;&ordf; tanta preocupa&Atilde;&sect;&Atilde;&pound;o
+    com a venezuela de repente????\r\nTer&Atilde;&pound;o medo?do qu&Atilde;&ordf;
+    ??"
+- id: 13752
+  author: Joao t
+  author_email: ''
+  author_url: ''
+  date: '2006-12-08 16:08:30 -0800'
+  date_gmt: '2006-12-08 16:08:30 -0800'
+  content: "Pensei um pouco e J&Atilde;&iexcl; sei, est&Atilde;&pound;o genuinamente
+    preocupados com os venezuelanos. mas aqui no blog n&Atilde;&pound;o se fala muito
+    dos sudaneses(?)(aqueles que andam a ser chacinados no sud&Atilde;&pound;o), dos
+    da somalia, dos mo&Atilde;&sect;ambicanos, etc...\r\nN&Atilde;&pound;o , n&Atilde;&pound;o
+    deve ser por issso.\r\nDe novo, a duvida. porque sera?...."
+- id: 626961
+  author: koalhe
+  author_email: ewmfzy@lrkbla.com
+  author_url: http://rabcxqefisbm.com/
+  date: '2010-07-29 09:04:19 -0700'
+  date_gmt: '2010-07-29 09:04:19 -0700'
+  content: h43d6F  <a href="http:&#47;&#47;cmdbieyfsfcb.com&#47;" rel="nofollow">cmdbieyfsfcb<&#47;a>,
+    [url=http:&#47;&#47;ofeaqizpucll.com&#47;]ofeaqizpucll[&#47;url], [link=http:&#47;&#47;feggrhlvhkjf.com&#47;]feggrhlvhkjf[&#47;link],
+    http:&#47;&#47;zqgjokmymbuq.com&#47;
+- id: 629933
+  author: aldara21fr
+  author_email: aldara21fr@mail.com
+  author_url: http://anita.simmons.edu/~s2s/wiki/index.php/User:Buy_Aldara_Online
+  date: '2010-09-26 04:19:42 -0700'
+  date_gmt: '2010-09-26 04:19:42 -0700'
+  content: <a href="http:&#47;&#47;bham.academia.edu&#47;pillElimite" rel="nofollow">buy
+    Elimite online no prescription<&#47;a> PnVnSyxwnY <a href="http:&#47;&#47;bham.academia.edu&#47;pillElocon"
+    rel="nofollow">buy Elocon online<&#47;a> WmH3RaKrlK <a href="http:&#47;&#47;bham.academia.edu&#47;pillEmla"
+    rel="nofollow">buy Emla without prescription<&#47;a> xSczY6XuWN <a href="http:&#47;&#47;bham.academia.edu&#47;pillEpogen"
+    rel="nofollow">buy Epogen without prescription<&#47;a> TSU5VgxsRV <a href="http:&#47;&#47;bham.academia.edu&#47;pillErythromycin"
+    rel="nofollow">Click Here<&#47;a> nUQGEMZICS <a href="http:&#47;&#47;bham.academia.edu&#47;pillEstraceVaginalCream"
+    rel="nofollow">Here<&#47;a> BVlJt28oYQ <a href="http:&#47;&#47;bham.academia.edu&#47;pillEstrace"
+    rel="nofollow">buy Estrace online<&#47;a> aQmV9iO9Gy <a href="http:&#47;&#47;bham.academia.edu&#47;pillEstradiolValerate"
+    rel="nofollow">buy Estradiol Valerate online without prescription<&#47;a> iaOtPsh7Qg
+    <a href="http:&#47;&#47;bham.academia.edu&#47;pillEvista" rel="nofollow">http:&#47;&#47;bham.academia.edu&#47;pillEvista<&#47;a>
+    nLsN9dAAp5 <a href="http:&#47;&#47;bham.academia.edu&#47;pillExelon" rel="nofollow">buy
+    Exelon<&#47;a> xjhtWi6NhX <a href="http:&#47;&#47;bham.academia.edu&#47;pillExtenZe"
+    rel="nofollow">Click Here<&#47;a> 9RHLPWucZ4
+- id: 630038
+  author: Epogen25
+  author_email: Epogen25@mail.com
+  author_url: http://green.chem.cmu.edu/citiwiki/index.php/User:Buy_Epogen_Online
+  date: '2010-09-29 15:39:49 -0700'
+  date_gmt: '2010-09-29 15:39:49 -0700'
+  content: <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes21207oov&#47;start&#47;"
+    rel="nofollow">low online price car insurance<&#47;a> 8lPtIy2odi <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes10062ier&#47;start&#47;"
+    rel="nofollow">the post office car insurance<&#47;a> MGS6CVhGve <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes76276aii&#47;start&#47;"
+    rel="nofollow">dover car insurance<&#47;a> PpOgPwBVLG <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes82600wof&#47;start&#47;"
+    rel="nofollow">health insurance for seniors without medicare<&#47;a> ywvFGZPmnp
+    <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes64775xgn&#47;start&#47;"
+    rel="nofollow">new social insurance card canada<&#47;a> 0SyA9Nt1dq <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes22715zih&#47;start&#47;"
+    rel="nofollow">teen car insurance uk<&#47;a> N84YMQGwYf <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes64732uny&#47;start&#47;"
+    rel="nofollow">auto cheap driving insurance poor record<&#47;a> ySPr8hFfPc <a
+    href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes66513uiu&#47;start&#47;"
+    rel="nofollow">auto city company fl in insurance lake<&#47;a> VVxH5zRGn7 <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes42985vjg&#47;start&#47;"
+    rel="nofollow">car insurances quotes<&#47;a> 1x2bObUOEE <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes15785ytx&#47;start&#47;"
+    rel="nofollow">medicare supplemental insurance ghc<&#47;a> GV9RreujKO
+- id: 630039
+  author: Epogen26
+  author_email: Epogen26@mail.com
+  author_url: http://wiki.up.ac.za/index.php?title=User:Buy_Epogen_Online
+  date: '2010-09-29 16:43:13 -0700'
+  date_gmt: '2010-09-29 16:43:13 -0700'
+  content: <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes35100qkf&#47;start&#47;"
+    rel="nofollow">http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes35100qkf&#47;start&#47;<&#47;a>
+    LCqhKSJ2z4 <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes84498vsm&#47;start&#47;"
+    rel="nofollow">car car cheap cheap insurance insurance insurance insurance online
+    quote<&#47;a> R1OUBlntxX <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes78243jou&#47;start&#47;"
+    rel="nofollow">increasing auto insurance government information<&#47;a> S9tFDQPWe5
+    <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes97813pay&#47;start&#47;"
+    rel="nofollow">scan health care insurance<&#47;a> GsNOJD1V4w <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes50674heb&#47;start&#47;"
+    rel="nofollow">caravan insurance com<&#47;a> XHTiBchL0j <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes56533gxr&#47;start&#47;"
+    rel="nofollow">discount car insurance quotes<&#47;a> lrOlcJyOBD <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes40455esg&#47;start&#47;"
+    rel="nofollow">ladies only car insurance<&#47;a> 9UgR2NvaNe <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes63783piw&#47;start&#47;"
+    rel="nofollow">auto insurance quotes from farm bureau<&#47;a> sE4Fegb3Vf <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes4382qmr&#47;start&#47;"
+    rel="nofollow">california free car insurance quotes<&#47;a> XTWPCsKrMF <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes9452pbc&#47;start&#47;"
+    rel="nofollow">car center.info information insurance site<&#47;a> tDTMhNwo1m
+- id: 630042
+  author: Epogen30
+  author_email: Epogen30@mail.com
+  author_url: http://capricorn.montclair.edu/newlits/index.php/User:Buy_Epogen_Online
+  date: '2010-09-29 18:54:47 -0700'
+  date_gmt: '2010-09-29 18:54:47 -0700'
+  content: <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes35810vxq&#47;start&#47;"
+    rel="nofollow">Click Here<&#47;a> Ig4uUsiwUw <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes24960pcy&#47;start&#47;"
+    rel="nofollow">auto insurance ireland<&#47;a> ItU0HkCjNr <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes14456dmq&#47;start&#47;"
+    rel="nofollow">auto insurance san jose california<&#47;a> I0vJLXjAEW <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes31325iay&#47;start&#47;"
+    rel="nofollow">free online car insurance<&#47;a> amdrjIZHOy <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes83925vtx&#47;start&#47;"
+    rel="nofollow">car compulsory insurance<&#47;a> ayYz0bymAN <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes62336dun&#47;start&#47;"
+    rel="nofollow">health options medicare supplemental insurance cost<&#47;a> RHR9JDLAWA
+    <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes96698vnn&#47;start&#47;"
+    rel="nofollow">in insurance ny unitedhealthcarehealth<&#47;a> UlClWaoZfv <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes43231kxo&#47;start&#47;"
+    rel="nofollow">america first insurance insurance or home and auto<&#47;a> PZTJZRQlBm
+    <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes61550beh&#47;start&#47;"
+    rel="nofollow">care health information insurance long term<&#47;a> Gzo5I0ysn5
+    <a href="http:&#47;&#47;www.wikihost.org&#47;w&#47;autoinsurancequotes3600jrw&#47;start&#47;"
+    rel="nofollow">auto insurance or quote or policy or discount -coffee<&#47;a> kHnkIlfPVn
+- id: 630647
+  author: incalcono
+  author_email: iodigiscips@cvportal.net
+  author_url: http://www.cadence.com/Community/members/Female-Viagra-without-a-prescription-in-Las-Vegas-8.aspx
+  date: '2010-10-24 09:20:22 -0700'
+  date_gmt: '2010-10-24 09:20:22 -0700'
+  content: "<a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Mentax-rezept-5.aspx\"
+    rel=\"nofollow\">Mentax rezept<&#47;a> mysoline manufacturer <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Evista-online-without-prescription-in-New-Mexico-8.aspx\"
+    rel=\"nofollow\">Evista online without prescription in New Mexico<&#47;a> gabapentin
+    and hela <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;how-to-buy-Betapace-without-prescription-3.aspx\"
+    rel=\"nofollow\">how to buy Betapace without prescription<&#47;a> testosterone
+    blood test for men <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;buy-Ventolin-without-a-prescription-online-2.aspx\"
+    rel=\"nofollow\">buy Ventolin without a prescription online<&#47;a> moexipril
+    hcl hydrochlorothiazide <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Lisinopril-without-rx-8.aspx\"
+    rel=\"nofollow\">Lisinopril without rx<&#47;a> zofran safe during pregnancy <a
+    href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Atarax-discount-europe-7.aspx\"
+    rel=\"nofollow\">Atarax discount europe<&#47;a> female viagra ingedients <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;buy-Tulasi-with-no-prescription-6.aspx\"
+    rel=\"nofollow\">buy Tulasi with no prescription<&#47;a> zyrtec pravachol actos
+    aricept <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;buy-Shallaki-drugs-in-Salinas-3.aspx\"
+    rel=\"nofollow\">buy Shallaki drugs in Salinas<&#47;a> new paxil news <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Flomax-fedex-delivery-9.aspx\"
+    rel=\"nofollow\">Flomax fedex delivery<&#47;a> imdur er dose <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;cheap-sale-Arava-8.aspx\"
+    rel=\"nofollow\">cheap sale Arava<&#47;a> 853 hydrocodone watson carisoprodol
+    \r\n<a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;buy-Generic-Motrin-online-purchase-5.aspx\"
+    rel=\"nofollow\">buy Generic Motrin online purchase<&#47;a> long term effects
+    of wellbutrin <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;generic-prescription-Bupropion-without-in-Bakersfield-5.aspx\"
+    rel=\"nofollow\">generic prescription Bupropion without in Bakersfield<&#47;a>
+    prednisone children <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;cheap-Synthroid-Synthroid-online-Synthroid-5.aspx\"
+    rel=\"nofollow\">cheap Synthroid Synthroid online Synthroid<&#47;a> 3 v lithium
+    battery <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;online-Paroxetine-forums-9.aspx\"
+    rel=\"nofollow\">online Paroxetine forums<&#47;a> 11.1v 1.2ah lithium polymer
+    battery pack <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;discount-generic-Ponstel-panama-8.aspx\"
+    rel=\"nofollow\">discount generic Ponstel panama<&#47;a> accutane tmj <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;buy-Vantin-with-mastercard-in-Maryland-3.aspx\"
+    rel=\"nofollow\">buy Vantin with mastercard in Maryland<&#47;a> tadiran tl-2150
+    lithium battery <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Zyrtec-saturday-delivery-1.aspx\"
+    rel=\"nofollow\">Zyrtec saturday delivery<&#47;a> simvastatin dosing <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Symmetrel-no-prescription-7.aspx\"
+    rel=\"nofollow\">Symmetrel no prescription<&#47;a> anemia aleve <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;Tulasi-overnight-delivery-4.aspx\"
+    rel=\"nofollow\">Tulasi overnight delivery<&#47;a> excessive sweating torso pro-banthine
+    <a href=\"http:&#47;&#47;www.cadence.com&#47;Community&#47;members&#47;buy-Requip-online-no-prescription-7.aspx\"
+    rel=\"nofollow\">buy Requip online no prescription<&#47;a> asprin for mi"
+- id: 637750
+  author: jonn2
+  author_email: email@gmail.com
+  author_url: http://link
+  date: '2011-06-15 05:35:39 -0700'
+  date_gmt: '2011-06-15 05:35:39 -0700'
+  content: comment5,
+---
+<p>Na s&Atilde;&copy;rie <i>as previs&Atilde;&micro;es s&Atilde;&pound;o sempre arriscadas, sobretudo sobre o futuro<&#47;i>:</p>
+<p>Pergunto-me quantos dos que hoje enviam felicita&Atilde;&sect;&Atilde;&micro;es a Chavez n&Atilde;&pound;o dir&Atilde;&pound;o daqui a dez anos que foram enganados (pelo Chavez, pelos americanos, pela comunica&Atilde;&sect;&Atilde;&pound;o social...).</p>
+<p>O engra&Atilde;&sect;ado &Atilde;&copy; que est&Atilde;&iexcl; tudo &Atilde;&nbsp; vista, as listas p&Atilde;&ordm;blicas de <cite>contra-revolucion&Atilde;&iexcl;rios<&#47;cite>, as manifesta&Atilde;&sect;&Atilde;&micro;es de apoio organizadas pela pol&Atilde;&shy;cia, o nacionalismo. Est&Atilde;&iexcl; l&Atilde;&iexcl; o desperd&Atilde;&shy;cio do futuro: &Atilde;&copy; muito bonito expulsar os engenheiros estrangeiros e transformar a antiga sede de investiga&Atilde;&sect;&Atilde;&pound;o da PDVSA (a petrol&Atilde;&shy;fera) numa escola, mas quem vai garantir o futuro da empresa? &Atilde;&copy; muito bonito n&Atilde;&pound;o reinvestir os lucros da empresa em manuten&Atilde;&sect;&Atilde;&pound;o e gastar tudo em programas para combater a pobreza em Nova Iorque, mas quando o material apodrecer, o que &Atilde;&copy; que acontece? &Atilde;&copy; muito bonito gastar tudo hoje, quando o petr&Atilde;&sup3;leo est&Atilde;&iexcl; em alta, como &Atilde;&copy; amigo aquele que, recebendo o ordenado, faz uma festa e convida toda a gente, paga bebidas a rodos, mas amanh&Atilde;&pound;, quem &Atilde;&copy; que paga as contas?</p>
+<p>Daqui a uns anitos (que se contam nos dedos de uma m&Atilde;&pound;o), o pre&Atilde;&sect;o do petr&Atilde;&sup3;leo voltar&Atilde;&iexcl; ao normal, os campos da Venezuela estar&Atilde;&pound;o a produzir menos (por falta de investimento na infra-estrutura) e todo o pa&Atilde;&shy;s acordar&Atilde;&iexcl; com um ressaca daquelas em que n&Atilde;&pound;o se sai da cama durante dois dias. <em>&Atilde;&permil; bonita a festa, p&Atilde;&iexcl;<&#47;em> mas para o futuro n&Atilde;&pound;o fica nada. Excepto Chavez, esse, ficar&Atilde;&iexcl;.</p>
+<p>S&Atilde;&sup3; n&Atilde;&pound;o v&Atilde;&ordf; quem n&Atilde;&pound;o quer ver. Infelizmente, h&Atilde;&iexcl; quem tenha feito toda uma carreira pol&Atilde;&shy;tica a n&Atilde;&pound;o ver.</p>

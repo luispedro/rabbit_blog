@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase do Dia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1372
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-27
+date: '2008-08-07 19:21:04 -0700'
+date_gmt: '2008-08-07 19:21:04 -0700'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>estereotipos trocados<&#47;i>:</p>
+<p><cite>Retailers and contract manufacturers in Taiwan say that novice PC users there, like students and housewives, tend to buy the Linux version of the Eee PC701, while geeks go for Windows XP.<&#47;cite></p>
+<p><a href="http:&#47;&#47;techon.nikkeibp.co.jp&#47;article&#47;HONSHI&#47;20080625&#47;153861&#47;?P=5">Tech-on<&#47;a> via <a href="http:&#47;&#47;blogs.zdnet.com&#47;storage&#47;?p=342">Robin Harris<&#47;a></p>

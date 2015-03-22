@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: L&Atilde;&iexcl; Como C&Atilde;&iexcl;?
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 534
+wordpress_url: http://blog.luispedro.org/?p=534
+date: '2006-07-03 14:58:53 -0700'
+date_gmt: '2006-07-03 14:58:53 -0700'
+categories:
+- Portugal
+- Economia
+- EUA
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>eu devia era escrever a tese<&#47;i>:</p>
+<p>No <a href="http:&#47;&#47;thehousingbubbleblog.com&#47;?p=968">housing bubble blog<&#47;a> (do <a href="http:&#47;&#47;www.boston.com&#47;realestate&#47;news&#47;articles&#47;2006&#47;06&#47;29&#47;in_slumping_house_market_creative_thinking_required&#47;?page=full">Boston Globe<&#47;a>):</p>
+<blockquote><p>
+The Boston Globe. &acirc;&euro;&oelig;After having her home on the market for nearly a year, with about 30 showings, multiple price drops, and only one not-so-tempting offer, Phyllis Troia decided to try something different. She put her Dutch colonial in Plymouth up for auction. &acirc;&euro;&tilde;It&acirc;&euro;&trade;s marketing out of the box,&acirc;&euro;&trade; said Troia.&acirc;&euro;</p>
+<p>&acirc;&euro;&oelig;&acirc;&euro;&tilde;I had to take my destiny into my own hands,&acirc;&euro;&trade; Troia said, because, &acirc;&euro;&tilde;the only solution my realtor came up with was to undersell my house. This, she added , is a wake-up call to the real estate industry.&acirc;&euro;&trade;&acirc;&euro;</p>
+<p>&acirc;&euro;&oelig;After the weekend, there were nine bidders. But in the end, she was not satisfied with the final two bids, and exercised her right to close the bidding. She&acirc;&euro;&trade;s now moved on to a for-sale-by-owner model.&acirc;&euro;</p>
+<p>&acirc;&euro;&oelig;Troia&acirc;&euro;&trade;s efforts reflect the frustration of home sellers in the region. There are nearly 1,000 more single-family homes for sale on the South Shore than there were a year ago at this time.&acirc;&euro;</p>
+<p>&acirc;&euro;&oelig;Troia, however, is happy she is taking the go-it-alone route to get what she thinks her house is worth. &acirc;&euro;&tilde;This is a great house,&acirc;&euro;&trade; she said over and over, as people meandered through during her recent open house. &acirc;&euro;&tilde;We&acirc;&euro;&trade;ll see what happens,&acirc;&euro;&trade; she said. &acirc;&euro;&tilde;I have too much invested to walk away with a minimal amount of money.&acirc;&euro;&trade;&acirc;&euro;<br />
+<&#47;blockquote></p>
+<p>(via <a href="http:&#47;&#47;volokh.com&#47;archives&#47;archive_2006_06_25-2006_07_01.shtml#1151706960">The Volokh Conspiracy<&#47;a>)</p>
+<p>&Atilde;&permil; dif&Atilde;&shy;cil para estas pessoas imaginar que, pura e simplesmente, n&Atilde;&pound;o v&Atilde;&pound;o conseguir vender a casa ao pre&Atilde;&sect;o que est&Atilde;&pound;o &Atilde;&nbsp; espera. O Greenspan costumava argumentar que o pre&Atilde;&sect;o das casas &Atilde;&copy; mais est&Atilde;&iexcl;vel porque as pessoas esperam (e desesperam) at&Atilde;&copy; ao pre&Atilde;&sect;o voltar ao que consideram "justo." Se este efeito leva a que as casas variem pouco de pre&Atilde;&sect;o no curto prazo, pergunto-me se tamb&Atilde;&copy;m n&Atilde;&pound;o leva a que sejam depois necess&Atilde;&iexcl;rias enormes correc&Atilde;&sect;&Atilde;&micro;es.</p>
+<p>Em Portugal, o pre&Atilde;&sect;o das casas ainda n&Atilde;&pound;o desceu, mas penso que todos os sinais est&Atilde;&pound;o c&Atilde;&iexcl;:</p>
+<ol>
+<li>a confian&Atilde;&sect;a dos investidores (vulgo, quase toda a gente investe em casas) continua alt&Atilde;&shy;ssima (&Atilde;&copy; mau sinal quando se come&Atilde;&sect;a a dizer "os pre&Atilde;&sect;os sobem sempre")<br />
+<&#47;li>
+<li>as taxas de juros est&Atilde;&pound;o a iniciar um ciclo ascendente (o primeiro em qu&Atilde;&ordf;, 20 anos?)<br />
+<&#47;li>
+<li>o mercado de arrendamento ressurge (t&Atilde;&shy;mido, mas ressurge)<br />
+<&#47;li>
+<li>o centro das cidades est&Atilde;&iexcl; lentamente a ser recuperado<br />
+<&#47;li>
+<li>a economia n&Atilde;&pound;o est&Atilde;&iexcl; em boom.<br />
+<&#47;li><&#47;ol></p>

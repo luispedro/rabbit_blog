@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase do Dia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1246
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-12
+date: '2008-01-25 03:18:21 -0800'
+date_gmt: '2008-01-25 03:18:21 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 234966
+  author: jhonuniversi
+  author_email: eivmxdysa@gmail.com
+  author_url: http://2004.informingscience.org
+  date: '2008-02-19 19:21:41 -0800'
+  date_gmt: '2008-02-19 19:21:41 -0800'
+  content: then. called turtles personalities. I still pulled I still
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; parece o <a href="http:&#47;&#47;19mesesdepois.blogspot.com&#47;">19 meses depois<&#47;a><&#47;i>:</p>
+<p><cite>My mother's view of cooking was that, if you worked hard, you could find someone to do it for you.<&#47;cite></p>
+<p>Uma convidada no programa <a href="http:&#47;&#47;splendidtable.publicradio.org&#47;">Splendid Table<&#47;a>.</p>

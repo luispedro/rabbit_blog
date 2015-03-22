@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Retratos
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 1014
+wordpress_url: http://blog.luispedro.org/posts/retratos
+date: '2007-06-12 19:13:23 -0700'
+date_gmt: '2007-06-12 19:13:23 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 82539
+  author: Mary North
+  author_email: lgf@lusojurist.pt
+  author_url: ''
+  date: '2007-06-14 14:47:21 -0700'
+  date_gmt: '2007-06-14 14:47:21 -0700'
+  content: '"Autarca" &Atilde;&copy; ant&Atilde;&sup3;nimo de "McJob"'
+---
+<p>1. Os autarcas de Portugal que s&Atilde;&pound;o, como se sabe, conhecidos pelo sentido de honra v&Atilde;&pound;o <a href="http:&#47;&#47;ultimahora.publico.clix.pt&#47;noticia.aspx?id=1296569&idCanal=59">processar Saldanha Sanches<&#47;a> por ataques a essa mesma honra. O fiscalista teve a displic&Atilde;&ordf;ncia de insinuar que h&Atilde;&iexcl; muita corrup&Atilde;&sect;&Atilde;&pound;o nas autarquias.
+<p>2. Margarida Moreira, do DREN, nega <a href="http:&#47;&#47;ultimahora.publico.clix.pt&#47;noticia.aspx?id=1296474&idCanal=undefined">ter proferido gra&Atilde;&sect;ola sobre o primeiro-ministro<&#47;a>. N&Atilde;&pound;o h&Atilde;&iexcl; nada mais t&Atilde;&shy;pico deste<br />
+clima parvo do que ter de negar ter-se dito uma piada sobre o primeiro-ministro.
+<p>3. O Minist&Atilde;&copy;rio da <del>Propaganda<&#47;del> Educa&Atilde;&sect;&Atilde;&pound;o <a href="http:&#47;&#47;ultimahora.publico.clix.pt&#47;noticia.aspx?id=1296510">convidou<&#47;a> a Associa&Atilde;&sect;&Atilde;&pound;o de Professores de Matem&Atilde;&iexcl;tica a abandonar o Plano de Matem&Atilde;&iexcl;tica por terem criticado a ministra.</p>

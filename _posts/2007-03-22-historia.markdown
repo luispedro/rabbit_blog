@@ -1,0 +1,114 @@
+---
+layout: post
+status: publish
+published: true
+title: Hist&Atilde;&sup3;ria
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 919
+wordpress_url: http://blog.luispedro.org/posts/historia
+date: '2007-03-22 02:56:02 -0700'
+date_gmt: '2007-03-22 02:56:02 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 54833
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-03-22 09:35:07 -0700'
+  date_gmt: '2007-03-22 09:35:07 -0700'
+  content: "Sim, mas ent&Atilde;&pound;o, com guerra e apoios estrangeiros (a guerra
+    &Atilde;&copy; apenas uma forma de apoio estrangeiro, pelo que, na pr&Atilde;&iexcl;tica,
+    &Atilde;&copy; quase tudo apoios estrangeiros), qualquer s&Atilde;&shy;tio se
+    pode tornar independente. Como Vital Moreira disse, a Abk&Atilde;&iexcl;zia torna-se
+    independente da Ge&Atilde;&sup3;rgia, a parte Norte de Chipre torna-se independente,
+    etc. Todos esses s&Atilde;&shy;tios t&Atilde;&ordf;m guerra, t&Atilde;&ordf;m
+    apoios estangeiros, e t&Atilde;&ordf;m factos instalados no terreno.\r\n\r\nChega-se
+    assim &Atilde;&nbsp; pol&Atilde;&shy;tica dos factos consumados de Hitler. D&Atilde;&iexcl;-se
+    apoio estrangeiro aos independentistas, se f&Atilde;&acute;r necess&Atilde;&iexcl;rio
+    usa-se as pr&Atilde;&sup3;prias for&Atilde;&sect;as armadas numa invas&Atilde;&pound;o,
+    e depois, ratifica-se a independ&Atilde;&ordf;ncia assim conquistada, com aplauso.\r\n\r\nIsto
+    &Atilde;&copy; pol&Atilde;&shy;tica imperial."
+- id: 193751
+  author: Damares
+  author_email: dammy_rc@hotmail.com
+  author_url: ''
+  date: '2007-11-29 21:00:09 -0800'
+  date_gmt: '2007-11-29 21:00:09 -0800'
+  content: "Quero saber o que kosovo &Atilde;&copy;? ele &Atilde;&copy; um pais uma
+    cidade o que ele &Atilde;&copy;????\r\ntenho q fazer um seminario falando sobre
+    kosovo,mas &Atilde;&plusmn; encontrei nada de concreto!\r\nver se mi manda alguma
+    coisa bem esclaresida"
+- id: 248940
+  author: Markinhos
+  author_email: markinhos502gmail.com
+  author_url: ''
+  date: '2008-03-24 12:33:51 -0700'
+  date_gmt: '2008-03-24 12:33:51 -0700'
+  content: "Para al&Atilde;&copy;m do estatuto da minoria s&Atilde;&copy;rvia remanescente
+    num Kosovo independente, a principal quest&Atilde;&pound;o que a secess&Atilde;&pound;o
+    coloca &Atilde;&copy; a de admitir a altera&Atilde;&sect;&Atilde;&pound;o das
+    fronteiras pol&Atilde;&shy;ticas de um Estado independente por via de separa&Atilde;&sect;&Atilde;&pound;o
+    unilateral de uma parte do seu territ&Atilde;&sup3;rio, pois, ao contr&Atilde;&iexcl;rio
+    dos demais Estados nascidos da fragmenta&Atilde;&sect;&Atilde;&pound;o da antiga
+    Jugosl&Atilde;&iexcl;via, o Kosovo n&Atilde;&pound;o constitu&Atilde;&shy;a uma
+    rep&Atilde;&ordm;blica federada mas sim uma prov&Atilde;&shy;ncia da S&Atilde;&copy;rvia.
+    Aceitando a secess&Atilde;&pound;o do Kosovo, como negar depois igual direito
+    a outros territ&Atilde;&sup3;rios em situa&Atilde;&sect;&Atilde;&pound;o afim,
+    como, por exemplo, a parte s&Atilde;&copy;rvia da B&Atilde;&sup3;snia-Herzegovina,
+    a Transnistria (Mold&Atilde;&iexcl;via), a Abkasia (Ge&Atilde;&sup3;rgia), a parte
+    turca de Chipre, o Kurdist&Atilde;&pound;o (Turquia e Iraque), o Pa&Atilde;&shy;s
+    basco (Espanha), etc. etc.?\r\n\r\nEp&Atilde;&iexcl;, senhores, que vis&Atilde;&pound;o
+    mais a-hist&Atilde;&sup3;rica e completamente legalista (o Kosovo n&Atilde;&pound;o
+    constitu&Atilde;&shy;a uma rep&Atilde;&ordm;blica federada mas sim uma prov&Atilde;&shy;ncia
+    da S&Atilde;&copy;rvia)! Como admitir a secess&Atilde;&pound;o de Angola, pois
+    ao contr&Atilde;&iexcl;rio da &Atilde;\x8Dndia inglesa Angola n&Atilde;&pound;o
+    era uma col&Atilde;&sup3;nia, mas uma prov&Atilde;&shy;ncia ultra-marina? \r\n\r\nH&Atilde;&iexcl;
+    que ter em conta os factos hist&Atilde;&sup3;ricos. A hist&Atilde;&sup3;ria &Atilde;&copy;
+    esta: o Kosovo, num misto de guerra e apoios estrangeiros (inclusiv&Atilde;&copy;
+    dos EUA, coisa que os torna suspeitos), conquistou a independ&Atilde;&ordf;ncia
+    da S&Atilde;&copy;rvia. Agora s&Atilde;&sup3; podemos devolv&Atilde;&ordf;-lo
+    &Atilde;&nbsp; S&Atilde;&copy;rvia (coisa que os Kosovares provavelmente contestariam
+    de arma na m&Atilde;&pound;o) ou aceitar os factos no terreno. \r\n\r\nN&Atilde;&pound;o
+    h&Atilde;&iexcl; pa&Atilde;&shy;ses a-hist&Atilde;&sup3;ricos que conceptualmente
+    t&Atilde;&ordf;m ou n&Atilde;&pound;o direitos (n&Atilde;&pound;o h&Atilde;&iexcl;
+    direitos das na&Atilde;&sect;&Atilde;&micro;es, no abstracto, somentes direitos
+    de Inglaterra, parafraseando Burke). \r\n\r\nA pol&Atilde;&shy;tica, enquanto
+    actividade, n&Atilde;&pound;o &Atilde;&copy; simplesmente uma aplica&Atilde;&sect;&Atilde;&pound;o
+    de conceitos jur&Atilde;&shy;dicos (nem a lei, enquanto actividade, &Atilde;&copy;
+    tal coisa). A pol&Atilde;&shy;tica, sobretudo a internacional, &Atilde;&copy;
+    baseada em ac&Atilde;&sect;&Atilde;&micro;es concretas, hist&Atilde;&sup3;ria
+    concreta. H&Atilde;&iexcl; um Kosovo concreto que &Atilde;&copy;, de facto, separado
+    da S&Atilde;&copy;rvia.\r\n\r\nTags: General\r\n\r\n2 responses so far &acirc;&dagger;&ldquo;\r\n1
+    Lu&Atilde;&shy;s Lavoura &#47;&#47; Mar 22, 2007 at 09:35 \r\n\r\nSim, mas ent&Atilde;&pound;o,
+    com guerra e apoios estrangeiros (a guerra &Atilde;&copy; apenas uma forma de
+    apoio estrangeiro, pelo que, na pr&Atilde;&iexcl;tica, &Atilde;&copy; quase tudo
+    apoios estrangeiros), qualquer s&Atilde;&shy;tio se pode tornar independente.
+    Como Vital Moreira disse, a Abk&Atilde;&iexcl;zia torna-se independente da Ge&Atilde;&sup3;rgia,
+    a parte Norte de Chipre torna-se independente, etc. Todos esses s&Atilde;&shy;tios
+    t&Atilde;&ordf;m guerra, t&Atilde;&ordf;m apoios estangeiros, e t&Atilde;&ordf;m
+    factos instalados no terreno.\r\n\r\nChega-se assim &Atilde;&nbsp; pol&Atilde;&shy;tica
+    dos factos consumados de Hitler. D&Atilde;&iexcl;-se apoio estrangeiro aos independentistas,
+    se f&Atilde;&acute;r necess&Atilde;&iexcl;rio usa-se as pr&Atilde;&sup3;prias
+    for&Atilde;&sect;as armadas numa invas&Atilde;&pound;o, e depois, ratifica-se
+    a independ&Atilde;&ordf;ncia assim conquistada, com aplauso.\r\n\r\nIsto &Atilde;&copy;
+    pol&Atilde;&shy;tica imperial.\r\n2 Damares &#47;&#47; Nov 29, 2007 at 21:00 \r\n\r\nQuero
+    saber o que kosovo &Atilde;&copy;? ele &Atilde;&copy; um pais uma cidade o que
+    ele &Atilde;&copy;????\r\ntenho q fazer um seminario falando sobre kosovo,mas
+    &Atilde;&plusmn; encontrei nada de concreto!\r\nver se mi manda alguma coisa bem
+    esclaresida"
+---
+<p>Na s&Atilde;&copy;rie <i>n&Atilde;&pound;o devia escrever pol&Atilde;&shy;tica depois de uns copitos, sen&Atilde;&pound;o sa&Atilde;&shy; disto<&#47;i>:
+<p>Pergunta o <a href="http:&#47;&#47;causa-nossa.blogspot.com&#47;2007&#47;03&#47;um-direito-secesso.html">Vital Moreira<&#47;a>:</p>
+<blockquote><p>Para al&Atilde;&copy;m do estatuto da minoria s&Atilde;&copy;rvia remanescente num Kosovo independente, a principal quest&Atilde;&pound;o que a secess&Atilde;&pound;o coloca &Atilde;&copy; a de admitir a altera&Atilde;&sect;&Atilde;&pound;o das fronteiras pol&Atilde;&shy;ticas de um Estado independente por via de separa&Atilde;&sect;&Atilde;&pound;o unilateral de uma parte do seu territ&Atilde;&sup3;rio, pois, ao contr&Atilde;&iexcl;rio dos demais Estados nascidos da fragmenta&Atilde;&sect;&Atilde;&pound;o da antiga Jugosl&Atilde;&iexcl;via, o Kosovo n&Atilde;&pound;o constitu&Atilde;&shy;a uma rep&Atilde;&ordm;blica federada mas sim uma prov&Atilde;&shy;ncia da S&Atilde;&copy;rvia. Aceitando a secess&Atilde;&pound;o do Kosovo, como negar depois igual direito a outros territ&Atilde;&sup3;rios em situa&Atilde;&sect;&Atilde;&pound;o afim, como, por exemplo, a parte s&Atilde;&copy;rvia da B&Atilde;&sup3;snia-Herzegovina, a Transnistria (Mold&Atilde;&iexcl;via), a Abkasia (Ge&Atilde;&sup3;rgia), a parte turca de Chipre, o Kurdist&Atilde;&pound;o (Turquia e Iraque), o Pa&Atilde;&shy;s basco (Espanha), etc. etc.?<&#47;blockquote>
+<p>Ep&Atilde;&iexcl;, senhores, que vis&Atilde;&pound;o mais a-hist&Atilde;&sup3;rica e completamente legalista (<cite>o Kosovo n&Atilde;&pound;o constitu&Atilde;&shy;a uma rep&Atilde;&ordm;blica federada mas sim uma prov&Atilde;&shy;ncia da S&Atilde;&copy;rvia<&#47;cite>)! Como admitir a secess&Atilde;&pound;o de Angola, pois ao contr&Atilde;&iexcl;rio da &Atilde;ndia inglesa Angola n&Atilde;&pound;o era uma col&Atilde;&sup3;nia, mas uma prov&Atilde;&shy;ncia ultra-marina?
+<p>H&Atilde;&iexcl; que ter em conta os factos hist&Atilde;&sup3;ricos. A hist&Atilde;&sup3;ria &Atilde;&copy; esta: o Kosovo, num misto de guerra e apoios estrangeiros (inclusiv&Atilde;&copy; dos EUA, coisa que os torna suspeitos), conquistou a independ&Atilde;&ordf;ncia da S&Atilde;&copy;rvia. Agora s&Atilde;&sup3; podemos devolv&Atilde;&ordf;-lo &Atilde;&nbsp; S&Atilde;&copy;rvia (coisa que os Kosovares provavelmente contestariam de arma na m&Atilde;&pound;o) ou aceitar os factos no terreno.
+<p>N&Atilde;&pound;o h&Atilde;&iexcl; pa&Atilde;&shy;ses a-hist&Atilde;&sup3;ricos que conceptualmente t&Atilde;&ordf;m ou n&Atilde;&pound;o direitos (n&Atilde;&pound;o h&Atilde;&iexcl; direitos das na&Atilde;&sect;&Atilde;&micro;es, no abstracto, somentes direitos de Inglaterra, parafraseando Burke).
+<p>A pol&Atilde;&shy;tica, enquanto actividade, n&Atilde;&pound;o &Atilde;&copy; simplesmente uma aplica&Atilde;&sect;&Atilde;&pound;o de conceitos jur&Atilde;&shy;dicos (nem a lei, enquanto actividade, &Atilde;&copy; tal coisa). A pol&Atilde;&shy;tica, sobretudo a internacional, &Atilde;&copy; baseada em ac&Atilde;&sect;&Atilde;&micro;es concretas, hist&Atilde;&sup3;ria concreta. H&Atilde;&iexcl; um Kosovo concreto que &Atilde;&copy;, de facto, separado da S&Atilde;&copy;rvia.</p>

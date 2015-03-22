@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: Lixo
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 976
+wordpress_url: http://blog.luispedro.org/posts/lixo
+date: '2007-05-16 14:47:19 -0700'
+date_gmt: '2007-05-16 14:47:19 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 66617
+  author: Ant&Atilde;&sup3;nioCostaAmaral (
+  author_email: antoniocostaamaral@gmail.com
+  author_url: http://aartedafuga.blogpspot.com
+  date: '2007-05-16 16:28:47 -0700'
+  date_gmt: '2007-05-16 16:28:47 -0700'
+  content: ":D"
+- id: 73074
+  author: Gon&Atilde;&sect;alo
+  author_email: nugomarkes@gmail.com
+  author_url: http://gomanosiva.blogspot.com/
+  date: '2007-05-30 12:17:22 -0700'
+  date_gmt: '2007-05-30 12:17:22 -0700'
+  content: COmo um jornal &Atilde;&iexcl; nem serve para reciclar mas tem fasc&Atilde;&shy;culos
+    do lixo...
+---
+<p>Na s&Atilde;&copy;rie <i>tanta franqueza editorial n&Atilde;&pound;o esperava<&#47;i>:<center><a href='http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;lixo.png' title='Lixo no P&Atilde;&ordm;blico'><img src='http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2007&#47;05&#47;lixo.png' alt='Lixo no P&Atilde;&ordm;blico' &#47;><&#47;a><&#47;center>
+<p>Eu tamb&Atilde;&copy;m achei que o "artigo" do Comiss&Atilde;&iexcl;rio era pura propaganda e n&Atilde;&pound;o percebo, &Atilde;&nbsp;s vezes, porque &Atilde;&copy; que o P&Atilde;&ordm;blico publica estas coisas. O Nuno Pacheco tamb&Atilde;&copy;m n&Atilde;&pound;o costumo ler.
+<p>Mas p&Atilde;&acute;-los numa Sec&Atilde;&sect;&Atilde;&pound;o <cite>Lixo<&#47;cite> parece-me um bocado exagerado....</p>

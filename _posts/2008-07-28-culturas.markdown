@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Culturas
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1367
+wordpress_url: http://blog.luispedro.org/posts/culturas
+date: '2008-07-28 02:30:48 -0700'
+date_gmt: '2008-07-28 02:30:48 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Estava &Atilde;&nbsp; procura de uma t-shirt tory. Fui ao site <a href="http:&#47;&#47;www.conservatives.com">oficial<&#47;a> e cliquei em <cite>Shop<&#47;cite>. Era um linque para uma livraria!</p>
+<p>O <a href="http:&#47;&#47;www.psd.pt">site oficial do PSD<&#47;a> suscita o seguinte aviso (com o firefox 3):</p>
+<p><center><a href='http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2008&#47;07&#47;psd-aviso.png' title='Aviso de Seguran&Atilde;&sect;a'><img src='http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2008&#47;07&#47;psd-aviso.png' alt='Aviso de Seguran&Atilde;&sect;a'  style='max-width: 90%' &#47;><&#47;a><&#47;center></p>

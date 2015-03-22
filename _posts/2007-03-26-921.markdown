@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Licenciatura
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 921
+wordpress_url: http://blog.luispedro.org/posts/921
+date: '2007-03-26 06:49:31 -0700'
+date_gmt: '2007-03-26 06:49:31 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 55702
+  author: Zulu
+  author_email: nuno_c5@yahoo.com
+  author_url: ''
+  date: '2007-03-26 08:39:22 -0700'
+  date_gmt: '2007-03-26 08:39:22 -0700'
+  content: O povo tem do T&Atilde;&copy;cnico tb tem a puta da mania....ainda bem
+    que temo LESI e Pol&Atilde;&shy;meros na U.Minho ( e Medicina ...)
+---
+<p>A hist&Atilde;&sup3;ria da "licenciatura" do primeiro-ministro s&Atilde;&sup3; vem confirmar que nem todas as licenciaturas s&Atilde;&pound;o criadas iguais.</p>
+<p>Dev&Atilde;&shy;amos deixar de acreditar em quaisquer certifica&Atilde;&sect;&Atilde;&micro;es estatais e perceber que uma licenciatura n&Atilde;&pound;o vale mais do que a credibilidade da institui&Atilde;&sect;&Atilde;&pound;o que a passa.</p>
+<p>Uma conversa que me foi relatada, bem antes desta hist&Atilde;&sup3;ria:</p>
+<p>- O sr. A &Atilde;&copy; engenheiro.<br />
+- Engenheiro? Mas &Atilde;&copy; do T&Atilde;&copy;cnico?</p>
+<p>Neste caso, o sr. A &Atilde;&copy; o sr. S&Atilde;&sup3;crates.</p>

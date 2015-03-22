@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Eduqu&Atilde;&ordf;s
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 513
+wordpress_url: http://blog.luispedro.org/?p=513
+date: '2006-06-24 14:57:16 -0700'
+date_gmt: '2006-06-24 14:57:16 -0700'
+categories:
+- educa&Atilde;&sect;&Atilde;&pound;o
+tags: []
+comments: []
+---
+<p>Aparentemente, a pergunta sobre <cite>o que significa a express&Atilde;&pound;o "n&Atilde;&pound;o raras vezes"<&#47;cite> servia para testar a <cite>compreesn&Atilde;&pound;o do papel das componentes do conhecimento lingu&Atilde;&shy;stico na constru&Atilde;&sect;&Atilde;&pound;o dos textos&#47;discursos, demonstrada pela selec&Atilde;&sect;&Atilde;&pound;o da alternativa correcta<&#47;cite> (segundo os <a href="http:&#47;&#47;www.exames.org&#47;enes&#47;2006&#47;1&#47;639.pdf">crit&Atilde;&copy;rios oficiais<&#47;a> de correc&Atilde;&sect;&Atilde;&pound;o)</p>
+<p>E eu que pensava que era para saber se os alunos eram capazes de perceber uma express&Atilde;&pound;o simples.</p>
+<p>H&Atilde;&iexcl; no entanto uma coisa positiva que se pode dizer deste exame nacional do secund&Atilde;&iexcl;rio: teria dado um &Atilde;&sup3;ptimo exame de oitavo ano.</p>

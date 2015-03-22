@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Somague
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1121
+wordpress_url: http://blog.luispedro.org/posts/somague
+date: '2007-08-30 04:21:38 -0700'
+date_gmt: '2007-08-30 04:21:38 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 123798
+  author: RJA
+  author_email: riakrdoalves@gmail.com
+  author_url: ''
+  date: '2007-08-30 14:52:33 -0700'
+  date_gmt: '2007-08-30 14:52:33 -0700'
+  content: "Se fosse honesto, teria escrito que o que aconteceu em Portugal com o
+    verde euf&Atilde;&copy;mia foi uma ac&Atilde;&sect;&Atilde;&pound;o de desobediencia
+    civil, e que nos EUA as pessoas seriam detidas durante o processo, de forma ordeira,
+    apareceriam nos media e apanhariam uma multa. S&Atilde;&sup3;.\r\n\r\n\r\nObrigado"
+- id: 123809
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-08-30 15:15:53 -0700'
+  date_gmt: '2007-08-30 15:15:53 -0700'
+  content: N&Atilde;&pound;o foi uma ac&Atilde;&sect;&Atilde;&pound;o de desobedi&Atilde;&ordf;ncia
+    civil.
+---
+<p>Quando um partido &Atilde;&copy; apanhado a fazer qualquer coisa de ilegal, por aqui nos EUA, h&Atilde;&iexcl; investiga&Atilde;&sect;&Atilde;&micro;es parlamentares, demiss&Atilde;&micro;es, artigos nos jornais, protestos ruidosos da oposi&Atilde;&sect;&Atilde;&pound;o.</p>
+<p>Em Portugal, l&Atilde;&iexcl; se vai falando, aqui e ali, pelos blogues. O PS calado. No PSD, ainda ningu&Atilde;&copy;m se demitiu.</p>
+<p>Diferen&Atilde;&sect;as culturais, suponho eu. (e o facto de n&Atilde;&pound;o termos um parlamento).</p>

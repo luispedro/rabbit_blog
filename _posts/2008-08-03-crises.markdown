@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Crises
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1370
+wordpress_url: http://blog.luispedro.org/posts/crises
+date: '2008-08-03 17:48:39 -0700'
+date_gmt: '2008-08-03 17:48:39 -0700'
+categories:
+- Portugal
+- Economia
+- EUA
+tags: []
+comments: []
+---
+<p>A economia americana est&Atilde;&iexcl; em crise, a maior crise desde o in&Atilde;&shy;cio dos anos 90.</p>
+<p>A economia americana cresceu a uma taxa anualizada de 1.9% no segundo trimestre.</p>
+<p>Qualquer compara&Atilde;&sect;&Atilde;&pound;o com Portugal &Atilde;&copy; demasiado deprimente.</p>

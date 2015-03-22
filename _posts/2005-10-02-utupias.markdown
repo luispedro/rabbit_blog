@@ -1,0 +1,158 @@
+---
+layout: post
+status: publish
+published: true
+title: Utopias
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 176
+wordpress_url: http://blog.luispedro.org/?p=176
+date: '2005-10-02 10:51:30 -0700'
+date_gmt: '2005-10-02 10:51:30 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 1798
+  author: Ana Vicente
+  author_email: ''
+  author_url: http://naperon.blogspot.com/
+  date: '2005-10-02 22:23:44 -0700'
+  date_gmt: '2005-10-02 22:23:44 -0700'
+  content: "A quest&Atilde;&pound;o das UTOPIAS n&Atilde;&pound;o &Atilde;&copy; nova,
+    assim como o paralelismo entre os crimes do nazismo e os do comunismo. Por isso,
+    o teu post n&Atilde;&pound;o me surpreende. Surpreende-me mais que compares guerrilha
+    (como foi a luta do Fidel e do Che) com os crimes de Munique. Na verdade, ao faz&Atilde;&ordf;-lo,
+    est&Atilde;&iexcl;s igualmente a comparar o nazismo &Atilde;&nbsp; guerrrilha
+    de Xanana Gusm&Atilde;&pound;o em Timor, bastante semelhante &Atilde;&nbsp; de
+    Che. \r\n&Atilde;&permil; &Atilde;&sup3;bvio que as pessoas mais \"perigosas\"
+    s&Atilde;&pound;o aqueles que acreditam num mundo melhor e em UTOPIAS. S&Atilde;&pound;o
+    perigosas para o status quo. S&Atilde;&pound;o t&Atilde;&pound;o perigosas como
+    a poesia, na Rep&Atilde;&ordm;blica de Plat&Atilde;&pound;o, porque descontrolam
+    o instalado. \r\nHaja limites. Que se comparem, enfim, os crimes de Hitler aos
+    de Estaline. Mas n&Atilde;&pound;o venhas com compara&Atilde;&sect;&Atilde;&micro;es
+    distorcidas de ideais - o ideal de Hitler passava pelo exterm&Atilde;&shy;nio
+    de judeus, quanto a Estaline duvido at&Atilde;&copy; que tenha tido quaisquer
+    ideais, a anos luz dos de Marx. \r\nAcreditar num mundo melhor, acreditar que
+    &Atilde;&copy; poss&Atilde;&shy;vel mud&Atilde;&iexcl;-lo em direc&Atilde;&sect;&Atilde;&pound;o
+    a uma sociedade ideal (e portanto ut&Atilde;&sup3;pica), n&Atilde;&pound;o &Atilde;&copy;
+    um sinal de ingenuidade, &Atilde;&copy; um sinal de maturidade e de intelig&Atilde;&ordf;ncia.
+    Evidentemente, escolhes os meios para alcan&Atilde;&sect;&Atilde;&iexcl;-lo. E
+    &Atilde;&copy; nessa escolha que quase tudo se define. Matam-se os sonhadores
+    na \"tua\" sociedade perfeita? Mata-se ent&Atilde;&pound;o o humano e qualquer
+    capacidade de pensar e de questionar."
+- id: 1803
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-10-04 11:27:15 -0700'
+  date_gmt: '2005-10-04 11:27:15 -0700'
+  content: "A luta de Munique a que me referia era aquela anterior &Atilde;&nbsp;
+    tomada de poder, que era uma luta de guerrilha nas ruas, com as tropas do partido
+    nacional-socialista, as tropas do partido comunista e a pol&Atilde;&shy;cia.\r\n\r\nA
+    quest&Atilde;&pound;o n&Atilde;&pound;o s&Atilde;&pound;o sequer os meios da luta
+    de guerrilha, mas os objectivos ap&Atilde;&sup3;s a tomada de poder.\r\n\r\nXanana
+    Gusm&Atilde;&pound;o nunca prometeu para&Atilde;&shy;so nenhum, tinha o objectivo
+    principal o da independ&Atilde;&ordf;ncia do pa&Atilde;&shy;s que &Atilde;&copy;
+    um objectivo muito diferente.\r\n\r\nQue a pessoa do Estaline tenha ideais ou
+    n&Atilde;&pound;o, &Atilde;&copy; irrelevante. Que as pessoas que o rodeavam (o
+    rodeavam e apoiavam, at&Atilde;&copy; na Europa ou nos EUA) acreditavam piamente
+    &Atilde;&copy; que &Atilde;&copy; significativo. O problema n&Atilde;&pound;o
+    era a pessoa, mas o sistema que permitia (fomentava) que pessoas destas tivessem
+    todo o poder.\r\n\r\nE sim, as pessoas com ideias totais s&Atilde;&pound;o perigosas
+    (sem aspas). H&Atilde;&iexcl; poucos crimes na Hist&Atilde;&sup3;ria que n&Atilde;&pound;o
+    tenham sido cometidos em nome do Bem.\r\n\r\nTalvez a grande quest&Atilde;&pound;o
+    seja, como diria Hobbes, entre a vers&Atilde;&pound;o bibl&Atilde;&shy;ca <i>Faz
+    aos outros o que queres que te fa&Atilde;&sect;am a ti<&#47;i> e a vers&Atilde;&pound;o
+    hobbesiana <i>N&Atilde;&pound;o fa&Atilde;&sect;as aos outros o que n&Atilde;&pound;o
+    queres que te fa&Atilde;&sect;am a ti<&#47;i>."
+- id: 1804
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-10-04 11:37:38 -0700'
+  date_gmt: '2005-10-04 11:37:38 -0700'
+  content: O terrorismo isl&Atilde;&cent;mico tamb&Atilde;&copy;m luta por uma utopia,
+    seja em Bagdade, em Nova Iorque, em Madrid ou no Bali. A utopia deles passa por
+    nos matar a todos.
+- id: 1805
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-10-04 11:44:39 -0700'
+  date_gmt: '2005-10-04 11:44:39 -0700'
+  content: Podemos n&Atilde;&pound;o concordar com as utopias dos outros (seja uma
+    sociedade pura de mu&Atilde;&sect;ulmanos que cumprem a lei divina ou uma sociedade
+    que concretiza o ideal rom&Atilde;&cent;ntico da sociedade guerreira e vitoriosa,
+    ou uma sociedade em que todos falam esperanto), mas n&Atilde;&pound;o lhes tira
+    o ep&Atilde;&shy;teto de <i>utopia<&#47;i>.
+- id: 1809
+  author: Faustino Rodrigues
+  author_email: ''
+  author_url: ''
+  date: '2005-10-04 22:14:28 -0700'
+  date_gmt: '2005-10-04 22:14:28 -0700'
+  content: "O senhor devia sair mais do meio \"vamos voltar &Atilde;&nbsp; aus&Atilde;&ordf;ncia
+    de modelos sociais da altura do s&Atilde;&copy;culo XIX\" patente na sua bem amada
+    revista \"Atl&Atilde;&cent;ntico\" e das verdades de la palice da ressaca p&Atilde;&sup3;s
+    queda do muro de Berlim e pensar melhor em Utopias. Conceitos banais dos dias
+    de hoje como direito a f&Atilde;&copy;rias, seguro de sa&Atilde;&ordm;de, sal&Atilde;&iexcl;rio
+    m&Atilde;&shy;nimo, contratos de trabalho e tantos que tais, j&Atilde;&iexcl;
+    foram Utopias. Principalmente na Europa industrializada do s&Atilde;&copy;culo
+    XIX. Nessa altura a sua revista era desnecess&Atilde;&iexcl;ria, n&Atilde;&pound;o
+    seria original. N&Atilde;&pound;o generalize em rela&Atilde;&sect;&Atilde;&pound;o
+    &Atilde;&nbsp;s Utopias, h&Atilde;&iexcl; muitas bem poss&Atilde;&shy;veis e sem
+    danos colaterais de maior, n&Atilde;&pound;o se centre na parte da Hist&Atilde;&sup3;ria
+    que lhe d&Atilde;&iexcl; jeito.\r\nDe facto &Atilde;&copy; raro nos dias de hoje
+    ver um jovem como o senhor t&Atilde;&pound;o activo e en&Atilde;&copy;rgico raciocinar
+    e reflectir sobre as causas dos dias de hoje e o futuro que se faz todos os dias.
+    &Atilde;&permil; uma pena ver tanta energia desperdi&Atilde;&sect;ada em trabalho
+    de an&Atilde;&iexcl;lise medi&Atilde;&ordm;cre, &Atilde;&copy; escrever para nada.
+    Arist&Atilde;&sup3;teles trabalhou a l&Atilde;&sup3;gica para evitar fal&Atilde;&iexcl;cias
+    como a que o senhor acaba de fazer.\r\nTenho dito. "
+- id: 1816
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-10-06 13:19:42 -0700'
+  date_gmt: '2005-10-06 13:19:42 -0700'
+  content: "O argumento que suportei &Atilde;&copy; de que um sonho n&Atilde;&pound;o
+    &Atilde;&copy; desculpa para nada. As f&Atilde;&copy;rias pagas podemos discutir
+    noutro dia.\r\n\r\nJ&Atilde;&iexcl; tive mais educa&Atilde;&sect;&Atilde;&pound;o
+    em l&Atilde;&sup3;gica que o senhor imagina, mas n&Atilde;&pound;o se substitui
+    ao bom-senso de se manter a discutir o assunto em quest&Atilde;&pound;o.\r\n\r\nA
+    verdadeira dicotomia (n&Atilde;&pound;o &Atilde;&copy; liberal-interven&Atilde;&sect;&Atilde;&pound;o
+    como escrevia, essa &Atilde;&copy; secund&Atilde;&iexcl;ria) &Atilde;&copy; entre
+    o que Weber chamava <i>moralidade de convic&Atilde;&sect;&Atilde;&pound;o<&#47;i>
+    (aquele que age de forma convicta, com f&Atilde;&copy;, &Atilde;&copy; justo)
+    e <i>moralidade de responsabilidade<&#47;i> (aquele que age de forma a ter resultados
+    positivos nas vidas das pessoas &Atilde;&copy; justo)."
+- id: 1819
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: '2005-10-06 18:37:31 -0700'
+  date_gmt: '2005-10-06 18:37:31 -0700'
+  content: "\"De facto, j&Atilde;&iexcl; ouvi dizer de pessoas que lutaram pelo Mal\"\r\n\r\nEspero
+    que o uso dum conceito teol&Atilde;&sup3;gico, como este (com letra mai&Atilde;&ordm;scula
+    e tudo), pr&Atilde;&sup3;prio de mitos de combate, num blog como o teu, seja apenas
+    uma pequena provoca&Atilde;&sect;&Atilde;&pound;o..."
+- id: 1820
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2005-10-06 18:38:28 -0700'
+  date_gmt: '2005-10-06 18:38:28 -0700'
+  content: Esqueci-me de assinar o post acima.
+---
+<p>Este post &Atilde;&copy; em acrescento ao artigo de Henrique Raposo na Atl&Atilde;&cent;ntico (que se tornou a pessoa que eu leio em primeiro quando abro o meu exemplar e n&Atilde;&pound;o me desiludiu) intitulado <cite>Impunidade Ang&Atilde;&copy;lica do Marxismo e a Realidade Paralela na Europa<&#47;cite>. Um dos seus argumentos (entre outros) &Atilde;&copy; que a ideia de uma <i>utopia<&#47;i> &Atilde;&copy; usada para desculpar todos os abusos dos regimes de inspira&Atilde;&sect;&Atilde;&pound;o marxista. De facto, j&Atilde;&iexcl; ouvi dizer de pessoas que lutaram pelo Mal (pela instaura&Atilde;&sect;&Atilde;&pound;o de regimes totalitaristas ou das FP-25) que lutavam pelo que acreditavam ser o melhor dos mundos. O que &Atilde;&copy; verdade, como &Atilde;&copy; verdade que estas sempre foram as pessoas mais perigosas.</p>
+<p>Para mim, o momento mais marcante do filme <cite>Der Untergang<&#47;cite> (<cite>A Queda<&#47;cite>) &Atilde;&copy; um que penso que fazia parte do <i>trailer<&#47;i> que &Atilde;&copy; o mon&Atilde;&sup3;logo de suic&Atilde;&shy;dio da Frau Goebbels que matou tamb&Atilde;&copy;m todos os filhos antes de se suicidar com o marido.</p>
+<blockquote><p>
+Para mim, um mundo sem o nacional-socialismo &Atilde;&copy; um mundo sem tudo o que h&Atilde;&iexcl; de bom e tudo o que eu sempre amei. &Atilde;&permil; um em que n&Atilde;&pound;o vale a pena viver e &Atilde;&copy; um mundo que eu n&Atilde;&pound;o quero que os meus filhos vejam.<br />
+<&#47;blockquote></p>
+<p>Este discurso (creio que ficcionado, mas cuja for&Atilde;&sect;a cresce sabendo que que actos o acompanharam e sabendo que Frau Goebbels n&Atilde;&pound;o era uma louca isolada, mas que muitas mais pessoas tomaram o mesmo passo do suic&Atilde;&shy;dio para n&Atilde;&pound;o enfrentar o terr&Atilde;&shy;vel <cite>mundo sem o nacional-socialismo<&#47;cite>) mostra aquilo que se esquece tantas vezes: <em>o nacional-solialismo era uma utupia<&#47;em>. As pessoas que lutavam por Hitler (como as que lutavam por Fidel, por Mao) acreditavam que estavam a tornar o mundo melhor, livrando-o dos burgueses (judeus, &Atilde;&copy; de facto quase sin&Atilde;&sup3;nimo. Na URSS, usava-se a express&Atilde;&pound;o <i>cosmopolita<&#47;i> para implicitar <i>judeu<&#47;i>). Estas pessoas, sonharam em Munique como se sonhou na Sierra Madre.</p>

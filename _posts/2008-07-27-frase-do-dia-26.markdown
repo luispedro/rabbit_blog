@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase Do Dia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1365
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-26
+date: '2008-07-27 01:28:33 -0700'
+date_gmt: '2008-07-27 01:28:33 -0700'
+categories:
+- Economia
+tags: []
+comments:
+- id: 366481
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-07-28 18:22:27 -0700'
+  date_gmt: '2008-07-28 18:22:27 -0700'
+  content: A ind&Atilde;&ordm;stria das carruagens obrigou os carros a serem precedidos
+    por um pe&Atilde;&pound;o com uma bandeira vermelha para avisar as pessoas e animais
+    que vinha ai um veiculo perigoso. &Atilde;&permil; parecido com ilegalizar...
+- id: 369792
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2008-07-31 18:04:08 -0700'
+  date_gmt: '2008-07-31 18:04:08 -0700'
+  content: Bem visto.
+---
+<p><cite>My father is fond of saying that if the automobile were invented nowadays, the saddle industry would arrange to have it outlawed.<&#47;cite></p>
+<p><a href="http:&#47;&#47;www.overcomingbias.com&#47;2008&#47;07&#47;should-we-ban-p.html">Eliezer Yudkowsky<&#47;a></p>

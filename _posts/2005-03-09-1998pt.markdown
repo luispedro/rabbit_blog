@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: 1998.pt
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 33
+wordpress_url: http://luispedro.org/blog/?p=33
+date: '2005-03-09 22:11:23 -0800'
+date_gmt: '2005-03-09 22:11:23 -0800'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 71
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: '2005-03-10 05:41:29 -0800'
+  date_gmt: '2005-03-10 05:41:29 -0800'
+  content: para come&Atilde;&sect;ar, parab&Atilde;&copy;ns pelo novo aspecto do teu
+    blogue! agora sim podes dizer mal da apresenta&Atilde;&sect;&Atilde;&pound;o dos
+    outros - s&Atilde;&shy;tios, blogues, pessoas... gosto muito de c&Atilde;&iexcl;
+    vir mas n&Atilde;&pound;o me demoro pelo 'general', como nunca me demorei pelos
+    mosteiros europeus. a prop&Atilde;&sup3;sito, queres ir beber um copo um dia destes?  manso,
+    teu.
+- id: 72
+  author: ana vicente
+  author_email: ''
+  author_url: http://naperon.blogspot.com/
+  date: '2005-03-10 11:03:32 -0800'
+  date_gmt: '2005-03-10 11:03:32 -0800'
+  content: "Pesado, mas bel&Atilde;&shy;ssimo, com interesse apenas para alguns, aqui
+    est&Atilde;&iexcl; um site que recomendo, mesmo n&Atilde;&pound;o tendo qualquer
+    utilidade para mim:\r\nhttp:&#47;&#47;www.musacollective.com&#47;\r\n\r\nFeito
+    por quem percebe de design: o colectivo MUSA (Raquel Viana, Ricardo Alexandre
+    e Paulo Lima).\r\n\r\nUma miss&Atilde;&pound;o, uma paix&Atilde;&pound;o."
+- id: 73
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2005-03-10 14:07:38 -0800'
+  date_gmt: '2005-03-10 14:07:38 -0800'
+  content: "Para mim, o site to beat neste momento &Atilde;&copy;, sem d&Atilde;&ordm;vida
+    <a href=\"http:&#47;&#47;www.lecool.com&#47;_new.php?city=3&amp;idioma=PT\" rel=\"nofollow\">o
+    Le Cool Magazine<&#47;a>. Est&Atilde;&ordm;pidamente simples, leve (sem flash
+    a loading.....), sem anima&Atilde;&sect;&Atilde;&micro;es nem nada que mexa. Apenas
+    o formato horizontal foge ao b&Atilde;&iexcl;sico.\r\n\r\nMas, pura e simplesmente,
+    lindo (e funcional ao contr&Atilde;&iexcl;rio de muitos sites feitos por designers
+    gr&Atilde;&iexcl;ficos).\r\n\r\n(o site tem origem espanhola)."
+---
+<p>Porque &Atilde;&copy; que os sites portugueses s&Atilde;&pound;o t&Atilde;&pound;o maus?</p>
+<p>S&Atilde;&pound;o quase todos p&Atilde;&copy;ssimos com anima&Atilde;&sect;&Atilde;&micro;es por todo o lado e fundos escuros e a p&Atilde;&iexcl;gina completamente cheia de coisas e texto que scrola para cima, para baixo e da direita para a esquerda.</p>
+<p>E nunca encontramos o que queremos e h&Atilde;&iexcl; erros a mais e pensam todos que aquele &Atilde;&copy; o site mais importante do nosso dia e vamos ajustar o monitor para o ver melhor e &Atilde;&copy; preciso adivinhar onde &Atilde;&copy; que s&Atilde;&pound;o aqueles menus que se precisa de destreza do rato....</p>
+<p>Os piores, como n&Atilde;&pound;o podia deixar de ser, s&Atilde;&pound;o os do Estado, e nem <a href="http:&#47;&#47;www.portaldocidadao.pt">o portal do cidad&Atilde;&pound;o<&#47;a> que ao menos parece bonito se safa. Mas os privados, salvas honrosas excep&Atilde;&sect;&Atilde;&micro;es (o <a href="http:&#47;&#47;www.bancobpi.pt&#47;">BPI<&#47;a> parece estar a aprender), s&Atilde;&pound;o tamb&Atilde;&copy;m <a href="http:&#47;&#47;www.tvcabo.pt&#47;Tv&#47;ProgramacaoTv.aspx">muito maus<&#47;a>.</p>
+<p>Um gajo muda do .com (os melhores sites at&Atilde;&copy; costumam ser os .org, vejam a <a href="http:&#47;&#47;www.wikipedia.org&#47;">Wikipedia<&#47;a>) para o .pt e parece que volta a 1998, antes do google.</p>

@@ -1,0 +1,112 @@
+---
+layout: post
+status: publish
+published: true
+title: Mass Man
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 936
+wordpress_url: http://blog.luispedro.org/posts/mass-man
+date: '2007-04-13 09:56:58 -0700'
+date_gmt: '2007-04-13 09:56:58 -0700'
+categories:
+- Liberalismo
+tags: []
+comments:
+- id: 59861
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-04-13 11:21:47 -0700'
+  date_gmt: '2007-04-13 11:21:47 -0700'
+  content: "Exatamente. Esta moralidade era adequada a uma sociedade na qual os homens
+    se sentiam iguais pela sua cultura e pela sua educa&Atilde;&sect;&Atilde;&pound;o.
+    Todos os homens numa sociedade falavam a mesma l&Atilde;&shy;ngua, tinham a mesma
+    religi&Atilde;&pound;o, e eram do mesmo grau educativo. &Atilde;&permil; normal
+    que numa tal sociedade a liberdade fosse vista como secund&Atilde;&iexcl;ria,
+    a solidariedade e a igualdade como principais.\r\n\r\nNa sociedade moderna, pelo
+    contr&Atilde;&iexcl;rio, os homens tendem a ser muito distintos. Numa sociedade
+    moderna, as pessoas t&Atilde;&ordf;m ra&Atilde;&sect;as diferentes, falam l&Atilde;&shy;nguas
+    diferentes, t&Atilde;&ordf;m religi&Atilde;&micro;es diferentes, e, sobretudo,
+    t&Atilde;&ordf;m n&Atilde;&shy;veis educativos muito diferentes. &Atilde;&permil;
+    normal que numa tal sociedade a solidariedade e a igualdade se percam, ou deixem
+    de ser vistas como valores. A liberdade surge ent&Atilde;&pound;o como o valor
+    a preservar. Cada pessoa sente-se menos solid&Atilde;&iexcl;ria com os outros,
+    os quais apercebe como sendo genericamente diferentes de si, e quer acima de tudo
+    ser livre de seguir o seu caminho."
+- id: 59911
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-04-13 21:44:24 -0700'
+  date_gmt: '2007-04-13 21:44:24 -0700'
+  content: "\"Exatamente. Esta moralidade era adequada a uma sociedade na qual os
+    homens se sentiam iguais pela sua cultura e pela sua educa&Atilde;&sect;&Atilde;&pound;o.
+    Todos os homens numa sociedade falavam a mesma l&Atilde;&shy;ngua, tinham a mesma
+    religi&Atilde;&pound;o, e eram do mesmo grau educativo\"\r\n\r\n(...)\r\n\r\n\"Na
+    sociedade moderna, pelo contr&Atilde;&iexcl;rio, os homens tendem a ser muito
+    distintos. Numa sociedade moderna, as pessoas t&Atilde;&ordf;m ra&Atilde;&sect;as
+    diferentes, falam l&Atilde;&shy;nguas diferentes, t&Atilde;&ordf;m religi&Atilde;&micro;es
+    diferentes, e, sobretudo, t&Atilde;&ordf;m n&Atilde;&shy;veis educativos muito
+    diferentes\"\r\n\r\nAcho exactamente o contr&Atilde;&iexcl;rio - nas \"sociedades
+    modernas\" h&Atilde;&iexcl; muito mais semelhan&Atilde;&sect;a de \"estilos de
+    vida\" do que nas \"sociedades tradicionais\": em vez de uns serem licenciados
+    e outros terem a 4&Acirc;&ordf; classe, passa a haver os licenciados e os com
+    o 12&Acirc;&ordm;; os habitantes de Alvor passam a falar com a mesma pronuncia
+    e os mesmo termos que os de Portim&Atilde;&pound;o; os bailes de debutantes e
+    os bailes da sociedade recreativa da aldeia passam a ser substitu&Atilde;&shy;dos
+    pela ida igualit&Atilde;&iexcl;ria &Atilde;&nbsp; discoteca; mesmo as ra&Atilde;&sect;as
+    tendem a \"mulatizar-se\", etc.\r\n\r\nE acho que o que gera esse falado individualismo
+    &Atilde;&copy; exactamente essa menor diferencia&Atilde;&sect;&Atilde;&pound;o
+    de estilos de vida - o que mais une um grupo &Atilde;&copy; a percep&Atilde;&sect;&Atilde;&pound;o
+    da diferen&Atilde;&sect;a face aos outros grupos; logo, h&Atilde;&iexcl; medida
+    que essa diferen&Atilde;&sect;a diminui, a identifica&Atilde;&sect;&Atilde;&pound;o
+    do individuo com o grupo tamb&Atilde;&copy;m diminui."
+- id: 59915
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-04-13 22:37:37 -0700'
+  date_gmt: '2007-04-13 22:37:37 -0700'
+  content: "Quanto ao texto do Oakeshott, como eu n&Atilde;&pound;o sei ao que ele
+    se refere com \"morality of 'anti-individualism'\", n&Atilde;&pound;o posso fazer
+    uma critica sustentada. No entanto, se ele se refere &Atilde;&nbsp;s ideologias
+    \"anti-individualistas\" do s&Atilde;&copy;culo XX, como o socialismo, a democracia-crist&Atilde;&pound;
+    e o fascismo, n&Atilde;&pound;o sei se elas efectivamente ter&Atilde;&pound;o
+    raiz nalgum verdadeiro \"anti-individualismo\" ou se n&Atilde;&pound;o ser&Atilde;&pound;o
+    o resultado de um tipo peculiar de \"individualismo\" (por vezes, talvez ainda
+    mais extremado que o dos liberais).\r\n\r\nP.ex, no caso do socialismo, em larga
+    medida, mais n&Atilde;&pound;o &Atilde;&copy; que o \"individualismo das classes
+    baixas\", isto &Atilde;&copy;, uma ideologia que muitos indiv&Atilde;&shy;duos
+    da \"classe baixa\" adoptaram por uma quest&Atilde;&pound;o de interesse pr&Atilde;&sup3;prio
+    (ali&Atilde;&iexcl;s, os fascistas at&Atilde;&copy; diziam que \"o marxismo era
+    o capitalismo dos oper&Atilde;&iexcl;rios\", e fazendo frequentemente referencia
+    a reais ou supostas origens &Atilde;&copy;tnico-religiosas comuns entre os intelectuais
+    socialistas e os grandes capitalistas).\r\n\r\nAlem disso, na atrac&Atilde;&sect;&Atilde;&pound;o
+    de muita gente, tanto pelo socialismo, como pelo fascismo, acho que ter&Atilde;&iexcl;
+    tido grande import&Atilde;&cent;ncia um tipo \"peculiar\" de individualismo -
+    um individualismo virado para a ideia do individuo fazer algo de \"importante\"
+    em vez se limitar a \"ir e vir do trabalho para casa\", e que esse \"individualismo
+    peculiar\" ter&Atilde;&iexcl; sido uma grande motiva&Atilde;&sect;&Atilde;&pound;o
+    para muita gente se juntar a c&Atilde;&copy;lulas socialistas ou a mil&Atilde;&shy;cias
+    fascistas (e, hoje em dia, para reciclar o lixo) - este par&Atilde;&iexcl;grafo
+    est&Atilde;&iexcl; muito confuso, mas acho que percebem aonde quero chegar.\r\n\r\nClaro,
+    como n&Atilde;&pound;o sei o contexto da passagem do Oakeshott, este post n&Atilde;&pound;o
+    passa de uma pura divaga&Atilde;&sect;&Atilde;&pound;o no vazio."
+- id: 60516
+  author: aLa&Atilde;&shy;de costa
+  author_email: alaideramalhocosta@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2007-04-16 19:46:47 -0700'
+  date_gmt: '2007-04-16 19:46:47 -0700'
+  content: "<em>isto j&Atilde;&iexcl; parece o 19 meses depois<&#47;em>\r\n\r\nahahah!"
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; parece o 19 meses depois<&#47;i>:<br />
+<blockquote>
+<p>Before the end of the nineteenth century, then a morality of 'anti-indivdualism' had been generated in response to the aspirations of the 'mass-man' --- the man unable unable or indisposed to make choices for himself. In this morality, 'security' is preferred to 'liberty', 'solidarity' to 'entreprise' and 'equality' to 'self-determination': every man is recognized as a debtor who owes a debt to 'society' which he can never repay and which is therefore the image of his obligation to the 'collectivity'. And attached to this morality there is an appropriate understanding of the proper constitution and office of government, which we shall later have to consider.
+<p>-- Michael Oakeshott, Reflection on Morality and Politics in Modern Europe<&#47;blockquote></p>

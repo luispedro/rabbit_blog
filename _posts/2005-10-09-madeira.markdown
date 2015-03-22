@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Madeira
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 188
+wordpress_url: http://blog.luispedro.org/?p=188
+date: '2005-10-09 21:13:39 -0700'
+date_gmt: '2005-10-09 21:13:39 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 1891
+  author: AA
+  author_email: antoniocostaamaral@gmail.com
+  author_url: http://aartedafuga.blogspot.com
+  date: '2005-10-11 13:19:39 -0700'
+  date_gmt: '2005-10-11 13:19:39 -0700'
+  content: Pura ironia, &Atilde;&copy; preciso conhecer o homem...
+---
+<p>Alberto Jo&Atilde;&pound;o Jardim abre as suas declara&Atilde;&sect;&Atilde;&micro;es agradecendo a cobertura jornal&Atilde;&shy;stica que teve. Os &Atilde;&sup3;rg&Atilde;&pound;os de comunica&Atilde;&sect;&Atilde;&pound;o da Madeira est&Atilde;&pound;o, pelos vistos, de parab&Atilde;&copy;ns por terem novamente ajudado a eleger o homem. Depois agradece aos militantes.</p>

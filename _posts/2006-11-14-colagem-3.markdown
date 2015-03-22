@@ -1,0 +1,221 @@
+---
+layout: post
+status: publish
+published: true
+title: Colagem
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 727
+wordpress_url: http://blog.luispedro.org/?p=727
+date: '2006-11-14 04:52:49 -0800'
+date_gmt: '2006-11-14 04:52:49 -0800'
+categories:
+- Amea&Atilde;&sect;a &Atilde;&nbsp; Liberdade
+tags: []
+comments:
+- id: 11406
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2006-11-14 09:59:01 -0800'
+  date_gmt: '2006-11-14 09:59:01 -0800'
+  content: Liberdade seria podermos comer c&Atilde;&pound;o assado  ou chop suey de
+    baratas num restaurante apropriado.
+- id: 11424
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-11-14 16:40:18 -0800'
+  date_gmt: '2006-11-14 16:40:18 -0800'
+  content: "\"Gente que nunca comeu uma boa cabidela, &Atilde;&copy; o que &Atilde;&copy;\"\r\n\r\nPara
+    mim, o coment&Atilde;&iexcl;rio de \"nunca comeram <a href=\"http:&#47;&#47;oesturrico.wordpress.com&#47;2006&#47;10&#47;24&#47;galinha-de-cabidela-a-algarvia&#47;\"
+    rel=\"nofollow\">uma boa cabidela<&#47;a>\" aplica-se tanto a quem proibe o sangue
+    na comida como a quem d&Atilde;&iexcl; pr&Atilde;&copy;mios a essa coisa chamada
+    \"arroz de cabidela\"."
+- id: 11447
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-11-14 22:39:46 -0800'
+  date_gmt: '2006-11-14 22:39:46 -0800'
+  content: "Caro Lu&Atilde;&shy;s Lavoura,\r\n\r\nn&Atilde;&pound;o percebi se o seu
+    coment&Atilde;&iexcl;rio era ir&Atilde;&sup3;nico."
+- id: 11449
+  author: aLa&Atilde;&shy;de Costa
+  author_email: ''
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2006-11-14 22:52:49 -0800'
+  date_gmt: '2006-11-14 22:52:49 -0800'
+  content: "luispedro, o Miguel Madeira diz que a cabidela &Atilde;&copy; com batata,
+    <em>as is<&#47;em>!  ;)\r\nN&Atilde;&pound;o h&Atilde;&iexcl; nada com um bom
+    <strong>arroz<&#47;strong> de cabidela &Atilde;&nbsp; minhota, isso sim, &Atilde;&copy;
+    gastronomia :)"
+- id: 11450
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-11-14 23:02:07 -0800'
+  date_gmt: '2006-11-14 23:02:07 -0800'
+  content: "De qualquer maneira, aquele vosso blogue das receitas &Atilde;&copy; um
+    incentivo ao crime, visto que o sangue &Atilde;&copy; um ingrediente proibido
+    ;-)\r\n\r\nEu, cabidela &Atilde;&nbsp; minhota nunca comida, mas concordo que
+    um arroz &Atilde;&nbsp; minhota vale a pena."
+- id: 11496
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2006-11-15 10:00:25 -0800'
+  date_gmt: '2006-11-15 10:00:25 -0800'
+  content: "luispedro\r\n\r\nEu tamb&Atilde;&copy;m n&Atilde;&pound;o sei se o meu
+    coment&Atilde;&iexcl;rio era ir&Atilde;&sup3;nico.\r\n\r\nSe alguem argumenta
+    que n&Atilde;&pound;o devia ser proibido cozinhar com sangue, uma vez que as pessoas
+    t&Atilde;&ordf;m a liberdade de comer o que bem entendem, ent&Atilde;&pound;o
+    pode-se pela mesma l&Atilde;&sup3;gica argumentar que deveria ser permitido aos
+    restaurantes chineses servirem pratos de c&Atilde;&pound;o, baratas, osgas, macacos
+    ou outros animais. Tal como muitos restaurantes portugueses servem r&Atilde;&pound;s
+    ou caracois.\r\n\r\nNa minha vers&Atilde;&pound;o do liberalismo, este deve ser
+    uma teoria adapt&Atilde;&iexcl;vel e pragm&Atilde;&iexcl;tica. Tem que ser temperado
+    por uma adapta&Atilde;&sect;&Atilde;&pound;o &Atilde;&nbsp; sociedade real na
+    qual se insere. Em Portugal, faz sentido proibir c&Atilde;&pound;o e osgas, que
+    s&Atilde;&pound;o coisas que metem nojo &Atilde;&nbsp; imensa maior parte das
+    pessoas - mas n&Atilde;&pound;o a todas, dado que entre n&Atilde;&sup3;s vivem
+    muitos chineses. Mas n&Atilde;&pound;o faz sentido proibir r&Atilde;&pound;s e
+    caracois, embora a muitas pessoa tal coisa tambem meta nojo.\r\n\r\nSangue? N&Atilde;&pound;o
+    sei. Eu prefiro saber que n&Atilde;&pound;o estou a comer tal coisa, nem ver pessoas
+    a com&Atilde;&ordf;-la ao p&Atilde;&copy; de mim."
+- id: 11514
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-11-15 14:32:15 -0800'
+  date_gmt: '2006-11-15 14:32:15 -0800'
+  content: "Eu (que devo ser tudo menos liberal) n&Atilde;&pound;o vejo problema nenhum
+    em se servir baratas e osgas num restaurante, desde que devidamente anunciados
+    como tal.\r\n\r\nJ&Atilde;&iexcl; quanto aos c&Atilde;&pound;es e macacos, j&Atilde;&iexcl;
+    n&Atilde;&pound;o - acho que a proximidade gen&Atilde;&copy;tica (num caso) e
+    os mil&Atilde;&copy;nios de uso como animal de companhia (no outro) d&Atilde;&pound;o-lhes
+    uma esp&Atilde;&copy;cie de direito a s&Atilde;&sup3; serem comidos em ultima
+    inst&Atilde;&cent;ncia (claro que provavelmente isto n&Atilde;&pound;o passa de
+    racionaliza&Atilde;&sect;&Atilde;&pound;o para as minhas emo&Atilde;&sect;&Atilde;&micro;es)."
+- id: 11515
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-11-15 14:34:50 -0800'
+  date_gmt: '2006-11-15 14:34:50 -0800'
+  content: Creio que em Barcelona j&Atilde;&iexcl; existe h&Atilde;&iexcl; algum tempo
+    um restaurante que serve insectos (n&Atilde;&pound;o sei se as baratas em particular
+    v&Atilde;&ordf;m no menu). Agora s&Atilde;&sup3; falta algu&Atilde;&copy;m (Lu&Atilde;&shy;s
+    Lavoura? ;) ) abrir uma franchise em Portugal.
+- id: 11516
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-11-15 14:47:00 -0800'
+  date_gmt: '2006-11-15 14:47:00 -0800'
+  content: "E se for comido c&Atilde;&pound;o numa casa privada, &Atilde;&copy; crime?
+    E macaco?\r\n\r\nE o gato, pode-se comer? Eu argumento que h&Atilde;&iexcl; uma
+    tradi&Atilde;&sect;&Atilde;&pound;o portuguesa de servir gato por lebre :)"
+- id: 11526
+  author: aLa&Atilde;&shy;de Costa
+  author_email: ''
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2006-11-15 17:48:52 -0800'
+  date_gmt: '2006-11-15 17:48:52 -0800'
+  content: "&Acirc;&laquo;<em>aquele vosso blogue das receitas &Atilde;&copy; um incentivo
+    ao crime<&#47;em>&Acirc;&raquo;\r\n\r\nsim, sim,  &Atilde;&copy; realmente um
+    crime, cada vez que penso no controlo que tenho de ter para n&Atilde;&pound;o
+    fazer disparar a balan&Atilde;&sect;a para a direita... e agora com o Natal??
+    uiui ;)\r\n\r\n&Atilde;&sup3; miguel, eu certa vez assisti a uma aula de anatomia,
+    em que estavam a dissecar cad&Atilde;&iexcl;veres, e havia l&Atilde;&iexcl; um
+    lombo com um aspecto....  aquilo no talho era vendido por boa vitela, que era
+    uma categoria. [naturalmente n&Atilde;&pound;o estou a fazer um elogio ao canibalismo,
+    que fique claro. mas a quest&Atilde;&pound;o gen&Atilde;&copy;tica - da proximidade
+    ou n&Atilde;&pound;o - parece-me ser irrelevante, &Atilde;&copy; apenas uma constru&Atilde;&sect;&Atilde;&pound;o
+    etico-moral. n&Atilde;&pound;o me incomodaria nada ir a um restaurante onde se
+    come-se miolos de macaco, mas eu ficar-me-ia por umas batatinhas gratinadas com
+    legumes salteados :p]"
+- id: 11527
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-11-15 17:53:06 -0800'
+  date_gmt: '2006-11-15 17:53:06 -0800'
+  content: "Bem, se o argumento para, havendo alternativas, n&Atilde;&pound;o se comer
+    c&Atilde;&pound;o ou macaco for o respeito pelos \"direitos naturais\" dos macacos
+    e pelos \"direitos adquiridos\" dos c&Atilde;&pound;es, realmente ser&Atilde;&iexcl;
+    t&Atilde;&pound;o \"mau\" comer-se no restaurante ou em casa.\r\n\r\n[Claro que
+    o meu argumento da proximidade gen&Atilde;&copy;tica &Atilde;&copy; muito fraquinho
+    - afinal, os chimpanz&Atilde;&copy;s comem macacos, os lobos comem raposas, os
+    le&Atilde;&micro;es comem chitas, etc.]"
+- id: 11531
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2006-11-15 18:07:42 -0800'
+  date_gmt: '2006-11-15 18:07:42 -0800'
+  content: "\"aquilo no talho era vendido por boa vitela, que era uma categoria.\"\r\n\r\n<a
+    href=\"http:&#47;&#47;www.nytimes.com&#47;2005&#47;09&#47;25&#47;obituaries&#47;24schneebaum.html?ei=5090&amp;en=b6880511cf253c47&amp;ex=1285300800&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=all\"
+    rel=\"nofollow\">Parece que sabe mais a porco.<&#47;a>"
+- id: 11537
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-11-15 18:35:55 -0800'
+  date_gmt: '2006-11-15 18:35:55 -0800'
+  content: "\"E se for comido c&Atilde;&pound;o numa casa privada, &Atilde;&copy;
+    crime? E macaco?\"\r\n\r\nTalvez. C&Atilde;&pound;o obviamente n&Atilde;&pound;o,
+    mas penso que a posse da maior parte dos macacos e muitas outras esp&Atilde;&copy;cies
+    selvagens, quer sejam ou n&Atilde;&pound;o para comer, &Atilde;&copy; ilegal.
+    Ou mais provavelmente, a &Atilde;&ordm;nica forma de os adquirir &Atilde;&copy;
+    por meios ilegais."
+- id: 11642
+  author: rita
+  author_email: ''
+  author_url: ''
+  date: '2006-11-16 22:03:10 -0800'
+  date_gmt: '2006-11-16 22:03:10 -0800'
+  content: E j&Atilde;&iexcl; agora, carne de cavalo?
+- id: 11643
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: ''
+  date: '2006-11-16 22:10:36 -0800'
+  date_gmt: '2006-11-16 22:10:36 -0800'
+  content: "H&Atilde;&iexcl; cavalo &Atilde;&nbsp; venda nos talhos de Portugal, se
+    n&Atilde;&pound;o me engano.\r\n\r\nQuase n&Atilde;&pound;o se come cavalo na
+    cristandade por causa de uma decis&Atilde;&pound;o papal: os cavalos eram precisos
+    na guerra contra os mouros, portanto a base &Atilde;&copy; religiosa, mas ilegal
+    n&Atilde;&pound;o &Atilde;&copy;."
+- id: 254300
+  author: Manuel Saraiva Lopes
+  author_email: ''
+  author_url: ''
+  date: '2008-04-01 00:47:28 -0700'
+  date_gmt: '2008-04-01 00:47:28 -0700'
+  content: Se fossem mas era todos comer na peida, ou comer a peida de outro animal
+    parecido convosco era mais produtivo que andarem a promover a chacina de outros
+    bichos e fazerem disso tema de conversa, arranjem uma vida, ou ent&Atilde;&pound;o
+    pratiquem a intelig&Atilde;&ordf;ncia. Meus gandas cabr&Atilde;&micro;es e putas
+    tambem ha ai algumas!
+- id: 254302
+  author: Manuel Saraiva Lopes
+  author_email: ''
+  author_url: ''
+  date: '2008-04-01 00:51:49 -0700'
+  date_gmt: '2008-04-01 00:51:49 -0700'
+  content: Caso tenham ideias de responder ao coment&Atilde;&iexcl;rio n&Atilde;&pound;o
+    vale a pena porque com toda a certeza n&Atilde;&pound;o voltarei a este site repugnante
+    em que se fala de outros seres como meros objectos e que me parece alguma ceita
+    diab&Atilde;&sup3;lica ou algo do g&Atilde;&copy;nero. Espero s&Atilde;&copy;riamente
+    que se fa&Atilde;&sect;a algo contra estes tipos, e que vos empalem em massa na
+    IC19.
+---
+<p>1. V&Atilde;&shy;tor Sobral venceu um <a href="http:&#47;&#47;dn.sapo.pt&#47;2006&#47;10&#47;03&#47;boa_vida&#47;portugal_vence_concurso_internaciona.html">concurso internacional de culin&Atilde;&iexcl;ria<&#47;a> com um arroz de cabidela. Parab&Atilde;&copy;ns ao chefe!</p>
+<p>2. Pelos vistos, &Atilde;&copy; proibido o uso do <a href="http:&#47;&#47;tsf.sapo.pt&#47;online&#47;vida&#47;interior.asp?id_artigo=TSF174919">sangue como ingrediente<&#47;a>. Para nosso bem.</p>
+<p>Gente que nunca comeu uma boa cabidela, &Atilde;&copy; o que &Atilde;&copy;.</p>

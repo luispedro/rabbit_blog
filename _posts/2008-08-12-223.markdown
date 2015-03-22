@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 22.3%
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1382
+wordpress_url: http://blog.luispedro.org/posts/223
+date: '2008-08-12 17:47:05 -0700'
+date_gmt: '2008-08-12 17:47:05 -0700'
+categories:
+- Economia
+tags: []
+comments: []
+---
+<p>Eu tenho d&Atilde;&ordm;vidas que seja poss&Atilde;&shy;vel medir o PIB formal com tr&Atilde;&ordf;s digitos de precis&Atilde;&pound;o.</p>
+<p>N&Atilde;&pound;o tenho d&Atilde;&ordm;vidas nenhumas que a estimativa do tamanho da economia informal tenha uma margem de erro de alguns pontos percentuais.</p>
+<p>Dizer que a economia informal s&Atilde;&pound;o 22.3% do PIB (um n&Atilde;&ordm;mero repetido por todo o lado) &Atilde;&copy; um disparate, um erro cient&Atilde;&shy;fico em nome do cientificismo. S&Atilde;&pound;o <cite>pouco mais de 20%<&#47;cite> &Atilde;&copy; muito mais correcto.</p>

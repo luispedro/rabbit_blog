@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Carbono
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 889
+wordpress_url: http://blog.luispedro.org/posts/carbono
+date: '2007-03-01 10:54:30 -0800'
+date_gmt: '2007-03-01 10:54:30 -0800'
+categories:
+- Ambiente
+tags: []
+comments: []
+---
+<p>Contrariamente &Atilde;&nbsp; propaganda do <cite>Voc&Atilde;&ordf; pode salvar o mundo se deixar a luz apagada quando est&Atilde;&iexcl; a cagar<&#47;cite>, h&Atilde;&iexcl; muito pouca coisa que voc&Atilde;&ordf; possa fazer para resolver problemas ambientais. Provavelmente, a &Atilde;&ordm;nica coisa que tem um m&Atilde;&shy;nimo de impacto &Atilde;&copy; usar menos o carro diariamente e, mais ainda, andar menos de avi&Atilde;&pound;o (<cite>V&Atilde;&iexcl; para fora c&Atilde;&iexcl; dentro<&#47;cite>: um viagemzita a Cuba no Ver&Atilde;&pound;o podem ser mais CO_2s do que o resto do ano de trabalho).
+<p>Mesmo isso, &Atilde;&copy; capaz de n&Atilde;&pound;o ser t&Atilde;&pound;o eficaz como parece. Como bem nota a <a href="http:&#47;&#47;www.economist.com&#47;blogs&#47;freeexchange&#47;2007&#47;02&#47;the_oscar_win_for_al.cfm">mega mcardle<&#47;a> (provavelmente):<br />
+<blockquote>Energy is a tradable market good.  It is not as if there is some fixed demand for energy, so that by using less carbon-emitting energy, you actually decrease the amount of carbon emitted. <&#47;blockquote>
+<p>Resumindo o argumento: cada vez que eu n&Atilde;&pound;o consumo gasolina, estou simplesmente a baixar o pre&Atilde;&sect;o no mercado internacional levando ao consumo desse litro de gasolina por outra pessoa.
+<p>Contrariamente ao que diz o Al Gore, a polui&Atilde;&sect;&Atilde;&pound;o <strong>&Atilde;&copy; um problema pol&Atilde;&shy;tico<&#47;strong>. Pod&Atilde;&shy;amos acabar com os minist&Atilde;&copy;rios da educa&Atilde;&sect;&Atilde;&pound;o, da sa&Atilde;&ordm;de, da seguran&Atilde;&sect;a social (tudo isso s&Atilde;&pound;o problemas que podiam, pelo menos em princ&Atilde;&shy;pio, ser resolvidos pelo sistema volunt&Atilde;&iexcl;rio, sem o uso da for&Atilde;&sect;a de estado) mas nunca pod&Atilde;&shy;amos acabar com o minist&Atilde;&copy;rio do ambiente. Precisa de uma solu&Atilde;&sect;&Atilde;&pound;o pol&Atilde;&shy;tica, de uso do Poder.
+<p>Mesmo a solu&Atilde;&sect;&Atilde;&pound;o neo-liberal por excel&Atilde;&ordf;ncia, <em>a privatiza&Atilde;&sect;&Atilde;&pound;o do ar<&#47;em> na forma de quotas de emiss&Atilde;&pound;o livremente transaccion&Atilde;&iexcl;veis em mercado aberto &Atilde;&copy; uma solu&Atilde;&sect;&Atilde;&pound;o que necessita de poder para impor o respeito pelos direitos de propriedade. A cria&Atilde;&sect;&Atilde;&pound;o de direitos de propriedade &Atilde;&copy; essencialmente pol&Atilde;&shy;tica (alguns direitos de propriedade podem ser <cite>naturais<&#47;cite>, mas mesmo esses precisam de pol&Atilde;&shy;cia).
+<p>&Atilde;&euro;s vezes quando digo "privatiza&Atilde;&sect;&Atilde;&pound;o do ar" passo logo por anarco-capitalista maluco, mas essa &Atilde;&copy;, mais coisa, menos coisa, a inten&Atilde;&sect;&Atilde;&pound;o por detr&Atilde;&iexcl;s do Protocolo de Quioto, mas este Protocolo raramente &Atilde;&copy; acusado &Atilde;&nbsp; esquerda de ser mais uma inven&Atilde;&sect;&Atilde;&pound;o neo-liberal, estranho n&Atilde;&pound;o &Atilde;&copy;? Sobretudo &Atilde;&copy; estranho porque o modelo de Quioto <strong>&Atilde;&copy;<&#47;strong> uma inven&Atilde;&sect;&Atilde;&pound;o neo-liberal.</p>

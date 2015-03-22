@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: Frase do Dia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1335
+wordpress_url: http://blog.luispedro.org/posts/frase-do-dia-21
+date: '2008-05-27 23:25:36 -0700'
+date_gmt: '2008-05-27 23:25:36 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 317398
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2008-05-28 22:16:01 -0700'
+  date_gmt: '2008-05-28 22:16:01 -0700'
+  content: "\"this is probably the part that takes most of the brains\"\r\n\r\nDuvido.\r\n\r\nSobretudo,
+    se com \"brains\" estivermos pensando sobretudo nas partes mais \"evolu&Atilde;&shy;das\"
+    do c&Atilde;&copy;rebro, como o neo-cortex, mais ligadas ao racioc&Atilde;&shy;nio
+    l&Atilde;&sup3;gico, arrisco-me a dizer que a actividade que os usar&Atilde;&iexcl;
+    menos ser&Atilde;&iexcl; a discuss&Atilde;&pound;o sobre a parte de cada um: &Atilde;&copy;
+    que a ca&Atilde;&sect;ada implica algum racioc&Atilde;&shy;nio l&Atilde;&sup3;gico
+    (descobrir onde est&Atilde;&pound;o os antilopes, planear uma t&Atilde;&iexcl;ctica
+    de ca&Atilde;&sect;a, cada ca&Atilde;&sect;ador tomar decis&Atilde;&micro;es r&Atilde;&iexcl;pidas
+    durante a ca&Atilde;&sect;ada sobre o que fazer em fun&Atilde;&sect;&Atilde;&pound;o
+    da reac&Atilde;&sect;&Atilde;&pound;o dos ant&Atilde;&shy;lopes, etc.).\r\n\r\nPelo
+    contr&Atilde;&iexcl;rio, quando for para decidir quem fica com que parte, quase
+    de certeza que o que interessa v&Atilde;&pound;o ser quest&Atilde;&micro;es como
+    hierarquia grupal, afectividade, etc. (ou seja, a&Atilde;&shy; &Atilde;&copy;
+    que os tra&Atilde;&sect;os mais \"primitivos\" do comportamento reinam) - a raz&Atilde;&pound;o
+    e a l&Atilde;&sup3;gica s&Atilde;&pound;o muito mais &Atilde;&ordm;teis quando
+    se trata de escolher a melhor maneira de atingir um objectivo (neste caso, como
+    apanhar mais ant&Atilde;&shy;lopes) do que para escolher entre objectivos divergentes
+    (neste caso, o desejo de cada membro do cl&Atilde;&pound; ter a maior parte poss&Atilde;&shy;vel
+    de carne).\r\n\r\nModernizando a quest&Atilde;&pound;o - discuss&Atilde;&micro;es
+    sobre qual a forma mais justa de distribuir a riqueza n&Atilde;&pound;o s&Atilde;&pound;o
+    sol&Atilde;&ordm;veis por um processo logico-racional, e tentativas de as resolver
+    pela raz&Atilde;&pound;o (como as de Rawls) s&Atilde;&sup3; convencem os que j&Atilde;&iexcl;
+    est&Atilde;&pound;o convencidos."
+- id: 317432
+  author: luispedro
+  author_email: luis@luispedro.org
+  author_url: http://blog.luispedro.org
+  date: '2008-05-28 23:10:07 -0700'
+  date_gmt: '2008-05-28 23:10:07 -0700'
+  content: "Mas penso que o Miguel est&Atilde;&iexcl; a assumir, a meu ver erradamente,
+    que o c&Atilde;&copy;rebro (a parte mais evolu&Atilde;&shy;da) &Atilde;&copy;
+    um processador l&Atilde;&sup3;gico.\r\n\r\nO que eu penso que a cita&Atilde;&sect;&Atilde;&pound;o
+    indica, que a mim me parece um modelo mais plaus&Atilde;&shy;vel, &Atilde;&copy;
+    que o c&Atilde;&copy;rebro &Atilde;&copy;, antes de mais, um computador social.
+    Ou como diria o velho, o homem &Atilde;&copy; um animal pol&Atilde;&shy;tico.\r\n\r\nPara
+    ca&Atilde;&sect;ar o ant&Atilde;&shy;lope, qualquer tigre faz isso bem melhor
+    do que eu."
+---
+<blockquote>Humans are adapted to chase deer across the savanna, throw spears into them, cook them, and then - this is probably the part that takes most of the brains - cleverly argue that they deserve to receive a larger share of the meat.<&#47;blockquote></p>
+<p><a href="http:&#47;&#47;www.overcomingbias.com&#47;2008&#47;05&#47;my-childhood-ro.html">Overcoming Bias<&#47;a></p>

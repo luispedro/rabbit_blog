@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: A China
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 142
+wordpress_url: http://blog.luispedro.org/?p=142
+date: '2005-09-08 23:37:06 -0700'
+date_gmt: '2005-09-08 23:37:06 -0700'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>A China n&Atilde;&pound;o se tornar&Atilde;&iexcl; numa verdadeira pot&Atilde;&ordf;ncia mundial com sal&Atilde;&iexcl;rios baixos e m&Atilde;&pound;o-de-obra infantil (se fosse assim, Portugal tamb&Atilde;&copy;m seria uma grande pot&Atilde;&ordf;ncia). A China tornar-se-&Atilde;&iexcl; esta pot&Atilde;&ordf;ncia porque est&Atilde;&iexcl; a criar uma rede de universidades ao melhor n&Atilde;&shy;vel mundial.</p>
+<p>Uma universidade chinesa de gest&Atilde;&pound;o tem cursos mistos com o INSEAD (instituto franc&Atilde;&ordf;s de topo) e Wharton (uma das melhores universidades americanas). Isto, tendo sido criada h&Atilde;&iexcl; poucos anos.</p>
+<p>O mesmo se aplica &Atilde;&nbsp; &Atilde;ndia.</p>
+<p>O ranking de universidades mais usado (criado em Xangai, pois claro) ainda classifica muitas universidades europeias no topo por motivos hist&Atilde;&sup3;ricos (a nossa Universidade de Lisboa s&Atilde;&sup3; est&Atilde;&iexcl; na lista das 500s porque tem um N&Atilde;&sup3;bel no curr&Atilde;&shy;culo: Egas Moniz), mas isso n&Atilde;&pound;o chega para atrair os melhores do mundo.</p>

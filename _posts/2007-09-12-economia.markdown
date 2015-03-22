@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: Economia
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1142
+wordpress_url: http://blog.luispedro.org/posts/economia
+date: '2007-09-12 19:56:40 -0700'
+date_gmt: '2007-09-12 19:56:40 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 133802
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-09-12 21:02:24 -0700'
+  date_gmt: '2007-09-12 21:02:24 -0700'
+  content: "\"I don&acirc;&euro;&trade;t really see a fundamental difference between
+    economics and psychology\"\r\n\r\nEu vejo uma grande diferen&Atilde;&sect;a -
+    a economia assume as prefer&Atilde;&ordf;ncias como um dado e estuda quais as
+    melhores estrat&Atilde;&copy;gias para os agentes satisfazerem as suas prefer&Atilde;&ordf;ncias.\r\n\r\nPor
+    outro lado, acho que psicologia estuda as preferencias dos agentes."
+- id: 133805
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-09-12 21:05:32 -0700'
+  date_gmt: '2007-09-12 21:05:32 -0700'
+  content: "Seria mais correcto que tivesse dito \"a economia assume que existem prefer&Atilde;&ordf;ncias
+    e a psicologia estuda essas prefer&Atilde;&ordf;ncias.\"\r\n\r\nMas o trabalho
+    da chamada \"economia experimental\" ou \"economia do comportamento\", classicamente
+    seria mais psicologia.\r\n\r\nA afirma&Atilde;&sect;&Atilde;&pound;o era uma cr&Atilde;&shy;tica
+    e n&Atilde;&pound;o uma descri&Atilde;&sect;&Atilde;&pound;o."
+---
+<p>Num podcast que vale a pena ouvir, <a href="http:&#47;&#47;www.econtalk.org&#47;archives&#47;2007&#47;09&#47;cowen_on_your_i.html">Tyler Cowen<&#47;a> diz <cite>I don't really see a fundamental difference between economics and psychology, they study the same thing. And sociology, too, for that matter. The only differences are historical<&#47;cite>.</p>
+<p>(Citado de mem&Atilde;&sup3;ria, mas o sentido era esse).</p>

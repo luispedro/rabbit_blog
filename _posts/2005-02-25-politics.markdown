@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Politics
+author:
+  display_name: site admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 19
+wordpress_url: http://luispedro.org/blog/?p=19
+date: '2005-02-25 03:43:17 -0800'
+date_gmt: '2005-02-25 03:43:17 -0800'
+categories:
+- General
+- Economy & Politics
+tags: []
+comments: []
+---
+<p>This week's economist reviews <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0099477475&#47;theeconomist02">1 Out of 10: From Downing Street Vision to Classroom Reality<&#47;a>. I haven't read the book, but the review itself start with the following description of politics:</p>
+<blockquote><p>
+POLITICS is about a bunch of articulate, motivated people trying to engage the interest of another, mostly apathetic lot.<br />
+<&#47;blockquote></p>

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Al Gore
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 886
+wordpress_url: http://blog.luispedro.org/posts/al-gore
+date: '2007-02-26 06:04:20 -0800'
+date_gmt: '2007-02-26 06:04:20 -0800'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Al Gore n&Atilde;&pound;o &Atilde;&copy; candidato.
+<p>Noutros anos (2004, em que n&Atilde;&pound;o havia um &Atilde;&ordm;nico candidato minimamente decente), seria um problema. Este ano, nem faz falta.</p>

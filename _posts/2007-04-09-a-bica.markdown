@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: A Bica
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 933
+wordpress_url: http://blog.luispedro.org/posts/a-bica
+date: '2007-04-09 22:34:23 -0700'
+date_gmt: '2007-04-09 22:34:23 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 59487
+  author: CMF
+  author_email: cfernandes81@hotmail.com
+  author_url: http://no-mundo.weblog.com.pt
+  date: '2007-04-10 12:41:37 -0700'
+  date_gmt: '2007-04-10 12:41:37 -0700'
+  content: '&Atilde;&permil; verdade! E &Atilde;&copy; por isso que eu, que gosto
+    tanto de caf&Atilde;&copy;, quase s&Atilde;&sup3; o bebo em casa quando estou
+    em Portugal. Odeio aquelas "bicas" curtas, tiradas sem cuidado, as quais depois
+    devemos beber tamb&Atilde;&copy;m com o desleixo com que s&Atilde;&pound;o servidas:
+    depressa e sem "ritual". As bicas e os cimbalinos s&Atilde;&pound;o os "fast food"
+    dos caf&Atilde;&copy;s!'
+---
+<p>Na s&Atilde;&copy;rie <i>n&Atilde;&pound;o havia mesa no 61c<&#47;i>:</p>
+<p>&Atilde;&permil; h&Atilde;&iexcl;bito dos portugueses de compararem o custo de vida entre pa&Atilde;&shy;ses perguntando o pre&Atilde;&sect;o de um caf&Atilde;&copy;.</p>
+<p>N&Atilde;&pound;o faz sentido nenhum. N&Atilde;&pound;o faz sentido nenhum pela simples raz&Atilde;&pound;o de que um caf&Atilde;&copy; em Portugal <b>n&Atilde;&pound;o &Atilde;&copy; bem o mesmo produto<&#47;b> de um caf&Atilde;&copy; na maioria dos pa&Atilde;&shy;ses.</p>
+<p>Os portugueses quando pedem um caf&Atilde;&copy; tendem a beb&Atilde;&ordf;-lo rapidamente, &Atilde;&nbsp;s vezes at&Atilde;&copy; ao balc&Atilde;&pound;o, ou pelo menos sem ocupar uma mesa por muito tempo. &Atilde;&permil; at&Atilde;&copy; mal-educado pedir uma singela bica (cimbalino para as gentes do Norte) e sentar-se a ler o jornal ou a estudar durante duas horas. &Atilde;&euro;s vezes, os pr&Atilde;&sup3;prios donos do caf&Atilde;&copy; v&Atilde;&ordf;m queixar-se.</p>
+<p>Aqui nos EUA, como em muitos outros locais na Europa, o caf&Atilde;&copy; bebe-se com tempo. A pessoa pede um caf&Atilde;&copy; e senta-se, para ficar. E fica, abre o port&Atilde;&iexcl;til, liga-se ao WiFi do caf&Atilde;&copy; (naturalmente gratu&Atilde;&shy;to), liga o adaptador &Atilde;&nbsp; ficha, e fica a trabalhar. E assim, n&Atilde;&pound;o h&Atilde;&iexcl; mesa no 61c.</p>
+<p>(Experimente-se comparar o pre&Atilde;&sect;o de um ch&Atilde;&iexcl;).</p>

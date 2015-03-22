@@ -1,0 +1,56 @@
+---
+layout: post
+status: publish
+published: true
+title: Obama
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1081
+wordpress_url: http://blog.luispedro.org/posts/obama
+date: '2007-08-08 09:34:45 -0700'
+date_gmt: '2007-08-08 09:34:45 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 115087
+  author: aLa&Atilde;&shy;de Costa
+  author_email: alaideramalhocosta@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2007-08-08 10:24:36 -0700'
+  date_gmt: '2007-08-08 10:24:36 -0700'
+  content: "bem, isto &Atilde;&copy; merchandising do melhor! nada que se compare
+    aos mediocres isqueiros, aventais e bandeirolas que por aqui se fazem!\r\n\r\nentretanto
+    como tens acompanhado as prim&Atilde;&iexcl;rias? algum dos candidatos j&Atilde;&iexcl;
+    passou pela tua zona???\r\n\r\n[e <em>by the way, <a href=\"http:&#47;&#47;fivebrothers.mittromney.com&#47;\"
+    rel=\"nofollow\">i support the romneys<&#47;a><&#47;em>! eles s&Atilde;&pound;o
+    muito mais giros ;) ]"
+- id: 115244
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-08-08 20:22:05 -0700'
+  date_gmt: '2007-08-08 20:22:05 -0700'
+  content: "Isto n&Atilde;&pound;o &Atilde;&copy; merchandising propriamente dito.
+    &Atilde;&permil; uma montra de loja.\r\n\r\n*\r\n\r\nS&Atilde;&sup3; descobri
+    tarde que o Ron Paul tinha c&Atilde;&iexcl; vindo falar (atrav&Atilde;&copy;s
+    de uma fotoc&Atilde;&sup3;pia a P&B numa paragem de autocarro: imagino que se
+    fosse o Obama seria muito mais divulgado)."
+- id: 115333
+  author: aLa&Atilde;&shy;de costa
+  author_email: alaideramalhocosta@gmail.com
+  author_url: http://19mesesdepois.blogspot.com
+  date: '2007-08-09 00:36:27 -0700'
+  date_gmt: '2007-08-09 00:36:27 -0700'
+  content: o ron paul n&Atilde;&pound;o existe! &Atilde;&copy; meramente um fen&Atilde;&sup3;meno
+    pop da internet, um perfeito desconhecido, independentemente do trabalho que tem
+    feito no congresso, o facto &Atilde;&copy; que uma esmagadora maioria dos americanos
+    n&Atilde;&pound;o sabe quem &Atilde;&copy; ron paul.
+---
+<p>&Atilde;&euro; aten&Atilde;&sect;&Atilde;&pound;o da<a href="http:&#47;&#47;19mesesdepois.blogspot.com&#47;">Obama Girl<&#47;a>:</p>
+<p><center><a href='http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2007&#47;08&#47;obama-baby.jpg' title='Obama Baby'><img style="max-width: 80%" src='http:&#47;&#47;blog.luispedro.org&#47;wp-content&#47;uploads&#47;2007&#47;08&#47;obama-baby.jpg' alt='Obama Baby' &#47;><&#47;a><&#47;center></p>

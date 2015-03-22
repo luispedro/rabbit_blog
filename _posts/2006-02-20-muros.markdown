@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: Muros
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 363
+wordpress_url: http://blog.luispedro.org/?p=363
+date: '2006-02-20 16:13:50 -0800'
+date_gmt: '2006-02-20 16:13:50 -0800'
+categories:
+- General
+tags: []
+comments:
+- id: 2790
+  author: Bruno
+  author_email: bmcmartins@megamail.pt
+  author_url: http://ideiateca.blogspot.com
+  date: '2006-02-20 19:21:11 -0800'
+  date_gmt: '2006-02-20 19:21:11 -0800'
+  content: Bem, pode ser argumentado que a pris&Atilde;&pound;o, apesar das grades,
+    da rotina r&Atilde;&shy;gida e das viola&Atilde;&sect;&Atilde;&micro;es no duche
+    colectivo, sempre tem cantina a horas certas e n&Atilde;&pound;o chove l&Atilde;&iexcl;
+    dentro. Se comparas um "muro democr&Atilde;&iexcl;tico" a uma casa protegida,
+    quer dizer que quem est&Atilde;&iexcl; de fora est&Atilde;&iexcl; no passeio da
+    rua- e na rua chove, faz frio e n&Atilde;&pound;o se come l&Atilde;&iexcl; muito
+    bem, quer haja esmolas carit&Atilde;&iexcl;rias ou sopa social.
+---
+<p><a href="http:&#47;&#47;oacidental.blogspot.com&#47;2006&#47;02&#47;ideologia-da-moda-ter-vergonha-do.html">Escreveu<&#47;a> Henrique Raposo:</p>
+<blockquote><p>
+Durante a Guerra-Fria, milh&Atilde;&micro;es de radicais europeus criticavam os EUA e a Europa Ocidental. Gritavam. Cuspiam, at&Atilde;&copy;. Quando faziam excurs&Atilde;&micro;es, ao estilo da escola prim&Atilde;&iexcl;ria para fan&Atilde;&iexcl;ticos, ao leste da Europa, tinham a pretens&Atilde;&pound;o de trazer a boa nova para junto daqueles que viviam as agruras dessa... boa nova. Diziam: &acirc;&euro;&oelig;sim, o comunismo &Atilde;&copy; que &Atilde;&copy; bom&acirc;&euro;. Isto era afirmado perante o espanto dos dissidentes democr&Atilde;&iexcl;ticos como Havel. Estes, ainda incr&Atilde;&copy;dulos, respondiam: &acirc;&euro;&oelig;n&Atilde;&pound;o meus amigos, o comunismo n&Atilde;&pound;o &Atilde;&copy; bom; n&Atilde;&sup3;s queremos o que Suas Excel&Atilde;&ordf;ncias t&Atilde;&ordf;m no outro lado da cortina de ferro&acirc;&euro;. Os tipos amuavam e voltavam para casa. E, apesar de cantarem louvores ao comunismo, estes radicais nunca por l&Atilde;&iexcl; ficavam. Nunca percebi uma coisa: por que n&Atilde;&pound;o ficavam por l&Atilde;&iexcl;? Por que raz&Atilde;&pound;o voltavam para a tal corrupta sociedade capitalista? Seria tudo agente do Comintern? Tudo isto tem um nome em ci&Atilde;&ordf;ncia pol&Atilde;&shy;tica: cuspir no prato onde se come.<br />
+<&#47;blockquote></p>
+<p>e acho que tem raz&Atilde;&pound;o, mas &Atilde;&copy; preciso fazer outra pergunta do que <cite>porque &Atilde;&copy; que n&Atilde;&pound;o ficaram l&Atilde;&iexcl;<&#47;cite> e &Atilde;&copy; a do <cite>porque &Atilde;&copy; que os de l&Atilde;&iexcl; queriam vir para c&Atilde;&iexcl;?<&#47;cite> Porque &Atilde;&nbsp; primeira, o que n&Atilde;&pound;o faltam s&Atilde;&pound;o respostas, cada uma daquelas pessoas tinha raz&Atilde;&micro;es pessoais para ficar (a fam&Atilde;&shy;lia, os amigos, o lugar conhecido); mas porque queriam os outros deixar tudo isto pelo Ocidente? &Atilde;&permil; esta a pergunta.</p>
+<p>Quando a Alemanha de Leste constru&Atilde;&shy;u o muro, devia ter ca&Atilde;&shy;do o manto de legitimidade que era dado ao outro lado. O Ocidente constr&Atilde;&sup3;i muros, &Atilde;&copy; certo, mas quando o faz (seja o muro de seguran&Atilde;&sect;a de Israel, o proposto muro EUA-M&Atilde;&copy;xico, ou o muro que separa a Espanha de Marrocos), f&Atilde;&iexcl;-lo sempre com o intu&Atilde;&shy;to de afastar quem quer entrar. O Muro de Berlim era um muro para impedir os alem&Atilde;&pound;es de sair. Sem querer legitimar os "nossos" muros, h&Atilde;&iexcl;, apesar de tudo, uma diferen&Atilde;&sect;a entre a parede de uma casa que protege e segura quem est&Atilde;&iexcl; dentro e aquela de uma pris&Atilde;&pound;o.</p>

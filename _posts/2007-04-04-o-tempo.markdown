@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: O tempo
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 926
+wordpress_url: http://blog.luispedro.org/posts/o-tempo
+date: '2007-04-04 03:23:27 -0700'
+date_gmt: '2007-04-04 03:23:27 -0700'
+categories:
+- General
+tags: []
+comments:
+- id: 58259
+  author: Lu&Atilde;&shy;s Lavoura
+  author_email: balio@cftp.ist.utl.pt
+  author_url: ''
+  date: '2007-04-04 09:47:47 -0700'
+  date_gmt: '2007-04-04 09:47:47 -0700'
+  content: "&Atilde;&permil;, em Pittsburgh convem ouvir a previs&Atilde;&pound;o
+    meteorol&Atilde;&sup3;gica.\r\n\r\nDevido &Atilde;&nbsp;s duas massas de ar -
+    a canadiana, fria e seca, e a mexicana, quente e h&Atilde;&ordm;mida - que andam
+    para cima e para baixo, a temperatura e a humidade podem variar drasticamente
+    em poucas horas.\r\n\r\nEu em Pittsburgh usava a minha pele como bar&Atilde;&sup3;metro.
+    Antes de vir o frio j&Atilde;&iexcl; eu come&Atilde;&sect;ava a sentir comich&Atilde;&pound;o
+    e eczema, devido &Atilde;&nbsp; crescente secura do ar. Noutras alturas, os problemas
+    de pele desapareciam como por encanto, sempre que o ar h&Atilde;&ordm;mido e quente
+    se come&Atilde;&sect;ava a aproximar."
+- id: 58577
+  author: padeiradealjubarrota
+  author_email: padeiradealjubarrota@sapo.pt
+  author_url: http://www.padeiradealjubarrota.blogs.sapo.pt
+  date: '2007-04-05 23:55:37 -0700'
+  date_gmt: '2007-04-05 23:55:37 -0700'
+  content: Brrrrrrrrrrr!
+---
+<p>S&Atilde;&pound;o onze da noite em Pittsburgh. Est&Atilde;&pound;o 19 graus cent&Atilde;&shy;grados.</p>
+<p>Previs&Atilde;&pound;o para amanh&Atilde;&pound; &Atilde;&nbsp; noite: -1 (menos um), seguida de neve na Quinta-feira.</p>

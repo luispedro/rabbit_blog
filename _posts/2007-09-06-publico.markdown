@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: P&Atilde;&ordm;blico
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1132
+wordpress_url: http://blog.luispedro.org/posts/publico
+date: '2007-09-06 14:23:26 -0700'
+date_gmt: '2007-09-06 14:23:26 -0700'
+categories:
+- Portugal
+tags: []
+comments:
+- id: 128953
+  author: Miguel Madeira
+  author_email: miguelj11@sapo.pt
+  author_url: http://ventosueste.blogspot.com
+  date: '2007-09-07 00:05:30 -0700'
+  date_gmt: '2007-09-07 00:05:30 -0700'
+  content: "\"E j&Atilde;&iexcl; agora, a directiva defendia mesmo as empresas clandestinas
+    (espantar-me-ia muito)?\"\r\n\r\nO artigo dizia \"A entidade patronal de Isabel
+    n&Atilde;&pound;o &Atilde;&copy; uma empresa clandestina, adepta do &acirc;&euro;&oelig;dumping
+    salarial&acirc;&euro;\x9D, defendido na pol&Atilde;&copy;mica Directiva dos Servi&Atilde;&sect;os
+    no Mercado Interno de Bolkestien\", n&Atilde;&pound;o \"A entidade patronal de
+    Isabel n&Atilde;&pound;o &Atilde;&copy; uma empresa clandestina, adepta do &acirc;&euro;&oelig;dumping
+    salarial&acirc;&euro;\x9D, defendida na pol&Atilde;&copy;mica Directiva dos Servi&Atilde;&sect;os
+    no Mercado Interno de Bolkestien\" - &Atilde;&copy; apenas uma letra, mas &Atilde;&copy;
+    a diferen&Atilde;&sect;a entre o artigo alegar que a directiva bolkestein defenderia
+    as empresas clandestinas ou que defenderia o dumping salarial"
+- id: 129003
+  author: site admin
+  author_email: ''
+  author_url: ''
+  date: '2007-09-07 01:09:42 -0700'
+  date_gmt: '2007-09-07 01:09:42 -0700'
+  content: Nesse caso, a segunda v&Atilde;&shy;rgula est&Atilde;&iexcl; a mais.
+---
+<p>No P&Atilde;&scaron;BLICO, um artigo sobre uma portuguesa em Fran&Atilde;&sect;a que quer ganhar mais dinheiro por m&Atilde;&ordf;s, a jornalista diz a certa altura:</p>
+<blockquote><p>A entidade patronal de Isabel n&Atilde;&pound;o &Atilde;&copy; uma empresa clandestina, adepta do "dumping salarial", defendido na pol&Atilde;&copy;mica Directiva dos Servi&Atilde;&sect;os no Mercado Interno de Bolkestien. A entidade patronal de Isabel &Atilde;&copy; o Estado portugu&Atilde;&ordf;s<&#47;blockquote></p>
+<p>Estou habituado a isto no P&Atilde;&ordm;blico online (cujo staff sempre suspeitei ser composto somente de estagi&Atilde;&iexcl;rios) mas n&Atilde;&pound;o no P&Atilde;&ordm;blico propriamente dito.</p>
+<p>Este coment&Atilde;&iexcl;rio n&Atilde;&pound;o tem lugar na sec&Atilde;&sect;&Atilde;&pound;o noticiosa de um jornal que se quer de refer&Atilde;&ordf;ncia: est&Atilde;&pound;o carregados de ideologia na escolha de palavras (dumping salarial?), com erros de ortografia (a directiva, e o comiss&Atilde;&iexcl;rio, chamam-se <cite>Bolkestein<&#47;cite>). Para qu&Atilde;&ordf; falar numa directiva que nem sequer foi aprovada, excepto atirar o osso &Atilde;&nbsp; esquerda nacionalista? E j&Atilde;&iexcl; agora, a directiva defendia mesmo as empresas clandestinas (espantar-me-ia muito)? Isto foi copy&paste dum panfleto do BE? Bem sei que vem a&Atilde;&shy; o Avante, mas calma l&Atilde;&iexcl; nos cavalos.</p>
+<p>Isto digo independemente do conte&Atilde;&ordm;do, discute <a href="http:&#47;&#47;ablasfemia.blogspot.com&#47;2007&#47;09&#47;leituras-estranhas-no-pblico.html">alhures<&#47;a>.</p>

@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Certeiro
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 948
+wordpress_url: http://blog.luispedro.org/posts/certeiro
+date: '2007-04-21 15:47:58 -0700'
+date_gmt: '2007-04-21 15:47:58 -0700'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Jos&Atilde;&copy; Manuel Fernandes, no seu editorial de hoje:<br />
+<blockquote>O CDS define-se como um partido democrata-crist&Atilde;&pound;o --- mas quantos militantes sabem o que &Atilde;&copy; ser crist&Atilde;&pound;o-democrata? Conhecer&Atilde;&pound;o eles a doutrina social da Igreja e que o "modelo social europeu" deve quase tanto &Atilde;&nbsp; democracia crist&Atilde;&pound; como &Atilde;&nbsp; social-democracia?</p>
+<p>...</p>
+<p>O problema da direita (e de uma parte do centro-direita) &Atilde;&copy; que n&Atilde;&pound;o possui refer&Atilde;&ordf;ncias para al&Atilde;&copy;m do mito da autoridade e da vaga oposi&Atilde;&sect;&Atilde;&pound;o ao que lhes parece como demasiado moderno.<&#47;blockquote></p>

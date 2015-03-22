@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Outubro
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 1150
+wordpress_url: http://blog.luispedro.org/posts/outubro
+date: '2007-09-25 09:59:45 -0700'
+date_gmt: '2007-09-25 09:59:45 -0700'
+categories:
+- Portugal
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>isto j&Atilde;&iexcl; parece um blogue<&#47;i>:</p>
+<p>A ler</p>
+<ul>
+<li><a href="http:&#47;&#47;aterceiranoite.wordpress.com&#47;2007&#47;09&#47;09&#47;outubro-1&#47;">Outubro 1<&#47;a><&#47;li></p>
+<li><a href="http:&#47;&#47;aterceiranoite.wordpress.com&#47;2007&#47;09&#47;15&#47;outubro-2&#47;">Outubro 2<&#47;a><&#47;li>
+<li><a href="http:&#47;&#47;aterceiranoite.wordpress.com&#47;2007&#47;09&#47;23&#47;outubro-3&#47;">Outubro 3<&#47;a><&#47;li><br />
+<&#47;ul></p>

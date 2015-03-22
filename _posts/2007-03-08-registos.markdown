@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Registos
+author:
+  display_name: luispedro
+  login: luispedro
+  email: luis@luispedro.org
+  url: ''
+author_login: luispedro
+author_email: luis@luispedro.org
+wordpress_id: 896
+wordpress_url: http://blog.luispedro.org/posts/registos
+date: '2007-03-08 19:51:08 -0800'
+date_gmt: '2007-03-08 19:51:08 -0800'
+categories:
+- General
+tags: []
+comments: []
+---
+<p>Na s&Atilde;&copy;rie <i>ele h&Atilde;&iexcl; com cada uma<&#47;i>:
+<p>Que, segundo os registos, muitos dos leitores v&Atilde;&ordf;m c&Atilde;&iexcl; parar &Atilde;&nbsp; procura de pornografia, j&Atilde;&iexcl; sabia, mas n&Atilde;&pound;o imagino o que procurava o leitor que queria <cite>sexo anal para crist&Atilde;&pound;os<&#47;cite>.
+<p>N&Atilde;&pound;o haver&Atilde;&iexcl; um bom crist&Atilde;&pound;o que me explique?</p>
